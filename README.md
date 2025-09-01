@@ -1,0 +1,2 @@
+# manuscript_certification
+Authomated methodology for scientific manuscripts quality certification
