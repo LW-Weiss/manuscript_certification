@@ -6,4 +6,5 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "docling>=2.48.0",
+    "lightrag-hku>=1.4.7",
 ]
