@@ -4,6 +4,7 @@ https://gitlab.com/crossref/retraction-watch-data/-/blob/main/retraction_watch.c
 """
 import duckdb
 import pandas as pd
+import requests
 from pathlib import Path
 from typing import Optional, List
 from datetime import datetime
@@ -96,13 +97,25 @@ class RetractionDatabase:
         except:
             return None
     
-    def import_csv(self, csv_path: str, force_update: bool = False):
+    def import_csv(self, csv_path: Optional[str] = None, force_update: bool = False):
         """Import data from CSV file to DuckDB."""
-        # Make it import by default from this URL: https://gitlab.com/crossref/retraction-watch-data/-/blob/main/retraction_watch.csv AI!
-        csv_file = Path(csv_path)
+        default_url = "https://gitlab.com/crossref/retraction-watch-data/-/raw/main/retraction_watch.csv"
         
-        if not csv_file.exists():
-            raise FileNotFoundError(f"CSV file not found: {csv_path}")
+        if csv_path is None:
+            # Download from default URL
+            print(f"Downloading data from {default_url}...")
+            response = requests.get(default_url)
+            response.raise_for_status()
+            
+            # Save to temporary file
+            temp_csv = Path("temp_retraction_watch.csv")
+            with open(temp_csv, 'wb') as f:
+                f.write(response.content)
+            csv_file = temp_csv
+        else:
+            csv_file = Path(csv_path)
+            if not csv_file.exists():
+                raise FileNotFoundError(f"CSV file not found: {csv_path}")
         
         # Check if update is needed
         csv_modified = datetime.fromtimestamp(csv_file.stat().st_mtime)
@@ -147,6 +160,10 @@ class RetractionDatabase:
         
         self.conn.executemany(insert_sql, data_tuples)
         print(f"Successfully imported {len(data_tuples)} records.")
+        
+        # Clean up temporary file if we downloaded it
+        if csv_path is None and csv_file.name == "temp_retraction_watch.csv":
+            csv_file.unlink()
     
     def get_record_count(self) -> int:
         """Get the total number of records in the database."""
