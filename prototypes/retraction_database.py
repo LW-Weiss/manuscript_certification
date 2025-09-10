@@ -4,6 +4,7 @@ https://gitlab.com/crossref/retraction-watch-data/-/blob/main/retraction_watch.c
 """
 import duckdb
 import pandas as pd
+import numpy as np
 import requests
 from pathlib import Path
 from typing import Optional, List
@@ -36,7 +37,8 @@ class RetractionRecord(BaseModel):
     urls: Optional[str] = Field(None, alias="URLs")
 
     class Config:
-        allow_population_by_field_name = True
+        validate_by_name = True
+        ser_json_inf_nan="null"
 
 
 class RetractionDatabase:
@@ -104,14 +106,9 @@ class RetractionDatabase:
         if csv_path is None:
             # Download from default URL
             print(f"Downloading data from {default_url}...")
-            response = requests.get(default_url)
-            response.raise_for_status()
-            
-            # Save to temporary file
-            temp_csv = Path("temp_retraction_watch.csv")
-            with open(temp_csv, 'wb') as f:
-                f.write(response.content)
-            csv_file = temp_csv
+            pd.read_csv(default_url).to_csv("temp_retraction_watch.csv.gz", index=False)
+            csv_file = Path("temp_retraction_watch.csv.gz")
+            csv_path = str(csv_file)
         else:
             csv_file = Path(csv_path)
             if not csv_file.exists():
@@ -129,6 +126,7 @@ class RetractionDatabase:
         
         # Read CSV with pandas
         df = pd.read_csv(csv_path)
+        df.replace({pd.NA: None, np.nan: None}, inplace=True)
         
         # Clear existing data
         self.conn.execute("DELETE FROM retractions")
@@ -162,7 +160,7 @@ class RetractionDatabase:
         print(f"Successfully imported {len(data_tuples)} records.")
         
         # Clean up temporary file if we downloaded it
-        if csv_path is None and csv_file.name == "temp_retraction_watch.csv":
+        if csv_path is None and csv_file.name == "temp_retraction_watch.csv.gz":
             csv_file.unlink()
     
     def get_record_count(self) -> int:
@@ -192,7 +190,7 @@ if __name__ == "__main__":
     # Example usage
     with RetractionDatabase() as db:
         # Import CSV data (replace with actual path)
-        # db.import_csv("retraction_watch.csv")
+        db.import_csv()
         
         print(f"Total records: {db.get_record_count()}")
         print(f"Last update: {db.get_last_update()}")
