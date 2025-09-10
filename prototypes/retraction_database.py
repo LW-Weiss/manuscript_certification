@@ -59,6 +59,23 @@ class RetractionDatabase:
             self.conn.close()
             self.conn = None
     
+    def head(self, n: int = 5) -> pd.DataFrame:
+        """Return the first n records from the retractions table."""
+        if self.conn is None:
+            self.connect()
+        df = self.conn.execute(f"SELECT * FROM retractions LIMIT {n};").df()
+        self.disconnect()
+        return df
+    
+    
+    def query(self, sql: str) -> pd.DataFrame:
+        """Execute a SQL query and return the results as a DataFrame."""
+        if self.conn is None:
+            self.connect()
+        df = self.conn.execute(sql).df()
+        self.disconnect()
+        return df
+    
     def _create_table_if_not_exists(self):
         """Create the retractions table if it doesn't exist."""
         create_table_sql = """
