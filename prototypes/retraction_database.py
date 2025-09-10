@@ -98,6 +98,7 @@ class RetractionDatabase:
     
     def import_csv(self, csv_path: str, force_update: bool = False):
         """Import data from CSV file to DuckDB."""
+        # Make it import by default from this URL: https://gitlab.com/crossref/retraction-watch-data/-/blob/main/retraction_watch.csv AI!
         csv_file = Path(csv_path)
         
         if not csv_file.exists():
