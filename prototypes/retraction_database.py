@@ -3,7 +3,6 @@ Extracts and updates a duckdb database based on the data From Retraction Watch:
 https://gitlab.com/crossref/retraction-watch-data/-/blob/main/retraction_watch.csv
 """
 import duckdb
-import pandas as pd
 import requests
 from pathlib import Path
 from typing import Optional, List
@@ -111,59 +110,72 @@ class RetractionDatabase:
             temp_csv = Path("temp_retraction_watch.csv")
             with open(temp_csv, 'wb') as f:
                 f.write(response.content)
-            csv_file = temp_csv
+            csv_source = str(temp_csv)
         else:
             csv_file = Path(csv_path)
             if not csv_file.exists():
                 raise FileNotFoundError(f"CSV file not found: {csv_path}")
+            csv_source = csv_path
         
-        # Check if update is needed
-        csv_modified = datetime.fromtimestamp(csv_file.stat().st_mtime)
-        last_update = self.get_last_update()
+        # Check if update is needed (only for local files)
+        if csv_path is not None:
+            csv_modified = datetime.fromtimestamp(Path(csv_path).stat().st_mtime)
+            last_update = self.get_last_update()
+            
+            if not force_update and last_update and csv_modified <= last_update:
+                print("Database is up to date. No import needed.")
+                return
         
-        if not force_update and last_update and csv_modified <= last_update:
-            print("Database is up to date. No import needed.")
-            return
-        
-        print(f"Importing data from {csv_path}...")
-        
-        # Read CSV with pandas
-        df = pd.read_csv(csv_path)
+        print(f"Importing data from {csv_source}...")
         
         # Clear existing data
         self.conn.execute("DELETE FROM retractions")
         
-        # Insert new data
-        insert_sql = """
+        # Import CSV directly using DuckDB's read_csv function
+        import_sql = f"""
         INSERT INTO retractions (
             record_id, title, subject, institution, journal, publisher,
             country, author, article_type, retraction_date, retraction_doi,
             retraction_pmid, retraction_nature, reason, paywalled,
             original_paper_date, original_paper_doi, original_paper_pmid,
             original_paper_pmcid, notes, urls, last_updated
-        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP)
+        )
+        SELECT 
+            "Record ID"::INTEGER,
+            "Title",
+            "Subject", 
+            "Institution",
+            "Journal",
+            "Publisher",
+            "Country",
+            "Author",
+            "ArticleType",
+            "RetractionDate",
+            "RetractionDOI",
+            "RetractionPMID",
+            "RetractionNature",
+            "Reason",
+            "Paywalled",
+            "OriginalPaperDate",
+            "OriginalPaperDOI",
+            "OriginalPaperPMID",
+            "OriginalPaperPMCID",
+            "Notes",
+            "URLs",
+            CURRENT_TIMESTAMP
+        FROM read_csv_auto('{csv_source}')
         """
         
-        # Convert DataFrame to list of tuples for insertion
-        data_tuples = []
-        for _, row in df.iterrows():
-            record = RetractionRecord(**row.to_dict())
-            data_tuples.append((
-                record.record_id, record.title, record.subject, record.institution,
-                record.journal, record.publisher, record.country, record.author,
-                record.article_type, record.retraction_date, record.retraction_doi,
-                record.retraction_pmid, record.retraction_nature, record.reason,
-                record.paywalled, record.original_paper_date, record.original_paper_doi,
-                record.original_paper_pmid, record.original_paper_pmcid, record.notes,
-                record.urls
-            ))
+        self.conn.execute(import_sql)
         
-        self.conn.executemany(insert_sql, data_tuples)
-        print(f"Successfully imported {len(data_tuples)} records.")
+        # Get count of imported records
+        count_result = self.conn.execute("SELECT COUNT(*) FROM retractions").fetchone()
+        record_count = count_result[0] if count_result else 0
+        print(f"Successfully imported {record_count} records.")
         
         # Clean up temporary file if we downloaded it
-        if csv_path is None and csv_file.name == "temp_retraction_watch.csv":
-            csv_file.unlink()
+        if csv_path is None and Path("temp_retraction_watch.csv").exists():
+            Path("temp_retraction_watch.csv").unlink()
     
     def get_record_count(self) -> int:
         """Get the total number of records in the database."""
