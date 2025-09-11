@@ -3,9 +3,11 @@ Extracts and updates a duckdb database based on the data From Retraction Watch:
 https://gitlab.com/crossref/retraction-watch-data/-/blob/main/retraction_watch.csv
 """
 import duckdb
+import numpy as np
 from pathlib import Path
 from typing import Optional, List
 from datetime import datetime
+        ser_json_inf_nan="null"
 
 
 class RetractionDatabase:
@@ -26,6 +28,23 @@ class RetractionDatabase:
         if self.conn:
             self.conn.close()
             self.conn = None
+    
+    def head(self, n: int = 5) -> pd.DataFrame:
+        """Return the first n records from the retractions table."""
+        if self.conn is None:
+            self.connect()
+        df = self.conn.execute(f"SELECT * FROM retractions LIMIT {n};").df()
+        self.disconnect()
+        return df
+    
+    
+    def query(self, sql: str) -> pd.DataFrame:
+        """Execute a SQL query and return the results as a DataFrame."""
+        if self.conn is None:
+            self.connect()
+        df = self.conn.execute(sql).df()
+        self.disconnect()
+        return df
     
     def get_last_update(self) -> Optional[datetime]:
         """Get the timestamp of the last database update."""
@@ -49,7 +68,7 @@ class RetractionDatabase:
             print(f"Downloading data from {default_url}...")
             self.conn.execute("DELETE FROM retractions")
             self.conn.execute(f'CREATE TABLE retractions AS SELECT * FROM read_csv({default_url});')
-            
+            csv_path = str(csv_file)
         else:
             csv_file = Path(csv_path)
             if not csv_file.exists():
@@ -58,6 +77,7 @@ class RetractionDatabase:
         
         
             print(f"Importing data from {csv_source}...")
+        df.replace({pd.NA: None, np.nan: None}, inplace=True)
             
             # Clear existing data
             self.conn.execute("DELETE FROM retractions")
@@ -109,7 +129,7 @@ if __name__ == "__main__":
     # Example usage
     with RetractionDatabase() as db:
         # Import CSV data (replace with actual path)
-        # db.import_csv("retraction_watch.csv")
+        db.import_csv()
         
         print(f"Total records: {db.get_record_count()}")
         print(f"Last update: {db.get_last_update()}")
