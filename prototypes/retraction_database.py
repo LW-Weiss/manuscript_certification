@@ -3,11 +3,11 @@ Extracts and updates a duckdb database based on the data From Retraction Watch:
 https://gitlab.com/crossref/retraction-watch-data/-/blob/main/retraction_watch.csv
 """
 import duckdb
-import numpy as np
+import pandas as pd
 from pathlib import Path
 from typing import Optional, List
 from datetime import datetime
-        ser_json_inf_nan="null"
+
 
 
 class RetractionDatabase:
@@ -46,15 +46,25 @@ class RetractionDatabase:
         self.disconnect()
         return df
     
-    def get_last_update(self) -> Optional[datetime]:
-        """Get the timestamp of the last database update."""
-        try:
-            result = self.conn.execute(
-                "SELECT MAX(last_updated) FROM retractions"
-            ).fetchone()
-            return result[0] if result and result[0] else None
-        except:
-            return None
+    def search(self, q:str) -> pd.DataFrame:
+        if self.conn is None:
+            self.connect()
+        q_sql=f"""
+        SELECT *
+        FROM (
+            SELECT *, fts_main_retractions.match_bm25(
+                "Record Id",
+                '{q}'
+            ) AS score
+            FROM retractions
+        ) sq
+        WHERE score IS NOT NULL
+        ORDER BY score DESC;
+        """
+        df = self.conn.execute(q_sql).df()
+        self.disconnect()
+        return df
+        
     
     def import_csv(self, csv_path: Optional[str] = None, force_update: bool = False):
         """Import data from CSV file to DuckDB."""
@@ -66,9 +76,9 @@ class RetractionDatabase:
         if csv_path is None:
             # Download from default URL
             print(f"Downloading data from {default_url}...")
-            self.conn.execute("DELETE FROM retractions")
-            self.conn.execute(f'CREATE TABLE retractions AS SELECT * FROM read_csv({default_url});')
-            csv_path = str(csv_file)
+            self.conn.execute("DROP TABLE IF EXISTS retractions;SET scalar_subquery_error_on_multiple_rows=false")
+            self.conn.execute(f'CREATE TABLE retractions AS SELECT * FROM read_csv("{default_url}", header=true, union_by_name=true);')
+    
         else:
             csv_file = Path(csv_path)
             if not csv_file.exists():
@@ -77,10 +87,9 @@ class RetractionDatabase:
         
         
             print(f"Importing data from {csv_source}...")
-        df.replace({pd.NA: None, np.nan: None}, inplace=True)
             
             # Clear existing data
-            self.conn.execute("DELETE FROM retractions")
+            self.conn.execute("DROP TABLE IF EXISTS retractions")
             
             # Import CSV directly using DuckDB's read_csv function
             import_sql = f"""
@@ -92,7 +101,7 @@ class RetractionDatabase:
             
         # criando índice para busca de texto completo
         self.conn.execute("""
-                          PRAGMA create_fts_index('retractions', 'record_id', 'title','subject','institution','subject','author')
+                          PRAGMA create_fts_index('retractions', 'Record Id', 'Title','Subject','Institution','Subject','Author', 'Reason', overwrite=1)
                           """)
         
         # Get count of imported records
@@ -104,18 +113,11 @@ class RetractionDatabase:
     
     def get_record_count(self) -> int:
         """Get the total number of records in the database."""
+        if self.conn is None:
+            self.connect()
         result = self.conn.execute("SELECT COUNT(*) FROM retractions").fetchone()
         return result[0] if result else 0
     
-    def search_by_journal(self, journal_name: str) -> List[dict]:
-        """Search retractions by journal name."""
-        result = self.conn.execute(
-            "SELECT * FROM retractions WHERE journal ILIKE ?",
-            [f"%{journal_name}%"]
-        ).fetchall()
-        
-        columns = [desc[0] for desc in self.conn.description]
-        return [dict(zip(columns, row)) for row in result]
     
     def __enter__(self):
         self.connect()
@@ -132,4 +134,4 @@ if __name__ == "__main__":
         db.import_csv()
         
         print(f"Total records: {db.get_record_count()}")
-        print(f"Last update: {db.get_last_update()}")
+        
