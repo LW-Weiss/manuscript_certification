@@ -3,39 +3,9 @@ Extracts and updates a duckdb database based on the data From Retraction Watch:
 https://gitlab.com/crossref/retraction-watch-data/-/blob/main/retraction_watch.csv
 """
 import duckdb
-import requests
 from pathlib import Path
 from typing import Optional, List
 from datetime import datetime
-from pydantic import BaseModel, Field
-
-
-class RetractionRecord(BaseModel):
-    """Pydantic model representing a retraction record from Retraction Watch CSV."""
-    record_id: Optional[int] = Field(None, alias="Record ID")
-    title: Optional[str] = Field(None, alias="Title")
-    subject: Optional[str] = Field(None, alias="Subject")
-    institution: Optional[str] = Field(None, alias="Institution")
-    journal: Optional[str] = Field(None, alias="Journal")
-    publisher: Optional[str] = Field(None, alias="Publisher")
-    country: Optional[str] = Field(None, alias="Country")
-    author: Optional[str] = Field(None, alias="Author")
-    article_type: Optional[str] = Field(None, alias="ArticleType")
-    retraction_date: Optional[str] = Field(None, alias="RetractionDate")
-    retraction_doi: Optional[str] = Field(None, alias="RetractionDOI")
-    retraction_pmid: Optional[str] = Field(None, alias="RetractionPMID")
-    retraction_nature: Optional[str] = Field(None, alias="RetractionNature")
-    reason: Optional[str] = Field(None, alias="Reason")
-    paywalled: Optional[str] = Field(None, alias="Paywalled")
-    original_paper_date: Optional[str] = Field(None, alias="OriginalPaperDate")
-    original_paper_doi: Optional[str] = Field(None, alias="OriginalPaperDOI")
-    original_paper_pmid: Optional[str] = Field(None, alias="OriginalPaperPMID")
-    original_paper_pmcid: Optional[str] = Field(None, alias="OriginalPaperPMCID")
-    notes: Optional[str] = Field(None, alias="Notes")
-    urls: Optional[str] = Field(None, alias="URLs")
-
-    class Config:
-        allow_population_by_field_name = True
 
 
 class RetractionDatabase:
@@ -48,43 +18,14 @@ class RetractionDatabase:
     def connect(self):
         """Connect to DuckDB database."""
         self.conn = duckdb.connect(str(self.db_path))
-        self._create_table_if_not_exists()
+        self.conn.execute("install fts;load fts;")
+        # self._create_table_if_not_exists()
     
     def disconnect(self):
         """Disconnect from DuckDB database."""
         if self.conn:
             self.conn.close()
             self.conn = None
-    
-    def _create_table_if_not_exists(self):
-        """Create the retractions table if it doesn't exist."""
-        create_table_sql = """
-        CREATE TABLE IF NOT EXISTS retractions (
-            record_id INTEGER,
-            title TEXT,
-            subject TEXT,
-            institution TEXT,
-            journal TEXT,
-            publisher TEXT,
-            country TEXT,
-            author TEXT,
-            article_type TEXT,
-            retraction_date TEXT,
-            retraction_doi TEXT,
-            retraction_pmid TEXT,
-            retraction_nature TEXT,
-            reason TEXT,
-            paywalled TEXT,
-            original_paper_date TEXT,
-            original_paper_doi TEXT,
-            original_paper_pmid TEXT,
-            original_paper_pmcid TEXT,
-            notes TEXT,
-            urls TEXT,
-            last_updated TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-        )
-        """
-        self.conn.execute(create_table_sql)
     
     def get_last_update(self) -> Optional[datetime]:
         """Get the timestamp of the last database update."""
@@ -100,82 +41,46 @@ class RetractionDatabase:
         """Import data from CSV file to DuckDB."""
         default_url = "https://gitlab.com/crossref/retraction-watch-data/-/raw/main/retraction_watch.csv"
         
+        if self.conn is None:
+            self.connect()
+        
         if csv_path is None:
             # Download from default URL
             print(f"Downloading data from {default_url}...")
-            response = requests.get(default_url)
-            response.raise_for_status()
+            self.conn.execute("DELETE FROM retractions")
+            self.conn.execute(f'CREATE TABLE retractions AS SELECT * FROM read_csv({default_url});')
             
-            # Save to temporary file
-            temp_csv = Path("temp_retraction_watch.csv")
-            with open(temp_csv, 'wb') as f:
-                f.write(response.content)
-            csv_source = str(temp_csv)
         else:
             csv_file = Path(csv_path)
             if not csv_file.exists():
                 raise FileNotFoundError(f"CSV file not found: {csv_path}")
             csv_source = csv_path
         
-        # Check if update is needed (only for local files)
-        if csv_path is not None:
-            csv_modified = datetime.fromtimestamp(Path(csv_path).stat().st_mtime)
-            last_update = self.get_last_update()
+        
+            print(f"Importing data from {csv_source}...")
             
-            if not force_update and last_update and csv_modified <= last_update:
-                print("Database is up to date. No import needed.")
-                return
-        
-        print(f"Importing data from {csv_source}...")
-        
-        # Clear existing data
-        self.conn.execute("DELETE FROM retractions")
-        
-        # Import CSV directly using DuckDB's read_csv function
-        import_sql = f"""
-        INSERT INTO retractions (
-            record_id, title, subject, institution, journal, publisher,
-            country, author, article_type, retraction_date, retraction_doi,
-            retraction_pmid, retraction_nature, reason, paywalled,
-            original_paper_date, original_paper_doi, original_paper_pmid,
-            original_paper_pmcid, notes, urls, last_updated
-        )
-        SELECT 
-            "Record ID"::INTEGER,
-            "Title",
-            "Subject", 
-            "Institution",
-            "Journal",
-            "Publisher",
-            "Country",
-            "Author",
-            "ArticleType",
-            "RetractionDate",
-            "RetractionDOI",
-            "RetractionPMID",
-            "RetractionNature",
-            "Reason",
-            "Paywalled",
-            "OriginalPaperDate",
-            "OriginalPaperDOI",
-            "OriginalPaperPMID",
-            "OriginalPaperPMCID",
-            "Notes",
-            "URLs",
-            CURRENT_TIMESTAMP
-        FROM read_csv_auto('{csv_source}')
-        """
-        
-        self.conn.execute(import_sql)
+            # Clear existing data
+            self.conn.execute("DELETE FROM retractions")
+            
+            # Import CSV directly using DuckDB's read_csv function
+            import_sql = f"""
+            f'CREATE TABLE retractions AS 
+            SELECT * FROM read_csv({default_url});
+            """
+            
+            self.conn.execute(import_sql)
+            
+        # criando índice para busca de texto completo
+        self.conn.execute("""
+                          PRAGMA create_fts_index('retractions', 'record_id', 'title','subject','institution','subject','author')
+                          """)
         
         # Get count of imported records
         count_result = self.conn.execute("SELECT COUNT(*) FROM retractions").fetchone()
         record_count = count_result[0] if count_result else 0
         print(f"Successfully imported {record_count} records.")
+        self.disconnect()
         
-        # Clean up temporary file if we downloaded it
-        if csv_path is None and Path("temp_retraction_watch.csv").exists():
-            Path("temp_retraction_watch.csv").unlink()
     
     def get_record_count(self) -> int:
         """Get the total number of records in the database."""
