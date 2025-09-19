@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ metadata.title }}</title>
+    <style>
+        body {
+            font-family: 'Times New Roman', Times, serif;
+            line-height: 1.6;
+            margin: 40px;
+        }
+        h1 {
+            font-size: 24px;
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+        }
+        h2 {
+            font-size: 20px;
+            color: #34495e;
+            margin-top: 30px;
+            border-bottom: 1px solid #bdc3c7;
+            padding-bottom: 5px;
+        }
+        h3 {
+            font-size: 18px;
+            color: #34495e;
+            margin-top: 25px;
+        }
+        .meta-info, .keywords-list {
+            font-size: 14px;
+            color: #7f8c8d;
+            margin-bottom: 20px;
+        }
+        .keywords-list {
+            font-style: italic;
+        }
+        .text-block {
+            text-align: justify;
+            font-size: 16px;
+        }
+        .section-paragraph {
+            margin-bottom: 1em;
+        }
+        .references-list {
+            padding-left: 20px;
+            font-size: 14px;
+        }
+        .references-list li {
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+<body>
+
+    {# --- Seção de Metadados --- #}
+    <h1>{{ metadata.title }}</h1>
+    <div class="meta-info">
+        <p>
+            <strong>Autores:</strong>
+            {% for author in metadata.authors %}
+                {{ author.first }} {{ author.last }}{% if not loop.last %}, {% endif %}
+            {% endfor %}
+        </p>
+        <p><strong>Ano:</strong> {{ metadata.pub_year }} | <strong>DOI:</strong> <a href="https://doi.org/{{ metadata.doi }}">{{ metadata.doi }}</a></p>
+    </div>
+    <hr>
+
+    {# --- Seção de Palavras-chave --- #}
+    <h2>Palavras-chave</h2>
+    <p class="keywords-list">
+        {{ metadata.keywords | join(', ') }}
+    </p>
+    <hr>
+
+    {# --- Seção do Resumo --- #}
+    <h2>Resumo (Abstract)</h2>
+    <p class="text-block">
+        {{ abstract if abstract else 'Resumo não disponível.' }}
+    </p>
+
+    {# --- Seção do Corpo do Texto --- #}
+    <h2>Corpo do Texto</h2>
+    <div class="text-block">
+        {% for group in body_text | groupby('title') %}
+            <h3>{{ group.grouper }}</h3>
+            {% for item in group.list %}
+                <p class="section-paragraph">{{ item.sentence }}</p>
+            {% endfor %}
+        {% endfor %}
+    </div>
+
+    {# --- Seção das Referências --- #}
+    <hr>
+    <h2>Referências</h2>
+    <ol class="references-list">
+        {% for ref_data in bib_entries.values() %}
+            {% if ref_data %}
+                <li>
+                    <strong>Artigo:</strong> <em>{{ ref_data.get('title', 'N/A') }}</em><br>
+                    <strong>Autores:</strong> 
+                    {% if ref_data.authors %}
+                        {% for author in ref_data.authors %}
+                            {{ author.last }}, {{ author.first }}{% if not loop.last %}; {% endif %}
+                        {% endfor %}
+                    {% else %}
+                        N/A
+                    {% endif %}<br>
+                    <strong>Detalhes:</strong> {{ ref_data.get('Páginas', 'N/A') }} ({{ ref_data.get('pub_year', 'N/A') }})<br>
+                    <strong>DOI:</strong> 
+                    {% if ref_data.doi %}
+                        <a href="https://doi.org/{{ ref_data.doi }}">{{ ref_data.doi }}</a>
+                    {% else %}
+                        N/A
+                    {% endif %}
+                </li>
+            {% endif %}
+        {% endfor %}
+    </ol>
+
+</body>
+</html>
