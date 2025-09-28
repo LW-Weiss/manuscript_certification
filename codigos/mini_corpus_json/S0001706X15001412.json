@@ -1,0 +1,3910 @@
+{
+    "abstract": "Many eukaryotic pathogenic microorganisms that were previously assumed to propagate clonally have retained cryptic sexual cycles. The principal reproductive mode of Trypanosoma cruzi, the aetiological agent of Chagas disease, remains a controversial topic. Despite the existence of two recent natural hybrid lineages, a pervasive view is that recombination has been restrained at an evolutionary scale and is of little epidemiological relevance to contemporary parasite populations. This article reviews the growing number of field studies which indicate that natural hybridization in T. cruzi may be frequent,non-obligatory and idiosyncratic; potentially involving independent exchange of kinetoplast and nuclear genetic material as well as canonical meiotic mechanisms. Together these observations now challenge the traditional paradigm of preponderate clonal evolution in T. cruzi and highlight the need for additional ,intensive and appropriately sampled field surveys, complemented by high resolution, combined nuclear and mitochondrial population genetics analyses.",
+    "author_highlights": [
+        {
+            "endOffset": 9528,
+            "sentence": "The principal reproductive mode of Trypanosoma cruzi is controversial.",
+            "startOffset": 9458
+        },
+        {
+            "endOffset": 9612,
+            "sentence": "Field studies indicate recombination is frequent, non-obligatory and idiosyncratic.",
+            "startOffset": 9529
+        },
+        {
+            "endOffset": 9687,
+            "sentence": "These observations challenge the paradigm of clonal evolution in T. cruzi.",
+            "startOffset": 9613
+        }
+    ],
+    "bib_entries": {
+        "bib0005": {
+            "authors": [
+                {
+                    "first": "Natalia S.",
+                    "initial": "N.S.",
+                    "last": "Akopyants"
+                },
+                {
+                    "first": "Nicola",
+                    "initial": "N.",
+                    "last": "Kimblin"
+                },
+                {
+                    "first": "Nagila",
+                    "initial": "N.",
+                    "last": "Secundino"
+                },
+                {
+                    "first": "Rachel",
+                    "initial": "R.",
+                    "last": "Patrick"
+                },
+                {
+                    "first": "Nathan",
+                    "initial": "N.",
+                    "last": "Peters"
+                },
+                {
+                    "first": "Phillip",
+                    "initial": "P.",
+                    "last": "Lawyer"
+                },
+                {
+                    "first": "Deborah E.",
+                    "initial": "D.E.",
+                    "last": "Dobson"
+                },
+                {
+                    "first": "Stephen M.",
+                    "initial": "S.M.",
+                    "last": "Beverley"
+                },
+                {
+                    "first": "David L.",
+                    "initial": "D.L.",
+                    "last": "Sacks"
+                }
+            ],
+            "doi": "10.1126/science.1169464",
+            "firstpage": "265",
+            "issn": "00368075",
+            "lastpage": "268",
+            "pmid": "19359589",
+            "pub_year": 2009,
+            "title": "Demonstration of genetic exchange during cyclical development of Leishmania in the sand fly vector",
+            "volume": "324"
+        },
+        "bib0010": {
+            "authors": [
+                {
+                    "first": "Oliver",
+                    "initial": "O.",
+                    "last": "Balmer"
+                },
+                {
+                    "first": "Jon S.",
+                    "initial": "J.S.",
+                    "last": "Beadell"
+                },
+                {
+                    "first": "Wendy",
+                    "initial": "W.",
+                    "last": "Gibson"
+                },
+                {
+                    "first": "Adalgisa",
+                    "initial": "A.",
+                    "last": "Caccone"
+                }
+            ],
+            "doi": "10.1371/journal.pntd.0000961",
+            "pmid": "21347445",
+            "pub_year": 2011,
+            "title": "Phylogeography and taxonomy of Trypanosoma brucei",
+            "volume": "5"
+        },
+        "bib0015": {
+            "authors": [
+                {
+                    "first": "Rodrigo de Paula",
+                    "initial": "R.d.P.",
+                    "last": "Baptista"
+                },
+                {
+                    "first": "Daniella Alchaar",
+                    "initial": "D.A.",
+                    "last": "D'\u00c1vila"
+                },
+                {
+                    "first": "Marcela",
+                    "initial": "M.",
+                    "last": "Segatto"
+                },
+                {
+                    "first": "\u00cdtalo Faria do",
+                    "initial": "I.F.d.",
+                    "last": "Valle"
+                },
+                {
+                    "first": "Gl\u00f3ria Regina",
+                    "initial": "G.R.",
+                    "last": "Franco"
+                },
+                {
+                    "first": "Helder Magno Silva",
+                    "initial": "H.M.S.",
+                    "last": "Valadares"
+                },
+                {
+                    "first": "Eliane Dias",
+                    "initial": "E.D.",
+                    "last": "Gontijo"
+                },
+                {
+                    "first": "L\u00facia Maria da Cunha",
+                    "initial": "L.M.d.C.",
+                    "last": "Galv\u00e3o"
+                },
+                {
+                    "first": "S\u00e9rgio Danilo Junho",
+                    "initial": "S.D.J.",
+                    "last": "Pena"
+                },
+                {
+                    "first": "Egler",
+                    "initial": "E.",
+                    "last": "Chiari"
+                },
+                {
+                    "first": "Carlos Renato",
+                    "initial": "C.R.",
+                    "last": "Machado"
+                },
+                {
+                    "first": "Andr\u00e9a Mara",
+                    "initial": "A.M.",
+                    "last": "Macedo"
+                }
+            ],
+            "doi": "10.1016/j.meegid.2013.11.021",
+            "firstpage": "183",
+            "issn": "15671348",
+            "lastpage": "191",
+            "pmid": "24296011",
+            "pub_year": 2014,
+            "title": "Evidence of substantial recombination among Trypanosoma cruzi II strains from Minas Gerais",
+            "volume": "22"
+        },
+        "bib0020": {
+            "authors": [
+                {
+                    "first": "Christian",
+                    "initial": "C.",
+                    "last": "Barnab\u00e9"
+                },
+                {
+                    "first": "Thierry",
+                    "initial": "T.",
+                    "last": "De Mee\u00fbs"
+                },
+                {
+                    "first": "Fran\u00e7ois",
+                    "initial": "F.",
+                    "last": "Noireau"
+                },
+                {
+                    "first": "Marie France",
+                    "initial": "M.F.",
+                    "last": "Bosseno"
+                },
+                {
+                    "first": "Eric Marcelo",
+                    "initial": "E.M.",
+                    "last": "Monje"
+                },
+                {
+                    "first": "Fran\u00e7ois",
+                    "initial": "F.",
+                    "last": "Renaud"
+                },
+                {
+                    "first": "Simone Fr\u00e9d\u00e9rique",
+                    "initial": "S.F.",
+                    "last": "Breni\u00e8re"
+                }
+            ],
+            "doi": "10.1016/j.meegid.2011.07.011",
+            "firstpage": "1752",
+            "issn": "15671348",
+            "lastpage": "1760",
+            "pmid": "21801854",
+            "pub_year": 2011,
+            "title": "Trypanosoma cruzi discrete typing units (DTUs): Microsatellite loci and population genetics of DTUs TcV and TcI in Bolivia and Peru",
+            "volume": "11"
+        },
+        "bib0025": {
+            "authors": [
+                {
+                    "first": "Christian",
+                    "initial": "C.",
+                    "last": "Barnab\u00e9"
+                },
+                {
+                    "first": "Simone Fr\u00e9d\u00e9rique",
+                    "initial": "S.F.",
+                    "last": "Breni\u00e8re"
+                }
+            ],
+            "doi": "10.1016/j.meegid.2012.08.018",
+            "firstpage": "1879",
+            "issn": "15671348",
+            "lastpage": "1883",
+            "pmid": "22982157",
+            "pub_year": 2012,
+            "title": "Scarce events of mitochondrial introgression in Trypanosoma cruzi: New case with a Bolivian strain",
+            "volume": "12"
+        },
+        "bib0030": {
+            "authors": [
+                {
+                    "first": "Christian",
+                    "initial": "C.",
+                    "last": "Barnabe"
+                },
+                {
+                    "first": "Rosio",
+                    "initial": "R.",
+                    "last": "Buitrago"
+                },
+                {
+                    "first": "Philippe",
+                    "initial": "P.",
+                    "last": "Bremond"
+                },
+                {
+                    "first": "Claudia",
+                    "initial": "C.",
+                    "last": "Aliaga"
+                },
+                {
+                    "first": "Renata",
+                    "initial": "R.",
+                    "last": "Salas"
+                },
+                {
+                    "first": "Pablo",
+                    "initial": "P.",
+                    "last": "Vidaurre"
+                },
+                {
+                    "first": "Claudia",
+                    "initial": "C.",
+                    "last": "Herrera"
+                },
+                {
+                    "first": "Fr\u00e9d\u00e9rique",
+                    "initial": "F.",
+                    "last": "Cerqueira"
+                },
+                {
+                    "first": "Marie France",
+                    "initial": "M.F.",
+                    "last": "Bosseno"
+                },
+                {
+                    "first": "Etienne",
+                    "initial": "E.",
+                    "last": "Waleckx"
+                },
+                {
+                    "first": "Simone Fr\u00e9d\u00e9rique",
+                    "initial": "S.F.",
+                    "last": "Breniere"
+                }
+            ],
+            "doi": "10.1371/journal.pone.0082269",
+            "issn": "19326203",
+            "pmid": "24312410",
+            "pub_year": 2013,
+            "title": "Putative panmixia in restricted populations of Trypanosoma cruzi isolated from wild triatoma infestans in Bolivia",
+            "volume": "8"
+        },
+        "bib0035": {
+            "authors": [
+                {
+                    "first": "Richard J.",
+                    "initial": "R.J.",
+                    "last": "Bennett"
+                },
+                {
+                    "first": "Alexander D.",
+                    "initial": "A.D.",
+                    "last": "Johnson"
+                }
+            ],
+            "doi": "10.1093/emboj/cdg235",
+            "firstpage": "2505",
+            "issn": "02614189",
+            "lastpage": "2515",
+            "pmid": "12743044",
+            "pub_year": 2003,
+            "title": "Completion of a parasexual cycle in Candida albicans by induced chromosome loss in tetraploid strains",
+            "volume": "22"
+        },
+        "bib0040": {
+            "authors": [
+                {
+                    "first": "Sylvain",
+                    "initial": "S.",
+                    "last": "Brisse"
+                },
+                {
+                    "first": "Jan",
+                    "initial": "J.",
+                    "last": "Henriksson"
+                },
+                {
+                    "first": "Christian",
+                    "initial": "C.",
+                    "last": "Barnab\u00e9"
+                },
+                {
+                    "first": "Emmanuel J.P.",
+                    "initial": "E.J.P.",
+                    "last": "Douzery"
+                },
+                {
+                    "first": "Dirk",
+                    "initial": "D.",
+                    "last": "Berkvens"
+                },
+                {
+                    "first": "Myrna",
+                    "initial": "M.",
+                    "last": "Serrano"
+                },
+                {
+                    "first": "Maria Ruth C.",
+                    "initial": "M.R.C.",
+                    "last": "De Carvalho"
+                },
+                {
+                    "first": "Gregory A.",
+                    "initial": "G.A.",
+                    "last": "Buck"
+                },
+                {
+                    "first": "Jean Claude",
+                    "initial": "J.C.",
+                    "last": "Dujardin"
+                },
+                {
+                    "first": "Michel",
+                    "initial": "M.",
+                    "last": "Tibayrenc"
+                }
+            ],
+            "doi": "10.1016/S1567-1348(02)00097-7",
+            "firstpage": "173",
+            "issn": "15671348",
+            "lastpage": "183",
+            "pmid": "12797979",
+            "pub_year": 2003,
+            "title": "Evidence for genetic exchange and hybridization in Trypanosoma cruzi based on nucleotide sequences and molecular karyotype",
+            "volume": "2"
+        },
+        "bib0045": {
+            "authors": [
+                {
+                    "first": "Estefan\u00eda",
+                    "initial": "E.",
+                    "last": "Calvo-\u00c1lvarez"
+                },
+                {
+                    "first": "Raquel",
+                    "initial": "R.",
+                    "last": "\u00c1lvarez-Velilla"
+                },
+                {
+                    "first": "Maribel",
+                    "initial": "M.",
+                    "last": "Jim\u00e9nez"
+                },
+                {
+                    "first": "Ricardo",
+                    "initial": "R.",
+                    "last": "Molina"
+                },
+                {
+                    "first": "Yolanda",
+                    "initial": "Y.",
+                    "last": "P\u00e9rez-Pertejo"
+                },
+                {
+                    "first": "Rafael",
+                    "initial": "R.",
+                    "last": "Bala\u00f1a-Fouce"
+                },
+                {
+                    "first": "Rosa M.",
+                    "initial": "R.M.",
+                    "last": "Reguera"
+                }
+            ],
+            "doi": "10.1371/journal.pntd.0003075",
+            "issn": "19352727",
+            "pmid": "25188587",
+            "pub_year": 2014,
+            "title": "First Evidence of Intraclonal Genetic Exchange in Trypanosomatids Using Two Leishmania infantum Fluorescent Transgenic Clones",
+            "volume": "8"
+        },
+        "bib0050": {
+            "authors": [
+                {
+                    "first": "Hernan J.",
+                    "initial": "H.J.",
+                    "last": "Carrasco"
+                },
+                {
+                    "first": "Iain A.",
+                    "initial": "I.A.",
+                    "last": "Frame"
+                },
+                {
+                    "first": "Sebastiao A.",
+                    "initial": "S.A.",
+                    "last": "Valente"
+                },
+                {
+                    "first": "Michael A.",
+                    "initial": "M.A.",
+                    "last": "Miles"
+                }
+            ],
+            "doi": "10.4269/ajtmh.1996.54.418",
+            "firstpage": "418",
+            "issn": "00029637",
+            "lastpage": "424",
+            "pmid": "8615458",
+            "pub_year": 1996,
+            "title": "Genetic exchange as a possible source of genomic diversity in sylvatic populations of Trypanosoma cruzi",
+            "volume": "54"
+        },
+        "bib0055": {
+            "authors": [
+                {
+                    "first": "Sofia",
+                    "initial": "S.",
+                    "last": "Cortes"
+                },
+                {
+                    "first": "Carina",
+                    "initial": "C.",
+                    "last": "Esteves"
+                },
+                {
+                    "first": "Isabel",
+                    "initial": "I.",
+                    "last": "Maur\u00edcio"
+                },
+                {
+                    "first": "Carla",
+                    "initial": "C.",
+                    "last": "Maia"
+                },
+                {
+                    "first": "Jos\u00e9 Manuel",
+                    "initial": "J.M.",
+                    "last": "Cristov\u00e3o"
+                },
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "Miles"
+                },
+                {
+                    "first": "Lenea",
+                    "initial": "L.",
+                    "last": "Campino"
+                }
+            ],
+            "doi": "10.1017/S0031182011001909",
+            "firstpage": "191",
+            "issn": "00311820",
+            "lastpage": "199",
+            "pmid": "22054424",
+            "pub_year": 2012,
+            "title": "In vitro and in vivo behaviour of sympatric Leishmania (V.) braziliensis, L. (V.) peruviana and their hybrids",
+            "volume": "139"
+        },
+        "bib0060": {
+            "authors": [
+                {
+                    "first": "Jorge M.",
+                    "initial": "J.M.",
+                    "last": "De Freitas"
+                },
+                {
+                    "first": "Luiz",
+                    "initial": "L.",
+                    "last": "Augusto-Pinto"
+                },
+                {
+                    "first": "Juliana R.",
+                    "initial": "J.R.",
+                    "last": "Pimenta"
+                },
+                {
+                    "first": "Luciana",
+                    "initial": "L.",
+                    "last": "Bastos-Rodrigues"
+                },
+                {
+                    "first": "Vanessa F.",
+                    "initial": "V.F.",
+                    "last": "Gon\u00e7alves"
+                },
+                {
+                    "first": "Santuza M.R.",
+                    "initial": "S.M.R.",
+                    "last": "Teixeira"
+                },
+                {
+                    "first": "Egler",
+                    "initial": "E.",
+                    "last": "Chiari"
+                },
+                {
+                    "first": "\u00c2ngela C.V.",
+                    "initial": "A.C.V.",
+                    "last": "Junqueira"
+                },
+                {
+                    "first": "Octavio",
+                    "initial": "O.",
+                    "last": "Fernandes"
+                },
+                {
+                    "first": "Andr\u00e9a M.",
+                    "initial": "A.M.",
+                    "last": "Macedo"
+                },
+                {
+                    "first": "Carlos Renato",
+                    "initial": "C.R.",
+                    "last": "Machado"
+                },
+                {
+                    "first": "S\u00e9rgio D.J.",
+                    "initial": "S.D.J.",
+                    "last": "Pena"
+                }
+            ],
+            "doi": "10.1371/journal.ppat.0020024",
+            "firstpage": "0226",
+            "issn": "15537366",
+            "lastpage": "0235",
+            "pmid": "16609729",
+            "pub_year": 2006,
+            "title": "Ancestral genomes, sex, and the population structure of Trypanosoma cruzi",
+            "volume": "2"
+        },
+        "bib0065": {
+            "authors": [
+                {
+                    "first": "Jillian T.",
+                    "initial": "J.T.",
+                    "last": "Detwiler"
+                },
+                {
+                    "first": "Charles D.",
+                    "initial": "C.D.",
+                    "last": "Criscione"
+                }
+            ],
+            "doi": "10.3390/genes1010102",
+            "firstpage": "102",
+            "issn": "20734425",
+            "lastpage": "123",
+            "pub_year": 2010,
+            "title": "An infectious topic in reticulate evolution: Introgression and hybridization in animal parasites",
+            "volume": "1"
+        },
+        "bib0070": {
+            "authors": [
+                {
+                    "first": "Craig W.",
+                    "initial": "C.W.",
+                    "last": "Duffy"
+                },
+                {
+                    "first": "Lorna",
+                    "initial": "L.",
+                    "last": "MacLean"
+                },
+                {
+                    "first": "Lindsay",
+                    "initial": "L.",
+                    "last": "Sweeney"
+                },
+                {
+                    "first": "Anneli",
+                    "initial": "A.",
+                    "last": "Cooper"
+                },
+                {
+                    "first": "C. Michael R.",
+                    "initial": "C.M.R.",
+                    "last": "Turner"
+                },
+                {
+                    "first": "Andy",
+                    "initial": "A.",
+                    "last": "Tait"
+                },
+                {
+                    "first": "Jeremy",
+                    "initial": "J.",
+                    "last": "Sternberg"
+                },
+                {
+                    "first": "Liam J.",
+                    "initial": "L.J.",
+                    "last": "Morrison"
+                },
+                {
+                    "first": "Annette",
+                    "initial": "A.",
+                    "last": "MacLeod"
+                }
+            ],
+            "doi": "10.1371/journal.pntd.0002526",
+            "issn": "19352727",
+            "pmid": "24244771",
+            "pub_year": 2013,
+            "title": "Population Genetics of Trypanosoma brucei rhodesiense: Clonality and Diversity within and between Foci",
+            "volume": "7"
+        },
+        "bib0075": {
+            "authors": [
+                {
+                    "first": "Carlos A.",
+                    "initial": "C.A.",
+                    "last": "Flores-L\u00f3pez"
+                },
+                {
+                    "first": "Carlos A.",
+                    "initial": "C.A.",
+                    "last": "Machado"
+                }
+            ],
+            "doi": "10.1371/journal.pntd.0001272",
+            "issn": "19352727",
+            "pmid": "21829751",
+            "pub_year": 2011,
+            "title": "Analyses of 32 loci clarify phylogenetic relationships among Trypanosoma cruzi lineages and support a single hybridization prior to human contact",
+            "volume": "5"
+        },
+        "bib0080": {
+            "authors": [
+                {
+                    "first": "Anja",
+                    "initial": "A.",
+                    "last": "Forche"
+                },
+                {
+                    "first": "Kevin",
+                    "initial": "K.",
+                    "last": "Alby"
+                },
+                {
+                    "first": "Dana",
+                    "initial": "D.",
+                    "last": "Schaefer"
+                },
+                {
+                    "first": "Alexander D.",
+                    "initial": "A.D.",
+                    "last": "Johnson"
+                },
+                {
+                    "first": "Judith",
+                    "initial": "J.",
+                    "last": "Berman"
+                },
+                {
+                    "first": "Richard J.",
+                    "initial": "R.J.",
+                    "last": "Bennett"
+                }
+            ],
+            "doi": "10.1371/journal.pbio.0060110",
+            "firstpage": "1084",
+            "issn": "15449173",
+            "lastpage": "1097",
+            "pmid": "18462019",
+            "pub_year": 2008,
+            "title": "The parasexual cycle in Candida albicans provides an alternative pathway to meiosis for the formation of recombinant strains",
+            "volume": "6"
+        },
+        "bib0085": {
+            "authors": [
+                {
+                    "first": "Michael W.",
+                    "initial": "M.W.",
+                    "last": "Gaunt"
+                },
+                {
+                    "first": "Matthew",
+                    "initial": "M.",
+                    "last": "Yeo"
+                },
+                {
+                    "first": "Jain A.",
+                    "initial": "J.A.",
+                    "last": "Frame"
+                },
+                {
+                    "first": "J. Ruesell",
+                    "initial": "J.R.",
+                    "last": "Stothard"
+                },
+                {
+                    "first": "Hernan J.",
+                    "initial": "H.J.",
+                    "last": "Carrasco"
+                },
+                {
+                    "first": "Martin C.",
+                    "initial": "M.C.",
+                    "last": "Taylor"
+                },
+                {
+                    "first": "Susana Solis",
+                    "initial": "S.S.",
+                    "last": "Mena"
+                },
+                {
+                    "first": "Paul",
+                    "initial": "P.",
+                    "last": "Veazey"
+                },
+                {
+                    "first": "Graham A.J.",
+                    "initial": "G.A.J.",
+                    "last": "Miles"
+                },
+                {
+                    "first": "Nidia",
+                    "initial": "N.",
+                    "last": "Acosta"
+                },
+                {
+                    "first": "Antonieta Rojas",
+                    "initial": "A.R.",
+                    "last": "De Arias"
+                },
+                {
+                    "first": "Michael A.",
+                    "initial": "M.A.",
+                    "last": "Miles"
+                }
+            ],
+            "doi": "10.1038/nature01438",
+            "firstpage": "936",
+            "issn": "00280836",
+            "lastpage": "939",
+            "pmid": "12606999",
+            "pub_year": 2003,
+            "title": "Mechanism of genetic exchange in American trypanosomes",
+            "volume": "421"
+        },
+        "bib0090": {
+            "authors": [
+                {
+                    "first": "Wendy",
+                    "initial": "W.",
+                    "last": "Gibson"
+                },
+                {
+                    "first": "Lisa",
+                    "initial": "L.",
+                    "last": "Garside"
+                }
+            ],
+            "doi": "10.1016/0166-6851(90)90111-X",
+            "firstpage": "45",
+            "issn": "01666851",
+            "lastpage": "53",
+            "pmid": "2233899",
+            "pub_year": 1990,
+            "title": "Kinetoplast DNA minicircles are inherited from both parents in genetic hybrids of Trypanosoma brucei",
+            "volume": "42"
+        },
+        "bib0095": {
+            "authors": [
+                {
+                    "first": "Wendy",
+                    "initial": "W.",
+                    "last": "Gibson"
+                },
+                {
+                    "first": "Lori",
+                    "initial": "L.",
+                    "last": "Peacock"
+                },
+                {
+                    "first": "Vanessa",
+                    "initial": "V.",
+                    "last": "Ferris"
+                },
+                {
+                    "first": "Katherine",
+                    "initial": "K.",
+                    "last": "Williams"
+                },
+                {
+                    "first": "Mick",
+                    "initial": "M.",
+                    "last": "Bailey"
+                }
+            ],
+            "doi": "10.1186/1756-3305-1-4",
+            "issn": "17563305",
+            "pub_year": 2008,
+            "title": "The use of yellow fluorescent hybrids to indicate mating in Trypanosoma brucei",
+            "volume": "1"
+        },
+        "bib0100": {
+            "authors": [
+                {
+                    "first": "Meleah A.",
+                    "initial": "M.A.",
+                    "last": "Hickman"
+                },
+                {
+                    "first": "Guisheng",
+                    "initial": "G.",
+                    "last": "Zeng"
+                },
+                {
+                    "first": "Anja",
+                    "initial": "A.",
+                    "last": "Forche"
+                },
+                {
+                    "first": "Matthew P.",
+                    "initial": "M.P.",
+                    "last": "Hirakawa"
+                },
+                {
+                    "first": "Darren",
+                    "initial": "D.",
+                    "last": "Abbey"
+                },
+                {
+                    "first": "Benjamin D.",
+                    "initial": "B.D.",
+                    "last": "Harrison"
+                },
+                {
+                    "first": "Yan Ming",
+                    "initial": "Y.M.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Ching Hua",
+                    "initial": "C.H.",
+                    "last": "Su"
+                },
+                {
+                    "first": "Richard J.",
+                    "initial": "R.J.",
+                    "last": "Bennett"
+                },
+                {
+                    "first": "Yue",
+                    "initial": "Y.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Judith",
+                    "initial": "J.",
+                    "last": "Berman"
+                }
+            ],
+            "doi": "10.1038/nature11865",
+            "firstpage": "55",
+            "issn": "00280836",
+            "lastpage": "59",
+            "pmid": "23364695",
+            "pub_year": 2013,
+            "title": "The 'obligate diploid' Candida albicans forms mating-competent haploids",
+            "volume": "494"
+        },
+        "bib0105": {
+            "authors": [
+                {
+                    "first": "Ehud",
+                    "initial": "E.",
+                    "last": "Inbar"
+                },
+                {
+                    "first": "Natalia S.",
+                    "initial": "N.S.",
+                    "last": "Akopyants"
+                },
+                {
+                    "first": "Melanie",
+                    "initial": "M.",
+                    "last": "Charmoy"
+                },
+                {
+                    "first": "Audrey",
+                    "initial": "A.",
+                    "last": "Romano"
+                },
+                {
+                    "first": "Phillip",
+                    "initial": "P.",
+                    "last": "Lawyer"
+                },
+                {
+                    "first": "Dia Eldin A.",
+                    "initial": "D.E.A.",
+                    "last": "Elnaiem"
+                },
+                {
+                    "first": "Florence",
+                    "initial": "F.",
+                    "last": "Kauffmann"
+                },
+                {
+                    "first": "Mourad",
+                    "initial": "M.",
+                    "last": "Barhoumi"
+                },
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "Grigg"
+                },
+                {
+                    "first": "Katherine",
+                    "initial": "K.",
+                    "last": "Owens"
+                },
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "Fay"
+                },
+                {
+                    "first": "Deborah E.",
+                    "initial": "D.E.",
+                    "last": "Dobson"
+                },
+                {
+                    "first": "Jahangheer",
+                    "initial": "J.",
+                    "last": "Shaik"
+                },
+                {
+                    "first": "Stephen M.",
+                    "initial": "S.M.",
+                    "last": "Beverley"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Sacks"
+                }
+            ],
+            "doi": "10.1371/journal.pgen.1003672",
+            "issn": "15537390",
+            "pmid": "23935521",
+            "pub_year": 2013,
+            "title": "The Mating Competence of Geographically Diverse Leishmania major Strains in Their Natural and Unnatural Sand Fly Vectors",
+            "volume": "9"
+        },
+        "bib0110": {
+            "authors": [
+                {
+                    "first": "Mathurin",
+                    "initial": "M.",
+                    "last": "Koffi"
+                },
+                {
+                    "first": "Thierry",
+                    "initial": "T.",
+                    "last": "De Mee\u00fbs"
+                },
+                {
+                    "first": "Bruno",
+                    "initial": "B.",
+                    "last": "Bucheton"
+                },
+                {
+                    "first": "Philippe",
+                    "initial": "P.",
+                    "last": "Solano"
+                },
+                {
+                    "first": "Mamadou",
+                    "initial": "M.",
+                    "last": "Camara"
+                },
+                {
+                    "first": "Dramane",
+                    "initial": "D.",
+                    "last": "Kaba"
+                },
+                {
+                    "first": "G\u00e9rard",
+                    "initial": "G.",
+                    "last": "Cuny"
+                },
+                {
+                    "first": "Francisco J.",
+                    "initial": "F.J.",
+                    "last": "Ayala"
+                },
+                {
+                    "first": "Vincent",
+                    "initial": "V.",
+                    "last": "Jamonneau"
+                }
+            ],
+            "doi": "10.1073/pnas.0811080106",
+            "firstpage": "209",
+            "issn": "00278424",
+            "lastpage": "214",
+            "pmid": "19106297",
+            "pub_year": 2009,
+            "title": "Population genetics of Trypanosoma brucei gambiense, the agent of sleeping sickness in Western Africa",
+            "volume": "106"
+        },
+        "bib0115": {
+            "authors": [
+                {
+                    "first": "Michael D.",
+                    "initial": "M.D.",
+                    "last": "Lewis"
+                },
+                {
+                    "first": "Martin S.",
+                    "initial": "M.S.",
+                    "last": "Llewellyn"
+                },
+                {
+                    "first": "Michael W.",
+                    "initial": "M.W.",
+                    "last": "Gaunt"
+                },
+                {
+                    "first": "Matthew",
+                    "initial": "M.",
+                    "last": "Yeo"
+                },
+                {
+                    "first": "Hern\u00e1n J.",
+                    "initial": "H.J.",
+                    "last": "Carrasco"
+                },
+                {
+                    "first": "Michael A.",
+                    "initial": "M.A.",
+                    "last": "Miles"
+                }
+            ],
+            "doi": "10.1016/j.ijpara.2009.04.001",
+            "firstpage": "1305",
+            "issn": "00207519",
+            "lastpage": "1317",
+            "pmid": "19393242",
+            "pub_year": 2009,
+            "title": "Flow cytometric analysis and microsatellite genotyping reveal extensive DNA content variation in Trypanosoma cruzi populations and expose contrasts between natural and experimental hybrids",
+            "volume": "39"
+        },
+        "bib0120": {
+            "authors": [
+                {
+                    "first": "Michael D.",
+                    "initial": "M.D.",
+                    "last": "Lewis"
+                },
+                {
+                    "first": "Martin S.",
+                    "initial": "M.S.",
+                    "last": "Llewellyn"
+                },
+                {
+                    "first": "Matthew",
+                    "initial": "M.",
+                    "last": "Yeo"
+                },
+                {
+                    "first": "Michael A.",
+                    "initial": "M.A.",
+                    "last": "Miles"
+                }
+            ],
+            "doi": "10.1016/B978-0-12-384876-5.00018-6",
+            "firstpage": "459",
+            "lastpage": "474",
+            "pub_year": 2010,
+            "title": "Experimental and Natural Recombination in Trypanosoma Cruzi"
+        },
+        "bib0125": {
+            "authors": [
+                {
+                    "first": "Michael D.",
+                    "initial": "M.D.",
+                    "last": "Lewis"
+                },
+                {
+                    "first": "Martin S.",
+                    "initial": "M.S.",
+                    "last": "Llewellyn"
+                },
+                {
+                    "first": "Matthew",
+                    "initial": "M.",
+                    "last": "Yeo"
+                },
+                {
+                    "first": "Nidia",
+                    "initial": "N.",
+                    "last": "Acosta"
+                },
+                {
+                    "first": "Michael W.",
+                    "initial": "M.W.",
+                    "last": "Gaunt"
+                },
+                {
+                    "first": "Michael A.",
+                    "initial": "M.A.",
+                    "last": "Miles"
+                }
+            ],
+            "doi": "10.1371/journal.pntd.0001363",
+            "issn": "19352727",
+            "pmid": "22022633",
+            "pub_year": 2011,
+            "title": "Recent, independent and anthropogenic origins of Trypanosoma cruzi hybrids",
+            "volume": "5"
+        },
+        "bib0130": {
+            "authors": [
+                {
+                    "first": "Valdirene S.",
+                    "initial": "V.S.",
+                    "last": "Lima"
+                },
+                {
+                    "first": "Ana M.",
+                    "initial": "A.M.",
+                    "last": "Jansen"
+                },
+                {
+                    "first": "Louisa A.",
+                    "initial": "L.A.",
+                    "last": "Messenger"
+                },
+                {
+                    "first": "Michael A.",
+                    "initial": "M.A.",
+                    "last": "Miles"
+                },
+                {
+                    "first": "Martin S.",
+                    "initial": "M.S.",
+                    "last": "Llewellyn"
+                }
+            ],
+            "doi": "10.1186/1756-3305-7-263",
+            "issn": "17563305",
+            "pmid": "24903849",
+            "pub_year": 2014,
+            "title": "Wild Trypanosoma cruzi i genetic diversity in Brazil suggests admixture and disturbance in parasite populations from the Atlantic Forest region",
+            "volume": "7"
+        },
+        "bib0135": {
+            "authors": [
+                {
+                    "first": "Martin S.",
+                    "initial": "M.S.",
+                    "last": "Llewellyn"
+                },
+                {
+                    "first": "Michael A.",
+                    "initial": "M.A.",
+                    "last": "Miles"
+                },
+                {
+                    "first": "Hernan J.",
+                    "initial": "H.J.",
+                    "last": "Carrasco"
+                },
+                {
+                    "first": "Michael D.",
+                    "initial": "M.D.",
+                    "last": "Lewis"
+                },
+                {
+                    "first": "Matthew",
+                    "initial": "M.",
+                    "last": "Yeo"
+                },
+                {
+                    "first": "Jorge",
+                    "initial": "J.",
+                    "last": "Vargas"
+                },
+                {
+                    "first": "Faustino",
+                    "initial": "F.",
+                    "last": "Torrico"
+                },
+                {
+                    "first": "Patricio",
+                    "initial": "P.",
+                    "last": "Diosque"
+                },
+                {
+                    "first": "Vera",
+                    "initial": "V.",
+                    "last": "Valente"
+                },
+                {
+                    "first": "Sebastiao A.",
+                    "initial": "S.A.",
+                    "last": "Valente"
+                },
+                {
+                    "first": "Michael W.",
+                    "initial": "M.W.",
+                    "last": "Gaunt"
+                }
+            ],
+            "doi": "10.1371/journal.ppat.1000410",
+            "issn": "15537366",
+            "pmid": "19412340",
+            "pub_year": 2009,
+            "title": "Genome-scale multilocus microsatellite typing of Trypanosoma cruzi discrete typing unit I reveals phylogeographic structure and specific genotypes linked to human infection",
+            "volume": "5"
+        },
+        "bib0140": {
+            "authors": [
+                {
+                    "first": "Carlos A.",
+                    "initial": "C.A.",
+                    "last": "Machado"
+                },
+                {
+                    "first": "Francisco J.",
+                    "initial": "F.J.",
+                    "last": "Ayala"
+                }
+            ],
+            "doi": "10.1073/pnas.121187198",
+            "firstpage": "7396",
+            "issn": "00278424",
+            "lastpage": "7401",
+            "pmid": "11416213",
+            "pub_year": 2001,
+            "title": "Nucleotide sequences provide evidence of genetic exchange among distantly related lineages of Trypanosoma cruzi",
+            "volume": "98"
+        },
+        "bib0145": {
+            "authors": [
+                {
+                    "first": "Louisa A.",
+                    "initial": "L.A.",
+                    "last": "Messenger"
+                },
+                {
+                    "first": "Martin S.",
+                    "initial": "M.S.",
+                    "last": "Llewellyn"
+                },
+                {
+                    "first": "Tapan",
+                    "initial": "T.",
+                    "last": "Bhattacharyya"
+                },
+                {
+                    "first": "Oscar",
+                    "initial": "O.",
+                    "last": "Franz\u00e9n"
+                },
+                {
+                    "first": "Michael D.",
+                    "initial": "M.D.",
+                    "last": "Lewis"
+                },
+                {
+                    "first": "Juan David",
+                    "initial": "J.D.",
+                    "last": "Ram\u00edrez"
+                },
+                {
+                    "first": "Hernan J.",
+                    "initial": "H.J.",
+                    "last": "Carrasco"
+                },
+                {
+                    "first": "Bj\u00f6rn",
+                    "initial": "B.",
+                    "last": "Andersson"
+                },
+                {
+                    "first": "Michael A.",
+                    "initial": "M.A.",
+                    "last": "Miles"
+                }
+            ],
+            "doi": "10.1371/journal.pntd.0001584",
+            "issn": "19352727",
+            "pmid": "22506081",
+            "pub_year": 2012,
+            "title": "Multiple mitochondrial introgression events and heteroplasmy in Trypanosoma cruzi revealed by maxicircle MLST and next generation sequencing",
+            "volume": "6"
+        },
+        "bib0150": {
+            "authors": [
+                {
+                    "first": "Louisa A.",
+                    "initial": "L.A.",
+                    "last": "Messenger"
+                },
+                {
+                    "first": "Lineth",
+                    "initial": "L.",
+                    "last": "Garcia"
+                },
+                {
+                    "first": "Mathieu",
+                    "initial": "M.",
+                    "last": "Vanhove"
+                },
+                {
+                    "first": "Carlos",
+                    "initial": "C.",
+                    "last": "Huaranca"
+                },
+                {
+                    "first": "Marinely",
+                    "initial": "M.",
+                    "last": "Bustamante"
+                },
+                {
+                    "first": "Marycruz",
+                    "initial": "M.",
+                    "last": "Torrico"
+                },
+                {
+                    "first": "Faustino",
+                    "initial": "F.",
+                    "last": "Torrico"
+                },
+                {
+                    "first": "Michael A.",
+                    "initial": "M.A.",
+                    "last": "Miles"
+                },
+                {
+                    "first": "Martin S.",
+                    "initial": "M.S.",
+                    "last": "Llewellyn"
+                }
+            ],
+            "doi": "10.1111/mec.13186",
+            "firstpage": "2406",
+            "issn": "09621083",
+            "lastpage": "2422",
+            "pmid": "25847086",
+            "pub_year": 2015,
+            "title": "Ecological host fitting of Trypanosoma cruzi TcI in Bolivia: Mosaic population structure, hybridization and a role for humans in Andean parasite dispersal",
+            "volume": "24"
+        },
+        "bib0155": {
+            "authors": [
+                {
+                    "first": "M. A.",
+                    "initial": "M.A.",
+                    "last": "Miles"
+                },
+                {
+                    "first": "M. S.",
+                    "initial": "M.S.",
+                    "last": "Llewellyn"
+                },
+                {
+                    "first": "M. D.",
+                    "initial": "M.D.",
+                    "last": "Lewis"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Yeo"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Baleela"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Fitzpatrick"
+                },
+                {
+                    "first": "M. W.",
+                    "initial": "M.W.",
+                    "last": "Gaunt"
+                },
+                {
+                    "first": "I. L.",
+                    "initial": "I.L.",
+                    "last": "Mauricio"
+                }
+            ],
+            "doi": "10.1017/S0031182009990977",
+            "firstpage": "1509",
+            "issn": "00311820",
+            "lastpage": "1528",
+            "pmid": "19691868",
+            "pub_year": 2009,
+            "title": "The molecular epidemiology and phylogeography of Trypanosoma cruzi and parallel research on Leishmania: Looking back and to the future",
+            "volume": "136"
+        },
+        "bib0160": {
+            "authors": [
+                {
+                    "first": "Liam J.",
+                    "initial": "L.J.",
+                    "last": "Morrison"
+                },
+                {
+                    "first": "Alison",
+                    "initial": "A.",
+                    "last": "Tweedie"
+                },
+                {
+                    "first": "Alana",
+                    "initial": "A.",
+                    "last": "Black"
+                },
+                {
+                    "first": "Gina L.",
+                    "initial": "G.L.",
+                    "last": "Pinchbeck"
+                },
+                {
+                    "first": "Robert M.",
+                    "initial": "R.M.",
+                    "last": "Christley"
+                },
+                {
+                    "first": "Andreas",
+                    "initial": "A.",
+                    "last": "Schoenefeld"
+                },
+                {
+                    "first": "Christiane",
+                    "initial": "C.",
+                    "last": "Hertz-Fowler"
+                },
+                {
+                    "first": "Annette",
+                    "initial": "A.",
+                    "last": "MacLeod"
+                },
+                {
+                    "first": "C. Michael R.",
+                    "initial": "C.M.R.",
+                    "last": "Turner"
+                },
+                {
+                    "first": "Andy",
+                    "initial": "A.",
+                    "last": "Tait"
+                }
+            ],
+            "doi": "10.1371/journal.pone.0005564",
+            "issn": "19326203",
+            "pmid": "19440370",
+            "pub_year": 2009,
+            "title": "Discovery of mating in the major African livestock pathogen Trypanosoma congolense",
+            "volume": "4"
+        },
+        "bib0165": {
+            "authors": [
+                {
+                    "first": "Maurine",
+                    "initial": "M.",
+                    "last": "Neiman"
+                },
+                {
+                    "first": "Douglas R.",
+                    "initial": "D.R.",
+                    "last": "Taylor"
+                }
+            ],
+            "doi": "10.1098/rspb.2008.1758",
+            "firstpage": "1201",
+            "issn": "09628452",
+            "lastpage": "1209",
+            "pmid": "19203921",
+            "pub_year": 2009,
+            "title": "The causes of mutation accumulation in mitochondrial genomes",
+            "volume": "276"
+        },
+        "bib0170": {
+            "authors": [
+                {
+                    "first": "Debbie",
+                    "initial": "D.",
+                    "last": "Nolder"
+                },
+                {
+                    "first": "Norma",
+                    "initial": "N.",
+                    "last": "Roncal"
+                },
+                {
+                    "first": "Clive R.",
+                    "initial": "C.R.",
+                    "last": "Davies"
+                },
+                {
+                    "first": "Alejandro",
+                    "initial": "A.",
+                    "last": "Llanos-Cuentas"
+                },
+                {
+                    "first": "Michael A.",
+                    "initial": "M.A.",
+                    "last": "Miles"
+                }
+            ],
+            "firstpage": "573",
+            "issn": "00029637",
+            "lastpage": "578",
+            "pmid": "17360886",
+            "pub_year": 2007,
+            "title": "Multiple hybrid genotypes of Leishmania (Viannia) in a focus of mucocutaneous leishmaniasis",
+            "volume": "76"
+        },
+        "bib0175": {
+            "authors": [
+                {
+                    "first": "Sof\u00eda",
+                    "initial": "S.",
+                    "last": "Ocana-Mayorga"
+                },
+                {
+                    "first": "Martin S.",
+                    "initial": "M.S.",
+                    "last": "Llewellyn"
+                },
+                {
+                    "first": "Jaime A.",
+                    "initial": "J.A.",
+                    "last": "Costales"
+                },
+                {
+                    "first": "Michael A.",
+                    "initial": "M.A.",
+                    "last": "Miles"
+                },
+                {
+                    "first": "Mario J.",
+                    "initial": "M.J.",
+                    "last": "Grijalva"
+                }
+            ],
+            "doi": "10.1371/journal.pntd.0000915",
+            "firstpage": "1",
+            "lastpage": "8",
+            "pmid": "21179502",
+            "pub_year": 2010,
+            "title": "Sex, subdivision, and domestic dispersal of Trypanosoma cruzi Lineage I in Southern Ecuador",
+            "volume": "4"
+        },
+        "bib0180": {
+            "authors": [
+                {
+                    "first": "Lori",
+                    "initial": "L.",
+                    "last": "Peacock"
+                },
+                {
+                    "first": "Vanessa",
+                    "initial": "V.",
+                    "last": "Ferris"
+                },
+                {
+                    "first": "Reuben",
+                    "initial": "R.",
+                    "last": "Sharma"
+                },
+                {
+                    "first": "Jack",
+                    "initial": "J.",
+                    "last": "Sunter"
+                },
+                {
+                    "first": "Mick",
+                    "initial": "M.",
+                    "last": "Bailey"
+                },
+                {
+                    "first": "Mark",
+                    "initial": "M.",
+                    "last": "Carrington"
+                },
+                {
+                    "first": "Wendy",
+                    "initial": "W.",
+                    "last": "Gibson"
+                }
+            ],
+            "doi": "10.1073/pnas.1019423108",
+            "firstpage": "3671",
+            "issn": "00278424",
+            "lastpage": "3676",
+            "pmid": "21321215",
+            "pub_year": 2011,
+            "title": "Identification of the meiotic life cycle stage of Trypanosoma brucei in the tsetse fly",
+            "volume": "108"
+        },
+        "bib0185": {
+            "authors": [
+                {
+                    "first": "Lori",
+                    "initial": "L.",
+                    "last": "Peacock"
+                },
+                {
+                    "first": "Mick",
+                    "initial": "M.",
+                    "last": "Bailey"
+                },
+                {
+                    "first": "Mark",
+                    "initial": "M.",
+                    "last": "Carrington"
+                },
+                {
+                    "first": "Wendy",
+                    "initial": "W.",
+                    "last": "Gibson"
+                }
+            ],
+            "doi": "10.1016/j.cub.2013.11.044",
+            "firstpage": "181",
+            "issn": "09609822",
+            "lastpage": "186",
+            "pmid": "24388851",
+            "pub_year": 2014,
+            "title": "Meiosis and haploid gametes in the pathogen Trypanosoma brucei",
+            "volume": "24"
+        },
+        "bib0190": {
+            "authors": [
+                {
+                    "first": "F.",
+                    "initial": "F.",
+                    "last": "Prugnolle"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "De Meeus"
+                }
+            ],
+            "doi": "10.1038/hdy.2009.128",
+            "firstpage": "135",
+            "issn": "0018067X",
+            "lastpage": "140",
+            "pmid": "19812614",
+            "pub_year": 2010,
+            "title": "Apparent high recombination rates in clonal parasitic organisms due to inappropriate sampling design",
+            "volume": "104"
+        },
+        "bib0195": {
+            "authors": [
+                {
+                    "first": "Marilee A.",
+                    "initial": "M.A.",
+                    "last": "Ramesh"
+                },
+                {
+                    "first": "Shehre Banoo",
+                    "initial": "S.B.",
+                    "last": "Malik"
+                },
+                {
+                    "first": "John M.",
+                    "initial": "J.M.",
+                    "last": "Logsdon"
+                }
+            ],
+            "doi": "10.1016/j.cub.2005.01.003",
+            "firstpage": "185",
+            "issn": "09609822",
+            "lastpage": "191",
+            "pmid": "15668177",
+            "pub_year": 2005,
+            "title": "A phylogenomic inventory of meiotic genes: Evidence for sex in Giardia and an early eukaryotic origin of meiosis",
+            "volume": "15"
+        },
+        "bib0200": {
+            "authors": [
+                {
+                    "first": "Juan David",
+                    "initial": "J.D.",
+                    "last": "Ram\u00edrez"
+                },
+                {
+                    "first": "Felipe",
+                    "initial": "F.",
+                    "last": "Guhl"
+                },
+                {
+                    "first": "Louisa A.",
+                    "initial": "L.A.",
+                    "last": "Messenger"
+                },
+                {
+                    "first": "Michael D.",
+                    "initial": "M.D.",
+                    "last": "Lewis"
+                },
+                {
+                    "first": "Marleny",
+                    "initial": "M.",
+                    "last": "Montilla"
+                },
+                {
+                    "first": "Zulma",
+                    "initial": "Z.",
+                    "last": "Cucunuba"
+                },
+                {
+                    "first": "Michael A.",
+                    "initial": "M.A.",
+                    "last": "Miles"
+                },
+                {
+                    "first": "Martin S.",
+                    "initial": "M.S.",
+                    "last": "Llewellyn"
+                }
+            ],
+            "doi": "10.1111/j.1365-294X.2012.05699.x",
+            "firstpage": "4216",
+            "issn": "09621083",
+            "lastpage": "4226",
+            "pmid": "22774844",
+            "pub_year": 2012,
+            "title": "Contemporary cryptic sexuality in Trypanosoma cruzi",
+            "volume": "21"
+        },
+        "bib0205": {
+            "authors": [
+                {
+                    "first": "Juan D.",
+                    "initial": "J.D.",
+                    "last": "Ram\u00edrez"
+                },
+                {
+                    "first": "Gabriela",
+                    "initial": "G.",
+                    "last": "Tapia-Calle"
+                },
+                {
+                    "first": "Felipe",
+                    "initial": "F.",
+                    "last": "Guhl"
+                }
+            ],
+            "doi": "10.1186/1471-2156-14-96",
+            "issn": "14712156",
+            "pmid": "24079755",
+            "pub_year": 2013,
+            "title": "Genetic structure of Trypanosoma cruzi in Colombia revealed by a High-throughput Nuclear Multilocus Sequence Typing (nMLST) approach",
+            "volume": "14"
+        },
+        "bib0210": {
+            "authors": [
+                {
+                    "first": "Juan David",
+                    "initial": "J.D.",
+                    "last": "Ram\u00edrez"
+                },
+                {
+                    "first": "Martin S.",
+                    "initial": "M.S.",
+                    "last": "Llewellyn"
+                }
+            ],
+            "doi": "10.1111/mec.12872",
+            "firstpage": "4195",
+            "issn": "09621083",
+            "lastpage": "4202",
+            "pmid": "25060834",
+            "pub_year": 2014,
+            "title": "Reproductive clonality in protozoan pathogens - Truth or artefact?",
+            "volume": "23"
+        },
+        "bib0215": {
+            "authors": [
+                {
+                    "first": "Dawn M.",
+                    "initial": "D.M.",
+                    "last": "Roellig"
+                },
+                {
+                    "first": "Mason Y.",
+                    "initial": "M.Y.",
+                    "last": "Savage"
+                },
+                {
+                    "first": "A. Wendy",
+                    "initial": "A.W.",
+                    "last": "Fujita"
+                },
+                {
+                    "first": "Christian",
+                    "initial": "C.",
+                    "last": "Barnab\u00e9"
+                },
+                {
+                    "first": "Michel",
+                    "initial": "M.",
+                    "last": "Tibayrenc"
+                },
+                {
+                    "first": "Frank J.",
+                    "initial": "F.J.",
+                    "last": "Steurer"
+                },
+                {
+                    "first": "Michael J.",
+                    "initial": "M.J.",
+                    "last": "Yabsley"
+                }
+            ],
+            "doi": "10.1371/journal.pone.0056198",
+            "issn": "19326203",
+            "pmid": "23457528",
+            "pub_year": 2013,
+            "title": "Genetic Variation and Exchange in Trypanosoma cruzi Isolates from the United States",
+            "volume": "8"
+        },
+        "bib0220": {
+            "authors": [
+                {
+                    "first": "Matthew B.",
+                    "initial": "M.B.",
+                    "last": "Rogers"
+                },
+                {
+                    "first": "Tim",
+                    "initial": "T.",
+                    "last": "Downing"
+                },
+                {
+                    "first": "Barbara A.",
+                    "initial": "B.A.",
+                    "last": "Smith"
+                },
+                {
+                    "first": "Hideo",
+                    "initial": "H.",
+                    "last": "Imamura"
+                },
+                {
+                    "first": "Mandy",
+                    "initial": "M.",
+                    "last": "Sanders"
+                },
+                {
+                    "first": "Milena",
+                    "initial": "M.",
+                    "last": "Svobodova"
+                },
+                {
+                    "first": "Petr",
+                    "initial": "P.",
+                    "last": "Volf"
+                },
+                {
+                    "first": "Matthew",
+                    "initial": "M.",
+                    "last": "Berriman"
+                },
+                {
+                    "first": "James A.",
+                    "initial": "J.A.",
+                    "last": "Cotton"
+                },
+                {
+                    "first": "Deborah F.",
+                    "initial": "D.F.",
+                    "last": "Smith"
+                }
+            ],
+            "doi": "10.1371/journal.pgen.1004092",
+            "issn": "15537390",
+            "pmid": "24453988",
+            "pub_year": 2014,
+            "title": "Genomic Confirmation of Hybridisation and Recent Inbreeding in a Vector-Isolated Leishmania Population",
+            "volume": "10"
+        },
+        "bib0225": {
+            "authors": [
+                {
+                    "first": "Audrey",
+                    "initial": "A.",
+                    "last": "Romano"
+                },
+                {
+                    "first": "Ehud",
+                    "initial": "E.",
+                    "last": "Inbar"
+                },
+                {
+                    "first": "Alain",
+                    "initial": "A.",
+                    "last": "Debrabant"
+                },
+                {
+                    "first": "Melanie",
+                    "initial": "M.",
+                    "last": "Charmoy"
+                },
+                {
+                    "first": "Phillip",
+                    "initial": "P.",
+                    "last": "Lawyer"
+                },
+                {
+                    "first": "Flavia",
+                    "initial": "F.",
+                    "last": "Ribeiro-Gomes"
+                },
+                {
+                    "first": "Mourad",
+                    "initial": "M.",
+                    "last": "Barhoumi"
+                },
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "Grigg"
+                },
+                {
+                    "first": "Jahangheer",
+                    "initial": "J.",
+                    "last": "Shaik"
+                },
+                {
+                    "first": "Deborah",
+                    "initial": "D.",
+                    "last": "Dobson"
+                },
+                {
+                    "first": "Stephen M.",
+                    "initial": "S.M.",
+                    "last": "Beverley"
+                },
+                {
+                    "first": "David L.",
+                    "initial": "D.L.",
+                    "last": "Sacks"
+                }
+            ],
+            "doi": "10.1073/pnas.1415109111",
+            "firstpage": "16808",
+            "issn": "00278424",
+            "lastpage": "16813",
+            "pmid": "25385616",
+            "pub_year": 2014,
+            "title": "Cross-species genetic exchange between visceral and cutaneous strains of Leishmania in the sand fly vector",
+            "volume": "111"
+        },
+        "bib0230": {
+            "authors": [
+                {
+                    "first": "Virginie",
+                    "initial": "V.",
+                    "last": "Rougeron"
+                },
+                {
+                    "first": "Thierry",
+                    "initial": "T.",
+                    "last": "De Mee\u00fbs"
+                },
+                {
+                    "first": "Mallorie",
+                    "initial": "M.",
+                    "last": "Hide"
+                },
+                {
+                    "first": "Etienne",
+                    "initial": "E.",
+                    "last": "Waleckx"
+                },
+                {
+                    "first": "Herman",
+                    "initial": "H.",
+                    "last": "Bermudez"
+                },
+                {
+                    "first": "Jorge",
+                    "initial": "J.",
+                    "last": "Arevalo"
+                },
+                {
+                    "first": "Alejandro",
+                    "initial": "A.",
+                    "last": "Llanos-Cuentas"
+                },
+                {
+                    "first": "Jean Claude",
+                    "initial": "J.C.",
+                    "last": "Dujardin"
+                },
+                {
+                    "first": "Simone",
+                    "initial": "S.",
+                    "last": "De Doncker"
+                },
+                {
+                    "first": "Dominique",
+                    "initial": "D.",
+                    "last": "Le Ray"
+                },
+                {
+                    "first": "Francisco J.",
+                    "initial": "F.J.",
+                    "last": "Ayala"
+                },
+                {
+                    "first": "Anne Laure",
+                    "initial": "A.L.",
+                    "last": "Ba\u00f1uls"
+                }
+            ],
+            "doi": "10.1073/pnas.0904420106",
+            "firstpage": "10224",
+            "issn": "00278424",
+            "lastpage": "10229",
+            "pmid": "19497885",
+            "pub_year": 2009,
+            "title": "Extreme inbreeding in Leishmania braziliensis",
+            "volume": "106"
+        },
+        "bib0235": {
+            "authors": [
+                {
+                    "first": "Virginie",
+                    "initial": "V.",
+                    "last": "Rougeron"
+                },
+                {
+                    "first": "Anne Laure",
+                    "initial": "A.L.",
+                    "last": "Ba\u00f1uls"
+                },
+                {
+                    "first": "Bernard",
+                    "initial": "B.",
+                    "last": "Carme"
+                },
+                {
+                    "first": "St\u00e9phane",
+                    "initial": "S.",
+                    "last": "Simon"
+                },
+                {
+                    "first": "Pierre",
+                    "initial": "P.",
+                    "last": "Couppi\u00e9"
+                },
+                {
+                    "first": "Mathieu",
+                    "initial": "M.",
+                    "last": "Nacher"
+                },
+                {
+                    "first": "Mallorie",
+                    "initial": "M.",
+                    "last": "Hide"
+                },
+                {
+                    "first": "Thierry",
+                    "initial": "T.",
+                    "last": "De Mee\u00fbs"
+                }
+            ],
+            "doi": "10.1111/j.1365-294X.2011.05162.x",
+            "firstpage": "3116",
+            "issn": "09621083",
+            "lastpage": "3127",
+            "pmid": "21722225",
+            "pub_year": 2011,
+            "title": "Reproductive strategies and population structure in Leishmania: Substantial amount of sex in Leishmania Viannia guyanensis",
+            "volume": "20"
+        },
+        "bib0240": {
+            "authors": [
+                {
+                    "first": "Jan M.",
+                    "initial": "J.M.",
+                    "last": "Schwenkenbecher"
+                },
+                {
+                    "first": "Thierry",
+                    "initial": "T.",
+                    "last": "Wirth"
+                },
+                {
+                    "first": "Lionel F.",
+                    "initial": "L.F.",
+                    "last": "Schnur"
+                },
+                {
+                    "first": "Charles L.",
+                    "initial": "C.L.",
+                    "last": "Jaffe"
+                },
+                {
+                    "first": "Henk",
+                    "initial": "H.",
+                    "last": "Schallig"
+                },
+                {
+                    "first": "Amer",
+                    "initial": "A.",
+                    "last": "Al-Jawabreh"
+                },
+                {
+                    "first": "Omar",
+                    "initial": "O.",
+                    "last": "Hamarsheh"
+                },
+                {
+                    "first": "Kifaya",
+                    "initial": "K.",
+                    "last": "Azmi"
+                },
+                {
+                    "first": "Francine",
+                    "initial": "F.",
+                    "last": "Pratlong"
+                },
+                {
+                    "first": "Gabriele",
+                    "initial": "G.",
+                    "last": "Sch\u00f6nian"
+                }
+            ],
+            "doi": "10.1016/j.ijpara.2005.09.010",
+            "firstpage": "237",
+            "issn": "00207519",
+            "lastpage": "246",
+            "pmid": "16307745",
+            "pub_year": 2006,
+            "title": "Microsatellite analysis reveals genetic structure of Leishmania tropica",
+            "volume": "36"
+        },
+        "bib0245": {
+            "authors": [
+                {
+                    "first": "J. M.",
+                    "initial": "J.M.",
+                    "last": "Smith"
+                },
+                {
+                    "first": "N. H.",
+                    "initial": "N.H.",
+                    "last": "Smith"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "O'Rourke"
+                },
+                {
+                    "first": "B. G.",
+                    "initial": "B.G.",
+                    "last": "Spratt"
+                }
+            ],
+            "doi": "10.1073/pnas.90.10.4384",
+            "firstpage": "4384",
+            "issn": "00278424",
+            "lastpage": "4388",
+            "pmid": "8506277",
+            "pub_year": 1993,
+            "title": "How clonal are bacteria?",
+            "volume": "90"
+        },
+        "bib0250": {
+            "authors": [
+                {
+                    "first": "Yvon",
+                    "initial": "Y.",
+                    "last": "Sterkers"
+                },
+                {
+                    "first": "Laurence",
+                    "initial": "L.",
+                    "last": "Lachaud"
+                },
+                {
+                    "first": "Lucien",
+                    "initial": "L.",
+                    "last": "Crobu"
+                },
+                {
+                    "first": "Patrick",
+                    "initial": "P.",
+                    "last": "Bastien"
+                },
+                {
+                    "first": "Michel",
+                    "initial": "M.",
+                    "last": "Pag\u00e8s"
+                }
+            ],
+            "doi": "10.1111/j.1462-5822.2010.01534.x",
+            "firstpage": "274",
+            "issn": "14625814",
+            "lastpage": "283",
+            "pmid": "20964798",
+            "pub_year": 2011,
+            "title": "FISH analysis reveals aneuploidy and continual generation of chromosomal mosaicism in Leishmania major",
+            "volume": "13"
+        },
+        "bib0255": {
+            "authors": [
+                {
+                    "first": "Yvon",
+                    "initial": "Y.",
+                    "last": "Sterkers"
+                },
+                {
+                    "first": "Lucien",
+                    "initial": "L.",
+                    "last": "Crobu"
+                },
+                {
+                    "first": "Laurence",
+                    "initial": "L.",
+                    "last": "Lachaud"
+                },
+                {
+                    "first": "Michel",
+                    "initial": "M.",
+                    "last": "Pag\u00e8s"
+                },
+                {
+                    "first": "Patrick",
+                    "initial": "P.",
+                    "last": "Bastien"
+                }
+            ],
+            "doi": "10.1016/j.pt.2014.07.002",
+            "firstpage": "429",
+            "issn": "14714922",
+            "lastpage": "435",
+            "pmid": "25073852",
+            "pub_year": 2014,
+            "title": "Parasexuality and mosaic aneuploidy in Leishmania: Alternative genetics",
+            "volume": "30"
+        },
+        "bib0260": {
+            "authors": [
+                {
+                    "first": "Nancy R.",
+                    "initial": "N.R.",
+                    "last": "Sturm"
+                },
+                {
+                    "first": "David A.",
+                    "initial": "D.A.",
+                    "last": "Campbell"
+                }
+            ],
+            "doi": "10.1016/j.actatropica.2009.08.018",
+            "firstpage": "35",
+            "issn": "0001706X",
+            "lastpage": "43",
+            "pmid": "19695212",
+            "pub_year": 2010,
+            "title": "Alternative lifestyles: The population structure of Trypanosoma cruzi",
+            "volume": "115"
+        },
+        "bib0265": {
+            "authors": [
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Tibayrenc"
+                },
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Ward"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Moya"
+                },
+                {
+                    "first": "F. J.",
+                    "initial": "F.J.",
+                    "last": "Ayala"
+                }
+            ],
+            "doi": "10.1073/pnas.83.1.115",
+            "firstpage": "115",
+            "issn": "00278424",
+            "lastpage": "119",
+            "pmid": "3510428",
+            "pub_year": 1986,
+            "title": "Natural populations of Trypanosoma cruzi, the agent of Chagas disease, have a complex multiclonal structure",
+            "volume": "83"
+        },
+        "bib0270": {
+            "authors": [
+                {
+                    "first": "Michel",
+                    "initial": "M.",
+                    "last": "Tibayrenc"
+                },
+                {
+                    "first": "Finn",
+                    "initial": "F.",
+                    "last": "Kjellberg"
+                },
+                {
+                    "first": "Francisco J.",
+                    "initial": "F.J.",
+                    "last": "Ayala"
+                }
+            ],
+            "doi": "10.1073/pnas.87.7.2414",
+            "firstpage": "2414",
+            "issn": "00278424",
+            "lastpage": "2418",
+            "pmid": "2320563",
+            "pub_year": 1990,
+            "title": "A clonal theory of parasitic protozoa: The population structures of Entamoeba, Giardia, Leishmania, Naegleria, Plasmodium, Trichomonas, and Trypanosoma and their medical and taxonomical consequences",
+            "volume": "87"
+        },
+        "bib0275": {
+            "authors": [
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Tibayrenc"
+                },
+                {
+                    "first": "F. J.",
+                    "initial": "F.J.",
+                    "last": "Ayala"
+                }
+            ],
+            "doi": "10.1016/0169-4758(91)90234-F",
+            "firstpage": "228",
+            "issn": "01694758",
+            "lastpage": "232",
+            "pub_year": 1991,
+            "title": "Towards a population genetics of microorganisms: The clonal theory of parasitic protozoa",
+            "volume": "7"
+        },
+        "bib0280": {
+            "authors": [
+                {
+                    "first": "Michel",
+                    "initial": "M.",
+                    "last": "Tibayrenc"
+                },
+                {
+                    "first": "Francisco J.",
+                    "initial": "F.J.",
+                    "last": "Ayala"
+                }
+            ],
+            "doi": "10.1073/pnas.1212452109",
+            "firstpage": "E3305",
+            "issn": "00278424",
+            "lastpage": "E3313",
+            "pmid": "22949662",
+            "pub_year": 2012,
+            "title": "Reproductive clonality of pathogens: A perspective on pathogenic viruses, bacteria, fungi, and parasitic protozoa",
+            "volume": "109"
+        },
+        "bib0285": {
+            "authors": [
+                {
+                    "first": "Michel",
+                    "initial": "M.",
+                    "last": "Tibayrenc"
+                },
+                {
+                    "first": "Francisco J.",
+                    "initial": "F.J.",
+                    "last": "Ayala"
+                }
+            ],
+            "doi": "10.1016/j.pt.2013.03.007",
+            "firstpage": "264",
+            "issn": "14714922",
+            "lastpage": "269",
+            "pmid": "23602631",
+            "pub_year": 2013,
+            "title": "How clonal are Trypanosoma and Leishmania?",
+            "volume": "29"
+        },
+        "bib0290": {
+            "authors": [
+                {
+                    "first": "Michel",
+                    "initial": "M.",
+                    "last": "Tibayrenc"
+                },
+                {
+                    "first": "Francisco J.",
+                    "initial": "F.J.",
+                    "last": "Ayala"
+                }
+            ],
+            "doi": "10.1371/journal.ppat.1003908",
+            "issn": "15537366",
+            "pmid": "24722548",
+            "pub_year": 2014,
+            "title": "Cryptosporidium, Giardia, Cryptococcus, Pneumocystis Genetic Variability: Cryptic Biological Species or Clonal Near-Clades?",
+            "volume": "10"
+        },
+        "bib0295": {
+            "authors": [
+                {
+                    "first": "Michel",
+                    "initial": "M.",
+                    "last": "Tibayrenc"
+                },
+                {
+                    "first": "Francisco J.",
+                    "initial": "F.J.",
+                    "last": "Ayala"
+                }
+            ],
+            "doi": "10.1016/B978-0-12-800099-1.00005-3",
+            "firstpage": "253",
+            "issn": "0065308X",
+            "lastpage": "268",
+            "pmid": "24480316",
+            "pub_year": 2014,
+            "title": "New insights into clonality and panmixia in plasmodium and toxoplasma",
+            "volume": "84"
+        },
+        "bib0300": {
+            "authors": [
+                {
+                    "first": "Nicol\u00e1s",
+                    "initial": "N.",
+                    "last": "Tomasini"
+                },
+                {
+                    "first": "Juan J.",
+                    "initial": "J.J.",
+                    "last": "Lauthier"
+                },
+                {
+                    "first": "Mar\u00eda M.",
+                    "initial": "M.M.",
+                    "last": "Monje Rumi"
+                },
+                {
+                    "first": "Paula G.",
+                    "initial": "P.G.",
+                    "last": "Ragone"
+                },
+                {
+                    "first": "Anah\u00ed M.",
+                    "initial": "A.M.",
+                    "last": "Alberti D'Amato"
+                },
+                {
+                    "first": "Cecilia P\u00e9rez",
+                    "initial": "C.P.",
+                    "last": "Brand\u00e1n"
+                },
+                {
+                    "first": "Miguel A.",
+                    "initial": "M.A.",
+                    "last": "Basombr\u00edo"
+                },
+                {
+                    "first": "Patricio",
+                    "initial": "P.",
+                    "last": "Diosque"
+                }
+            ],
+            "doi": "10.1016/j.meegid.2014.08.003",
+            "firstpage": "348",
+            "issn": "15671348",
+            "lastpage": "354",
+            "pmid": "25111612",
+            "pub_year": 2014,
+            "title": "Preponderant clonal evolution of Trypanosoma cruzi I from Argentinean Chaco revealed by Multilocus Sequence Typing (MLST)",
+            "volume": "27"
+        },
+        "bib0305": {
+            "authors": [
+                {
+                    "first": "Nicol\u00e1s",
+                    "initial": "N.",
+                    "last": "Tomasini"
+                },
+                {
+                    "first": "Juan Jos\u00e9",
+                    "initial": "J.J.",
+                    "last": "Lauthier"
+                },
+                {
+                    "first": "Francisco Jos\u00e9",
+                    "initial": "F.J.",
+                    "last": "Ayala"
+                },
+                {
+                    "first": "Michel",
+                    "initial": "M.",
+                    "last": "Tibayrenc"
+                },
+                {
+                    "first": "Patricio",
+                    "initial": "P.",
+                    "last": "Diosque"
+                }
+            ],
+            "doi": "10.1371/journal.pone.0103131",
+            "issn": "19326203",
+            "pmid": "25054834",
+            "pub_year": 2014,
+            "title": "How often do they have sex? A comparative analysis of the population structure of seven eukaryotic microbial pathogens",
+            "volume": "9"
+        },
+        "bib0310": {
+            "authors": [
+                {
+                    "first": "Nicol\u00e1s",
+                    "initial": "N.",
+                    "last": "Tomasini"
+                },
+                {
+                    "first": "Patricio",
+                    "initial": "P.",
+                    "last": "Diosque"
+                }
+            ],
+            "doi": "10.1590/0074-02760140401",
+            "firstpage": "403",
+            "issn": "00740276",
+            "lastpage": "413",
+            "pmid": "25807469",
+            "pub_year": 2015,
+            "title": "Evolution of Trypanosoma cruzi: Clarifying hybridisations, mitochondrial introgressions and phylogenetic relationships between major lineages",
+            "volume": "110"
+        },
+        "bib0315": {
+            "authors": [
+                {
+                    "first": "Petr",
+                    "initial": "P.",
+                    "last": "Volf"
+                },
+                {
+                    "first": "Ivana",
+                    "initial": "I.",
+                    "last": "Benkova"
+                },
+                {
+                    "first": "Jitka",
+                    "initial": "J.",
+                    "last": "Myskova"
+                },
+                {
+                    "first": "Jovana",
+                    "initial": "J.",
+                    "last": "Sadlova"
+                },
+                {
+                    "first": "Lenea",
+                    "initial": "L.",
+                    "last": "Campino"
+                },
+                {
+                    "first": "Christophe",
+                    "initial": "C.",
+                    "last": "Ravel"
+                }
+            ],
+            "doi": "10.1016/j.ijpara.2007.02.002",
+            "firstpage": "589",
+            "issn": "00207519",
+            "lastpage": "593",
+            "pmid": "17376453",
+            "pub_year": 2007,
+            "title": "Increased transmission potential of Leishmania major/Leishmania infantum hybrids",
+            "volume": "37"
+        },
+        "bib0320": {
+            "authors": [
+                {
+                    "first": "Scott J.",
+                    "initial": "S.J.",
+                    "last": "Westenberger"
+                },
+                {
+                    "first": "Christian",
+                    "initial": "C.",
+                    "last": "Barnab\u00e9"
+                },
+                {
+                    "first": "David A.",
+                    "initial": "D.A.",
+                    "last": "Campbell"
+                },
+                {
+                    "first": "Nancy R.",
+                    "initial": "N.R.",
+                    "last": "Sturm"
+                }
+            ],
+            "doi": "10.1534/genetics.104.038745",
+            "firstpage": "527",
+            "issn": "00166731",
+            "lastpage": "543",
+            "pmid": "15998728",
+            "pub_year": 2005,
+            "title": "Two hybridization events define the population structure of Trypanosoma cruzi",
+            "volume": "171"
+        },
+        "bib0325": {
+            "authors": [
+                {
+                    "first": "Matthew",
+                    "initial": "M.",
+                    "last": "Yeo"
+                },
+                {
+                    "first": "Isabel L.",
+                    "initial": "I.L.",
+                    "last": "Mauricio"
+                },
+                {
+                    "first": "Louisa A.",
+                    "initial": "L.A.",
+                    "last": "Messenger"
+                },
+                {
+                    "first": "Michael D.",
+                    "initial": "M.D.",
+                    "last": "Lewis"
+                },
+                {
+                    "first": "Martin S.",
+                    "initial": "M.S.",
+                    "last": "Llewellyn"
+                },
+                {
+                    "first": "Nidia",
+                    "initial": "N.",
+                    "last": "Acosta"
+                },
+                {
+                    "first": "Tapan",
+                    "initial": "T.",
+                    "last": "Bhattacharyya"
+                },
+                {
+                    "first": "Patricio",
+                    "initial": "P.",
+                    "last": "Diosque"
+                },
+                {
+                    "first": "Hernan J.",
+                    "initial": "H.J.",
+                    "last": "Carrasco"
+                },
+                {
+                    "first": "Michael A.",
+                    "initial": "M.A.",
+                    "last": "Miles"
+                }
+            ],
+            "doi": "10.1371/journal.pntd.0001049",
+            "issn": "19352727",
+            "pmid": "21713026",
+            "pub_year": 2011,
+            "title": "Multilocus sequence typing (MLST) for lineage assignment and high resolution diversity studies in Trypanosoma cruzi",
+            "volume": "5"
+        },
+        "bib0330": {
+            "authors": [
+                {
+                    "first": "B.",
+                    "initial": "B.",
+                    "last": "Zingales"
+                },
+                {
+                    "first": "S. G.",
+                    "initial": "S.G.",
+                    "last": "Andrade"
+                },
+                {
+                    "first": "M. R.S.",
+                    "initial": "M.R.S.",
+                    "last": "Briones"
+                },
+                {
+                    "first": "D. A.",
+                    "initial": "D.A.",
+                    "last": "Campbell"
+                },
+                {
+                    "first": "E.",
+                    "initial": "E.",
+                    "last": "Chiari"
+                },
+                {
+                    "first": "O.",
+                    "initial": "O.",
+                    "last": "Fernandes"
+                },
+                {
+                    "first": "F.",
+                    "initial": "F.",
+                    "last": "Guhl"
+                },
+                {
+                    "first": "E.",
+                    "initial": "E.",
+                    "last": "Lages-Silva"
+                },
+                {
+                    "first": "A. M.",
+                    "initial": "A.M.",
+                    "last": "Macedo"
+                },
+                {
+                    "first": "C. R.",
+                    "initial": "C.R.",
+                    "last": "Machado"
+                },
+                {
+                    "first": "M. A.",
+                    "initial": "M.A.",
+                    "last": "Miles"
+                },
+                {
+                    "first": "A. J.",
+                    "initial": "A.J.",
+                    "last": "Romanha"
+                },
+                {
+                    "first": "N. R.",
+                    "initial": "N.R.",
+                    "last": "Sturm"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Tibayrenc"
+                },
+                {
+                    "first": "A. G.",
+                    "initial": "A.G.",
+                    "last": "Schijman"
+                }
+            ],
+            "doi": "10.1590/S0074-02762009000700021",
+            "firstpage": "1051",
+            "issn": "00740276",
+            "lastpage": "1054",
+            "pmid": "20027478",
+            "pub_year": 2009,
+            "title": "A new consensus for Trypanosoma cruzi intraspecific nomenclature: Second revision meeting recommends TcI to TcVI",
+            "volume": "104"
+        },
+        "bib0335": {
+            "authors": [
+                {
+                    "first": "Federico A.",
+                    "initial": "F.A.",
+                    "last": "Zumaya-Estrada"
+                },
+                {
+                    "first": "Louisa A.",
+                    "initial": "L.A.",
+                    "last": "Messenger"
+                },
+                {
+                    "first": "Teresa",
+                    "initial": "T.",
+                    "last": "Lopez-Ordonez"
+                },
+                {
+                    "first": "Michael D.",
+                    "initial": "M.D.",
+                    "last": "Lewis"
+                },
+                {
+                    "first": "Carlos A.",
+                    "initial": "C.A.",
+                    "last": "Flores-Lopez"
+                },
+                {
+                    "first": "Alejandro J.",
+                    "initial": "A.J.",
+                    "last": "Mart\u00ednez-Ibarra"
+                },
+                {
+                    "first": "Pamela M.",
+                    "initial": "P.M.",
+                    "last": "Pennington"
+                },
+                {
+                    "first": "Celia",
+                    "initial": "C.",
+                    "last": "Cordon-Rosales"
+                },
+                {
+                    "first": "Hernan V.",
+                    "initial": "H.V.",
+                    "last": "Carrasco"
+                },
+                {
+                    "first": "Maikel",
+                    "initial": "M.",
+                    "last": "Segovia"
+                },
+                {
+                    "first": "Michael A.",
+                    "initial": "M.A.",
+                    "last": "Miles"
+                },
+                {
+                    "first": "Martin S.",
+                    "initial": "M.S.",
+                    "last": "Llewellyn"
+                }
+            ],
+            "doi": "10.1186/1756-3305-5-226",
+            "issn": "17563305",
+            "pmid": "23050833",
+            "pub_year": 2012,
+            "title": "North American import? Charting the origins of an enigmatic Trypanosoma cruzi domestic genotype",
+            "volume": "5"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 12278,
+            "parents": [],
+            "refoffsets": {
+                "bib0155": {
+                    "endOffset": 12276,
+                    "startOffset": 12258
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "T. cruzi isolates display remarkable genetic diversity, which is widely believed to contribute to the considerable biological, epidemiological and clinical variation observed among Chagas disease foci (Miles et al., 2009).",
+            "startOffset": 12056,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22055,
+            "parents": [],
+            "refoffsets": {
+                "bib0120": {
+                    "endOffset": 22053,
+                    "startOffset": 22035
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "Subsequent prolonged maintenance of the experimental hybrids in axenic cultures demonstrated a gradual, progressive decline in DNA content, with no evidence of any true meiotic reductive division; to date these strains remain sub-tetraploid (Lewis et al., 2010).",
+            "startOffset": 21793,
+            "title": "Reconciling mechanisms of T. cruzi recombination in vitro and among natural populations"
+        },
+        {
+            "endOffset": 19592,
+            "parents": [],
+            "secId": "sec0010",
+            "sentence": "A mosaic maxicircle sequence was detected in a human TcI isolate and the presence of a recombination breakpoint confirmed by allele-specific PCR.",
+            "startOffset": 19447,
+            "title": "Genetic exchange among T. cruzi field populations"
+        },
+        {
+            "endOffset": 26809,
+            "parents": [],
+            "secId": "sec0030",
+            "sentence": "The precedent in experimental design established by such studies may represent the most promising intermediary in T. cruzi population genetics until imminently superseded by comparative population genomics.",
+            "startOffset": 26603,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 18482,
+            "parents": [],
+            "refoffsets": {
+                "bib0145": {
+                    "endOffset": 18480,
+                    "startOffset": 18436
+                },
+                "bib0200": {
+                    "endOffset": 18480,
+                    "startOffset": 18436
+                }
+            },
+            "secId": "sec0010",
+            "sentence": "However, it is highly improbable that mutation rate variation could account for the observation of nearly identical nuclear genotypes with radically divergent mitochondrial genomes, particularly when putative donors and recipients are identified within the same population (Messenger et al., 2012; Ram\u00edrez et al., 2012).",
+            "startOffset": 18162,
+            "title": "Genetic exchange among T. cruzi field populations"
+        },
+        {
+            "endOffset": 13262,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "These hybrid DTUs circulate almost exclusively in domestic transmission cycles and are sympatric with severe clinical sequelae in southern endemic areas.",
+            "startOffset": 13109,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 14928,
+            "parents": [],
+            "refoffsets": {
+                "bib0020": {
+                    "endOffset": 14926,
+                    "startOffset": 14816
+                },
+                "bib0040": {
+                    "endOffset": 14926,
+                    "startOffset": 14816
+                },
+                "bib0115": {
+                    "endOffset": 14926,
+                    "startOffset": 14816
+                },
+                "bib0125": {
+                    "endOffset": 14926,
+                    "startOffset": 14816
+                },
+                "bib0140": {
+                    "endOffset": 14926,
+                    "startOffset": 14816
+                },
+                "bib0325": {
+                    "endOffset": 14926,
+                    "startOffset": 14816
+                }
+            },
+            "secId": "sec0010",
+            "sentence": "At the inter-lineage level, DTUs TcV and TcVI are unequivocal hybrids, which resemble diploid, heterozygous Mendelian F1 progeny, sharing intact alleles from their parental progenitors (TcII and TcIII) (Machado and Ayala, 2001; Brisse et al., 2003; Barnab\u00e9 et al., 2011; Lewis et al., 2009, 2011; Yeo et al., 2011).",
+            "startOffset": 14613,
+            "title": "Genetic exchange among T. cruzi field populations"
+        },
+        {
+            "endOffset": 23472,
+            "parents": [],
+            "refoffsets": {
+                "bib0245": {
+                    "endOffset": 23470,
+                    "startOffset": 23452
+                }
+            },
+            "secId": "sec0020",
+            "sentence": "Grouping of divergent non-recombining subgroups (in the case of T. cruzi, major DTUs) can inflate genetic linkage statistics and mask recombination events occurring between more closely related individuals (Smith et al., 1993).",
+            "startOffset": 23245,
+            "title": "Problems of detecting recombination among field populations"
+        },
+        {
+            "endOffset": 15268,
+            "parents": [],
+            "refoffsets": {
+                "bib0060": {
+                    "endOffset": 15111,
+                    "startOffset": 15068
+                },
+                "bib0075": {
+                    "endOffset": 15266,
+                    "startOffset": 15183
+                },
+                "bib0125": {
+                    "endOffset": 15111,
+                    "startOffset": 15068
+                },
+                "bib0260": {
+                    "endOffset": 15266,
+                    "startOffset": 15183
+                },
+                "bib0320": {
+                    "endOffset": 15266,
+                    "startOffset": 15183
+                }
+            },
+            "secId": "sec0010",
+            "sentence": "The origin(s) of these hybrid DTUs is presently unresolved; it is unclear whether they arose from two independent genetic exchange events (De Freitas et al., 2006; Lewis et al., 2011) or a single incidence of hybridization followed by clonal divergence (Westenberger et al., 2005; Sturm and Campbell, 2010; Flores-L\u00f3pez and Machado, 2011).",
+            "startOffset": 14929,
+            "title": "Genetic exchange among T. cruzi field populations"
+        },
+        {
+            "endOffset": 25576,
+            "parents": [],
+            "refoffsets": {
+                "bib0005": {
+                    "endOffset": 25145,
+                    "startOffset": 25123
+                },
+                "bib0045": {
+                    "endOffset": 25204,
+                    "startOffset": 25157
+                },
+                "bib0055": {
+                    "endOffset": 25204,
+                    "startOffset": 25157
+                },
+                "bib0170": {
+                    "endOffset": 25446,
+                    "startOffset": 25397
+                },
+                "bib0225": {
+                    "endOffset": 25303,
+                    "startOffset": 25284
+                },
+                "bib0240": {
+                    "endOffset": 25446,
+                    "startOffset": 25397
+                },
+                "bib0315": {
+                    "endOffset": 25110,
+                    "startOffset": 25093
+                }
+            },
+            "secId": "sec0025",
+            "sentence": "Observations of natural Leishmania hybrids indicate that genetic exchange can impact vector permissibility (Volf et al., 2007), increase (Akopyants et al., 2009) or alter (Cortes et al., 2012; Calvo-\u00c1lvarez et al., 2014) virulence, including the ability to disseminate and colonize visceral organs (Romano et al., 2014), as well as generate recombinant progeny that are capable of widespread clonal propagation (Schwenkenbecher et al., 2006; Nolder et al., 2007); a scenario reminiscent of the successful establishment of TcV and TcVI among domestic transmission cycles in the Southern Cone.",
+            "startOffset": 24985,
+            "title": "Implications of hybridization for parasite phenotype"
+        },
+        {
+            "endOffset": 22404,
+            "parents": [],
+            "refoffsets": {
+                "bib0195": {
+                    "endOffset": 22402,
+                    "startOffset": 22383
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "While this parasexual mechanism of genetic exchange has a precedent in fungal species, it is challenging to reconcile with both the predominant patterns of allele inheritance observed among natural T. cruzi populations (Table 1 and Fig. 1) as well as the conservation of meiosis-specific orthologues within the T. cruzi genome (Ramesh et al., 2005).",
+            "startOffset": 22055,
+            "title": "Reconciling mechanisms of T. cruzi recombination in vitro and among natural populations"
+        },
+        {
+            "endOffset": 23048,
+            "parents": [],
+            "refoffsets": {
+                "bib0005": {
+                    "endOffset": 22890,
+                    "startOffset": 22848
+                },
+                "bib0045": {
+                    "endOffset": 23046,
+                    "startOffset": 22941
+                },
+                "bib0105": {
+                    "endOffset": 22890,
+                    "startOffset": 22848
+                },
+                "bib0220": {
+                    "endOffset": 23046,
+                    "startOffset": 22941
+                },
+                "bib0230": {
+                    "endOffset": 23046,
+                    "startOffset": 22941
+                },
+                "bib0235": {
+                    "endOffset": 23046,
+                    "startOffset": 22941
+                },
+                "bib0250": {
+                    "endOffset": 23046,
+                    "startOffset": 22941
+                },
+                "bib0255": {
+                    "endOffset": 23046,
+                    "startOffset": 22941
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "Likewise, experimental hybridization in Leishmania resembles meiosis with recurrent triploidy (Akopyants et al., 2009; Inbar et al., 2013), but inbreeding also appears frequent in nature (Calvo-\u00c1lvarez et al., 2014; Rougeron et al., 2009, 2011; Sterkers et al., 2011, 2014; Rogers et al., 2014).",
+            "startOffset": 22753,
+            "title": "Reconciling mechanisms of T. cruzi recombination in vitro and among natural populations"
+        },
+        {
+            "endOffset": 19446,
+            "parents": [],
+            "refoffsets": {
+                "bib0200": {
+                    "endOffset": 19444,
+                    "startOffset": 19424
+                }
+            },
+            "secId": "sec0010",
+            "sentence": "Interestingly, a recent study from Colombia identified biparental mitochondrial inheritance as a putative consequence of genetic exchange events (Ram\u00edrez et al., 2012).",
+            "startOffset": 19278,
+            "title": "Genetic exchange among T. cruzi field populations"
+        },
+        {
+            "endOffset": 20346,
+            "parents": [],
+            "refoffsets": {
+                "bib0090": {
+                    "endOffset": 20203,
+                    "startOffset": 20158
+                },
+                "bib0095": {
+                    "endOffset": 20203,
+                    "startOffset": 20158
+                }
+            },
+            "secId": "sec0010",
+            "sentence": "Parallel observations from experimental crosses of Trypanosoma brucei brucei (Gibson and Garside, 1990; Gibson et al., 2008), suggest that biparental mitochondrial inheritance might be a fundamental, as yet, uncharacterized, biological phenomenon in trypanosomatids.",
+            "startOffset": 20080,
+            "title": "Genetic exchange among T. cruzi field populations"
+        },
+        {
+            "endOffset": 11641,
+            "parents": [],
+            "refoffsets": {
+                "bib0210": {
+                    "endOffset": 11639,
+                    "startOffset": 11612
+                },
+                "bib0280": {
+                    "endOffset": 11477,
+                    "startOffset": 11416
+                },
+                "bib0285": {
+                    "endOffset": 11477,
+                    "startOffset": 11416
+                },
+                "bib0290": {
+                    "endOffset": 11477,
+                    "startOffset": 11416
+                },
+                "bib0295": {
+                    "endOffset": 11477,
+                    "startOffset": 11416
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "At the two extremes are the preponderate clonal evolution (PCE) model, which suggests that genetic exchange is too infrequent to break the predominant pattern of clonality, such that only \u2018restrained recombination\u2019 occurs at an evolutionary scale (Tibayrenc and Ayala, 2012, 2013; Tibayrenc and Ayala, 2014a,b), and the counter-proposition that hybridization is in fact pervasive, albeit challenging to detect, among some natural disease foci (Ram\u00edrez and Llewellyn, 2014).",
+            "startOffset": 11168,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25814,
+            "parents": [],
+            "refoffsets": {
+                "bib0150": {
+                    "endOffset": 25812,
+                    "startOffset": 25790
+                }
+            },
+            "secId": "sec0025",
+            "sentence": "Similarly, if mitochondrial introgression is exploitable as a putative mechanism of host range extension, hybrids might be expected to present higher mammalian infectivity and growth rates, especially in vectors (Messenger et al., 2015).",
+            "startOffset": 25577,
+            "title": "Implications of hybridization for parasite phenotype"
+        },
+        {
+            "endOffset": 26603,
+            "parents": [],
+            "secId": "sec0030",
+            "sentence": "Together these observations challenge the traditional paradigm of PCE in T. cruzi and highlight the need for additional, intensive and appropriately sampled field surveys, complemented by high resolution, combined nuclear and mitochondrial population genetics analyses.",
+            "startOffset": 26334,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 18982,
+            "parents": [],
+            "secId": "sec0010",
+            "sentence": "Reciprocal nuclear recombination among parasite strains undergoing mitochondrial introgression has yet to be explicitly detected, which may support an asymmetric, cryptic hybridization mechanism, or perhaps more likely, reflect the minor amount of nuclear genetic information sampled (20% of the mitochondrial genome vs. <0.1% of the nuclear genome); without whole nuclear genome sequences for introgression hybrids and parental isolates, it is impossible to distinguish between these two hypotheses.",
+            "startOffset": 18482,
+            "title": "Genetic exchange among T. cruzi field populations"
+        },
+        {
+            "endOffset": 21521,
+            "parents": [],
+            "refoffsets": {
+                "bib0035": {
+                    "endOffset": 21345,
+                    "startOffset": 21299
+                },
+                "bib0080": {
+                    "endOffset": 21345,
+                    "startOffset": 21299
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "By analogy with Candida albicans (Bennett and Johnson, 2003; Forche et al., 2008), it was proposed that nuclear fusion had created a tetraploid intermediate, followed by homologous recombination, gradual genome erosion and reversion to aneuploidy (Fig. 1).",
+            "startOffset": 21265,
+            "title": "Reconciling mechanisms of T. cruzi recombination in vitro and among natural populations"
+        },
+        {
+            "endOffset": 24737,
+            "parents": [],
+            "secId": "sec0020",
+            "sentence": "However, the low circulating parasitaemia that defines chronic Chagas disease patients often prohibits parasite isolation, and thus many studies are overly reliant on historical collections of references isolates assembled over many years.",
+            "startOffset": 24498,
+            "title": "Problems of detecting recombination among field populations"
+        },
+        {
+            "endOffset": 21792,
+            "parents": [],
+            "refoffsets": {
+                "bib0115": {
+                    "endOffset": 21790,
+                    "startOffset": 21772
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "FACs analysis of hybrid isolates reported a stable DNA content, on average, \u223c69% higher than parental strains (Lewis et al., 2009); natural T. cruzi isolates are minimally diploid but overall genome size can vary by up to 48% between different DTUs (Lewis et al., 2009).",
+            "startOffset": 21522,
+            "title": "Reconciling mechanisms of T. cruzi recombination in vitro and among natural populations"
+        },
+        {
+            "endOffset": 23244,
+            "parents": [],
+            "secId": "sec0020",
+            "sentence": "It is clear that to detect natural recombination, sample strategy, population allocation and marker choice are crucial for study design.",
+            "startOffset": 23108,
+            "title": "Problems of detecting recombination among field populations"
+        },
+        {
+            "endOffset": 20594,
+            "parents": [],
+            "refoffsets": {
+                "bib0085": {
+                    "endOffset": 20592,
+                    "startOffset": 20574
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "The generation of intra-TcI hybrids in vitro demonstrates that at least some T. cruzi strains have an extant capacity for genetic exchange (Gaunt et al., 2003).",
+            "startOffset": 20434,
+            "title": "Reconciling mechanisms of T. cruzi recombination in vitro and among natural populations"
+        },
+        {
+            "endOffset": 16504,
+            "parents": [],
+            "refoffsets": {
+                "bib0190": {
+                    "endOffset": 16502,
+                    "startOffset": 16445
+                },
+                "bib0210": {
+                    "endOffset": 16502,
+                    "startOffset": 16445
+                }
+            },
+            "secId": "sec0010",
+            "sentence": "It is unclear whether this is due to the examination of representatives from intensely sampled populations that are minimally-subdivided spatially and temporally, and therefore more likely to undergo hybridization, or if it truly reflects the analysis of strains that are more permissive to recombination (Prugnolle and De Meeus, 2010; Ram\u00edrez and Llewellyn, 2014).",
+            "startOffset": 16139,
+            "title": "Genetic exchange among T. cruzi field populations"
+        },
+        {
+            "endOffset": 19278,
+            "parents": [],
+            "refoffsets": {
+                "bib0070": {
+                    "endOffset": 19276,
+                    "startOffset": 19157
+                },
+                "bib0100": {
+                    "endOffset": 19276,
+                    "startOffset": 19157
+                },
+                "bib0210": {
+                    "endOffset": 19276,
+                    "startOffset": 19157
+                },
+                "bib0220": {
+                    "endOffset": 19276,
+                    "startOffset": 19157
+                },
+                "bib0230": {
+                    "endOffset": 19276,
+                    "startOffset": 19157
+                },
+                "bib0235": {
+                    "endOffset": 19276,
+                    "startOffset": 19157
+                }
+            },
+            "secId": "sec0010",
+            "sentence": "However, by analogy to other medically important trypanosome species, the presence of alternate, covert sexual mechanisms within the same species is not entirely unexpected (Rougeron et al., 2009, 2011; Duffy et al., 2013; Hickman et al., 2013; Rogers et al., 2014; Ram\u00edrez and Llewellyn, 2014).",
+            "startOffset": 18983,
+            "title": "Genetic exchange among T. cruzi field populations"
+        },
+        {
+            "endOffset": 24093,
+            "parents": [],
+            "refoffsets": {
+                "bib0150": {
+                    "endOffset": 24091,
+                    "startOffset": 24040
+                },
+                "bib0210": {
+                    "endOffset": 24091,
+                    "startOffset": 24040
+                }
+            },
+            "secId": "sec0020",
+            "sentence": "The use of multiple, different types of molecular markers (nuclear and mitochondrial, coding and non-coding) are required, in combination with targeted investigation of potential \u2018hybridization\u2019 zones, i.e. areas where recently diverged, genetically distinguishable subpopulations regularly interact (Messenger et al., 2015; Ram\u00edrez and Llewellyn, 2014).",
+            "startOffset": 23739,
+            "title": "Problems of detecting recombination among field populations"
+        },
+        {
+            "endOffset": 15777,
+            "parents": [],
+            "secId": "sec0010",
+            "sentence": "The evidence for any contemporary recombination between major DTUs is more limited and the genetic identity of each lineage appears largely preserved.",
+            "startOffset": 15627,
+            "title": "Genetic exchange among T. cruzi field populations"
+        },
+        {
+            "endOffset": 18161,
+            "parents": [],
+            "refoffsets": {
+                "bib0150": {
+                    "endOffset": 17957,
+                    "startOffset": 17881
+                },
+                "bib0165": {
+                    "endOffset": 17957,
+                    "startOffset": 17881
+                },
+                "bib0210": {
+                    "endOffset": 17957,
+                    "startOffset": 17881
+                },
+                "bib0285": {
+                    "endOffset": 18159,
+                    "startOffset": 18134
+                }
+            },
+            "secId": "sec0010",
+            "sentence": "One explanation, given their crucial role in growth, development and metabolism, is that asymmetric mitochondrial introgression, may satisfy the elevated necessity to escape Muller's ratchet (the irreversible accumulation of deleterious mutations resulting from clonal reproduction) compared to the nuclear genome (Messenger et al., 2015; Neiman and Taylor, 2009; Ram\u00edrez and Llewellyn, 2014); others have attributed these observations to gross differences in evolutionary pressures and molecular clocks between non-coding microsatellites and coding maxicircle genes (Tibayrenc and Ayala, 2013).",
+            "startOffset": 17566,
+            "title": "Genetic exchange among T. cruzi field populations"
+        },
+        {
+            "endOffset": 12480,
+            "parents": [],
+            "refoffsets": {
+                "bib0330": {
+                    "endOffset": 12478,
+                    "startOffset": 12457
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Current international consensus recognizes a minimum of six genetic lineages or DTUs (TcI\u2013TcVI), with distributions loosely defined by geography, ecology and transmission cycle (Zingales et al., 2009).",
+            "startOffset": 12279,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16032,
+            "parents": [],
+            "secId": "sec0010",
+            "sentence": "However, it is not known to what extent this is maintained by genetic reproductive barriers between DTUs or ecological isolation, considering, for example, historical parents TcII and TcIII now circulate in almost completely separate transmission cycles.",
+            "startOffset": 15778,
+            "title": "Genetic exchange among T. cruzi field populations"
+        },
+        {
+            "endOffset": 17044,
+            "parents": [],
+            "refoffsets": {
+                "bib0015": {
+                    "endOffset": 16930,
+                    "startOffset": 16837
+                },
+                "bib0030": {
+                    "endOffset": 16930,
+                    "startOffset": 16837
+                },
+                "bib0150": {
+                    "endOffset": 16994,
+                    "startOffset": 16972
+                },
+                "bib0175": {
+                    "endOffset": 16930,
+                    "startOffset": 16837
+                },
+                "bib0205": {
+                    "endOffset": 16930,
+                    "startOffset": 16837
+                }
+            },
+            "secId": "sec0010",
+            "sentence": "In general, genetic exchange at the nuclear level has been demonstrated by Hardy\u2013Weinberg allele frequencies, linkage equilibrium between loci, a lack of repeated multilocus genotypes (MLGs) (Barnab\u00e9 et al., 2013; Baptista et al., 2014; Oca\u00f1a-Mayorga et al., 2010; Ram\u00edrez et al., 2013) and more rarely, excess heterozygosity (Messenger et al., 2015), all consistent with meiotic allele inheritance.",
+            "startOffset": 16645,
+            "title": "Genetic exchange among T. cruzi field populations"
+        },
+        {
+            "endOffset": 22752,
+            "parents": [],
+            "refoffsets": {
+                "bib0010": {
+                    "endOffset": 22750,
+                    "startOffset": 22711
+                },
+                "bib0070": {
+                    "endOffset": 22750,
+                    "startOffset": 22711
+                },
+                "bib0180": {
+                    "endOffset": 22505,
+                    "startOffset": 22485
+                },
+                "bib0185": {
+                    "endOffset": 22582,
+                    "startOffset": 22562
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "A similar paradox exists in T. b. brucei where canonical meiotic recombination (Peacock et al., 2011), including the formation of haploid life cycle stages (Peacock et al., 2014), has been explicitly described, but is not the exclusive or obligate reproductive mechanism reported from transmission cycles (Balmer et al., 2011; Duffy et al., 2013).",
+            "startOffset": 22405,
+            "title": "Reconciling mechanisms of T. cruzi recombination in vitro and among natural populations"
+        },
+        {
+            "endOffset": 13849,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "A clear understanding of the impact of genetic exchange on the ecological and geographical distributions and clinical characteristics of T. cruzi strains is crucial to establish the epidemiological risk associated with recombinant genotypes and to reconcile the implications parasite hybridization has at both the generational and evolutionary scales.",
+            "startOffset": 13498,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 15626,
+            "parents": [],
+            "refoffsets": {
+                "bib0125": {
+                    "endOffset": 15624,
+                    "startOffset": 15582
+                },
+                "bib0145": {
+                    "endOffset": 15624,
+                    "startOffset": 15582
+                },
+                "bib0310": {
+                    "endOffset": 15542,
+                    "startOffset": 15489
+                },
+                "bib0320": {
+                    "endOffset": 15542,
+                    "startOffset": 15489
+                }
+            },
+            "secId": "sec0010",
+            "sentence": "The status of TcIII and TcIV as ancient recombinants of TcI and TcII (Westenberger et al., 2005), or sister groups of TcI (Tomasini and Diosque, 2015), is more contentious, and varies based on the array of nuclear loci (Westenberger et al., 2005; Tomasini and Diosque, 2015) or mitochondrial haplotypes examined (Lewis et al., 2011; Messenger et al., 2012).",
+            "startOffset": 15269,
+            "title": "Genetic exchange among T. cruzi field populations"
+        },
+        {
+            "endOffset": 20079,
+            "parents": [],
+            "refoffsets": {
+                "bib0145": {
+                    "endOffset": 20077,
+                    "startOffset": 20055
+                }
+            },
+            "secId": "sec0010",
+            "sentence": "Uniparental inheritance of highly heteroplasmic maxicircles might present an indistinguishable scenario (if strains were characterized using basic dye-terminator sequencing) but reported mitochondrial heteroplasmy in T. cruzi, (examined using high coverage Illumina sequencing reads), is thus far low (Messenger et al., 2012).",
+            "startOffset": 19753,
+            "title": "Genetic exchange among T. cruzi field populations"
+        },
+        {
+            "endOffset": 12728,
+            "parents": [],
+            "refoffsets": {
+                "bib0040": {
+                    "endOffset": 12726,
+                    "startOffset": 12644
+                },
+                "bib0125": {
+                    "endOffset": 12726,
+                    "startOffset": 12644
+                },
+                "bib0140": {
+                    "endOffset": 12726,
+                    "startOffset": 12644
+                },
+                "bib0325": {
+                    "endOffset": 12726,
+                    "startOffset": 12644
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Genotyping using an array of markers indicate DTUs TcI\u2013TcIV form monophyletic clades and TcV and TcVI are recent, natural inter-lineage hybrids of TcII and TcIII (Machado and Ayala, 2001; Brisse et al., 2003; Lewis et al., 2011; Yeo et al., 2011).",
+            "startOffset": 12481,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19752,
+            "parents": [],
+            "secId": "sec0010",
+            "sentence": "Such a sequence is expected to arise following inter-molecular maxicircle recombination, which necessitates the inheritance of mixed mitochondrial complements.",
+            "startOffset": 19593,
+            "title": "Genetic exchange among T. cruzi field populations"
+        },
+        {
+            "endOffset": 12055,
+            "parents": [],
+            "refoffsets": {
+                "bib0280": {
+                    "endOffset": 12053,
+                    "startOffset": 12022
+                },
+                "bib0285": {
+                    "endOffset": 12053,
+                    "startOffset": 12022
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Trypanosoma cruzi, the aetiological agent of Chagas disease, often fulfils some key assumptions of PCE, which have been cited as compelling evidence that it is essentially a clonal organism, namely strong linkage disequilibrium, deviations from Hardy\u2013Weinberg allele frequencies and structuring of populations into stable, distinct genetic clades, or discrete typing units (DTUs) (Tibayrenc and Ayala, 2012, 2013).",
+            "startOffset": 11641,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20897,
+            "parents": [],
+            "refoffsets": {
+                "bib0050": {
+                    "endOffset": 20658,
+                    "startOffset": 20636
+                },
+                "bib0085": {
+                    "endOffset": 20895,
+                    "startOffset": 20877
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "Putative parental isolates identified by Carrasco et al. (1996) were transformed with episomal recombinant plasmids containing either hygromycin B or neomycin resistance genes and co-passaged through in vitro (mammalian cell cultures) and in vivo (mice and triatomine bugs) cycles (Gaunt et al., 2003).",
+            "startOffset": 20595,
+            "title": "Reconciling mechanisms of T. cruzi recombination in vitro and among natural populations"
+        },
+        {
+            "endOffset": 16138,
+            "parents": [],
+            "secId": "sec0010",
+            "sentence": "At the intra-lineage level, genetic exchange is increasingly reported, particularly among TcI populations.",
+            "startOffset": 16032,
+            "title": "Genetic exchange among T. cruzi field populations"
+        },
+        {
+            "endOffset": 14088,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "However, detecting genetic exchange among natural populations is inherently complicated by choice of samples and marker resolution, given that strains most likely to be recombining may be closely related and potentially indistinguishable.",
+            "startOffset": 13850,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16645,
+            "parents": [],
+            "secId": "sec0010",
+            "sentence": "The underlying cytological mechanisms of natural intra-TcI recombination vary between studies and genetic markers used (Table 1 and Fig. 1).",
+            "startOffset": 16505,
+            "title": "Genetic exchange among T. cruzi field populations"
+        },
+        {
+            "endOffset": 17565,
+            "parents": [],
+            "refoffsets": {
+                "bib0025": {
+                    "endOffset": 17542,
+                    "startOffset": 17450
+                },
+                "bib0125": {
+                    "endOffset": 17542,
+                    "startOffset": 17450
+                },
+                "bib0130": {
+                    "endOffset": 17401,
+                    "startOffset": 17303
+                },
+                "bib0145": {
+                    "endOffset": 17542,
+                    "startOffset": 17450
+                },
+                "bib0150": {
+                    "endOffset": 17401,
+                    "startOffset": 17303
+                },
+                "bib0200": {
+                    "endOffset": 17401,
+                    "startOffset": 17303
+                },
+                "bib0215": {
+                    "endOffset": 17542,
+                    "startOffset": 17450
+                },
+                "bib0335": {
+                    "endOffset": 17401,
+                    "startOffset": 17303
+                }
+            },
+            "secId": "sec0010",
+            "sentence": "In those studies that also examine kinetoplast DNA, mitochondrial introgression, evidenced by phylogenetic incongruence between nuclear and mitochondrial loci, is emerging as a common feature of natural transmission cycles especially within TcI populations (Lima et al., 2014; Messenger et al., 2012, 2015; Ram\u00edrez et al., 2012; Zumaya-Estrada et al., 2012) but also historically, between major lineages (Lewis et al., 2011; Messenger et al., 2012; Barnab\u00e9 and Breniere, 2012; Roellig et al., 2013) (Table 1 and Fig. 1).",
+            "startOffset": 17045,
+            "title": "Genetic exchange among T. cruzi field populations"
+        },
+        {
+            "endOffset": 21265,
+            "parents": [],
+            "refoffsets": {
+                "bib0085": {
+                    "endOffset": 21263,
+                    "startOffset": 21245
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "Isolation of six clones by double drug selection from in vitro axenic cultures, and subsequent genetic characterization by MLEE, karyotyping, microsatellite genotyping and nucleotide sequencing of housekeeping genes, indicated that these intra-lineage recombinants inherited all parental alleles at most loci and one parental maxicircle genotype (Gaunt et al., 2003).",
+            "startOffset": 20898,
+            "title": "Reconciling mechanisms of T. cruzi recombination in vitro and among natural populations"
+        },
+        {
+            "endOffset": 24869,
+            "parents": [],
+            "secId": "sec0025",
+            "sentence": "Importantly, the effects of genetic exchange on T. cruzi phenotype are unknown.",
+            "startOffset": 24790,
+            "title": "Implications of hybridization for parasite phenotype"
+        },
+        {
+            "endOffset": 26084,
+            "parents": [],
+            "secId": "sec0025",
+            "sentence": "The pathological implications of recombinant genotypes in human infections with regards to virulence, transmissibility and drug susceptibility warrant further investigation in conjunction with improved methods of identification and isolation of natural hybrids strains.",
+            "startOffset": 25815,
+            "title": "Implications of hybridization for parasite phenotype"
+        },
+        {
+            "endOffset": 24984,
+            "parents": [],
+            "refoffsets": {
+                "bib0065": {
+                    "endOffset": 24982,
+                    "startOffset": 24954
+                }
+            },
+            "secId": "sec0025",
+            "sentence": "Hybrid vigour (heterosis) is a well-documented phenomenon among parasitic protozoa (Detwiler and Criscione, 2010).",
+            "startOffset": 24870,
+            "title": "Implications of hybridization for parasite phenotype"
+        },
+        {
+            "endOffset": 14613,
+            "parents": [],
+            "refoffsets": {
+                "bib0135": {
+                    "endOffset": 14336,
+                    "startOffset": 14262
+                },
+                "bib0145": {
+                    "endOffset": 14336,
+                    "startOffset": 14262
+                },
+                "bib0150": {
+                    "endOffset": 14336,
+                    "startOffset": 14262
+                },
+                "bib0200": {
+                    "endOffset": 14336,
+                    "startOffset": 14262
+                }
+            },
+            "secId": "sec0010",
+            "sentence": "With improved sampling strategies and the development of higher resolution nuclear and mitochondrial genotyping techniques (Llewellyn et al., 2009; Messenger et al., 2012, 2015; Ram\u00edrez et al., 2012), a growing number of field studies now indicate that natural recombination in T. cruzi may be frequent, non-obligatory and idiosyncratic; potentially involving independent exchange of kinetoplast and nuclear genetic material as well as canonical meiotic mechanisms (Table 1).",
+            "startOffset": 14138,
+            "title": "Genetic exchange among T. cruzi field populations"
+        },
+        {
+            "endOffset": 23738,
+            "parents": [],
+            "refoffsets": {
+                "bib0015": {
+                    "endOffset": 23736,
+                    "startOffset": 23715
+                }
+            },
+            "secId": "sec0020",
+            "sentence": "Recent observations of the Wahlund effect obscuring Hardy\u2013Weinberg allele frequencies and linkage equilibrium within Brazilian TcII strains, caution the interpretation of statistics derived from inappropriately assigned parasite populations (Baptista et al., 2014).",
+            "startOffset": 23473,
+            "title": "Problems of detecting recombination among field populations"
+        },
+        {
+            "endOffset": 11167,
+            "parents": [],
+            "refoffsets": {
+                "bib0210": {
+                    "endOffset": 11165,
+                    "startOffset": 11014
+                },
+                "bib0245": {
+                    "endOffset": 11165,
+                    "startOffset": 11014
+                },
+                "bib0265": {
+                    "endOffset": 11165,
+                    "startOffset": 11014
+                },
+                "bib0270": {
+                    "endOffset": 11165,
+                    "startOffset": 11014
+                },
+                "bib0275": {
+                    "endOffset": 11165,
+                    "startOffset": 11014
+                },
+                "bib0280": {
+                    "endOffset": 11165,
+                    "startOffset": 11014
+                },
+                "bib0285": {
+                    "endOffset": 11165,
+                    "startOffset": 11014
+                },
+                "bib0290": {
+                    "endOffset": 11165,
+                    "startOffset": 11014
+                },
+                "bib0295": {
+                    "endOffset": 11165,
+                    "startOffset": 11014
+                },
+                "bib0300": {
+                    "endOffset": 11165,
+                    "startOffset": 11014
+                },
+                "bib0305": {
+                    "endOffset": 11165,
+                    "startOffset": 11014
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "The principal reproductive mode of a number of parasitic protozoan species is the subject of an enduring debate (Smith et al., 1993; Tibayrenc et al., 1986, 1990; Tibayrenc and Ayala, 1991, 2012, 2013, 2014a,b; Ram\u00edrez and Llewellyn, 2014; Tomasini et al., 2014a,b).",
+            "startOffset": 10901,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24497,
+            "parents": [],
+            "refoffsets": {
+                "bib0110": {
+                    "endOffset": 24288,
+                    "startOffset": 24270
+                },
+                "bib0160": {
+                    "endOffset": 24336,
+                    "startOffset": 24315
+                },
+                "bib0230": {
+                    "endOffset": 24385,
+                    "startOffset": 24364
+                },
+                "bib0235": {
+                    "endOffset": 24435,
+                    "startOffset": 24414
+                }
+            },
+            "secId": "sec0020",
+            "sentence": "The value of such high-density sampling has already been demonstrated in defining the population structures of other trypanosomatid species, e.g. Trypanosoma brucei gambiense (Koffi et al., 2009), Trypanosoma congolense (Morrison et al., 2009), Leishmania braziliensis (Rougeron et al., 2009) and Leishmania guyanensis (Rougeron et al., 2011), including establishing putative levels of genetic exchange.",
+            "startOffset": 24094,
+            "title": "Problems of detecting recombination among field populations"
+        },
+        {
+            "endOffset": 26333,
+            "parents": [],
+            "secId": "sec0030",
+            "sentence": "The majority of field studies now indicate that natural genetic exchange in T. cruzi is both contemporary and historical, responsible for shaping current parasite population structures, as well as the evolution of distinct T. cruzi DTUs.",
+            "startOffset": 26096,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 13108,
+            "parents": [],
+            "refoffsets": {
+                "bib0075": {
+                    "endOffset": 13106,
+                    "startOffset": 13056
+                },
+                "bib0125": {
+                    "endOffset": 13106,
+                    "startOffset": 13056
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Molecular dating indicates that these hybrid lineages evolved recently, within the last 60,000 years (Lewis et al., 2011), possibly from human disruption of sylvatic transmission cycles in the Southern Cone of South America, suggesting there may still be a risk of genetic exchange driving the emergence of novel recombinants (Flores-L\u00f3pez and Machado, 2011; Lewis et al., 2011).",
+            "startOffset": 12729,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 13498,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "However, the frequency of recombination occurring among natural T. cruzi populations, the precise cytological mechanisms underlying genetic exchange events and the effect of hybridization on parasite phenotype remain largely undefined.",
+            "startOffset": 13263,
+            "title": "Introduction"
+        }
+    ],
+    "docId": "S0001706X15001412",
+    "metadata": {
+        "asjc": [
+            "1109",
+            "2405",
+            "2725",
+            "3401"
+        ],
+        "authors": [
+            {
+                "email": "Louisa.messenger@lshtm.ac.uk",
+                "first": "Louisa A.",
+                "initial": "L.A.",
+                "last": "Messenger"
+            },
+            {
+                "email": null,
+                "first": "Michael A.",
+                "initial": "M.A.",
+                "last": "Miles"
+            }
+        ],
+        "doi": "10.1016/j.actatropica.2015.05.007",
+        "firstpage": "150",
+        "issn": "0001706X",
+        "keywords": [
+            "Chagas disease",
+            "Clonalitya",
+            "Cryptic sexuality",
+            "Mitochondrial introgression",
+            "Recombination",
+            "Trypanosoma cruziGenetic exchange"
+        ],
+        "lastpage": "155",
+        "openaccess": "Full",
+        "pub_year": 2015,
+        "subjareas": [
+            "AGRI",
+            "IMMU",
+            "MEDI",
+            "VETE"
+        ],
+        "title": "Evidence and importance of genetic exchange among field populations of Trypanosoma cruzi"
+    }
+}

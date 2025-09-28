@@ -1,0 +1,4743 @@
+{
+    "abstract": "Current passive surveillance data for canine rabies, particularly for the regions where the burden is highest, are inadequate for appropriate decision making on control efforts. Poor enforcement of existing legislation and poor implementation of international guidance reduce the effectiveness of surveillance systems, but another set of problems relates to the fact that canine rabies is an untreatable condition which affects very poor sectors of society. This results in an unknown, but potentially large proportion of rabies victims dying outside the health system, deaths that are unlikely to be recorded by surveillance systems based on health center records. This article critically evaluates the potential sources of information on the number of human deaths attributable to canine rabies, and how we might improve the estimates required to move towards the goal of global canine rabies elimination.",
+    "author_highlights": [
+        {
+            "endOffset": 13352,
+            "sentence": "Human rabies reporting is poor in endemic countries because of the disease\u2019s neglect and fatality.",
+            "startOffset": 13254
+        },
+        {
+            "endOffset": 13472,
+            "sentence": "Active surveillance shows that passive reporting systems can result in underreporting by up to two orders of magnitude.",
+            "startOffset": 13353
+        },
+        {
+            "endOffset": 13556,
+            "sentence": "Our best estimates of the true burden of canine rabies come from modelling studies.",
+            "startOffset": 13473
+        },
+        {
+            "endOffset": 13656,
+            "sentence": "Surveillance systems need to be strengthened and used in order for them to demonstrate their value.",
+            "startOffset": 13557
+        }
+    ],
+    "bib_entries": {
+        "bib0005": {
+            "authors": [
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Aikimbayev"
+                },
+                {
+                    "first": "D.",
+                    "initial": "D.",
+                    "last": "Briggs"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Coltan"
+                },
+                {
+                    "first": "B.",
+                    "initial": "B.",
+                    "last": "Dodet"
+                },
+                {
+                    "first": "F.",
+                    "initial": "F.",
+                    "last": "Farahtaj"
+                },
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Imnadze"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Korejwo"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Moiseieva"
+                },
+                {
+                    "first": "N.",
+                    "initial": "N.",
+                    "last": "Tordo"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Usluer"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Vodopija"
+                },
+                {
+                    "first": "N.",
+                    "initial": "N.",
+                    "last": "Vranje\u0161"
+                }
+            ],
+            "doi": "10.1111/zph.12060",
+            "firstpage": "219",
+            "issn": "18631959",
+            "lastpage": "226",
+            "pmid": "23782901",
+            "pub_year": 2014,
+            "title": "Fighting Rabies in Eastern Europe, the Middle East and Central Asia - Experts Call for a Regional Initiative for Rabies Elimination",
+            "volume": "61"
+        },
+        "bib0010": {
+            "authors": [
+                {
+                    "first": "Pascale A.",
+                    "initial": "P.A.",
+                    "last": "Allotey"
+                },
+                {
+                    "first": "Daniel D.",
+                    "initial": "D.D.",
+                    "last": "Reidpath"
+                },
+                {
+                    "first": "Natalie C.",
+                    "initial": "N.C.",
+                    "last": "Evans"
+                },
+                {
+                    "first": "Nirmala",
+                    "initial": "N.",
+                    "last": "Devarajan"
+                },
+                {
+                    "first": "Kanason",
+                    "initial": "K.",
+                    "last": "Rajagobal"
+                },
+                {
+                    "first": "Ruhaida",
+                    "initial": "R.",
+                    "last": "Bachok"
+                },
+                {
+                    "first": "Kridaraan",
+                    "initial": "K.",
+                    "last": "Komahan"
+                },
+                {
+                    "first": "Pee Geok",
+                    "initial": "P.G.",
+                    "last": "Lea"
+                },
+                {
+                    "first": null,
+                    "initial": null,
+                    "last": "Ramasamy"
+                },
+                {
+                    "first": "Matron",
+                    "initial": "M.",
+                    "last": "Thavamale"
+                },
+                {
+                    "first": "Nurizwan",
+                    "initial": "N.",
+                    "last": "Ahmad"
+                },
+                {
+                    "first": "Tahir",
+                    "initial": "T.",
+                    "last": "Aris"
+                },
+                {
+                    "first": "Feisul",
+                    "initial": "F.",
+                    "last": "Mustapha"
+                },
+                {
+                    "first": "Azahadi",
+                    "initial": "A.",
+                    "last": "Omar"
+                },
+                {
+                    "first": null,
+                    "initial": null,
+                    "last": null
+                }
+            ],
+            "doi": "10.3402/gha.v8.28219",
+            "issn": "16549880",
+            "pmid": "26140728",
+            "pub_year": 2015,
+            "title": "Let's talk about death: Data collection for verbal autopsies in a demographic and health surveillance site in Malaysia",
+            "volume": "8"
+        },
+        "bib0015": {
+            "authors": [
+                {
+                    "first": "Ashley C.",
+                    "initial": "A.C.",
+                    "last": "Banyard"
+                },
+                {
+                    "first": "Daniel L.",
+                    "initial": "D.L.",
+                    "last": "Horton"
+                },
+                {
+                    "first": "Conrad",
+                    "initial": "C.",
+                    "last": "Freuling"
+                },
+                {
+                    "first": "Thomas",
+                    "initial": "T.",
+                    "last": "M\u00fcller"
+                },
+                {
+                    "first": "Anthony R.",
+                    "initial": "A.R.",
+                    "last": "Fooks"
+                }
+            ],
+            "doi": "10.1016/j.antiviral.2013.04.004",
+            "firstpage": "357",
+            "issn": "01663542",
+            "lastpage": "364",
+            "pmid": "23603498",
+            "pub_year": 2013,
+            "title": "Control and prevention of canine rabies: The need for building laboratory-based surveillance capacity",
+            "volume": "98"
+        },
+        "bib0020": {
+            "authors": [
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Belotto"
+                },
+                {
+                    "first": "L. F.",
+                    "initial": "L.F.",
+                    "last": "Leanes"
+                },
+                {
+                    "first": "M. C.",
+                    "initial": "M.C.",
+                    "last": "Schneider"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Tamayo"
+                },
+                {
+                    "first": "E.",
+                    "initial": "E.",
+                    "last": "Correa"
+                }
+            ],
+            "doi": "10.1016/j.virusres.2005.03.006",
+            "firstpage": "5",
+            "issn": "01681702",
+            "lastpage": "12",
+            "pmid": "15896398",
+            "pub_year": 2005,
+            "title": "Overview of rabies in the Americas",
+            "volume": "111"
+        },
+        "bib0025": {
+            "authors": [
+                {
+                    "first": "K.",
+                    "initial": "K.",
+                    "last": "Bogel"
+                },
+                {
+                    "first": "E.",
+                    "initial": "E.",
+                    "last": "Motschwiller"
+                }
+            ],
+            "firstpage": "883",
+            "issn": "00429686",
+            "lastpage": "887",
+            "pmid": "3493857",
+            "pub_year": 1986,
+            "title": "Incidence of rabies and post-exposure treatment in developing countries",
+            "volume": "64"
+        },
+        "bib0030": {
+            "authors": [
+                {
+                    "first": "Sarah",
+                    "initial": "S.",
+                    "last": "Cleaveland"
+                },
+                {
+                    "first": "Eric M.",
+                    "initial": "E.M.",
+                    "last": "F\u00e8vre"
+                },
+                {
+                    "first": "Magai",
+                    "initial": "M.",
+                    "last": "Kaare"
+                },
+                {
+                    "first": "Paul G.",
+                    "initial": "P.G.",
+                    "last": "Coleman"
+                }
+            ],
+            "firstpage": "304",
+            "issn": "00429686",
+            "lastpage": "310",
+            "pmid": "12075367",
+            "pub_year": 2002,
+            "title": "Estimating human rabies mortality in the United Republic of Tanzania from dog bite injuries",
+            "volume": "80"
+        },
+        "bib0035": {
+            "authors": [
+                {
+                    "first": "Laura",
+                    "initial": "L.",
+                    "last": "Craighead"
+                },
+                {
+                    "first": "William",
+                    "initial": "W.",
+                    "last": "Gilbert"
+                },
+                {
+                    "first": "Dynatra",
+                    "initial": "D.",
+                    "last": "Subasinghe"
+                },
+                {
+                    "first": "Barbara",
+                    "initial": "B.",
+                    "last": "H\u00e4sler"
+                }
+            ],
+            "doi": "10.1016/j.prevetmed.2015.06.016",
+            "firstpage": "206",
+            "issn": "01675877",
+            "lastpage": "214",
+            "pmid": "26219675",
+            "pub_year": 2015,
+            "title": "Reconciling surveillance systems with limited resources: An evaluation of passive surveillance for rabies in an endemic setting",
+            "volume": "121"
+        },
+        "bib0040": null,
+        "bib0045": {
+            "authors": [
+                {
+                    "first": "Asefa",
+                    "initial": "A.",
+                    "last": "Deressa"
+                },
+                {
+                    "first": "Abraham",
+                    "initial": "A.",
+                    "last": "Ali"
+                },
+                {
+                    "first": "Mekoro",
+                    "initial": "M.",
+                    "last": "Beyene"
+                },
+                {
+                    "first": "Bethelehem Newaye",
+                    "initial": "B.N.",
+                    "last": "Selassie"
+                },
+                {
+                    "first": "Eshetu",
+                    "initial": "E.",
+                    "last": "Yimer"
+                },
+                {
+                    "first": "Kedir",
+                    "initial": "K.",
+                    "last": "Hussen"
+                }
+            ],
+            "doi": "10.4314/ejhd.v24i2.62961",
+            "firstpage": "127",
+            "issn": "10216790",
+            "lastpage": "132",
+            "pub_year": 2010,
+            "title": "The status of rabies in Ethiopia: A retrospective record review",
+            "volume": "24"
+        },
+        "bib0050": {
+            "authors": [
+                {
+                    "first": "Betty",
+                    "initial": "B.",
+                    "last": "Dodet"
+                }
+            ],
+            "doi": "10.1016/j.vaccine.2009.06.030",
+            "firstpage": "5027",
+            "issn": "0264410X",
+            "lastpage": "5032",
+            "pmid": "19560430",
+            "pub_year": 2009,
+            "title": "The fight against rabies in Africa: From recognition to action",
+            "volume": "27"
+        },
+        "bib0055": {
+            "authors": [
+                {
+                    "first": "Betty",
+                    "initial": "B.",
+                    "last": "Dodet"
+                },
+                {
+                    "first": "Mathurin C.",
+                    "initial": "M.C.",
+                    "last": "Tejiokem"
+                },
+                {
+                    "first": "Abdou Rahman",
+                    "initial": "A.R.",
+                    "last": "Aguemon"
+                },
+                {
+                    "first": "Herv\u00e9",
+                    "initial": "H.",
+                    "last": "Bourhy"
+                }
+            ],
+            "doi": "10.1093/inthealth/ihu071",
+            "firstpage": "4",
+            "issn": "18763413",
+            "lastpage": "6",
+            "pmid": "25303941",
+            "pub_year": 2014,
+            "title": "Human rabies deaths in Africa: Breaking the cycle of indifference",
+            "volume": "7"
+        },
+        "bib0060": null,
+        "bib0065": {
+            "authors": [
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Frey"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Mindekem"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Kessely"
+                },
+                {
+                    "first": "D.",
+                    "initial": "D.",
+                    "last": "Doumagoum Moto"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Na\u00efssengar"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Zinsstag"
+                },
+                {
+                    "first": "E.",
+                    "initial": "E.",
+                    "last": "Schelling"
+                }
+            ],
+            "doi": "10.1111/tmi.12202",
+            "firstpage": "1555",
+            "issn": "13602276",
+            "lastpage": "1562",
+            "pmid": "24118491",
+            "pub_year": 2013,
+            "title": "Survey of animal bite injuries and their management for an estimate of human rabies deaths in N'Djam\u00e9na, Chad",
+            "volume": "18"
+        },
+        "bib0070": null,
+        "bib0075": null,
+        "bib0080": null,
+        "bib0085": null,
+        "bib0090": null,
+        "bib0095": null,
+        "bib0100": {
+            "authors": [
+                {
+                    "first": "Jo",
+                    "initial": "J.",
+                    "last": "Halliday"
+                },
+                {
+                    "first": "Chris",
+                    "initial": "C.",
+                    "last": "Daborn"
+                },
+                {
+                    "first": "Harriet",
+                    "initial": "H.",
+                    "last": "Auty"
+                },
+                {
+                    "first": "Zacharia",
+                    "initial": "Z.",
+                    "last": "Mtema"
+                },
+                {
+                    "first": "Tiziana",
+                    "initial": "T.",
+                    "last": "Lembo"
+                },
+                {
+                    "first": "Barend M.de C.",
+                    "initial": "B.M.d.C.",
+                    "last": "Bronsvoort"
+                },
+                {
+                    "first": "Ian",
+                    "initial": "I.",
+                    "last": "Handel"
+                },
+                {
+                    "first": "Darryn",
+                    "initial": "D.",
+                    "last": "Knobel"
+                },
+                {
+                    "first": "Katie",
+                    "initial": "K.",
+                    "last": "Hampson"
+                },
+                {
+                    "first": "Sarah",
+                    "initial": "S.",
+                    "last": "Cleaveland"
+                }
+            ],
+            "doi": "10.1098/rstb.2011.0362",
+            "firstpage": "2872",
+            "issn": "09628436",
+            "lastpage": "2880",
+            "pmid": "22966142",
+            "pub_year": 2012,
+            "title": "Bringing together emerging and endemic zoonoses surveillance: Shared challenges and a common solution",
+            "volume": "367"
+        },
+        "bib0105": {
+            "authors": [
+                {
+                    "first": "Katie",
+                    "initial": "K.",
+                    "last": "Hampson"
+                },
+                {
+                    "first": "Laurent",
+                    "initial": "L.",
+                    "last": "Coudeville"
+                },
+                {
+                    "first": "Tiziana",
+                    "initial": "T.",
+                    "last": "Lembo"
+                },
+                {
+                    "first": "Maganga",
+                    "initial": "M.",
+                    "last": "Sambo"
+                },
+                {
+                    "first": "Alexia",
+                    "initial": "A.",
+                    "last": "Kieffer"
+                },
+                {
+                    "first": "Micha\u00ebl",
+                    "initial": "M.",
+                    "last": "Attlan"
+                },
+                {
+                    "first": "Jacques",
+                    "initial": "J.",
+                    "last": "Barrat"
+                },
+                {
+                    "first": "Jesse D.",
+                    "initial": "J.D.",
+                    "last": "Blanton"
+                },
+                {
+                    "first": "Deborah J.",
+                    "initial": "D.J.",
+                    "last": "Briggs"
+                },
+                {
+                    "first": "Sarah",
+                    "initial": "S.",
+                    "last": "Cleaveland"
+                },
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Costa"
+                },
+                {
+                    "first": "Conrad M.",
+                    "initial": "C.M.",
+                    "last": "Freuling"
+                },
+                {
+                    "first": "Elly",
+                    "initial": "E.",
+                    "last": "Hiby"
+                },
+                {
+                    "first": "Lea",
+                    "initial": "L.",
+                    "last": "Knopf"
+                },
+                {
+                    "first": "Fernando",
+                    "initial": "F.",
+                    "last": "Leanes"
+                },
+                {
+                    "first": "Fran\u00e7ois Xavier",
+                    "initial": "F.X.",
+                    "last": "Meslin"
+                },
+                {
+                    "first": "Artem",
+                    "initial": "A.",
+                    "last": "Metlin"
+                },
+                {
+                    "first": "Mary Elizabeth",
+                    "initial": "M.E.",
+                    "last": "Miranda"
+                },
+                {
+                    "first": "Thomas",
+                    "initial": "T.",
+                    "last": "M\u00fcller"
+                },
+                {
+                    "first": "Louis H.",
+                    "initial": "L.H.",
+                    "last": "Nel"
+                },
+                {
+                    "first": "Sergio",
+                    "initial": "S.",
+                    "last": "Recuenco"
+                },
+                {
+                    "first": "Charles E.",
+                    "initial": "C.E.",
+                    "last": "Rupprecht"
+                },
+                {
+                    "first": "Carolin",
+                    "initial": "C.",
+                    "last": "Schumacher"
+                },
+                {
+                    "first": "Louise",
+                    "initial": "L.",
+                    "last": "Taylor"
+                },
+                {
+                    "first": "Marco Antonio Natal",
+                    "initial": "M.A.N.",
+                    "last": "Vigilato"
+                },
+                {
+                    "first": "Jakob",
+                    "initial": "J.",
+                    "last": "Zinsstag"
+                },
+                {
+                    "first": "Jonathan",
+                    "initial": "J.",
+                    "last": "Dushoff"
+                }
+            ],
+            "doi": "10.1371/journal.pntd.0003709",
+            "issn": "19352727",
+            "pmid": "25881058",
+            "pub_year": 2015,
+            "title": "Estimating the Global Burden of Endemic Canine Rabies",
+            "volume": "9"
+        },
+        "bib0110": {
+            "authors": [
+                {
+                    "first": "Katie",
+                    "initial": "K.",
+                    "last": "Hampson"
+                },
+                {
+                    "first": "Andy",
+                    "initial": "A.",
+                    "last": "Dobson"
+                },
+                {
+                    "first": "Magai",
+                    "initial": "M.",
+                    "last": "Kaare"
+                },
+                {
+                    "first": "Jonathan",
+                    "initial": "J.",
+                    "last": "Dushoff"
+                },
+                {
+                    "first": "Matthias",
+                    "initial": "M.",
+                    "last": "Magoto"
+                },
+                {
+                    "first": "Emmanuel",
+                    "initial": "E.",
+                    "last": "Sindoya"
+                },
+                {
+                    "first": "Sarah",
+                    "initial": "S.",
+                    "last": "Cleaveland"
+                }
+            ],
+            "doi": "10.1371/journal.pntd.0000339",
+            "pmid": "19030223",
+            "pub_year": 2008,
+            "title": "Rabies exposures, post-exposure prophylaxis and deaths in a region of endemic canine rabies",
+            "volume": "2"
+        },
+        "bib0115": {
+            "authors": [
+                {
+                    "first": "Wudu Temesgen",
+                    "initial": "W.T.",
+                    "last": "Jemberu"
+                },
+                {
+                    "first": "Wassie",
+                    "initial": "W.",
+                    "last": "Molla"
+                },
+                {
+                    "first": "Gizat",
+                    "initial": "G.",
+                    "last": "Almaw"
+                },
+                {
+                    "first": "Sefinew",
+                    "initial": "S.",
+                    "last": "Alemu"
+                }
+            ],
+            "doi": "10.1371/journal.pntd.0002216",
+            "issn": "19352727",
+            "pub_year": 2013,
+            "title": "Incidence of Rabies in Humans and Domestic Animals and People's Awareness in North Gondar Zone, Ethiopia",
+            "volume": "7"
+        },
+        "bib0120": {
+            "authors": [
+                {
+                    "first": "N.",
+                    "initial": "N.",
+                    "last": "Johnson"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Un"
+                },
+                {
+                    "first": "A. R.",
+                    "initial": "A.R.",
+                    "last": "Fooks"
+                },
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Freuling"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Mller"
+                },
+                {
+                    "first": "O.",
+                    "initial": "O.",
+                    "last": "Aylan"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Vos"
+                }
+            ],
+            "doi": "10.1017/S0950268809990963",
+            "firstpage": "305",
+            "issn": "09502688",
+            "lastpage": "312",
+            "pmid": "19814851",
+            "pub_year": 2010,
+            "title": "Rabies epidemiology and control in Turkey: Past and present",
+            "volume": "138"
+        },
+        "bib0125": {
+            "authors": [
+                {
+                    "first": "P. M.",
+                    "initial": "P.M.",
+                    "last": "Kitala"
+                },
+                {
+                    "first": "J. J.",
+                    "initial": "J.J.",
+                    "last": "McDermott"
+                },
+                {
+                    "first": "M. N.",
+                    "initial": "M.N.",
+                    "last": "Kyule"
+                },
+                {
+                    "first": "J. M.",
+                    "initial": "J.M.",
+                    "last": "Gathuma"
+                }
+            ],
+            "doi": "10.1016/S0167-5877(99)00114-2",
+            "firstpage": "73",
+            "issn": "01675877",
+            "lastpage": "85",
+            "pmid": "10727745",
+            "pub_year": 2000,
+            "title": "Community-based active surveillance for rabies in Machakos District, Kenya",
+            "volume": "44"
+        },
+        "bib0130": {
+            "authors": [
+                {
+                    "first": "Darryn L.",
+                    "initial": "D.L.",
+                    "last": "Knobel"
+                },
+                {
+                    "first": "Sarah",
+                    "initial": "S.",
+                    "last": "Cleaveland"
+                },
+                {
+                    "first": "Paul G.",
+                    "initial": "P.G.",
+                    "last": "Coleman"
+                },
+                {
+                    "first": "Eric M.",
+                    "initial": "E.M.",
+                    "last": "F\u00e8vre"
+                },
+                {
+                    "first": "Martin I.",
+                    "initial": "M.I.",
+                    "last": "Meltzer"
+                },
+                {
+                    "first": "M. Elizabeth G.",
+                    "initial": "M.E.G.",
+                    "last": "Miranda"
+                },
+                {
+                    "first": "Alexandra",
+                    "initial": "A.",
+                    "last": "Shaw"
+                },
+                {
+                    "first": "Jakob",
+                    "initial": "J.",
+                    "last": "Zinsstag"
+                },
+                {
+                    "first": "Fran\u00e7ois Xavier",
+                    "initial": "F.X.",
+                    "last": "Meslin"
+                }
+            ],
+            "firstpage": "360",
+            "issn": "00429686",
+            "lastpage": "368",
+            "pmid": "15976877",
+            "pub_year": 2005,
+            "title": "Re-evaluating the burden of rabies in Africa and Asia",
+            "volume": "83"
+        },
+        "bib0135": {
+            "authors": [
+                {
+                    "first": "Rafael",
+                    "initial": "R.",
+                    "last": "Lozano"
+                },
+                {
+                    "first": "Mohsen",
+                    "initial": "M.",
+                    "last": "Naghavi"
+                },
+                {
+                    "first": "Kyle",
+                    "initial": "K.",
+                    "last": "Foreman"
+                },
+                {
+                    "first": "Stephen",
+                    "initial": "S.",
+                    "last": "Lim"
+                },
+                {
+                    "first": "Kenji",
+                    "initial": "K.",
+                    "last": "Shibuya"
+                },
+                {
+                    "first": "Victor",
+                    "initial": "V.",
+                    "last": "Aboyans"
+                },
+                {
+                    "first": "Jerry",
+                    "initial": "J.",
+                    "last": "Abraham"
+                },
+                {
+                    "first": "Timothy",
+                    "initial": "T.",
+                    "last": "Adair"
+                },
+                {
+                    "first": "Rakesh",
+                    "initial": "R.",
+                    "last": "Aggarwal"
+                },
+                {
+                    "first": "Stephanie Y.",
+                    "initial": "S.Y.",
+                    "last": "Ahn"
+                },
+                {
+                    "first": "Mohammad A.",
+                    "initial": "M.A.",
+                    "last": "AlMazroa"
+                },
+                {
+                    "first": "Miriam",
+                    "initial": "M.",
+                    "last": "Alvarado"
+                },
+                {
+                    "first": "H. Ross",
+                    "initial": "H.R.",
+                    "last": "Anderson"
+                },
+                {
+                    "first": "Laurie M.",
+                    "initial": "L.M.",
+                    "last": "Anderson"
+                },
+                {
+                    "first": "Kathryn G.",
+                    "initial": "K.G.",
+                    "last": "Andrews"
+                },
+                {
+                    "first": "Charles",
+                    "initial": "C.",
+                    "last": "Atkinson"
+                },
+                {
+                    "first": "Larry M.",
+                    "initial": "L.M.",
+                    "last": "Baddour"
+                },
+                {
+                    "first": "Suzanne",
+                    "initial": "S.",
+                    "last": "Barker-Collo"
+                },
+                {
+                    "first": "David H.",
+                    "initial": "D.H.",
+                    "last": "Bartels"
+                },
+                {
+                    "first": "Michelle L.",
+                    "initial": "M.L.",
+                    "last": "Bell"
+                },
+                {
+                    "first": "Emelia J.",
+                    "initial": "E.J.",
+                    "last": "Benjamin"
+                },
+                {
+                    "first": "Derrick",
+                    "initial": "D.",
+                    "last": "Bennett"
+                },
+                {
+                    "first": "Kavi",
+                    "initial": "K.",
+                    "last": "Bhalla"
+                },
+                {
+                    "first": "Boris",
+                    "initial": "B.",
+                    "last": "Bikbov"
+                },
+                {
+                    "first": "Aref",
+                    "initial": "A.",
+                    "last": "Bin Abdulhak"
+                },
+                {
+                    "first": "Gretchen",
+                    "initial": "G.",
+                    "last": "Birbeck"
+                },
+                {
+                    "first": "Fiona",
+                    "initial": "F.",
+                    "last": "Blyth"
+                },
+                {
+                    "first": "Ian",
+                    "initial": "I.",
+                    "last": "Bolliger"
+                },
+                {
+                    "first": "Soufiane",
+                    "initial": "S.",
+                    "last": "Boufous"
+                },
+                {
+                    "first": "Chiara",
+                    "initial": "C.",
+                    "last": "Bucello"
+                },
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "Burch"
+                },
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Burney"
+                },
+                {
+                    "first": "Jonathan",
+                    "initial": "J.",
+                    "last": "Carapetis"
+                },
+                {
+                    "first": "Honglei",
+                    "initial": "H.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Chou"
+                },
+                {
+                    "first": "Sumeet S.",
+                    "initial": "S.S.",
+                    "last": "Chugh"
+                },
+                {
+                    "first": "Luc E.",
+                    "initial": "L.E.",
+                    "last": "Coffeng"
+                },
+                {
+                    "first": "Steven D.",
+                    "initial": "S.D.",
+                    "last": "Colan"
+                },
+                {
+                    "first": "Samantha",
+                    "initial": "S.",
+                    "last": "Colquhoun"
+                },
+                {
+                    "first": "K. Ellicott",
+                    "initial": "K.E.",
+                    "last": "Colson"
+                },
+                {
+                    "first": "John",
+                    "initial": "J.",
+                    "last": "Condon"
+                },
+                {
+                    "first": "Myles D.",
+                    "initial": "M.D.",
+                    "last": "Connor"
+                },
+                {
+                    "first": "Leslie T.",
+                    "initial": "L.T.",
+                    "last": "Cooper"
+                },
+                {
+                    "first": "Matthew",
+                    "initial": "M.",
+                    "last": "Corriere"
+                },
+                {
+                    "first": "Monica",
+                    "initial": "M.",
+                    "last": "Cortinovis"
+                },
+                {
+                    "first": "Karen",
+                    "initial": "K.",
+                    "last": "Courville De Vaccaro"
+                },
+                {
+                    "first": "William",
+                    "initial": "W.",
+                    "last": "Couser"
+                },
+                {
+                    "first": "Benjamin C.",
+                    "initial": "B.C.",
+                    "last": "Cowie"
+                },
+                {
+                    "first": "Michael H.",
+                    "initial": "M.H.",
+                    "last": "Criqui"
+                },
+                {
+                    "first": "Marita",
+                    "initial": "M.",
+                    "last": "Cross"
+                },
+                {
+                    "first": "Kaustubh C.",
+                    "initial": "K.C.",
+                    "last": "Dabhadkar"
+                },
+                {
+                    "first": "Nabila",
+                    "initial": "N.",
+                    "last": "Dahodwala"
+                },
+                {
+                    "first": "Diego",
+                    "initial": "D.",
+                    "last": "De Leo"
+                },
+                {
+                    "first": "Louisa",
+                    "initial": "L.",
+                    "last": "Degenhardt"
+                },
+                {
+                    "first": "Allyne",
+                    "initial": "A.",
+                    "last": "Delossantos"
+                },
+                {
+                    "first": "Julie",
+                    "initial": "J.",
+                    "last": "Denenberg"
+                },
+                {
+                    "first": "Don C.",
+                    "initial": "D.C.",
+                    "last": "Des Jarlais"
+                },
+                {
+                    "first": "Samath D.",
+                    "initial": "S.D.",
+                    "last": "Dharmaratne"
+                },
+                {
+                    "first": "E. Ray",
+                    "initial": "E.R.",
+                    "last": "Dorsey"
+                },
+                {
+                    "first": "Tim",
+                    "initial": "T.",
+                    "last": "Driscoll"
+                },
+                {
+                    "first": "Herbert",
+                    "initial": "H.",
+                    "last": "Duber"
+                },
+                {
+                    "first": "Beth",
+                    "initial": "B.",
+                    "last": "Ebel"
+                },
+                {
+                    "first": "Patricia J.",
+                    "initial": "P.J.",
+                    "last": "Erwin"
+                },
+                {
+                    "first": "Patricia",
+                    "initial": "P.",
+                    "last": "Espindola"
+                },
+                {
+                    "first": "Majid",
+                    "initial": "M.",
+                    "last": "Ezzati"
+                },
+                {
+                    "first": "Valery",
+                    "initial": "V.",
+                    "last": "Feigin"
+                },
+                {
+                    "first": "Abraham D.",
+                    "initial": "A.D.",
+                    "last": "Flaxman"
+                },
+                {
+                    "first": "Mohammad H.",
+                    "initial": "M.H.",
+                    "last": "Forouzanfar"
+                },
+                {
+                    "first": "Francis Gerry R.",
+                    "initial": "F.G.R.",
+                    "last": "Fowkes"
+                },
+                {
+                    "first": "Richard",
+                    "initial": "R.",
+                    "last": "Franklin"
+                },
+                {
+                    "first": "Marlene",
+                    "initial": "M.",
+                    "last": "Fransen"
+                },
+                {
+                    "first": "Michael K.",
+                    "initial": "M.K.",
+                    "last": "Freeman"
+                },
+                {
+                    "first": "Sherine E.",
+                    "initial": "S.E.",
+                    "last": "Gabriel"
+                },
+                {
+                    "first": "Emmanuela",
+                    "initial": "E.",
+                    "last": "Gakidou"
+                },
+                {
+                    "first": "Flavio",
+                    "initial": "F.",
+                    "last": "Gaspari"
+                },
+                {
+                    "first": "Richard F.",
+                    "initial": "R.F.",
+                    "last": "Gillum"
+                },
+                {
+                    "first": "Diego",
+                    "initial": "D.",
+                    "last": "Gonzalez-Medina"
+                },
+                {
+                    "first": "Yara A.",
+                    "initial": "Y.A.",
+                    "last": "Halasa"
+                },
+                {
+                    "first": "Diana",
+                    "initial": "D.",
+                    "last": "Haring"
+                },
+                {
+                    "first": "James E.",
+                    "initial": "J.E.",
+                    "last": "Harrison"
+                },
+                {
+                    "first": "Rasmus",
+                    "initial": "R.",
+                    "last": "Havmoeller"
+                },
+                {
+                    "first": "Roderick J.",
+                    "initial": "R.J.",
+                    "last": "Hay"
+                },
+                {
+                    "first": "Bruno",
+                    "initial": "B.",
+                    "last": "Hoen"
+                },
+                {
+                    "first": "Peter J.",
+                    "initial": "P.J.",
+                    "last": "Hotez"
+                },
+                {
+                    "first": "Damian",
+                    "initial": "D.",
+                    "last": "Hoy"
+                },
+                {
+                    "first": "Kathryn H.",
+                    "initial": "K.H.",
+                    "last": "Jacobsen"
+                },
+                {
+                    "first": "Spencer L.",
+                    "initial": "S.L.",
+                    "last": "James"
+                },
+                {
+                    "first": "Rashmi",
+                    "initial": "R.",
+                    "last": "Jasrasaria"
+                },
+                {
+                    "first": "Sudha",
+                    "initial": "S.",
+                    "last": "Jayaraman"
+                },
+                {
+                    "first": "Nicole",
+                    "initial": "N.",
+                    "last": "Johns"
+                },
+                {
+                    "first": "Ganesan",
+                    "initial": "G.",
+                    "last": "Karthikeyan"
+                },
+                {
+                    "first": "Nicholas",
+                    "initial": "N.",
+                    "last": "Kassebaum"
+                },
+                {
+                    "first": "Andre",
+                    "initial": "A.",
+                    "last": "Keren"
+                },
+                {
+                    "first": "Jon Paul",
+                    "initial": "J.P.",
+                    "last": "Khoo"
+                },
+                {
+                    "first": "Lisa Marie",
+                    "initial": "L.M.",
+                    "last": "Knowlton"
+                },
+                {
+                    "first": "Olive",
+                    "initial": "O.",
+                    "last": "Kobusingye"
+                },
+                {
+                    "first": "Adofo",
+                    "initial": "A.",
+                    "last": "Koranteng"
+                },
+                {
+                    "first": "Rita",
+                    "initial": "R.",
+                    "last": "Krishnamurthi"
+                },
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "Lipnick"
+                },
+                {
+                    "first": "Steven E.",
+                    "initial": "S.E.",
+                    "last": "Lipshultz"
+                },
+                {
+                    "first": "Summer",
+                    "initial": "S.",
+                    "last": "Lockett Ohno"
+                },
+                {
+                    "first": "Jacqueline",
+                    "initial": "J.",
+                    "last": "Mabweijano"
+                },
+                {
+                    "first": "Michael F.",
+                    "initial": "M.F.",
+                    "last": "MacIntyre"
+                },
+                {
+                    "first": "Leslie",
+                    "initial": "L.",
+                    "last": "Mallinger"
+                },
+                {
+                    "first": "Lyn",
+                    "initial": "L.",
+                    "last": "March"
+                },
+                {
+                    "first": "Guy B.",
+                    "initial": "G.B.",
+                    "last": "Marks"
+                },
+                {
+                    "first": "Robin",
+                    "initial": "R.",
+                    "last": "Marks"
+                },
+                {
+                    "first": "Akira",
+                    "initial": "A.",
+                    "last": "Matsumori"
+                },
+                {
+                    "first": "Richard",
+                    "initial": "R.",
+                    "last": "Matzopoulos"
+                },
+                {
+                    "first": "Bongani M.",
+                    "initial": "B.M.",
+                    "last": "Mayosi"
+                },
+                {
+                    "first": "John H.",
+                    "initial": "J.H.",
+                    "last": "McAnulty"
+                },
+                {
+                    "first": "Mary M.",
+                    "initial": "M.M.",
+                    "last": "McDermott"
+                },
+                {
+                    "first": "John",
+                    "initial": "J.",
+                    "last": "McGrath"
+                },
+                {
+                    "first": "Ziad A.",
+                    "initial": "Z.A.",
+                    "last": "Memish"
+                },
+                {
+                    "first": "George A.",
+                    "initial": "G.A.",
+                    "last": "Mensah"
+                },
+                {
+                    "first": "Tony R.",
+                    "initial": "T.R.",
+                    "last": "Merriman"
+                },
+                {
+                    "first": "Catherine",
+                    "initial": "C.",
+                    "last": "Michaud"
+                },
+                {
+                    "first": "Matthew",
+                    "initial": "M.",
+                    "last": "Miller"
+                },
+                {
+                    "first": "Ted R.",
+                    "initial": "T.R.",
+                    "last": "Miller"
+                },
+                {
+                    "first": "Charles",
+                    "initial": "C.",
+                    "last": "Mock"
+                },
+                {
+                    "first": "Ana Olga",
+                    "initial": "A.O.",
+                    "last": "Mocumbi"
+                },
+                {
+                    "first": "Ali A.",
+                    "initial": "A.A.",
+                    "last": "Mokdad"
+                },
+                {
+                    "first": "Andrew",
+                    "initial": "A.",
+                    "last": "Moran"
+                },
+                {
+                    "first": "Kim",
+                    "initial": "K.",
+                    "last": "Mulholland"
+                },
+                {
+                    "first": "M. Nathan",
+                    "initial": "M.N.",
+                    "last": "Nair"
+                },
+                {
+                    "first": "Luigi",
+                    "initial": "L.",
+                    "last": "Naldi"
+                },
+                {
+                    "first": "K. M.Venkat",
+                    "initial": "K.M.V.",
+                    "last": "Narayan"
+                },
+                {
+                    "first": "Kiumarss",
+                    "initial": "K.",
+                    "last": "Nasseri"
+                },
+                {
+                    "first": "Paul",
+                    "initial": "P.",
+                    "last": "Norman"
+                },
+                {
+                    "first": "Martin",
+                    "initial": "M.",
+                    "last": "O'Donnell"
+                },
+                {
+                    "first": "Saad B.",
+                    "initial": "S.B.",
+                    "last": "Omer"
+                },
+                {
+                    "first": "Katrina",
+                    "initial": "K.",
+                    "last": "Ortblad"
+                },
+                {
+                    "first": "Richard",
+                    "initial": "R.",
+                    "last": "Osborne"
+                },
+                {
+                    "first": "Doruk",
+                    "initial": "D.",
+                    "last": "Ozgediz"
+                },
+                {
+                    "first": "Bishnu",
+                    "initial": "B.",
+                    "last": "Pahari"
+                },
+                {
+                    "first": "Jeyaraj Durai",
+                    "initial": "J.D.",
+                    "last": "Pandian"
+                },
+                {
+                    "first": "Andrea",
+                    "initial": "A.",
+                    "last": "Panozo Rivero"
+                },
+                {
+                    "first": "Rogelio",
+                    "initial": "R.",
+                    "last": "Perez Padilla"
+                },
+                {
+                    "first": "Fernando",
+                    "initial": "F.",
+                    "last": "Perez-Ruiz"
+                },
+                {
+                    "first": "Norberto",
+                    "initial": "N.",
+                    "last": "Perico"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Phillips"
+                },
+                {
+                    "first": "Kelsey",
+                    "initial": "K.",
+                    "last": "Pierce"
+                },
+                {
+                    "first": "C. Arden",
+                    "initial": "C.A.",
+                    "last": "Pope"
+                },
+                {
+                    "first": "Esteban",
+                    "initial": "E.",
+                    "last": "Porrini"
+                },
+                {
+                    "first": "Farshad",
+                    "initial": "F.",
+                    "last": "Pourmalek"
+                },
+                {
+                    "first": "Murugesan",
+                    "initial": "M.",
+                    "last": "Raju"
+                },
+                {
+                    "first": "Dharani",
+                    "initial": "D.",
+                    "last": "Ranganathan"
+                },
+                {
+                    "first": "J\u00fcrgen T.",
+                    "initial": "J.T.",
+                    "last": "Rehm"
+                },
+                {
+                    "first": "David B.",
+                    "initial": "D.B.",
+                    "last": "Rein"
+                },
+                {
+                    "first": "Guiseppe",
+                    "initial": "G.",
+                    "last": "Remuzzi"
+                },
+                {
+                    "first": "Frederick P.",
+                    "initial": "F.P.",
+                    "last": "Rivara"
+                },
+                {
+                    "first": "Thomas",
+                    "initial": "T.",
+                    "last": "Roberts"
+                },
+                {
+                    "first": "Felipe",
+                    "initial": "F.",
+                    "last": "Rodriguez De Le\u00f3n"
+                },
+                {
+                    "first": "Lisa C.",
+                    "initial": "L.C.",
+                    "last": "Rosenfeld"
+                },
+                {
+                    "first": "Lesley",
+                    "initial": "L.",
+                    "last": "Rushton"
+                },
+                {
+                    "first": "Ralph L.",
+                    "initial": "R.L.",
+                    "last": "Sacco"
+                },
+                {
+                    "first": "Joshua A.",
+                    "initial": "J.A.",
+                    "last": "Salomon"
+                },
+                {
+                    "first": "Uchechukwu",
+                    "initial": "U.",
+                    "last": "Sampson"
+                },
+                {
+                    "first": "Ella",
+                    "initial": "E.",
+                    "last": "Sanman"
+                },
+                {
+                    "first": "David C.",
+                    "initial": "D.C.",
+                    "last": "Schwebel"
+                },
+                {
+                    "first": "Maria",
+                    "initial": "M.",
+                    "last": "Segui-Gomez"
+                },
+                {
+                    "first": "Donald S.",
+                    "initial": "D.S.",
+                    "last": "Shepard"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Singh"
+                },
+                {
+                    "first": "Jessica",
+                    "initial": "J.",
+                    "last": "Singleton"
+                },
+                {
+                    "first": "Karen",
+                    "initial": "K.",
+                    "last": "Sliwa"
+                },
+                {
+                    "first": "Emma",
+                    "initial": "E.",
+                    "last": "Smith"
+                },
+                {
+                    "first": "Andrew",
+                    "initial": "A.",
+                    "last": "Steer"
+                },
+                {
+                    "first": "Jennifer A.",
+                    "initial": "J.A.",
+                    "last": "Taylor"
+                },
+                {
+                    "first": "Bernadette",
+                    "initial": "B.",
+                    "last": "Thomas"
+                },
+                {
+                    "first": "Imad M.",
+                    "initial": "I.M.",
+                    "last": "Tleyjeh"
+                },
+                {
+                    "first": "Jeffrey A.",
+                    "initial": "J.A.",
+                    "last": "Towbin"
+                },
+                {
+                    "first": "Thomas",
+                    "initial": "T.",
+                    "last": "Truelsen"
+                },
+                {
+                    "first": "Eduardo A.",
+                    "initial": "E.A.",
+                    "last": "Undurraga"
+                },
+                {
+                    "first": "N.",
+                    "initial": "N.",
+                    "last": "Venketasubramanian"
+                },
+                {
+                    "first": "Lakshmi",
+                    "initial": "L.",
+                    "last": "Vijayakumar"
+                },
+                {
+                    "first": "Theo",
+                    "initial": "T.",
+                    "last": "Vos"
+                },
+                {
+                    "first": "Gregory R.",
+                    "initial": "G.R.",
+                    "last": "Wagner"
+                },
+                {
+                    "first": "Mengru",
+                    "initial": "M.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Wenzhi",
+                    "initial": "W.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Kerrianne",
+                    "initial": "K.",
+                    "last": "Watt"
+                },
+                {
+                    "first": "Martin A.",
+                    "initial": "M.A.",
+                    "last": "Weinstock"
+                },
+                {
+                    "first": "Robert",
+                    "initial": "R.",
+                    "last": "Weintraub"
+                },
+                {
+                    "first": "James D.",
+                    "initial": "J.D.",
+                    "last": "Wilkinson"
+                },
+                {
+                    "first": "Anthony D.",
+                    "initial": "A.D.",
+                    "last": "Woolf"
+                },
+                {
+                    "first": "Sarah",
+                    "initial": "S.",
+                    "last": "Wulf"
+                },
+                {
+                    "first": "Pon Hsiu",
+                    "initial": "P.H.",
+                    "last": "Yeh"
+                },
+                {
+                    "first": "Paul",
+                    "initial": "P.",
+                    "last": "Yip"
+                },
+                {
+                    "first": "Azadeh",
+                    "initial": "A.",
+                    "last": "Zabetian"
+                },
+                {
+                    "first": "Zhi Jie",
+                    "initial": "Z.J.",
+                    "last": "Zheng"
+                },
+                {
+                    "first": "Alan D.",
+                    "initial": "A.D.",
+                    "last": "Lopez"
+                },
+                {
+                    "first": "Christopher J.L.",
+                    "initial": "C.J.L.",
+                    "last": "Murray"
+                }
+            ],
+            "doi": "10.1016/S0140-6736(12)61728-0",
+            "firstpage": "2095",
+            "issn": "01406736",
+            "lastpage": "2128",
+            "pmid": "23245604",
+            "pub_year": 2012,
+            "title": "Global and regional mortality from 235 causes of death for 20 age groups in 1990 and 2010: A systematic analysis for the Global Burden of Disease Study 2010",
+            "volume": "380"
+        },
+        "bib0140": {
+            "authors": [
+                {
+                    "first": "Sowath",
+                    "initial": "S.",
+                    "last": "Ly"
+                },
+                {
+                    "first": "Philippe",
+                    "initial": "P.",
+                    "last": "Buchy"
+                },
+                {
+                    "first": "Nay Yim",
+                    "initial": "N.Y.",
+                    "last": "Heng"
+                },
+                {
+                    "first": "Sivuth",
+                    "initial": "S.",
+                    "last": "Ong"
+                },
+                {
+                    "first": "Nareth",
+                    "initial": "N.",
+                    "last": "Chhor"
+                },
+                {
+                    "first": "Herv\u00e9",
+                    "initial": "H.",
+                    "last": "Bourhy"
+                },
+                {
+                    "first": "Sirenda",
+                    "initial": "S.",
+                    "last": "Vong"
+                }
+            ],
+            "doi": "10.1371/journal.pntd.0000511",
+            "pmid": "19907631",
+            "pub_year": 2009,
+            "title": "Rabies situation in Cambodia",
+            "volume": "3"
+        },
+        "bib0145": {
+            "authors": [
+                {
+                    "first": "Macpherson",
+                    "initial": "M.",
+                    "last": "Mallewa"
+                },
+                {
+                    "first": "Anthony R.",
+                    "initial": "A.R.",
+                    "last": "Fooks"
+                },
+                {
+                    "first": "Daniel",
+                    "initial": "D.",
+                    "last": "Banda"
+                },
+                {
+                    "first": "Patrick",
+                    "initial": "P.",
+                    "last": "Chikungwa"
+                },
+                {
+                    "first": "Limangeni",
+                    "initial": "L.",
+                    "last": "Mankhambo"
+                },
+                {
+                    "first": "Elizabeth",
+                    "initial": "E.",
+                    "last": "Molyneux"
+                },
+                {
+                    "first": "Malcolm E.",
+                    "initial": "M.E.",
+                    "last": "Molyneux"
+                },
+                {
+                    "first": "Tom",
+                    "initial": "T.",
+                    "last": "Solomon"
+                }
+            ],
+            "doi": "10.3201/eid1301.060810",
+            "firstpage": "136",
+            "issn": "10806040",
+            "lastpage": "139",
+            "pmid": "17370529",
+            "pub_year": 2007,
+            "title": "Rabies encephalitis in malaria-endemic area, Malawi, Africa",
+            "volume": "13"
+        },
+        "bib0150": null,
+        "bib0155": null,
+        "bib0160": {
+            "authors": [
+                {
+                    "first": "Louis H.",
+                    "initial": "L.H.",
+                    "last": "Nel"
+                }
+            ],
+            "doi": "10.3201/eid1904.120185",
+            "firstpage": "529",
+            "issn": "10806040",
+            "lastpage": "533",
+            "pmid": "23628197",
+            "pub_year": 2013,
+            "title": "Discrepancies in data reporting for rabies, Africa",
+            "volume": "19"
+        },
+        "bib0165": null,
+        "bib0170": null,
+        "bib0175": null,
+        "bib0180": null,
+        "bib0185": null,
+        "bib0190": null,
+        "bib0195": {
+            "authors": [
+                {
+                    "first": "Maganga",
+                    "initial": "M.",
+                    "last": "Sambo"
+                },
+                {
+                    "first": "Sarah",
+                    "initial": "S.",
+                    "last": "Cleaveland"
+                },
+                {
+                    "first": "Heather",
+                    "initial": "H.",
+                    "last": "Ferguson"
+                },
+                {
+                    "first": "Tiziana",
+                    "initial": "T.",
+                    "last": "Lembo"
+                },
+                {
+                    "first": "Cleophas",
+                    "initial": "C.",
+                    "last": "Simon"
+                },
+                {
+                    "first": "Honorati",
+                    "initial": "H.",
+                    "last": "Urassa"
+                },
+                {
+                    "first": "Katie",
+                    "initial": "K.",
+                    "last": "Hampson"
+                }
+            ],
+            "doi": "10.1371/journal.pntd.0002510",
+            "issn": "19352727",
+            "pmid": "24244767",
+            "pub_year": 2013,
+            "title": "The Burden of Rabies in Tanzania and Its Impact on Local Communities",
+            "volume": "7"
+        },
+        "bib0200": {
+            "authors": [
+                {
+                    "first": "Osman",
+                    "initial": "O.",
+                    "last": "Sankoh"
+                },
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Byass"
+                }
+            ],
+            "doi": "10.3402/gha.v7.25590",
+            "issn": "16549880",
+            "pmid": "25377341",
+            "pub_year": 2014,
+            "title": "Cause-specific mortality at INDEPTH Health and Demographic Surveillance System Sites in Africa and Asia: Concluding synthesis",
+            "volume": "7"
+        },
+        "bib0205": null,
+        "bib0210": {
+            "authors": [
+                {
+                    "first": "Stephanie",
+                    "initial": "S.",
+                    "last": "Shwiff"
+                },
+                {
+                    "first": "Katie",
+                    "initial": "K.",
+                    "last": "Hampson"
+                },
+                {
+                    "first": "Aaron",
+                    "initial": "A.",
+                    "last": "Anderson"
+                }
+            ],
+            "doi": "10.1016/j.antiviral.2013.03.004",
+            "firstpage": "352",
+            "issn": "01663542",
+            "lastpage": "356",
+            "pmid": "23499650",
+            "pub_year": 2013,
+            "title": "Potential economic benefits of eliminating canine rabies",
+            "volume": "98"
+        },
+        "bib0215": {
+            "authors": [
+                {
+                    "first": "Miao",
+                    "initial": "M.",
+                    "last": "Song"
+                },
+                {
+                    "first": "Qing",
+                    "initial": "Q.",
+                    "last": "Tang"
+                },
+                {
+                    "first": "Simon",
+                    "initial": "S.",
+                    "last": "Rayner"
+                },
+                {
+                    "first": "Xiao Yan",
+                    "initial": "X.Y.",
+                    "last": "Tao"
+                },
+                {
+                    "first": "Hao",
+                    "initial": "H.",
+                    "last": "Li"
+                },
+                {
+                    "first": "Zhen Yang",
+                    "initial": "Z.Y.",
+                    "last": "Guo"
+                },
+                {
+                    "first": "Xin Xin",
+                    "initial": "X.X.",
+                    "last": "Shen"
+                },
+                {
+                    "first": "Wen Tao",
+                    "initial": "W.T.",
+                    "last": "Jiao"
+                },
+                {
+                    "first": "Wei",
+                    "initial": "W.",
+                    "last": "Fang"
+                },
+                {
+                    "first": "Jun",
+                    "initial": "J.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Guo Dong",
+                    "initial": "G.D.",
+                    "last": "Liang"
+                }
+            ],
+            "doi": "10.1186/1471-2334-14-212",
+            "issn": "14712334",
+            "pmid": "24742224",
+            "pub_year": 2014,
+            "title": "Human rabies surveillance and control in China, 2005-2012",
+            "volume": "14"
+        },
+        "bib0220": {
+            "authors": [
+                {
+                    "first": "M. K.",
+                    "initial": "M.K.",
+                    "last": "Sudarshan"
+                },
+                {
+                    "first": "S. N.",
+                    "initial": "S.N.",
+                    "last": "Madhusudana"
+                },
+                {
+                    "first": "B. J.",
+                    "initial": "B.J.",
+                    "last": "Mahendra"
+                },
+                {
+                    "first": "N. S.N.",
+                    "initial": "N.S.N.",
+                    "last": "Rao"
+                },
+                {
+                    "first": "D. H.",
+                    "initial": "D.H.",
+                    "last": "Ashwath Narayana"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Abdul Rahman"
+                },
+                {
+                    "first": "F. X.",
+                    "initial": "F.X.",
+                    "last": "Meslin"
+                },
+                {
+                    "first": "D.",
+                    "initial": "D.",
+                    "last": "Lobo"
+                },
+                {
+                    "first": "K.",
+                    "initial": "K.",
+                    "last": "Ravikumar"
+                },
+                {
+                    "first": null,
+                    "initial": null,
+                    "last": "Gangaboraiah"
+                }
+            ],
+            "doi": "10.1016/j.ijid.2005.10.007",
+            "firstpage": "29",
+            "issn": "12019712",
+            "lastpage": "35",
+            "pmid": "16678463",
+            "pub_year": 2007,
+            "title": "Assessing the burden of human rabies in India: results of a national multi-center epidemiological survey",
+            "volume": "11"
+        },
+        "bib0225": {
+            "authors": [
+                {
+                    "first": "Wilson",
+                    "initial": "W.",
+                    "last": "Suraweera"
+                },
+                {
+                    "first": "Shaun K.",
+                    "initial": "S.K.",
+                    "last": "Morris"
+                },
+                {
+                    "first": "Rajesh",
+                    "initial": "R.",
+                    "last": "Kumar"
+                },
+                {
+                    "first": "David A.",
+                    "initial": "D.A.",
+                    "last": "Warrell"
+                },
+                {
+                    "first": "Mary J.",
+                    "initial": "M.J.",
+                    "last": "Warrell"
+                },
+                {
+                    "first": "Prabhat",
+                    "initial": "P.",
+                    "last": "Jha"
+                }
+            ],
+            "doi": "10.1371/journal.pntd.0001847",
+            "issn": "19352727",
+            "pmid": "23056661",
+            "pub_year": 2012,
+            "title": "Deaths from Symptomatically Identifiable Furious Rabies in India: A Nationally Representative Mortality Survey",
+            "volume": "6"
+        },
+        "bib0230": {
+            "authors": [
+                {
+                    "first": "L. H.",
+                    "initial": "L.H.",
+                    "last": "Taylor"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Knopf"
+                },
+                {
+                    "first": null,
+                    "initial": null,
+                    "last": null
+                }
+            ],
+            "doi": "10.1111/zph.12183",
+            "firstpage": "543",
+            "issn": "18631959",
+            "lastpage": "552",
+            "pmid": "25683444",
+            "pub_year": 2015,
+            "title": "Surveillance of Human Rabies by National Authorities - A Global Survey",
+            "volume": "62"
+        },
+        "bib0235": {
+            "authors": [
+                {
+                    "first": null,
+                    "initial": null,
+                    "last": "Tenzin"
+                },
+                {
+                    "first": "Navneet K.",
+                    "initial": "N.K.",
+                    "last": "Dhand"
+                },
+                {
+                    "first": "Tashi",
+                    "initial": "T.",
+                    "last": "Gyeltshen"
+                },
+                {
+                    "first": "Simon",
+                    "initial": "S.",
+                    "last": "Firestone"
+                },
+                {
+                    "first": "Chhimi",
+                    "initial": "C.",
+                    "last": "Zangmo"
+                },
+                {
+                    "first": "Chimi",
+                    "initial": "C.",
+                    "last": "Dema"
+                },
+                {
+                    "first": "Rawang",
+                    "initial": "R.",
+                    "last": "Gyeltshen"
+                },
+                {
+                    "first": "Michael P.",
+                    "initial": "M.P.",
+                    "last": "Ward"
+                }
+            ],
+            "doi": "10.1371/journal.pntd.0001391",
+            "issn": "19352727",
+            "pmid": "22132247",
+            "pub_year": 2011,
+            "title": "Dog bites in humans and estimating human rabies mortality in rabies endemic areas of bhutan",
+            "volume": "5"
+        },
+        "bib0245": {
+            "authors": [
+                {
+                    "first": "Eduardo A.",
+                    "initial": "E.A.",
+                    "last": "Undurraga"
+                },
+                {
+                    "first": "Yara A.",
+                    "initial": "Y.A.",
+                    "last": "Halasa"
+                },
+                {
+                    "first": "Donald S.",
+                    "initial": "D.S.",
+                    "last": "Shepard"
+                }
+            ],
+            "doi": "10.1371/journal.pntd.0002056",
+            "issn": "19352727",
+            "pub_year": 2013,
+            "title": "Use of Expansion Factors to Estimate the Burden of Dengue in Southeast Asia: A Systematic Analysis",
+            "volume": "7"
+        },
+        "bib0250": {
+            "authors": [
+                {
+                    "first": "Marco Antonio Natal",
+                    "initial": "M.A.N.",
+                    "last": "Vigilato"
+                },
+                {
+                    "first": "Alfonso",
+                    "initial": "A.",
+                    "last": "Clavijo"
+                },
+                {
+                    "first": "Terezinha",
+                    "initial": "T.",
+                    "last": "Knobl"
+                },
+                {
+                    "first": "Hugo Marcelo Tamayo",
+                    "initial": "H.M.T.",
+                    "last": "Silva"
+                },
+                {
+                    "first": "Ottorino",
+                    "initial": "O.",
+                    "last": "Cosivi"
+                },
+                {
+                    "first": "Maria Cristina",
+                    "initial": "M.C.",
+                    "last": "Schneider"
+                },
+                {
+                    "first": "Luis Fernando",
+                    "initial": "L.F.",
+                    "last": "Leanes"
+                },
+                {
+                    "first": "Albino Jos\u00e9",
+                    "initial": "A.J.",
+                    "last": "Belotto"
+                },
+                {
+                    "first": "Marcos Antonio",
+                    "initial": "M.A.",
+                    "last": "Espinal"
+                }
+            ],
+            "doi": "10.1098/rstb.2012.0143",
+            "issn": "09628436",
+            "pmid": "23798691",
+            "pub_year": 2013,
+            "title": "Progress towards eliminating canine rabies: Policies and perspectives from Latin America and the Caribbean",
+            "volume": "368"
+        },
+        "bib0255": {
+            "authors": [
+                {
+                    "first": "Ryan M.",
+                    "initial": "R.M.",
+                    "last": "Wallace"
+                },
+                {
+                    "first": "Hannah",
+                    "initial": "H.",
+                    "last": "Reses"
+                },
+                {
+                    "first": "Richard",
+                    "initial": "R.",
+                    "last": "Franka"
+                },
+                {
+                    "first": "Pierre",
+                    "initial": "P.",
+                    "last": "Dilius"
+                },
+                {
+                    "first": "Natael",
+                    "initial": "N.",
+                    "last": "Fenelon"
+                },
+                {
+                    "first": "Lillian",
+                    "initial": "L.",
+                    "last": "Orciari"
+                },
+                {
+                    "first": "Melissa",
+                    "initial": "M.",
+                    "last": "Etheart"
+                },
+                {
+                    "first": "Apollon",
+                    "initial": "A.",
+                    "last": "Destine"
+                },
+                {
+                    "first": "Kelly",
+                    "initial": "K.",
+                    "last": "Crowdis"
+                },
+                {
+                    "first": "Jesse D.",
+                    "initial": "J.D.",
+                    "last": "Blanton"
+                },
+                {
+                    "first": "Calvin",
+                    "initial": "C.",
+                    "last": "Francisco"
+                },
+                {
+                    "first": "Fleurinord",
+                    "initial": "F.",
+                    "last": "Ludder"
+                },
+                {
+                    "first": "Victor",
+                    "initial": "V.",
+                    "last": "Del Rio Vilas"
+                },
+                {
+                    "first": "Joseph",
+                    "initial": "J.",
+                    "last": "Haim"
+                },
+                {
+                    "first": "Max",
+                    "initial": "M.",
+                    "last": "Millien"
+                }
+            ],
+            "doi": "10.1371/journal.pntd.0004245",
+            "issn": "19352727",
+            "pmid": "26600437",
+            "pub_year": 2015,
+            "title": "Establishment of a Canine Rabies Burden in Haiti through the Implementation of a Novel Surveillance Program",
+            "volume": "9"
+        },
+        "bib0260": {
+            "authors": [
+                {
+                    "first": "Jacqueline",
+                    "initial": "J.",
+                    "last": "Weyer"
+                },
+                {
+                    "first": "Ania V.",
+                    "initial": "A.V.",
+                    "last": "Szmyd-Potapczuk"
+                },
+                {
+                    "first": "Lucille H.",
+                    "initial": "L.H.",
+                    "last": "Blumberg"
+                },
+                {
+                    "first": "Patricia A.",
+                    "initial": "P.A.",
+                    "last": "Leman"
+                },
+                {
+                    "first": "Wanda",
+                    "initial": "W.",
+                    "last": "Markotter"
+                },
+                {
+                    "first": "Robert",
+                    "initial": "R.",
+                    "last": "Swanepoel"
+                },
+                {
+                    "first": "Janusz T.",
+                    "initial": "J.T.",
+                    "last": "Paweska"
+                },
+                {
+                    "first": "Louis H.",
+                    "initial": "L.H.",
+                    "last": "Nel"
+                }
+            ],
+            "doi": "10.1016/j.virusres.2010.10.023",
+            "firstpage": "283",
+            "issn": "01681702",
+            "lastpage": "290",
+            "pmid": "21036195",
+            "pub_year": 2011,
+            "title": "Epidemiology of human rabies in South Africa, 1983-2007",
+            "volume": "155"
+        },
+        "bib0265": null,
+        "bib0270": null,
+        "bib0275": {
+            "authors": [
+                {
+                    "first": null,
+                    "initial": null,
+                    "last": "World Health Organization"
+                }
+            ],
+            "firstpage": "1",
+            "issn": "05123054",
+            "lastpage": "139",
+            "pmid": "24069724",
+            "pub_year": 2013,
+            "title": "WHO Expert Consultation on Rabies. Second report."
+        },
+        "bib0280": null,
+        "bib0285": null,
+        "bib0290": null,
+        "bib0295": null,
+        "bib0300": {
+            "authors": [
+                {
+                    "first": "Wenwu",
+                    "initial": "W.",
+                    "last": "Yin"
+                },
+                {
+                    "first": "Jie",
+                    "initial": "J.",
+                    "last": "Dong"
+                },
+                {
+                    "first": "Changchun",
+                    "initial": "C.",
+                    "last": "Tu"
+                },
+                {
+                    "first": "John",
+                    "initial": "J.",
+                    "last": "Edwards"
+                },
+                {
+                    "first": "Fusheng",
+                    "initial": "F.",
+                    "last": "Guo"
+                },
+                {
+                    "first": "Hang",
+                    "initial": "H.",
+                    "last": "Zhou"
+                },
+                {
+                    "first": "Hongjie",
+                    "initial": "H.",
+                    "last": "Yu"
+                },
+                {
+                    "first": "Sirenda",
+                    "initial": "S.",
+                    "last": "Vong"
+                }
+            ],
+            "doi": "10.1186/2049-9957-2-23",
+            "firstpage": "1",
+            "issn": "20499957",
+            "lastpage": "10",
+            "pub_year": 2013,
+            "title": "Challenges and needs for china to eliminate rabies",
+            "volume": "2"
+        },
+        "bib0305": {
+            "authors": [
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Zeynalova"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Shikhiyev"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Aliyeva"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Ismayilova"
+                },
+                {
+                    "first": "E.",
+                    "initial": "E.",
+                    "last": "Wise"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Abdullayev"
+                },
+                {
+                    "first": "K.",
+                    "initial": "K.",
+                    "last": "Asadov"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Rustamova"
+                },
+                {
+                    "first": "F.",
+                    "initial": "F.",
+                    "last": "Quliyev"
+                },
+                {
+                    "first": "A. M.",
+                    "initial": "A.M.",
+                    "last": "Whatmore"
+                },
+                {
+                    "first": "E. S.",
+                    "initial": "E.S.",
+                    "last": "Marshall"
+                },
+                {
+                    "first": "A. R.",
+                    "initial": "A.R.",
+                    "last": "Fooks"
+                },
+                {
+                    "first": "D. L.",
+                    "initial": "D.L.",
+                    "last": "Horton"
+                }
+            ],
+            "doi": "10.1111/zph.12119",
+            "firstpage": "111",
+            "issn": "18631959",
+            "lastpage": "118",
+            "pmid": "24845953",
+            "pub_year": 2015,
+            "title": "Epidemiological Characteristics of Human and Animal Rabies in Azerbaijan",
+            "volume": "62"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 37757,
+            "parents": [],
+            "refoffsets": {
+                "bib0295": {
+                    "endOffset": 37755,
+                    "startOffset": 37690
+                }
+            },
+            "secId": "sec0020",
+            "sentence": "Where possible these estimates relied upon high quality death registration data (vital registration records submitted to the WHO Mortality Database), disease-specific data sets (these were available for rabies only for China) and finally where no other reliable information existed for a country (applicable to most canine rabies endemic countries), cause fractions from the GBD 2010 models were applied to WHO and UN death rate estimates (WHO Department of Health Statistics and Information Systems, 2014).",
+            "startOffset": 37250,
+            "title": "Regional and global estimates derived from models"
+        },
+        {
+            "endOffset": 39925,
+            "parents": [],
+            "refoffsets": {
+                "bib0105": {
+                    "endOffset": 39923,
+                    "startOffset": 39903
+                }
+            },
+            "secId": "sec0025",
+            "sentence": "The results are consequently very sensitive to errors in these parameters, for example in the proportion of bite victims able to access PEP, and the derived estimates of human deaths are very uncertain (Hampson et al., 2015).",
+            "startOffset": 39700,
+            "title": "Which information is the most useful?"
+        },
+        {
+            "endOffset": 30870,
+            "parents": [],
+            "secId": "sec0015",
+            "sentence": "Although local surveillance research is invaluable to assess the degree of under reporting in particular settings, it is impractical to carry out on a large scale.",
+            "startOffset": 30707,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 49305,
+            "parents": [],
+            "secId": "sec0035",
+            "sentence": "However, significant efforts need to be put into increasing the submission of samples from suspected rabies cases in animals and humans for laboratory confirmation.",
+            "startOffset": 49141,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 32389,
+            "parents": [],
+            "refoffsets": {
+                "bib0130": {
+                    "endOffset": 32387,
+                    "startOffset": 32368
+                }
+            },
+            "secId": "sec0020",
+            "sentence": "The first large-scale estimate of deaths from canine rabies was published in 2005, and focused on Africa and Asia (Knobel et al., 2005).",
+            "startOffset": 32253,
+            "title": "Regional and global estimates derived from models"
+        },
+        {
+            "endOffset": 34698,
+            "parents": [],
+            "secId": "sec0020",
+            "sentence": "This work identified changes from the results of the 2005 Knobel analysis, notably a dramatic increase in cases and use of PEP in China.",
+            "startOffset": 34562,
+            "title": "Regional and global estimates derived from models"
+        },
+        {
+            "endOffset": 33338,
+            "parents": [],
+            "refoffsets": {
+                "bib0210": {
+                    "endOffset": 33188,
+                    "startOffset": 33169
+                }
+            },
+            "secId": "sec0020",
+            "sentence": "Shwiff et al. updated this study in 2013 (Shwiff et al., 2013), based on more recent population estimates and included Latin America, estimating just over 69,000 annual human deaths from canine rabies (Table 1).",
+            "startOffset": 33127,
+            "title": "Regional and global estimates derived from models"
+        },
+        {
+            "endOffset": 24974,
+            "parents": [],
+            "secId": "sec0015",
+            "sentence": "Several studies have utilized an approach involving surveys of animal bite victims.",
+            "startOffset": 24891,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 43534,
+            "parents": [],
+            "secId": "sec0030",
+            "sentence": "These trends could be explained by the inclusion in the GBD study of human rabies cases transmitted by wildlife species (a more significant factor in countries where canine rabies is a small problem), and by disproportionate under reporting of cases in poorer countries.",
+            "startOffset": 43264,
+            "title": "Combining data sources"
+        },
+        {
+            "endOffset": 16164,
+            "parents": [],
+            "refoffsets": {
+                "bib0145": {
+                    "endOffset": 16162,
+                    "startOffset": 16142
+                },
+                "bib0225": {
+                    "endOffset": 16112,
+                    "startOffset": 16090
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Instead almost all human cases are diagnosed on clinical grounds, even though rabies may present in many ways (Suraweera et al., 2012) and misdiagnosis is common (Mallewa et al., 2007).",
+            "startOffset": 15979,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 45528,
+            "parents": [],
+            "secId": "sec0035",
+            "sentence": "Active surveillance studies, even utilizing different methods, for the same country tend to produce more similar estimates of human rabies for countries with a high risk of canine rabies.",
+            "startOffset": 45341,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 44872,
+            "parents": [],
+            "secId": "sec0035",
+            "sentence": "Only regular, complete and reliable reporting of cases can provide a true picture of any disease situation, and high quality surveillance data on which to base disease management decisions (for canine rabies and other diseases) is needed.",
+            "startOffset": 44634,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 47945,
+            "parents": [],
+            "refoffsets": {
+                "bib0285": {
+                    "endOffset": 47943,
+                    "startOffset": 47933
+                }
+            },
+            "secId": "sec0035",
+            "sentence": "Despite significant progress, many countries, particularly in Africa, Southeast Asia and the Eastern Mediterranean regions remain below the global average of 85% of targets achieved (WHO, 2015a).",
+            "startOffset": 47750,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 21942,
+            "parents": [],
+            "refoffsets": {
+                "bib0045": {
+                    "endOffset": 21834,
+                    "startOffset": 21814
+                },
+                "bib0090": {
+                    "endOffset": 21870,
+                    "startOffset": 21844
+                },
+                "bib0120": {
+                    "endOffset": 21940,
+                    "startOffset": 21920
+                },
+                "bib0215": {
+                    "endOffset": 21801,
+                    "startOffset": 21766
+                },
+                "bib0260": {
+                    "endOffset": 21905,
+                    "startOffset": 21887
+                },
+                "bib0300": {
+                    "endOffset": 21801,
+                    "startOffset": 21766
+                }
+            },
+            "secId": "sec0010",
+            "sentence": "in China (Yin et al., 2013; Song et al., 2014), Ethiopia (Deressa et al., 2010), India (Government of India, 2014a), South Africa (Weyer et al., 2011), and Turkey (Johnson et al., 2010).",
+            "startOffset": 21756,
+            "title": "Using available passive surveillance data"
+        },
+        {
+            "endOffset": 41171,
+            "parents": [],
+            "secId": "sec0025",
+            "sentence": "As many rabies victims die away from the health system, hospital records are less likely to include them and verbal autopsy records can only effectively differentiate rabies deaths if a history of an animal bite is included.",
+            "startOffset": 40947,
+            "title": "Which information is the most useful?"
+        },
+        {
+            "endOffset": 18442,
+            "parents": [],
+            "refoffsets": {
+                "bib0170": {
+                    "endOffset": 18244,
+                    "startOffset": 18235
+                }
+            },
+            "secId": "sec0010",
+            "sentence": "The World Organization for Animal Health\u2019s (OIE\u2019s) World Animal Health Information Database (WAHID) system is used to collect data on human cases of zoonotic diseases, as reported by veterinary health authorities (OIE, 2015), but the data is very incomplete (Table 1), and the frequent lack of intersectoral collaboration may mean that data reported by veterinary services do not accurately reflect health sector records.",
+            "startOffset": 18021,
+            "title": "Using available passive surveillance data"
+        },
+        {
+            "endOffset": 48664,
+            "parents": [],
+            "refoffsets": {
+                "bib0165": {
+                    "endOffset": 48608,
+                    "startOffset": 48599
+                },
+                "bib0265": {
+                    "endOffset": 48538,
+                    "startOffset": 48529
+                }
+            },
+            "secId": "sec0035",
+            "sentence": "International Health Guidelines (WHO, 2008) and new Terrestrial Animal Health surveillance guidelines (OIE, 2014) are available to help strengthen surveillance systems.",
+            "startOffset": 48496,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 33126,
+            "parents": [],
+            "secId": "sec0020",
+            "sentence": "The figures reached were a global estimate of 55,000 human deaths per year (24,000 in Africa and 31,000 in Asia, Table 1).",
+            "startOffset": 33004,
+            "title": "Regional and global estimates derived from models"
+        },
+        {
+            "endOffset": 36293,
+            "parents": [],
+            "refoffsets": {
+                "bib0135": {
+                    "endOffset": 36184,
+                    "startOffset": 36165
+                }
+            },
+            "secId": "sec0020",
+            "sentence": "The GBD studies concluded that the number of human deaths caused by rabies (not differentiating canine rabies) was 26,400 (95% C.I. 15,200\u201345,200) in the 2010 study (Lozano et al., 2012), and 23,500 (95% C.I. 17,300\u201328,600) in the 2013 study (GBD Mortality Causes of Death Collaborators, 2014).",
+            "startOffset": 35999,
+            "title": "Regional and global estimates derived from models"
+        },
+        {
+            "endOffset": 39170,
+            "parents": [],
+            "secId": "sec0025",
+            "sentence": "With a few exceptions, model-derived estimates of human rabies deaths are the only measure of disease burden for canine rabies endemic countries.",
+            "startOffset": 39025,
+            "title": "Which information is the most useful?"
+        },
+        {
+            "endOffset": 19493,
+            "parents": [],
+            "refoffsets": {
+                "bib0105": {
+                    "endOffset": 19299,
+                    "startOffset": 19279
+                },
+                "bib0255": {
+                    "endOffset": 19491,
+                    "startOffset": 19471
+                }
+            },
+            "secId": "sec0010",
+            "sentence": "A case in point is Haiti, thought to account for over 90% of the current human cases of rabies transmitted by dogs in Latin America (Hampson et al., 2015), but no human rabies cases were reported from there in 2013/4, and subsequent active surveillance there has further demonstrated how current systems under report rabies (Wallace et al., 2015).",
+            "startOffset": 19146,
+            "title": "Using available passive surveillance data"
+        },
+        {
+            "endOffset": 35809,
+            "parents": [],
+            "refoffsets": {
+                "bib0135": {
+                    "endOffset": 35784,
+                    "startOffset": 35765
+                }
+            },
+            "secId": "sec0020",
+            "sentence": "In this method, a large range of plausible statistical models are developed, compared and combined, with covariates retained or rejected based on ability to predict published data using out-of-sample predictive validity testing (Lozano et al., 2012 and references therein).",
+            "startOffset": 35536,
+            "title": "Regional and global estimates derived from models"
+        },
+        {
+            "endOffset": 49626,
+            "parents": [],
+            "refoffsets": {
+                "bib0100": {
+                    "endOffset": 49624,
+                    "startOffset": 49603
+                }
+            },
+            "secId": "sec0035",
+            "sentence": "If the submitter understands that human treatment decisions or control measures may result from their efforts, they may be encouraged to submit more information or samples (Halliday et al., 2012).",
+            "startOffset": 49430,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 45917,
+            "parents": [],
+            "refoffsets": {
+                "bib0030": {
+                    "endOffset": 45915,
+                    "startOffset": 45850
+                },
+                "bib0110": {
+                    "endOffset": 45915,
+                    "startOffset": 45850
+                },
+                "bib0195": {
+                    "endOffset": 45915,
+                    "startOffset": 45850
+                }
+            },
+            "secId": "sec0035",
+            "sentence": "Likewise studies from Tanzania derived relatively similar estimates from 0.8 up to 4.9 deaths per 100,000 from different parts of the country (Cleaveland et al., 2002; Hampson et al., 2008; Sambo et al., 2013).",
+            "startOffset": 45707,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 40817,
+            "parents": [],
+            "refoffsets": {
+                "bib0135": {
+                    "endOffset": 40815,
+                    "startOffset": 40796
+                }
+            },
+            "secId": "sec0025",
+            "sentence": "Estimates of the burden of individual diseases have been criticized for their varying methods and because they are not constrained to sum to the total all-cause mortality, they may over represent specific causes of deaths (Lozano et al., 2012).",
+            "startOffset": 40573,
+            "title": "Which information is the most useful?"
+        },
+        {
+            "endOffset": 42217,
+            "parents": [],
+            "secId": "sec0025",
+            "sentence": "The major differences in methodologies are because the studies were designed to fulfill different needs.",
+            "startOffset": 42113,
+            "title": "Which information is the most useful?"
+        },
+        {
+            "endOffset": 42642,
+            "parents": [],
+            "secId": "sec0025",
+            "sentence": "However, the more detailed rabies specific data utilized in the PRP study would be expected to lead to more accurate predictions of the likely impacts of rabies control measures and therefore is more valuable for justifying country and regional based control programs.",
+            "startOffset": 42374,
+            "title": "Which information is the most useful?"
+        },
+        {
+            "endOffset": 45340,
+            "parents": [],
+            "refoffsets": {
+                "bib0030": {
+                    "endOffset": 45338,
+                    "startOffset": 45291
+                },
+                "bib0225": {
+                    "endOffset": 45338,
+                    "startOffset": 45291
+                }
+            },
+            "secId": "sec0035",
+            "sentence": "Where active surveillance has been carried out, passive data collection for the same area demonstrates dramatic under reporting (Cleaveland et al., 2002; Suraweera et al., 2012).",
+            "startOffset": 45162,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 15208,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Unfortunately, when considering neglected tropical diseases, the assessment can fall at the very first hurdle.",
+            "startOffset": 15098,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16285,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Moreover, reporting of data from local to central levels is often incomplete due to limited use of reporting structures.",
+            "startOffset": 16165,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28562,
+            "parents": [],
+            "secId": "sec0015",
+            "sentence": "These initiated community searches for other rabies deaths in the health center catchment areas and identified 235 rabies deaths.",
+            "startOffset": 28433,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 36604,
+            "parents": [],
+            "secId": "sec0020",
+            "sentence": "Methodology adjustments between the two GBD studies revised the estimated human rabies mortality in 1990 from 54,100 (95% C.I. 32,400\u2013103,400) calculated in the 2010 study to 38,400 (95% C.I. 26,700\u201348,700) calculated in the 2013 study, demonstrating the variation in outputs under different model assumptions.",
+            "startOffset": 36294,
+            "title": "Regional and global estimates derived from models"
+        },
+        {
+            "endOffset": 50692,
+            "parents": [],
+            "secId": "sec0035",
+            "sentence": "Rather than being allowed to fall into disuse, regional and global reporting systems need to be strengthened and promoted, and improvements of the resulting data and their usefulness will follow.",
+            "startOffset": 50497,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 31766,
+            "parents": [],
+            "refoffsets": {
+                "bib0110": {
+                    "endOffset": 31764,
+                    "startOffset": 31744
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "The use of contact tracing in Tanzania showed that between 15 and 24% of suspect rabies exposures did not seek medical attention, and of those that did, 14% did not obtain PEP (Hampson et al., 2008).",
+            "startOffset": 31567,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 21755,
+            "parents": [],
+            "secId": "sec0010",
+            "sentence": "More often, reviews of multi-year surveillance data are published eg.",
+            "startOffset": 21686,
+            "title": "Using available passive surveillance data"
+        },
+        {
+            "endOffset": 25765,
+            "parents": [],
+            "secId": "sec0015",
+            "sentence": "In Machakos District, in Kenya, trained village residents carried out active surveillance by following up on all animal bites reported informally to them (not just through the health system).",
+            "startOffset": 25574,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 27324,
+            "parents": [],
+            "secId": "sec0015",
+            "sentence": "However, the studies based on passive collection of health records do not capture bite victims who do not enter the health system.",
+            "startOffset": 27194,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 22278,
+            "parents": [],
+            "refoffsets": {
+                "bib0215": {
+                    "endOffset": 22242,
+                    "startOffset": 22205
+                },
+                "bib0260": {
+                    "endOffset": 22242,
+                    "startOffset": 22205
+                }
+            },
+            "secId": "sec0010",
+            "sentence": "Data collation at the national level is important for the prioritization of outbreak responses and control program direction and analyses of national trends can reveal useful information about human cases over time, or areas where rabies risks are highest eg., (Song et al., 2014; Weyer et al., 2011), but such analyses are infrequent.",
+            "startOffset": 21943,
+            "title": "Using available passive surveillance data"
+        },
+        {
+            "endOffset": 45706,
+            "parents": [],
+            "refoffsets": {
+                "bib0220": {
+                    "endOffset": 45704,
+                    "startOffset": 45658
+                },
+                "bib0225": {
+                    "endOffset": 45704,
+                    "startOffset": 45658
+                }
+            },
+            "secId": "sec0035",
+            "sentence": "For example, estimates of deaths from rabies in India were similar to one another at 2 and 1.1 deaths per 100,000, respectively (Sudarshan et al., 2007; Suraweera et al., 2012).",
+            "startOffset": 45529,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 15978,
+            "parents": [],
+            "refoffsets": {
+                "bib0015": {
+                    "endOffset": 15976,
+                    "startOffset": 15956
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Laboratory confirmation of suspected human rabies cases is very rarely carried out due to limited capacity and training, poor access to approved diagnostic tests and reagents and the difficulties of collecting the required post-mortem samples in rabies endemic countries (Banyard et al., 2013).",
+            "startOffset": 15684,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24890,
+            "parents": [],
+            "refoffsets": {
+                "bib0030": {
+                    "endOffset": 24888,
+                    "startOffset": 24675
+                },
+                "bib0065": {
+                    "endOffset": 24888,
+                    "startOffset": 24675
+                },
+                "bib0110": {
+                    "endOffset": 24888,
+                    "startOffset": 24675
+                },
+                "bib0115": {
+                    "endOffset": 24888,
+                    "startOffset": 24675
+                },
+                "bib0125": {
+                    "endOffset": 24888,
+                    "startOffset": 24675
+                },
+                "bib0140": {
+                    "endOffset": 24888,
+                    "startOffset": 24675
+                },
+                "bib0195": {
+                    "endOffset": 24888,
+                    "startOffset": 24675
+                },
+                "bib0220": {
+                    "endOffset": 24888,
+                    "startOffset": 24675
+                },
+                "bib0225": {
+                    "endOffset": 24888,
+                    "startOffset": 24675
+                },
+                "bib0235": {
+                    "endOffset": 24888,
+                    "startOffset": 24675
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "In the absence of reliable national statistics, research involving hospital-based and community-based surveys and epidemiological modeling has been carried out in a few countries (Kitala et al., 2000; Cleaveland et al., 2002; Hampson et al., 2008; Ly et al., 2009; Tenzin et al., 2011; Frey et al., 2013; Jemberu et al., 2013; Sudarshan et al., 2007; Suraweera et al., 2012; Sambo et al., 2013).",
+            "startOffset": 24495,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 25892,
+            "parents": [],
+            "refoffsets": {
+                "bib0125": {
+                    "endOffset": 25890,
+                    "startOffset": 25871
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "The study concluded that the annual incidence of human rabies deaths was 2.5/100,000 in the early 1990s (Kitala et al., 2000).",
+            "startOffset": 25766,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 44622,
+            "parents": [],
+            "refoffsets": {
+                "bib0230": {
+                    "endOffset": 44489,
+                    "startOffset": 44470
+                }
+            },
+            "secId": "sec0030",
+            "sentence": "The incidence data from countries with surveillance systems subjectively deemed as effective (Taylor et al., 2015) tend to fall closer to the estimated burdens, and those where human rabies is not a notifiable disease fall furthest away (Fig. 2).",
+            "startOffset": 44376,
+            "title": "Combining data sources"
+        },
+        {
+            "endOffset": 47555,
+            "parents": [],
+            "refoffsets": {
+                "bib0035": {
+                    "endOffset": 47553,
+                    "startOffset": 47531
+                }
+            },
+            "secId": "sec0035",
+            "sentence": "One recent examination of a community-based passive surveillance system suggested that involving the entire population of Colombo City in Sri Lanka (assumed to be able to assess the whole dog population of the city) in reporting rabies cases could increase the sensitivity of passive surveillance to 100% even at a low (0.1%) disease prevalence (Craighead et al., 2015).",
+            "startOffset": 47185,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 27466,
+            "parents": [],
+            "secId": "sec0015",
+            "sentence": "A more detailed field-based method used hospital records of people bitten by animals to initiate contact tracing in two districts of Tanzania.",
+            "startOffset": 27324,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 49141,
+            "parents": [],
+            "refoffsets": {
+                "bib0185": {
+                    "endOffset": 48926,
+                    "startOffset": 48890
+                },
+                "bib0305": {
+                    "endOffset": 49139,
+                    "startOffset": 49073
+                }
+            },
+            "secId": "sec0035",
+            "sentence": "The recently developed Rabies Surveillance Blueprint provides specific guidance on national rabies surveillance, based on international recommendations and practical experience, in a user friendly Question and Answer format (Partners for Rabies Prevention, 2014) and international cooperation through projects such as laboratory twinning and training exercises can significantly improve rabies surveillance (Zeynalova et al., 2014; Banyard et al., 2013, Wallace et al., 2015).",
+            "startOffset": 48665,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 50497,
+            "parents": [],
+            "secId": "sec0035",
+            "sentence": "It is clear from Fig. 2 that effective control programs and effective surveillance systems go hand in hand (most countries with effective surveillance fall closer to the 100% reporting line, and have lower deaths from canine rabies than those without), and effective surveillance is critical to proving that elimination of human and animal cases of canine rabies has been reached.",
+            "startOffset": 50117,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 19145,
+            "parents": [],
+            "secId": "sec0010",
+            "sentence": "There are however, still some gaps from countries struggling with limited health infrastructure and capacity.",
+            "startOffset": 19036,
+            "title": "Using available passive surveillance data"
+        },
+        {
+            "endOffset": 33924,
+            "parents": [],
+            "secId": "sec0020",
+            "sentence": "This study, referred to hereafter as the PRP study used a similar probability-decision tree model, but estimated human deaths due to canine rabies in all countries of the world, using parameters derived from a wider variety of relevant sources, including recent published literature, available surveillance data, country expert surveys, and vaccine market data combined with international databases of population and development indices.",
+            "startOffset": 33487,
+            "title": "Regional and global estimates derived from models"
+        },
+        {
+            "endOffset": 46626,
+            "parents": [],
+            "secId": "sec0035",
+            "sentence": "This scale of disease burden, from an entirely preventable disease, should be enough to justify global investment in canine rabies control, of which reliable surveillance is a critical part.",
+            "startOffset": 46436,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 26643,
+            "parents": [],
+            "refoffsets": {
+                "bib0140": {
+                    "endOffset": 26641,
+                    "startOffset": 26626
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "Based on post-exposure prophylaxis (PEP) use and human death records from the Institute Pasteur Cambodia, which is the only source of free PEP in the country, an estimate of the incidence of suspected rabid dog bite injuries was derived (Ly et al., 2009).",
+            "startOffset": 26388,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 23600,
+            "parents": [],
+            "secId": "sec0010",
+            "sentence": "For these reasons, passive surveillance data for most canine rabies endemic countries is inadequate for accurately estimating the burden of disease, or the costs and benefits of control measures.",
+            "startOffset": 23405,
+            "title": "Using available passive surveillance data"
+        },
+        {
+            "endOffset": 23859,
+            "parents": [],
+            "refoffsets": {
+                "bib0055": {
+                    "endOffset": 23857,
+                    "startOffset": 23827
+                },
+                "bib0275": {
+                    "endOffset": 23857,
+                    "startOffset": 23827
+                }
+            },
+            "secId": "sec0010",
+            "sentence": "Across canine rabies endemic countries we see a cycle of neglect\u2014where there is no emphasis on control, there is no reliable data on how many people are affected, so there is no investment in control, and no progress is made (WHO, 2013b; Dodet et al., 2015).",
+            "startOffset": 23601,
+            "title": "Using available passive surveillance data"
+        },
+        {
+            "endOffset": 24066,
+            "parents": [],
+            "secId": "sec0010",
+            "sentence": "Passive surveillance for rabies generally only improves once control programmes are put in place, when awareness of the diseases is increased and good surveillance becomes necessary to assess effectiveness.",
+            "startOffset": 23860,
+            "title": "Using available passive surveillance data"
+        },
+        {
+            "endOffset": 27681,
+            "parents": [],
+            "refoffsets": {
+                "bib0110": {
+                    "endOffset": 27679,
+                    "startOffset": 27659
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "The 28 rabies deaths identified in these districts from 2002 to 2006 translated to average annual death rates from rabies of 1.5 and 2.3/100,000 population for the two districts respectively (Hampson et al., 2008).",
+            "startOffset": 27467,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 41486,
+            "parents": [],
+            "refoffsets": {
+                "bib0200": {
+                    "endOffset": 41436,
+                    "startOffset": 41414
+                }
+            },
+            "secId": "sec0025",
+            "sentence": "Health and Demographic Surveillance Systems (Sankoh and Byass, 2014) which are standardized longitudinal surveys used in field sites around the world that provide estimates of death rates and cause of death through verbal autopsy techniques (Sankoh and Byass, 2014), do not typically include probing for dog bites.",
+            "startOffset": 41172,
+            "title": "Which information is the most useful?"
+        },
+        {
+            "endOffset": 32253,
+            "parents": [],
+            "refoffsets": {
+                "bib0060": {
+                    "endOffset": 32095,
+                    "startOffset": 32086
+                }
+            },
+            "secId": "sec0020",
+            "sentence": "As the international health community moves towards a global elimination plan for canine rabies (FAO, 2013), it becomes necessary to assess the scale of the disease burden at a regional and global level to evaluate the benefits of global canine rabies elimination.",
+            "startOffset": 31989,
+            "title": "Regional and global estimates derived from models"
+        },
+        {
+            "endOffset": 30707,
+            "parents": [],
+            "refoffsets": {
+                "bib0235": {
+                    "endOffset": 30705,
+                    "startOffset": 30686
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "In contrast in Bhutan, the reported incidence of human rabies was 3.14/100,000, similar to decision-tree extrapolations from health facility records, indicating that under-reporting is much less of a concern here, perhaps due to the availability of free medical services and better access to hospitals (Tenzin et al., 2011).",
+            "startOffset": 30383,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 25366,
+            "parents": [],
+            "secId": "sec0015",
+            "sentence": "Therefore, community-based studies involving interviews with bites victims and relatives of those who have died of rabies may produce more accurate estimates of rabies deaths.",
+            "startOffset": 25191,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 35999,
+            "parents": [],
+            "secId": "sec0020",
+            "sentence": "Finally, deaths from individual cause of death models (for 235 causes) were adjusted to ensure that individual cause estimates summed to all-cause mortality for age-sex-country-year groups.",
+            "startOffset": 35810,
+            "title": "Regional and global estimates derived from models"
+        },
+        {
+            "endOffset": 39699,
+            "parents": [],
+            "secId": "sec0025",
+            "sentence": "Some parameters critical to the PRP model are supported by very limited available data, or modelled from indirect sources.",
+            "startOffset": 39577,
+            "title": "Which information is the most useful?"
+        },
+        {
+            "endOffset": 40946,
+            "parents": [],
+            "secId": "sec0025",
+            "sentence": "However, there are reasons to suspect that both vital registration and verbal autopsy records underrepresent deaths from rabies.",
+            "startOffset": 40818,
+            "title": "Which information is the most useful?"
+        },
+        {
+            "endOffset": 28432,
+            "parents": [],
+            "refoffsets": {
+                "bib0220": {
+                    "endOffset": 28430,
+                    "startOffset": 28408
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "In India, a multi-centric survey completed in 2003 employed an active search of records from 22 hospitals to identify recent \u2018index cases\u2019 of rabies deaths (the most recent human rabies deaths from rural and urban areas, recorded by the hospitals), and verified them by verbal autopsies (Sudarshan et al., 2007).",
+            "startOffset": 28120,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 17166,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "These deaths, outside of health systems are not captured in surveillance systems based around health system records or in countries lacking civil registration systems to collect vital statistics on births and deaths (and their causes).",
+            "startOffset": 16931,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24275,
+            "parents": [],
+            "refoffsets": {
+                "bib0175": {
+                    "endOffset": 24273,
+                    "startOffset": 24205
+                },
+                "bib0190": {
+                    "endOffset": 24273,
+                    "startOffset": 24205
+                }
+            },
+            "secId": "sec0010",
+            "sentence": "A culture for reporting and sharing of data can develop and the value of these records can be widely seen, as in the Americas and Europe (Pan American Health Organization, 2015; Rabies Bulletin Europe, 2014).",
+            "startOffset": 24067,
+            "title": "Using available passive surveillance data"
+        },
+        {
+            "endOffset": 26822,
+            "parents": [],
+            "refoffsets": {
+                "bib0140": {
+                    "endOffset": 26820,
+                    "startOffset": 26805
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "From a modified decision tree approach it was concluded that 810 human deaths from rabies occurred in Cambodia in 2007 representing an incidence of 5.8/100,000 (Ly et al., 2009).",
+            "startOffset": 26644,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 43263,
+            "parents": [],
+            "secId": "sec0030",
+            "sentence": "Compared to the GBD study (2013), the PRP study generally produces lower estimates for countries with little canine rabies infection and higher estimates for countries with a larger rabies burden.",
+            "startOffset": 43067,
+            "title": "Combining data sources"
+        },
+        {
+            "endOffset": 47184,
+            "parents": [],
+            "secId": "sec0035",
+            "sentence": "However, in resource poor setting, innovative methods may be required and can be successfully implemented (Wallace et al., 2015) .",
+            "startOffset": 47054,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 23184,
+            "parents": [],
+            "refoffsets": {
+                "bib0230": {
+                    "endOffset": 23182,
+                    "startOffset": 23163
+                }
+            },
+            "secId": "sec0010",
+            "sentence": "A recent survey identified a number of reasons for inadequate reporting, including (a) the challenges of reporting from remote areas, (b) inadequate follow-up of unconfirmed cases and confirmatory diagnosis, (c) inadequate financial investment in surveillance systems, (d) a lack of enforcement of existing legislation and guidance, (e) human rabies deaths occurring at home and outside the health system, (f) poor recognition of rabies by some health workers, (g) poor recognition of rabies' importance by politicians, (h) other competing health priorities, (i) lack of coordination between veterinary and medical authorities, (j) inadequate training of medical staff in rabies surveillance and case definitions and (k) a lack of understanding by bite victims on when and how to seek treatment (Taylor et al., 2015).",
+            "startOffset": 22367,
+            "title": "Using available passive surveillance data"
+        },
+        {
+            "endOffset": 48361,
+            "parents": [],
+            "secId": "sec0035",
+            "sentence": "Increased priority for and better enforcement of surveillance across all diseases in Africa and Asia would benefit many stakeholders.",
+            "startOffset": 48228,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 36954,
+            "parents": [],
+            "secId": "sec0020",
+            "sentence": "Estimates for each individual cause of death from the GBD 2010 and GBD 2013 studies have been published by country, and rabies deaths in canine rabies endemic countries totaled 26,091 and 23,409 respectively (Table 1 for regional data, and references).",
+            "startOffset": 36702,
+            "title": "Regional and global estimates derived from models"
+        },
+        {
+            "endOffset": 33003,
+            "parents": [],
+            "secId": "sec0020",
+            "sentence": "Data for these parameters was sourced from published literature where available, and extrapolated to continental scales, ignoring variation between settings due to the lack of data.",
+            "startOffset": 32822,
+            "title": "Regional and global estimates derived from models"
+        },
+        {
+            "endOffset": 47749,
+            "parents": [],
+            "refoffsets": {
+                "bib0265": {
+                    "endOffset": 47747,
+                    "startOffset": 47738
+                }
+            },
+            "secId": "sec0035",
+            "sentence": "The 2005 International Health Regulations set standards for the surveillance of global health threats, and set a date of June 2012 for them to have been implemented by member states (WHO, 2008).",
+            "startOffset": 47555,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 28120,
+            "parents": [],
+            "refoffsets": {
+                "bib0115": {
+                    "endOffset": 28118,
+                    "startOffset": 28098
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "In Ethiopia, an intensive longitudinal survey of households in the North Gondar zone during 2009\u20132010, recorded and followed up on any suspect human or domestic animal cases and revealed an incidence of 2.33/100,000 people (Jemberu et al., 2013).",
+            "startOffset": 27874,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 40355,
+            "parents": [],
+            "refoffsets": {
+                "bib0135": {
+                    "endOffset": 40353,
+                    "startOffset": 40334
+                }
+            },
+            "secId": "sec0025",
+            "sentence": "Vital registration systems that include medical certification of the cause of death captured only about 18.8 million deaths of an estimated annual total of 51.7 million deaths globally in 2005 (Lozano et al., 2012).",
+            "startOffset": 40140,
+            "title": "Which information is the most useful?"
+        },
+        {
+            "endOffset": 21143,
+            "parents": [],
+            "secId": "sec0010",
+            "sentence": "Reports are submitted weekly to the SIEPI database, and quarterly to the Rabies Bulletin Europe.",
+            "startOffset": 21047,
+            "title": "Using available passive surveillance data"
+        },
+        {
+            "endOffset": 47053,
+            "parents": [],
+            "secId": "sec0035",
+            "sentence": "More active surveillance studies, ideally with standardized methodology are required to supply additional data with which to validate model estimates.",
+            "startOffset": 46903,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 32540,
+            "parents": [],
+            "refoffsets": {
+                "bib0030": {
+                    "endOffset": 32482,
+                    "startOffset": 32458
+                }
+            },
+            "secId": "sec0020",
+            "sentence": "This study used the probability decision tree approach developed in Cleaveland et al. (2002), starting with data on the human population of countries.",
+            "startOffset": 32390,
+            "title": "Regional and global estimates derived from models"
+        },
+        {
+            "endOffset": 39279,
+            "parents": [],
+            "secId": "sec0025",
+            "sentence": "Mass extrapolation from limited data has its risks, but currently no alternatives exist for these countries.",
+            "startOffset": 39171,
+            "title": "Which information is the most useful?"
+        },
+        {
+            "endOffset": 18020,
+            "parents": [],
+            "refoffsets": {
+                "bib0270": {
+                    "endOffset": 17987,
+                    "startOffset": 17977
+                }
+            },
+            "secId": "sec0010",
+            "sentence": "Due to the lack of regular reporting of rabies cases to the World Health Organization (WHO) from many member states, the RABNET database was closed down in 2011 (WHO, 2013a), and has not yet been replaced.",
+            "startOffset": 17815,
+            "title": "Using available passive surveillance data"
+        },
+        {
+            "endOffset": 26143,
+            "parents": [],
+            "refoffsets": {
+                "bib0030": {
+                    "endOffset": 25917,
+                    "startOffset": 25893
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "Cleaveland et al. (2002) used active surveillance in the Mara Region in Tanzania, relying on monthly reporting of bites by key informants in communities and a series of probability calculations (a decision tree model) to estimate human rabies deaths.",
+            "startOffset": 25893,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 49429,
+            "parents": [],
+            "secId": "sec0035",
+            "sentence": "The perceived value of submitting information and diagnostic samples from animals is likely to play an important role here.",
+            "startOffset": 49306,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 20184,
+            "parents": [],
+            "secId": "sec0010",
+            "sentence": "Human rabies deaths in Europe are rare enough to attract significant media attention and extensive laboratory investigation to determine their precise origin, and therefore the RBE provides highly accurate records of human rabies deaths in Europe.",
+            "startOffset": 19937,
+            "title": "Using available passive surveillance data"
+        },
+        {
+            "endOffset": 31212,
+            "parents": [],
+            "secId": "sec0015",
+            "sentence": "Results are therefore geographically and time limited, and although some extrapolation may be warranted, this must be done with caution.",
+            "startOffset": 31076,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 35535,
+            "parents": [],
+            "secId": "sec0020",
+            "sentence": "For rabies, a cause of death ensemble modelling (CODEm) approach was used.",
+            "startOffset": 35461,
+            "title": "Regional and global estimates derived from models"
+        },
+        {
+            "endOffset": 20350,
+            "parents": [],
+            "secId": "sec0010",
+            "sentence": "In contrast, across most of Africa and Asia, human deaths are much more common, rarely laboratory confirmed, and most often never captured by surveillance activities.",
+            "startOffset": 20184,
+            "title": "Using available passive surveillance data"
+        },
+        {
+            "endOffset": 27026,
+            "parents": [],
+            "refoffsets": {
+                "bib0235": {
+                    "endOffset": 27024,
+                    "startOffset": 27005
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "Based on decision tree modelling from hospital-based surveys, an annual human rabies incidence of 4.67 deaths/100,000 was estimated for the two rabies endemic areas of south Bhutan (Tenzin et al., 2011).",
+            "startOffset": 26823,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 34561,
+            "parents": [],
+            "secId": "sec0020",
+            "sentence": "The study concluded, based on 2010 data that canine rabies causes 58,991 (95% C.I. 25,000\u2013159,000) human deaths a year (Table 1).",
+            "startOffset": 34432,
+            "title": "Regional and global estimates derived from models"
+        },
+        {
+            "endOffset": 39025,
+            "parents": [],
+            "secId": "sec0025",
+            "sentence": "Standardization of active surveillance methodology would aid comparisons across countries and benefit regional control efforts.",
+            "startOffset": 38898,
+            "title": "Which information is the most useful?"
+        },
+        {
+            "endOffset": 41812,
+            "parents": [],
+            "refoffsets": {
+                "bib0245": {
+                    "endOffset": 41810,
+                    "startOffset": 41788
+                }
+            },
+            "secId": "sec0025",
+            "sentence": "Many burden studies account for known underreporting with the use of expansion factors, but these need to be based on reliable evidence (Undurraga et al., 2013).",
+            "startOffset": 41651,
+            "title": "Which information is the most useful?"
+        },
+        {
+            "endOffset": 38417,
+            "parents": [],
+            "refoffsets": {
+                "bib0230": {
+                    "endOffset": 38415,
+                    "startOffset": 38396
+                }
+            },
+            "secId": "sec0025",
+            "sentence": "The most complete datasets are those where canine rabies has been eliminated or is close to elimination (Europe and the Americas), but the major canine rabies endemic areas of Africa and Asia have very poor reporting (Table 1, and Taylor et al., 2015).",
+            "startOffset": 38165,
+            "title": "Which information is the most useful?"
+        },
+        {
+            "endOffset": 27873,
+            "parents": [],
+            "refoffsets": {
+                "bib0195": {
+                    "endOffset": 27871,
+                    "startOffset": 27853
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "A subsequent study using the same methods from 2006 to 2009 revealed incidences of human rabies from 0.8\u20132.4 deaths per 100,000 population in an additional two districts (Sambo et al., 2013).",
+            "startOffset": 27682,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 37936,
+            "parents": [],
+            "refoffsets": {
+                "bib0280": {
+                    "endOffset": 37850,
+                    "startOffset": 37841
+                }
+            },
+            "secId": "sec0020",
+            "sentence": "This method estimated a global total of 35,386 human deaths due to rabies in 2012 (WHO, 2014), of which an estimated 34,727 occurred in canine rabies endemic countries (Table 1).",
+            "startOffset": 37758,
+            "title": "Regional and global estimates derived from models"
+        },
+        {
+            "endOffset": 16739,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "But perhaps the greatest challenges to accurate case reporting are that (i) canine rabies mostly affects the poorest sectors of society in the world's poorest countries and (ii) that rabies is a fatal disease.",
+            "startOffset": 16530,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 41650,
+            "parents": [],
+            "refoffsets": {
+                "bib0145": {
+                    "endOffset": 41648,
+                    "startOffset": 41628
+                }
+            },
+            "secId": "sec0025",
+            "sentence": "Without the history of an animal bite, rabies can be misclassified with other causes of neurological encephalitis, such as cerebral malaria (Mallewa et al., 2007).",
+            "startOffset": 41487,
+            "title": "Which information is the most useful?"
+        },
+        {
+            "endOffset": 35460,
+            "parents": [],
+            "refoffsets": {
+                "bib0135": {
+                    "endOffset": 35458,
+                    "startOffset": 35439
+                }
+            },
+            "secId": "sec0020",
+            "sentence": "This was supplemented where necessary with data from cancer registries, police and crime reports, burial and mortuary data, demographic and health surveys and censuses, and records of deaths in health facilities (Lozano et al., 2012).",
+            "startOffset": 35226,
+            "title": "Regional and global estimates derived from models"
+        },
+        {
+            "endOffset": 38577,
+            "parents": [],
+            "secId": "sec0025",
+            "sentence": "In the few areas where active surveillance research has been carried out, this has demonstrated a high level of under reporting by passive surveillance systems.",
+            "startOffset": 38417,
+            "title": "Which information is the most useful?"
+        },
+        {
+            "endOffset": 45162,
+            "parents": [],
+            "secId": "sec0035",
+            "sentence": "Current passive surveillance data is unreliable and incomplete for most canine rabies endemic countries and increased investment in surveillance should be prioritized by countries and international organizations to allow accurate evaluation of the need for and impacts of control programs.",
+            "startOffset": 44873,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 46902,
+            "parents": [],
+            "secId": "sec0035",
+            "sentence": "In the short term, until the quality of passive surveillance systems across Africa and Asia improve, grounding of modelled estimates with active surveillance data, even if only available for a limited number of countries or time periods helps to build confidence in estimates.",
+            "startOffset": 46626,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 29358,
+            "parents": [],
+            "refoffsets": {
+                "bib0225": {
+                    "endOffset": 29356,
+                    "startOffset": 29334
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "Extrapolating across the whole of India, the authors concluded that in 2005 around 12,700 deaths resulted from symptomatically identifiable furious rabies, an incidence of 1.1/100,000 people, though this varied considerably across states (Suraweera et al., 2012).",
+            "startOffset": 29095,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 34431,
+            "parents": [],
+            "secId": "sec0020",
+            "sentence": "Functional relationships were estimated from empirical data to derive the first two parameters from information on dog vaccination coverage and relative reporting of deaths and PEP use, whilst other key parameters were based on published, but geographically limited datasets.",
+            "startOffset": 34156,
+            "title": "Regional and global estimates derived from models"
+        },
+        {
+            "endOffset": 42932,
+            "parents": [],
+            "refoffsets": {
+                "bib0070": {
+                    "endOffset": 42930,
+                    "startOffset": 42859
+                },
+                "bib0105": {
+                    "endOffset": 42930,
+                    "startOffset": 42859
+                }
+            },
+            "secId": "sec0030",
+            "sentence": "Fig. 1 compares human death estimates for the canine rabies endemic countries from the two most recent comprehensive analyses, conducted by the PRP and the Global Burden of Disease study group (Hampson et al., 2015; GBD Mortality Causes of Death Collaborators, 2014).",
+            "startOffset": 42665,
+            "title": "Combining data sources"
+        },
+        {
+            "endOffset": 19646,
+            "parents": [],
+            "secId": "sec0010",
+            "sentence": "However, even for the countries reporting regularly, the level of detection of human deaths will depend on the surveillance capacity within the country.",
+            "startOffset": 19494,
+            "title": "Using available passive surveillance data"
+        },
+        {
+            "endOffset": 20983,
+            "parents": [],
+            "refoffsets": {
+                "bib0005": {
+                    "endOffset": 20981,
+                    "startOffset": 20912
+                },
+                "bib0050": {
+                    "endOffset": 20981,
+                    "startOffset": 20912
+                }
+            },
+            "secId": "sec0010",
+            "sentence": "Whilst these reports can provide insight into the issue, their current dependency on attendance at meetings makes these reports infrequent (annually at best) and data are usually not interpreted or compared to previous data (Dodet and African Rabies Expert Bureau, 2009; Aikimbayev et al., 2014).",
+            "startOffset": 20687,
+            "title": "Using available passive surveillance data"
+        },
+        {
+            "endOffset": 21360,
+            "parents": [],
+            "secId": "sec0010",
+            "sentence": "Whilst the main focus of these reports is monitoring of the rabies situation, timely information (at least within a month) is important to enable countries to enact control measures in the event of disease outbreaks.",
+            "startOffset": 21144,
+            "title": "Using available passive surveillance data"
+        },
+        {
+            "endOffset": 24457,
+            "parents": [],
+            "secId": "sec0010",
+            "sentence": "Hence, there are strong reasons to believe that surveillance databases will become increasingly valuable if canine rabies control efforts are initiated in currently endemic regions.",
+            "startOffset": 24276,
+            "title": "Using available passive surveillance data"
+        },
+        {
+            "endOffset": 32821,
+            "parents": [],
+            "secId": "sec0020",
+            "sentence": "It then applied the human: dog ratio and a number of probabilities (of being bitten by a dog, of that dog being rabid, of the person not receiving PEP, of an unprotected person developing rabies) to derive a number of people estimated to die from rabies in that country or region.",
+            "startOffset": 32541,
+            "title": "Regional and global estimates derived from models"
+        },
+        {
+            "endOffset": 15097,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "From this point we can begin to estimate how many years of productive life are lost to a disease, the consequent economic burden to a country, costs of preventative measures and how cost-effective an intervention might be.",
+            "startOffset": 14875,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23405,
+            "parents": [],
+            "refoffsets": {
+                "bib0055": {
+                    "endOffset": 23403,
+                    "startOffset": 23385
+                }
+            },
+            "secId": "sec0010",
+            "sentence": "At regional rabies meetings where surveillance data is shared, under reporting and the fact that deaths at home are often neither reported nor certified are widely recognized as significant problems (Dodet et al., 2015).",
+            "startOffset": 23185,
+            "title": "Using available passive surveillance data"
+        },
+        {
+            "endOffset": 31939,
+            "parents": [],
+            "secId": "sec0015",
+            "sentence": "These figures point to a sizeable under reporting factor (inherent where health system records are relied upon) that only intensive, community-based techniques can address.",
+            "startOffset": 31767,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 43762,
+            "parents": [],
+            "secId": "sec0030",
+            "sentence": "In general however, these independent studies utilizing different methodologies suggest a broadly similar ranking of countries, and human rabies deaths almost all within an order of magnitude of each other across all countries.",
+            "startOffset": 43535,
+            "title": "Combining data sources"
+        },
+        {
+            "endOffset": 21046,
+            "parents": [],
+            "secId": "sec0010",
+            "sentence": "There is variation amongst databases in frequency of reporting.",
+            "startOffset": 20983,
+            "title": "Using available passive surveillance data"
+        },
+        {
+            "endOffset": 40139,
+            "parents": [],
+            "refoffsets": {
+                "bib0135": {
+                    "endOffset": 40137,
+                    "startOffset": 40118
+                }
+            },
+            "secId": "sec0025",
+            "sentence": "Major regional varations in the quality of underlying data were also identified for the GBD study, and criticism of the necessary level of extrapolation from limited data is openly recognized (Lozano et al., 2012).",
+            "startOffset": 39925,
+            "title": "Which information is the most useful?"
+        },
+        {
+            "endOffset": 38164,
+            "parents": [],
+            "secId": "sec0025",
+            "sentence": "Data from passive rabies surveillance is currently incomplete and in many endemic countries is of limited value in assessing the burden of canine rabies, or supporting control efforts alone.",
+            "startOffset": 37974,
+            "title": "Which information is the most useful?"
+        },
+        {
+            "endOffset": 42113,
+            "parents": [],
+            "secId": "sec0025",
+            "sentence": "As we have shown, there is a dearth of such studies for rabies, and the empirical and modelling work on the relationships between dog populations, rabies incidence and vaccination parameters and also on access to health care that is needed to estimate these factors is not yet sufficiently developed.",
+            "startOffset": 41813,
+            "title": "Which information is the most useful?"
+        },
+        {
+            "endOffset": 48496,
+            "parents": [],
+            "refoffsets": {
+                "bib0100": {
+                    "endOffset": 48494,
+                    "startOffset": 48473
+                }
+            },
+            "secId": "sec0035",
+            "sentence": "They would allow better monitoring of health interventions and the earlier detection of emerging heath issues (Halliday et al., 2012).",
+            "startOffset": 48362,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 14767,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "When assessing the need for and priority of human health interventions, a basic requirement is to measure the impact of a given disease.",
+            "startOffset": 14631,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25190,
+            "parents": [],
+            "secId": "sec0015",
+            "sentence": "Animal bites are an acute medical problem, likely to result in an interaction with health services, but there are still victims unable or unwilling to seek treatment overlooked by studies based at health facilities.",
+            "startOffset": 24975,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 18776,
+            "parents": [],
+            "refoffsets": {
+                "bib0020": {
+                    "endOffset": 18707,
+                    "startOffset": 18687
+                },
+                "bib0175": {
+                    "endOffset": 18607,
+                    "startOffset": 18569
+                }
+            },
+            "secId": "sec0010",
+            "sentence": "The Sistema de Informaci\u00f3n Epidemiol\u00f3gica (SIEPI) database across the Americas (Pan American Health Organization, 2015) is a well developed database, established in the 1970s, administered by PAHO (Belotto et al., 2005), and a critical part of canine rabies control across the continent.",
+            "startOffset": 18489,
+            "title": "Using available passive surveillance data"
+        },
+        {
+            "endOffset": 29094,
+            "parents": [],
+            "secId": "sec0015",
+            "sentence": "In a separate study, the analysis of more than 122,000 verbal autopsy reports from 2001 to 3 covering a representative sample of populations in India (part of the Million Death Study, an ongoing survey of deaths utilizing enhanced verbal autopsy techniques) detected 140 likely rabies deaths.",
+            "startOffset": 28802,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 50116,
+            "parents": [],
+            "refoffsets": {
+                "bib0255": {
+                    "endOffset": 49972,
+                    "startOffset": 49952
+                }
+            },
+            "secId": "sec0035",
+            "sentence": "This will typically mean that rabies incidence (based on passive surveillance data) will increase at the start of a control programme (as surveillance effort increases, Wallace et al., 2015) and then in the longer term will decline as control measures have an impact, which can then be quantified from the improved surveillance data.",
+            "startOffset": 49783,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 30382,
+            "parents": [],
+            "secId": "sec0015",
+            "sentence": "Clearly even deaths recorded locally by hospitals are not reaching national databases.",
+            "startOffset": 30296,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 17814,
+            "parents": [],
+            "refoffsets": {
+                "bib0025": {
+                    "endOffset": 17812,
+                    "startOffset": 17784
+                }
+            },
+            "secId": "sec0010",
+            "sentence": "The global collection of data on deaths from any neglected disease is a huge challenge, and early attempts to collate data for human deaths from canine rabies were no exception (Bogel and Motschwiller, 1986).",
+            "startOffset": 17606,
+            "title": "Using available passive surveillance data"
+        },
+        {
+            "endOffset": 44375,
+            "parents": [],
+            "secId": "sec0030",
+            "sentence": "In contrast, passive surveillance systems (the vast majority of datapoints, which were not used directly in the model) result in human rabies incidences well below those predicted by the model, with reporting rates sometimes below 10% or even 1% (Fig. 2).",
+            "startOffset": 44120,
+            "title": "Combining data sources"
+        },
+        {
+            "endOffset": 34915,
+            "parents": [],
+            "refoffsets": {
+                "bib0070": {
+                    "endOffset": 34913,
+                    "startOffset": 34864
+                },
+                "bib0135": {
+                    "endOffset": 34852,
+                    "startOffset": 34833
+                }
+            },
+            "secId": "sec0020",
+            "sentence": "Mortality due to rabies was also calculated as part of the Global Burden of Disease (GBD) project, most recently carried out for 2010 (Lozano et al., 2012) and 2013 (GBD Mortality Causes of Death Collaborators, 2014).",
+            "startOffset": 34698,
+            "title": "Regional and global estimates derived from models"
+        },
+        {
+            "endOffset": 49782,
+            "parents": [],
+            "secId": "sec0035",
+            "sentence": "On a larger scale, once rabies is targeted for control, surveillance will improve, because stakeholders have a reason to show the impacts of their efforts.",
+            "startOffset": 49627,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 16529,
+            "parents": [],
+            "refoffsets": {
+                "bib0160": {
+                    "endOffset": 16527,
+                    "startOffset": 16518
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Rabies case data reported to different authorities can conflict, for the same country and year of reporting, as found for Southern African countries reporting to the Southern and Eastern African Rabies Group, WHO and OIE databases (Nel, 2013).",
+            "startOffset": 16286,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25574,
+            "parents": [],
+            "refoffsets": {
+                "bib0010": {
+                    "endOffset": 25499,
+                    "startOffset": 25479
+                },
+                "bib0220": {
+                    "endOffset": 25453,
+                    "startOffset": 25431
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "However memory recall attrition needs consideration for rabies (Sudarshan et al., 2007) as with other diseases (Allotey et al., 2015) as only the most recent incidents are likely to be accurately remembered.",
+            "startOffset": 25367,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 20686,
+            "parents": [],
+            "refoffsets": {
+                "bib0005": {
+                    "endOffset": 20684,
+                    "startOffset": 20562
+                },
+                "bib0050": {
+                    "endOffset": 20684,
+                    "startOffset": 20562
+                },
+                "bib0080": {
+                    "endOffset": 20684,
+                    "startOffset": 20562
+                },
+                "bib0180": {
+                    "endOffset": 20684,
+                    "startOffset": 20562
+                },
+                "bib0205": {
+                    "endOffset": 20684,
+                    "startOffset": 20562
+                }
+            },
+            "secId": "sec0010",
+            "sentence": "Attempts to develop effective regional databases are beginning though, and country reports from regional rabies meetings have been compiled into datasets for Africa, the Middle East and Eastern Europe and Asia (Dodet and African Rabies Expert Bureau, 2009; Aikimbayev et al., 2014; Gongal and Wright, 2011; Searg, 2014; PARACON, 2015).",
+            "startOffset": 20351,
+            "title": "Using available passive surveillance data"
+        },
+        {
+            "endOffset": 42373,
+            "parents": [],
+            "secId": "sec0025",
+            "sentence": "To assess health priority needs and compare across all causes of death for a country or a region, a standardized method such as the GBD study is necessary.",
+            "startOffset": 42218,
+            "title": "Which information is the most useful?"
+        },
+        {
+            "endOffset": 43926,
+            "parents": [],
+            "secId": "sec0030",
+            "sentence": "Comparing the country-specific estimates from the PRP study to surveillance data available provides some insight into the quality of the surveillance data (Fig. 2).",
+            "startOffset": 43762,
+            "title": "Combining data sources"
+        },
+        {
+            "endOffset": 26263,
+            "parents": [],
+            "refoffsets": {
+                "bib0030": {
+                    "endOffset": 26261,
+                    "startOffset": 26238
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "This study suggested the annual incidence of human rabies in Tanzania was 4.9 deaths/100,000 (Cleaveland et al., 2002).",
+            "startOffset": 26144,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 29590,
+            "parents": [],
+            "refoffsets": {
+                "bib0220": {
+                    "endOffset": 29445,
+                    "startOffset": 29422
+                },
+                "bib0225": {
+                    "endOffset": 29402,
+                    "startOffset": 29379
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "The methods used by Suraweera et al. (2012) like those used by Sudarshan et al. (2007) rely on diagnosis of rabies based on the characteristic symptoms of furious rabies, and are not expected to detect the paralytic form of rabies.",
+            "startOffset": 29359,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 15342,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "For canine rabies, we simply do not know how many people die in any given year for almost all countries where the disease is endemic.",
+            "startOffset": 15209,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 31075,
+            "parents": [],
+            "refoffsets": {
+                "bib0235": {
+                    "endOffset": 31001,
+                    "startOffset": 30982
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "The study in Bhutan was carried out in an area known to be at higher rabies risk than the rest of the country (Tenzin et al., 2011), but often it is not well understood how representative study sites are.",
+            "startOffset": 30871,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 19035,
+            "parents": [],
+            "refoffsets": {
+                "bib0250": {
+                    "endOffset": 19033,
+                    "startOffset": 19012
+                }
+            },
+            "secId": "sec0010",
+            "sentence": "Reporting of data is relatively complete (in terms of the proportion of endemic countries reporting into the system) across Latin America and the Caribbean (Table 1) and has allowed detailed assessment of progress towards elimination (Vigilato et al., 2013).",
+            "startOffset": 18777,
+            "title": "Using available passive surveillance data"
+        },
+        {
+            "endOffset": 28801,
+            "parents": [],
+            "secId": "sec0015",
+            "sentence": "The annual number of clinically identifiable human rabies deaths across India was extrapolated to be 17,137, adjusted to 20,565 to account for atypical and paralytic forms of rabies, a rabies mortality rate of around 2/100,000 population.",
+            "startOffset": 28563,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 15545,
+            "parents": [],
+            "refoffsets": {
+                "bib0230": {
+                    "endOffset": 15543,
+                    "startOffset": 15524
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Although, human rabies is officially a notifiable disease in the majority of rabies endemic countries, this is not sufficient to ensure effective surveillance data for many reasons (Taylor et al., 2015).",
+            "startOffset": 15342,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21685,
+            "parents": [],
+            "refoffsets": {
+                "bib0040": {
+                    "endOffset": 21683,
+                    "startOffset": 21536
+                },
+                "bib0095": {
+                    "endOffset": 21683,
+                    "startOffset": 21536
+                },
+                "bib0150": {
+                    "endOffset": 21683,
+                    "startOffset": 21536
+                },
+                "bib0155": {
+                    "endOffset": 21683,
+                    "startOffset": 21536
+                }
+            },
+            "secId": "sec0010",
+            "sentence": "Amongst canine rabies endemic countries a small number of governments regularly publish official data on human rabies deaths, for example India, Thailand, Sri Lanka and Nepal (Government of India, 2014b; Ministry of Public Health Thailand, 2013; Ministry of Health Sri Lanka, 2015; Department of Health Services Nepal, 2015).",
+            "startOffset": 21360,
+            "title": "Using available passive surveillance data"
+        },
+        {
+            "endOffset": 31566,
+            "parents": [],
+            "secId": "sec0015",
+            "sentence": "Only one of these surveillance research studies directly addressed the proportion of bite victims who do not seek or do not obtain medical attention, which are critical determinants of human rabies mortality and its estimation.",
+            "startOffset": 31339,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 31339,
+            "parents": [],
+            "secId": "sec0015",
+            "sentence": "The variability in methodologies also significantly limits the degree to which direct comparisons can be drawn across studies.",
+            "startOffset": 31213,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 38897,
+            "parents": [],
+            "refoffsets": {
+                "bib0225": {
+                    "endOffset": 38895,
+                    "startOffset": 38852
+                },
+                "bib0235": {
+                    "endOffset": 38895,
+                    "startOffset": 38852
+                }
+            },
+            "secId": "sec0025",
+            "sentence": "Active surveillance is likely to produce the best available estimates of human rabies deaths, but extrapolation beyond target areas may not be justified even within the same country, due to differences in population density, rabies endemicity and patterns of dog ownership (Suraweera et al., 2012; Tenzin et al., 2011).",
+            "startOffset": 38578,
+            "title": "Which information is the most useful?"
+        },
+        {
+            "endOffset": 18488,
+            "parents": [],
+            "secId": "sec0010",
+            "sentence": "Regional rabies databases are more successful.",
+            "startOffset": 18442,
+            "title": "Using available passive surveillance data"
+        },
+        {
+            "endOffset": 35225,
+            "parents": [],
+            "secId": "sec0020",
+            "sentence": "These studies, hereafter referred to as the GBD studies, relied on data mainly from vital registration (based on hospital records and including medical certification of the cause of death) and verbal autopsy (derived by standardized techniques from interviews with a close relative of the deceased) databases.",
+            "startOffset": 34916,
+            "title": "Regional and global estimates derived from models"
+        },
+        {
+            "endOffset": 22366,
+            "parents": [],
+            "secId": "sec0010",
+            "sentence": "Besides the frequency of reporting, the quality of the reported data is a major concern.",
+            "startOffset": 22278,
+            "title": "Using available passive surveillance data"
+        },
+        {
+            "endOffset": 30295,
+            "parents": [],
+            "refoffsets": {
+                "bib0085": {
+                    "endOffset": 30106,
+                    "startOffset": 30053
+                },
+                "bib0090": {
+                    "endOffset": 30106,
+                    "startOffset": 30053
+                },
+                "bib0220": {
+                    "endOffset": 30216,
+                    "startOffset": 30194
+                },
+                "bib0225": {
+                    "endOffset": 30293,
+                    "startOffset": 30271
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "Similarly, the Government of India officially recorded 274 deaths from rabies in 2005 and just 138 in 2013 (Government of India, 2006; Government of India, 2014a), well below the 728 cases recorded from just 22 infectious disease hospitals in 2002 (Sudarshan et al., 2007), and just 2% of the human deaths estimated for 2005 (Suraweera et al., 2012).",
+            "startOffset": 29945,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 43066,
+            "parents": [],
+            "secId": "sec0030",
+            "sentence": "Given the varying methods and necessary extrapolation, there is reasonable correlation (R2 = 0.81) between the two sets of estimates.",
+            "startOffset": 42933,
+            "title": "Combining data sources"
+        },
+        {
+            "endOffset": 16930,
+            "parents": [],
+            "refoffsets": {
+                "bib0220": {
+                    "endOffset": 16928,
+                    "startOffset": 16885
+                },
+                "bib0230": {
+                    "endOffset": 16928,
+                    "startOffset": 16885
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "This combination means that most victims fail to access treatment, or return home to die having been advised that no effective treatment exists (Sudarshan et al., 2007; Taylor et al., 2015).",
+            "startOffset": 16740,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 48227,
+            "parents": [],
+            "refoffsets": {
+                "bib0075": {
+                    "endOffset": 48095,
+                    "startOffset": 48054
+                },
+                "bib0290": {
+                    "endOffset": 48225,
+                    "startOffset": 48215
+                }
+            },
+            "secId": "sec0035",
+            "sentence": "However, for polio, very high standards have been set for the completeness and sensitivity of surveillance (Global Polio Eradication Initiative, 2015), and most of the 29 countries with confirmed polio cases in recent years met these strict standards in 2013 and 2014 (WHO, 2015b).",
+            "startOffset": 47946,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 15683,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Enforcement of legislation on the reporting of case data and information systems for collating case reports are frequently not available.",
+            "startOffset": 15546,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26387,
+            "parents": [],
+            "refoffsets": {
+                "bib0030": {
+                    "endOffset": 26345,
+                    "startOffset": 26321
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "Other studies have followed the decision tree approach of Cleaveland et al. (2002), though relying on health system records.",
+            "startOffset": 26263,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 17564,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "This paper seeks to critically assess the available surveillance and estimates of human deaths due to canine rabies and suggests ways in which these limited data can be improved upon to generate better information on which to base disease control decisions.",
+            "startOffset": 17307,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17306,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Given the absence of reliable surveillance data, where do we start in trying to assess the human cost of canine rabies in endemic countries?",
+            "startOffset": 17166,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 46267,
+            "parents": [],
+            "secId": "sec0035",
+            "sentence": "Estimates at a global level come from two divergent studies and whilst these differ considerably (as expected given their limitations and different methodologies) they are of the same magnitude, countries rank roughly in the same order and the uncertainty (as shown by the confidence intervals around the estimates) in these estimates is overlapping.",
+            "startOffset": 45917,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 33486,
+            "parents": [],
+            "refoffsets": {
+                "bib0105": {
+                    "endOffset": 33484,
+                    "startOffset": 33464
+                }
+            },
+            "secId": "sec0020",
+            "sentence": "A more detailed analysis of the global burden of canine rabies was recently undertaken by the Partners for Rabies Prevention (Hampson et al., 2015).",
+            "startOffset": 33338,
+            "title": "Regional and global estimates derived from models"
+        },
+        {
+            "endOffset": 44119,
+            "parents": [],
+            "secId": "sec0030",
+            "sentence": "Active surveillance studies produce incidences around or above the estimated incidences, which should be expected given that these studies were used as input parameters to the PRP study model.",
+            "startOffset": 43927,
+            "title": "Combining data sources"
+        },
+        {
+            "endOffset": 14874,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "The starting point is to find out how many people the disease affects and especially how many die from it.",
+            "startOffset": 14768,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29944,
+            "parents": [],
+            "refoffsets": {
+                "bib0030": {
+                    "endOffset": 29942,
+                    "startOffset": 29919
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "Such intensive research exercises can shed light on the extent of under reporting, for example between 1990 and 1996 in Tanzania, the mean number of officially reported human rabies deaths was 10.8 per year, corresponding to an annual incidence of 0.041 deaths/100,000 and suggesting underreporting by a factor of more than 100 (Cleaveland et al., 2002).",
+            "startOffset": 29590,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 34155,
+            "parents": [],
+            "secId": "sec0020",
+            "sentence": "Briefly, the model uses the product of bite incidence, the probabilities of (i) a biting animal being rabid, (ii) a bite victim receiving PEP, and (iii) in the absence of PEP, developing rabies, to extrapolate human rabies deaths.",
+            "startOffset": 33925,
+            "title": "Regional and global estimates derived from models"
+        },
+        {
+            "endOffset": 36701,
+            "parents": [],
+            "secId": "sec0020",
+            "sentence": "The narrower confidence intervals suggest more accurate estimates from the more recent analysis.",
+            "startOffset": 36605,
+            "title": "Regional and global estimates derived from models"
+        },
+        {
+            "endOffset": 39576,
+            "parents": [],
+            "refoffsets": {
+                "bib0070": {
+                    "endOffset": 39574,
+                    "startOffset": 39503
+                },
+                "bib0105": {
+                    "endOffset": 39574,
+                    "startOffset": 39503
+                }
+            },
+            "secId": "sec0025",
+            "sentence": "The most recent modelling studies which have produced global and country-specific estimates of human rabies deaths both rely on data pieced together from many sources and comparable data for every country is not available (GBD Mortality Causes of Death Collaborators, 2014; Hampson et al., 2015).",
+            "startOffset": 39280,
+            "title": "Which information is the most useful?"
+        },
+        {
+            "endOffset": 46435,
+            "parents": [],
+            "secId": "sec0035",
+            "sentence": "Whilst it may not be possible to be more precise, these comparisons give confidence that tens of thousands of people die from canine rabies each year across the world.",
+            "startOffset": 46268,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 27193,
+            "parents": [],
+            "refoffsets": {
+                "bib0065": {
+                    "endOffset": 27191,
+                    "startOffset": 27174
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "In Chad, data collected from 50% of healthcare providers in the capital city, N'Djamena suggested an annual human incidence of 0.7/100,000 people (Frey et al., 2013).",
+            "startOffset": 27027,
+            "title": "Utilizing local surveillance research"
+        },
+        {
+            "endOffset": 19936,
+            "parents": [],
+            "refoffsets": {
+                "bib0190": {
+                    "endOffset": 19717,
+                    "startOffset": 19689
+                }
+            },
+            "secId": "sec0010",
+            "sentence": "The Rabies Bulletin Europe (RBE) database (Rabies Bulletin Europe, 2014) though voluntary, collects, collates and maps data on laboratory confirmed animal and human rabies cases from countries across Europe to assess progress of oral rabies vaccination efforts to eliminate wildlife rabies.",
+            "startOffset": 19646,
+            "title": "Using available passive surveillance data"
+        },
+        {
+            "endOffset": 50915,
+            "parents": [],
+            "secId": "sec0035",
+            "sentence": "In this way, the control of rabies and other neglected diseases will receive the attention necessary to promote them from their status of neglect and surveillance to support control and elimination goals will be available.",
+            "startOffset": 50693,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 40573,
+            "parents": [],
+            "refoffsets": {
+                "bib0070": {
+                    "endOffset": 40571,
+                    "startOffset": 40522
+                }
+            },
+            "secId": "sec0025",
+            "sentence": "Currently, there are no vital registration statistics for sub-Saharan Africa, and the input data for these countries relies heavily on verbal autopsies, (appendix of GBD Mortality Causes of Death Collaborators, 2014).",
+            "startOffset": 40356,
+            "title": "Which information is the most useful?"
+        },
+        {
+            "endOffset": 37249,
+            "parents": [],
+            "refoffsets": {
+                "bib0280": {
+                    "endOffset": 37247,
+                    "startOffset": 37238
+                }
+            },
+            "secId": "sec0020",
+            "sentence": "The WHO Department of Health Statistics and Information Systems also produced estimates for cause-specific mortality for each country for 2000\u20132012, based upon total mortality estimated from WHO life table death rates and resident populations estimated by the UN Population Division (WHO, 2014).",
+            "startOffset": 36954,
+            "title": "Regional and global estimates derived from models"
+        }
+    ],
+    "docId": "S0001706X15301844",
+    "metadata": {
+        "asjc": [
+            "1109",
+            "2405",
+            "2725",
+            "3401"
+        ],
+        "authors": [
+            {
+                "email": "Louise.Taylor@rabiesalliance.org",
+                "first": "Louise H.",
+                "initial": "L.H.",
+                "last": "Taylor"
+            },
+            {
+                "email": null,
+                "first": "Katie",
+                "initial": "K.",
+                "last": "Hampson"
+            },
+            {
+                "email": null,
+                "first": "Anna",
+                "initial": "A.",
+                "last": "Fahrion"
+            },
+            {
+                "email": null,
+                "first": "Bernadette",
+                "initial": "B.",
+                "last": "Abela-Ridder"
+            },
+            {
+                "email": null,
+                "first": "Louis H.",
+                "initial": "L.H.",
+                "last": "Nel"
+            }
+        ],
+        "doi": "10.1016/j.actatropica.2015.12.007",
+        "firstpage": "133",
+        "issn": "0001706X",
+        "keywords": [
+            "Canine rabies",
+            "Disease burden",
+            "Surveillance"
+        ],
+        "lastpage": "140",
+        "openaccess": "Full",
+        "pub_year": 2017,
+        "subjareas": [
+            "AGRI",
+            "IMMU",
+            "MEDI",
+            "VETE"
+        ],
+        "title": "Difficulties in estimating the human burden of canine rabies"
+    }
+}

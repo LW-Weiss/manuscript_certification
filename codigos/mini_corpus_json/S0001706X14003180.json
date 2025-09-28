@@ -1,0 +1,3444 @@
+{
+    "abstract": "Copepod Mesocyclops as biological control agents for dengue was previously proven to be effective and sustainable in the Northern and Central provinces of Vietnam. We aim to study social sustainability of Mesocyclops intervention in south Vietnam. Both quantitative and qualitative approaches were used. An entomological survey was carried out in 100 random households of Chanh An commune, Vinh Long Province. Aedes larval indices and Mesocyclops prevalence were compared with historical pre- and post-intervention values. In the same commune, using purposeful sampling, sixteen semi-structured interviews (1 villager leader, 1 local doctor, 10 villagers, 2 teachers, 2 entomology officials), and a focus group discussion (6 Mesocyclops program collaborators) explored water storage habits, beliefs about dengue prevention and behaviour related to Mesocyclops. Thematic analysis was conducted to interpret the qualitative findings. Aedes abundance increased after responsibility for Mesocyclops intervention moved from government to community in 2010, with post-transfer surges in Breteau Index, Container Index, and Larval Density Index. Larval increments coincided with decrease in Mesocyclops prevalence. Villagers had some knowledge of dengue but it was conflated with other mosquito borne diseases and understanding of Mesocyclops was incomplete. Program adoption among the villagers was limited. With reduced government support program collaborators reported limited capacity to conduct population monitoring, and instead targeted 'problem' households. Although the Mesocyclops program was highly sustainable in northern and central provinces of Vietnam, the intervention has not been consistently adopted by southern households in Chanh An commune. Limited education, household monitoring and government support are affecting sustainability. Findings were based on a small household sample visited over a short time period, so other evaluations are needed. However, our results suggest that government support for the Mesocyclops program is still required in this part of Vietnam.",
+    "author_highlights": [
+        {
+            "endOffset": 7697,
+            "sentence": "We employ mixed methods to study social sustainability of copepod program.",
+            "startOffset": 7623
+        },
+        {
+            "endOffset": 7780,
+            "sentence": "Decreasing copepods prevalence coincides with an increase in Aedes larval density.",
+            "startOffset": 7698
+        },
+        {
+            "endOffset": 7818,
+            "sentence": "Villagers have good dengue knowledge.",
+            "startOffset": 7781
+        },
+        {
+            "endOffset": 7890,
+            "sentence": "There were some confusion regarding dengue prevention and copepods use.",
+            "startOffset": 7819
+        },
+        {
+            "endOffset": 7924,
+            "sentence": "Adoption of copepods was limited.",
+            "startOffset": 7891
+        }
+    ],
+    "bib_entries": {
+        "bib0005": {
+            "authors": [
+                {
+                    "first": "Katherine L.",
+                    "initial": "K.L.",
+                    "last": "Anders"
+                },
+                {
+                    "first": "Simon I.",
+                    "initial": "S.I.",
+                    "last": "Hay"
+                }
+            ],
+            "doi": "10.1016/S1473-3099(12)70246-3",
+            "firstpage": "977",
+            "issn": "14733099",
+            "lastpage": "984",
+            "pmid": "23174383",
+            "pub_year": 2012,
+            "title": "Lessons from malaria control to help meet the rising challenge of dengue",
+            "volume": "12"
+        },
+        "bib0010": null,
+        "bib0015": {
+            "authors": [
+                {
+                    "first": "Christovam",
+                    "initial": "C.",
+                    "last": "Barcellos"
+                },
+                {
+                    "first": "Rachel",
+                    "initial": "R.",
+                    "last": "Lowe"
+                }
+            ],
+            "doi": "10.1111/tmi.12227",
+            "firstpage": "159",
+            "issn": "13602276",
+            "lastpage": "168",
+            "pmid": "24286460",
+            "pub_year": 2014,
+            "title": "Expansion of the dengue transmission area in Brazil: The role of climate and cities",
+            "volume": "19"
+        },
+        "bib0020": {
+            "authors": [
+                {
+                    "first": "Samir",
+                    "initial": "S.",
+                    "last": "Bhatt"
+                },
+                {
+                    "first": "Peter W.",
+                    "initial": "P.W.",
+                    "last": "Gething"
+                },
+                {
+                    "first": "Oliver J.",
+                    "initial": "O.J.",
+                    "last": "Brady"
+                },
+                {
+                    "first": "Jane P.",
+                    "initial": "J.P.",
+                    "last": "Messina"
+                },
+                {
+                    "first": "Andrew W.",
+                    "initial": "A.W.",
+                    "last": "Farlow"
+                },
+                {
+                    "first": "Catherine L.",
+                    "initial": "C.L.",
+                    "last": "Moyes"
+                },
+                {
+                    "first": "John M.",
+                    "initial": "J.M.",
+                    "last": "Drake"
+                },
+                {
+                    "first": "John S.",
+                    "initial": "J.S.",
+                    "last": "Brownstein"
+                },
+                {
+                    "first": "Anne G.",
+                    "initial": "A.G.",
+                    "last": "Hoen"
+                },
+                {
+                    "first": "Osman",
+                    "initial": "O.",
+                    "last": "Sankoh"
+                },
+                {
+                    "first": "Monica F.",
+                    "initial": "M.F.",
+                    "last": "Myers"
+                },
+                {
+                    "first": "Dylan B.",
+                    "initial": "D.B.",
+                    "last": "George"
+                },
+                {
+                    "first": "Thomas",
+                    "initial": "T.",
+                    "last": "Jaenisch"
+                },
+                {
+                    "first": "G. R.",
+                    "initial": "G.R.",
+                    "last": "William Wint"
+                },
+                {
+                    "first": "Cameron P.",
+                    "initial": "C.P.",
+                    "last": "Simmons"
+                },
+                {
+                    "first": "Thomas W.",
+                    "initial": "T.W.",
+                    "last": "Scott"
+                },
+                {
+                    "first": "Jeremy J.",
+                    "initial": "J.J.",
+                    "last": "Farrar"
+                },
+                {
+                    "first": "Simon I.",
+                    "initial": "S.I.",
+                    "last": "Hay"
+                }
+            ],
+            "doi": "10.1038/nature12060",
+            "firstpage": "504",
+            "issn": "00280836",
+            "lastpage": "507",
+            "pmid": "23563266",
+            "pub_year": 2013,
+            "title": "The global distribution and burden of dengue",
+            "volume": "496"
+        },
+        "bib0025": {
+            "authors": [
+                {
+                    "first": "K. J.",
+                    "initial": "K.J.",
+                    "last": "Devers"
+                },
+                {
+                    "first": "R. M.",
+                    "initial": "R.M.",
+                    "last": "Frankel"
+                }
+            ],
+            "firstpage": "263",
+            "issn": "13576283",
+            "lastpage": "271",
+            "pub_year": 2000,
+            "title": "Study design in Qualitative research - 2: Sampling and data collection strategies",
+            "volume": "13"
+        },
+        "bib0030": {
+            "authors": [
+                {
+                    "first": "Ekpereonne",
+                    "initial": "E.",
+                    "last": "Esu"
+                },
+                {
+                    "first": "Audrey",
+                    "initial": "A.",
+                    "last": "Lenhart"
+                },
+                {
+                    "first": "Lucy",
+                    "initial": "L.",
+                    "last": "Smith"
+                },
+                {
+                    "first": "Olaf",
+                    "initial": "O.",
+                    "last": "Horstick"
+                }
+            ],
+            "doi": "10.1111/j.1365-3156.2010.02489.x",
+            "firstpage": "619",
+            "issn": "13602276",
+            "lastpage": "631",
+            "pmid": "20214764",
+            "pub_year": 2010,
+            "title": "Effectiveness of peridomestic space spraying with insecticide on dengue transmission; Systematic review",
+            "volume": "15"
+        },
+        "bib0035": {
+            "authors": [
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Farrar"
+                },
+                {
+                    "first": "D.",
+                    "initial": "D.",
+                    "last": "Focks"
+                },
+                {
+                    "first": "D.",
+                    "initial": "D.",
+                    "last": "Gubler"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Barrera"
+                },
+                {
+                    "first": "M. G.",
+                    "initial": "M.G.",
+                    "last": "Guzman"
+                },
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Simmons"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Kalayanarooj"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Lum"
+                },
+                {
+                    "first": "P. J.",
+                    "initial": "P.J.",
+                    "last": "McCall"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Lloyd"
+                },
+                {
+                    "first": "O.",
+                    "initial": "O.",
+                    "last": "Horstick"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Dayal-Drager"
+                },
+                {
+                    "first": "M. B.",
+                    "initial": "M.B.",
+                    "last": "Nathan"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Kroeger"
+                }
+            ],
+            "doi": "10.1111/j.1365-3156.2007.01838.x",
+            "firstpage": "695",
+            "issn": "13602276",
+            "lastpage": "699",
+            "pmid": "17550466",
+            "pub_year": 2007,
+            "title": "Editorial: Towards a global dengue research agenda",
+            "volume": "12"
+        },
+        "bib0040": {
+            "authors": [
+                {
+                    "first": "D. A.",
+                    "initial": "D.A.",
+                    "last": "Focks"
+                },
+                {
+                    "first": "S. R.",
+                    "initial": "S.R.",
+                    "last": "Sackett"
+                },
+                {
+                    "first": "D. L.",
+                    "initial": "D.L.",
+                    "last": "Bailey"
+                },
+                {
+                    "first": "D. A.",
+                    "initial": "D.A.",
+                    "last": "Dame"
+                }
+            ],
+            "doi": "10.4269/ajtmh.1981.30.1329",
+            "firstpage": "1329",
+            "issn": "00029637",
+            "lastpage": "1335",
+            "pmid": "7325289",
+            "pub_year": 1981,
+            "title": "Observations on container-breeding mosquitoes in New Orleans, Louisiana, with an estimate of the population density of Aedes aegypti (L.)",
+            "volume": "30"
+        },
+        "bib0045": {
+            "authors": [
+                {
+                    "first": "Mar\u00eda G.",
+                    "initial": "M.G.",
+                    "last": "Guzm\u00e1n"
+                },
+                {
+                    "first": "Gustavo",
+                    "initial": "G.",
+                    "last": "Kour\u00ed"
+                }
+            ],
+            "doi": "10.1016/S1473-3099(01)00171-2",
+            "firstpage": "33",
+            "issn": "14733099",
+            "lastpage": "42",
+            "pmid": "11892494",
+            "pub_year": 2002,
+            "title": "Dengue: An update",
+            "volume": "2"
+        },
+        "bib0050": {
+            "authors": [
+                {
+                    "first": "Yukiko",
+                    "initial": "Y.",
+                    "last": "Higa"
+                },
+                {
+                    "first": "Nguyen",
+                    "initial": "N.",
+                    "last": "Thi Yen"
+                },
+                {
+                    "first": "Hitoshi",
+                    "initial": "H.",
+                    "last": "Kawada"
+                },
+                {
+                    "first": "Tran",
+                    "initial": "T.",
+                    "last": "Hai Son"
+                },
+                {
+                    "first": "Nguyen",
+                    "initial": "N.",
+                    "last": "Thuy Hoa"
+                },
+                {
+                    "first": "Masahiro",
+                    "initial": "M.",
+                    "last": "Takagi"
+                }
+            ],
+            "doi": "10.2987/09-5945.1",
+            "firstpage": "1",
+            "issn": "8756971X",
+            "lastpage": "9",
+            "pmid": "20402344",
+            "pub_year": 2010,
+            "title": "Geographic distribution of Aedes aegypti and Aedes albopictus collected from used tires in Vietnam",
+            "volume": "26"
+        },
+        "bib0055": {
+            "authors": [
+                {
+                    "first": "Hitoshi",
+                    "initial": "H.",
+                    "last": "Kawada"
+                },
+                {
+                    "first": "Yukiko",
+                    "initial": "Y.",
+                    "last": "Higa"
+                },
+                {
+                    "first": "Yen T.",
+                    "initial": "Y.T.",
+                    "last": "Nguyen"
+                },
+                {
+                    "first": "Son H.",
+                    "initial": "S.H.",
+                    "last": "Tran"
+                },
+                {
+                    "first": "Hoa T.",
+                    "initial": "H.T.",
+                    "last": "Nguyen"
+                },
+                {
+                    "first": "Masahiro",
+                    "initial": "M.",
+                    "last": "Takagi"
+                }
+            ],
+            "doi": "10.1371/journal.pntd.0000391",
+            "pmid": "19274072",
+            "pub_year": 2009,
+            "title": "Nationwide investigation of the pyrethroid susceptibility of mosquito larvae collected from used tires in Vietnam",
+            "volume": "3"
+        },
+        "bib0060": {
+            "authors": [
+                {
+                    "first": "B. H.",
+                    "initial": "B.H.",
+                    "last": "Kay"
+                },
+                {
+                    "first": "C. P.",
+                    "initial": "C.P.",
+                    "last": "Cabral"
+                },
+                {
+                    "first": "D. B.",
+                    "initial": "D.B.",
+                    "last": "Araujo"
+                },
+                {
+                    "first": "Z. M.",
+                    "initial": "Z.M.",
+                    "last": "Ribeiro"
+                },
+                {
+                    "first": "P. H.",
+                    "initial": "P.H.",
+                    "last": "Braga"
+                },
+                {
+                    "first": "A. C.",
+                    "initial": "A.C.",
+                    "last": "Sleigh"
+                }
+            ],
+            "firstpage": "372",
+            "issn": "8756971X",
+            "lastpage": "375",
+            "pmid": "1474382",
+            "pub_year": 1992,
+            "title": "Evaluation of a funnel trap for collecting copepods and immature mosquitoes from wells.",
+            "volume": "8"
+        },
+        "bib0065": {
+            "authors": [
+                {
+                    "first": "B. H.",
+                    "initial": "B.H.",
+                    "last": "Kay"
+                },
+                {
+                    "first": "C. P.",
+                    "initial": "C.P.",
+                    "last": "Cabral"
+                },
+                {
+                    "first": "A. C.",
+                    "initial": "A.C.",
+                    "last": "Sleigh"
+                },
+                {
+                    "first": "M. D.",
+                    "initial": "M.D.",
+                    "last": "Brown"
+                },
+                {
+                    "first": "Z. M.",
+                    "initial": "Z.M.",
+                    "last": "Ribeiro"
+                },
+                {
+                    "first": "A. W.",
+                    "initial": "A.W.",
+                    "last": "Vasconcelos"
+                }
+            ],
+            "doi": "10.1093/jmedent/29.4.599",
+            "firstpage": "599",
+            "issn": "00222585",
+            "lastpage": "602",
+            "pmid": "1495067",
+            "pub_year": 1992,
+            "title": "Laboratory evaluation of Brazilian Mesocyclops (Copepoda: Cyclopidae) for mosquito control.",
+            "volume": "29"
+        },
+        "bib0070": {
+            "authors": [
+                {
+                    "first": "Brian H.",
+                    "initial": "B.H.",
+                    "last": "Kay"
+                },
+                {
+                    "first": "T. Tuyet Hanh",
+                    "initial": "T.T.H.",
+                    "last": "Tran"
+                },
+                {
+                    "first": "Hoang Le",
+                    "initial": "H.L.",
+                    "last": "Nguyen"
+                },
+                {
+                    "first": "Minh Quy",
+                    "initial": "M.Q.",
+                    "last": "Tran"
+                },
+                {
+                    "first": "Sinh Nam",
+                    "initial": "S.N.",
+                    "last": "Vu"
+                },
+                {
+                    "first": "Phan V.D.",
+                    "initial": "P.V.D.",
+                    "last": "Hang"
+                },
+                {
+                    "first": "Thi Yen",
+                    "initial": "T.Y.",
+                    "last": "Nguyen"
+                },
+                {
+                    "first": "Peter S.",
+                    "initial": "P.S.",
+                    "last": "Hill"
+                },
+                {
+                    "first": "Theo",
+                    "initial": "T.",
+                    "last": "Vos"
+                },
+                {
+                    "first": "A. Ryan",
+                    "initial": "A.R.",
+                    "last": "Peter"
+                }
+            ],
+            "doi": "10.4269/ajtmh.2010.09-0503",
+            "firstpage": "822",
+            "issn": "00029637",
+            "lastpage": "830",
+            "pmid": "20439962",
+            "pub_year": 2010,
+            "title": "Sustainability and cost of a community-based strategy against Aedes aegypti in northern and central Vietnam",
+            "volume": "82"
+        },
+        "bib0075": {
+            "authors": [
+                {
+                    "first": "Brian",
+                    "initial": "B.",
+                    "last": "Kay"
+                },
+                {
+                    "first": "Vu Sinh",
+                    "initial": "V.S.",
+                    "last": "Nam"
+                }
+            ],
+            "doi": "10.1016/S0140-6736(05)17913-6",
+            "firstpage": "613",
+            "issn": "01406736",
+            "lastpage": "617",
+            "pmid": "15708107",
+            "pub_year": 2005,
+            "title": "New strategy against Aedes aegypti in Vietnam",
+            "volume": "365"
+        },
+        "bib0080": {
+            "authors": [
+                {
+                    "first": "Brian H.",
+                    "initial": "B.H.",
+                    "last": "Kay"
+                },
+                {
+                    "first": "Vu",
+                    "initial": "V.",
+                    "last": "Sinh Nam"
+                },
+                {
+                    "first": "Tran",
+                    "initial": "T.",
+                    "last": "Van Tien"
+                },
+                {
+                    "first": "Nguyen",
+                    "initial": "N.",
+                    "last": "Thi Yen"
+                },
+                {
+                    "first": "Tran",
+                    "initial": "T.",
+                    "last": "Vu Phong"
+                },
+                {
+                    "first": "Vu Thi",
+                    "initial": "V.T.",
+                    "last": "Bich Diep"
+                },
+                {
+                    "first": "Truong",
+                    "initial": "T.",
+                    "last": "Uyen Ninh"
+                },
+                {
+                    "first": "Ahmet",
+                    "initial": "A.",
+                    "last": "Bektas"
+                },
+                {
+                    "first": "John G.",
+                    "initial": "J.G.",
+                    "last": "Aaskov"
+                }
+            ],
+            "doi": "10.4269/ajtmh.2002.66.40",
+            "firstpage": "40",
+            "issn": "00029637",
+            "lastpage": "48",
+            "pmid": "12135266",
+            "pub_year": 2002,
+            "title": "Control of Aedes vectors of dengue in three provinces of Vietnam by use of Mesocyclops (Copepoda) and community-based methods validated by entomologic, clinical, and serological surveillance",
+            "volume": "66"
+        },
+        "bib0085": {
+            "authors": [
+                {
+                    "first": "Tessa B.",
+                    "initial": "T.B.",
+                    "last": "Knox"
+                },
+                {
+                    "first": "Nguyen Thi",
+                    "initial": "N.T.",
+                    "last": "Yen"
+                },
+                {
+                    "first": "Vu Sinh",
+                    "initial": "V.S.",
+                    "last": "Nam"
+                },
+                {
+                    "first": "Michelle L.",
+                    "initial": "M.L.",
+                    "last": "Gatton"
+                },
+                {
+                    "first": "Brian H.",
+                    "initial": "B.H.",
+                    "last": "Kay"
+                },
+                {
+                    "first": "Peter A.",
+                    "initial": "P.A.",
+                    "last": "Ryan"
+                }
+            ],
+            "firstpage": "192",
+            "issn": "00222585",
+            "lastpage": "204",
+            "pmid": "17427686",
+            "pub_year": 2007,
+            "title": "Critical evaluation of quantitative sampling methods for Aedes aegypti (Diptera: Culicidae) immatures in water storage containers in Vietnam",
+            "volume": "44"
+        },
+        "bib0090": null,
+        "bib0095": {
+            "authors": [
+                {
+                    "first": "Gerald G.",
+                    "initial": "G.G.",
+                    "last": "Marten"
+                },
+                {
+                    "first": "Janet W.",
+                    "initial": "J.W.",
+                    "last": "Reid"
+                }
+            ],
+            "firstpage": "65",
+            "issn": "8756971X",
+            "lastpage": "92",
+            "pmid": "17853599",
+            "pub_year": 2007,
+            "title": "Cyclopoid copepods",
+            "volume": "23"
+        },
+        "bib0100": {
+            "authors": [
+                {
+                    "first": "Amy C.",
+                    "initial": "A.C.",
+                    "last": "Morrison"
+                },
+                {
+                    "first": "Emily",
+                    "initial": "E.",
+                    "last": "Zielinski-Gutierrez"
+                },
+                {
+                    "first": "Thomas W.",
+                    "initial": "T.W.",
+                    "last": "Scott"
+                },
+                {
+                    "first": "Ronald",
+                    "initial": "R.",
+                    "last": "Rosenberg"
+                }
+            ],
+            "doi": "10.1371/journal.pmed.0050068",
+            "firstpage": "0362",
+            "issn": "15491277",
+            "lastpage": "0366",
+            "pmid": "18351798",
+            "pub_year": 2008,
+            "title": "Defining challenges and proposing solutions for control of the virus vector Aedes aegypti",
+            "volume": "5"
+        },
+        "bib0105": {
+            "authors": [
+                {
+                    "first": "Le Anh P.",
+                    "initial": "L.A.P.",
+                    "last": "Nguyen"
+                },
+                {
+                    "first": "Archie C.A.",
+                    "initial": "A.C.A.",
+                    "last": "Clements"
+                },
+                {
+                    "first": "Jason A.L.",
+                    "initial": "J.A.L.",
+                    "last": "Jeffery"
+                },
+                {
+                    "first": "Nguyen Thi",
+                    "initial": "N.T.",
+                    "last": "Yen"
+                },
+                {
+                    "first": "Vu Sinh",
+                    "initial": "V.S.",
+                    "last": "Nam"
+                },
+                {
+                    "first": "Gregory",
+                    "initial": "G.",
+                    "last": "Vaughan"
+                },
+                {
+                    "first": "Ramon",
+                    "initial": "R.",
+                    "last": "Shinkfield"
+                },
+                {
+                    "first": "Simon C.",
+                    "initial": "S.C.",
+                    "last": "Kutcher"
+                },
+                {
+                    "first": "Michelle L.",
+                    "initial": "M.L.",
+                    "last": "Gatton"
+                },
+                {
+                    "first": "Brian H.",
+                    "initial": "B.H.",
+                    "last": "Kay"
+                },
+                {
+                    "first": "Peter A.",
+                    "initial": "P.A.",
+                    "last": "Ryan"
+                }
+            ],
+            "doi": "10.1016/j.inhe.2010.11.002",
+            "firstpage": "115",
+            "issn": "18763413",
+            "lastpage": "125",
+            "pub_year": 2011,
+            "title": "Abundance and prevalence of Aedes aegypti immatures and relationships with household water storage in rural areas in southern Viet Nam",
+            "volume": "3"
+        },
+        "bib0110": {
+            "authors": [
+                {
+                    "first": "Ataru",
+                    "initial": "A.",
+                    "last": "Tsuzuki"
+                },
+                {
+                    "first": "Vu Dinh",
+                    "initial": "V.D.",
+                    "last": "Thiem"
+                },
+                {
+                    "first": "Motoi",
+                    "initial": "M.",
+                    "last": "Suzuki"
+                },
+                {
+                    "first": "Hideki",
+                    "initial": "H.",
+                    "last": "Yanai"
+                },
+                {
+                    "first": "Toru",
+                    "initial": "T.",
+                    "last": "Matsubayashi"
+                },
+                {
+                    "first": "Lay Myint",
+                    "initial": "L.M.",
+                    "last": "Yoshida"
+                },
+                {
+                    "first": "Le Huu",
+                    "initial": "L.H.",
+                    "last": "Tho"
+                },
+                {
+                    "first": "Truong Tan",
+                    "initial": "T.T.",
+                    "last": "Minh"
+                },
+                {
+                    "first": "Dang Duc",
+                    "initial": "D.D.",
+                    "last": "Anh"
+                },
+                {
+                    "first": "Paul E.",
+                    "initial": "P.E.",
+                    "last": "Kilgore"
+                },
+                {
+                    "first": "Masahiro",
+                    "initial": "M.",
+                    "last": "Takagi"
+                },
+                {
+                    "first": "Koya",
+                    "initial": "K.",
+                    "last": "Ariyoshi"
+                }
+            ],
+            "doi": "10.4269/ajtmh.2010.09-0724",
+            "firstpage": "1157",
+            "issn": "00029637",
+            "lastpage": "1159",
+            "pmid": "20519617",
+            "pub_year": 2010,
+            "title": "Short report: Can daytime use of bed nets not treated with insecticide reduce the risk of dengue hemorrhagic fever among children in Vietnam?",
+            "volume": "82"
+        },
+        "bib0115": null,
+        "bib0120": {
+            "authors": [
+                {
+                    "first": "Vu Sinh",
+                    "initial": "V.S.",
+                    "last": "Nam"
+                },
+                {
+                    "first": "Nguyen Thi",
+                    "initial": "N.T.",
+                    "last": "Yen"
+                },
+                {
+                    "first": "Brian H.",
+                    "initial": "B.H.",
+                    "last": "Kay"
+                },
+                {
+                    "first": "Gerald G.",
+                    "initial": "G.G.",
+                    "last": "Marten"
+                },
+                {
+                    "first": "Janet W.",
+                    "initial": "J.W.",
+                    "last": "Reid"
+                }
+            ],
+            "firstpage": "657",
+            "issn": "00029637",
+            "lastpage": "660",
+            "pmid": "9790448",
+            "pub_year": 1998,
+            "title": "Eradication of Aedes aegypti from a village in Vietnam, using copepods and community participation",
+            "volume": "59"
+        },
+        "bib0125": {
+            "authors": [
+                {
+                    "first": "Vu Sinh",
+                    "initial": "V.S.",
+                    "last": "Nam"
+                },
+                {
+                    "first": "Nguyen Thi",
+                    "initial": "N.T.",
+                    "last": "Yen"
+                },
+                {
+                    "first": "Maria",
+                    "initial": "M.",
+                    "last": "Holynska"
+                },
+                {
+                    "first": "Janet W.",
+                    "initial": "J.W.",
+                    "last": "Reid"
+                },
+                {
+                    "first": "Brian H.",
+                    "initial": "B.H.",
+                    "last": "Kay"
+                }
+            ],
+            "doi": "10.4269/ajtmh.2000.62.5",
+            "firstpage": "5",
+            "issn": "00029637",
+            "lastpage": "10",
+            "pmid": "10761718",
+            "pub_year": 2000,
+            "title": "National progress in dengue vector control in Vietnam: Survey for Mesocyclops (Copepoda), Micronecta (Corixidae), and fish as biological control agents",
+            "volume": "62"
+        },
+        "bib0130": {
+            "authors": [
+                {
+                    "first": "Vu Sinh",
+                    "initial": "V.S.",
+                    "last": "Nam"
+                },
+                {
+                    "first": "Brian",
+                    "initial": "B.",
+                    "last": "Kay"
+                },
+                {
+                    "first": "Nguyen Thi",
+                    "initial": "N.T.",
+                    "last": "Yen"
+                },
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Ryan"
+                },
+                {
+                    "first": "Ahmet",
+                    "initial": "A.",
+                    "last": "Bektas"
+                }
+            ],
+            "firstpage": "57",
+            "issn": "1020895X",
+            "lastpage": "61",
+            "pub_year": 2004,
+            "title": "Community mobilization, behaviour change and biological control in the prevention and control of dengue fever in Viet Nam",
+            "volume": "28"
+        },
+        "bib0135": {
+            "authors": [
+                {
+                    "first": "Vu Sinh",
+                    "initial": "V.S.",
+                    "last": "Nam"
+                },
+                {
+                    "first": "Nguyen Thi",
+                    "initial": "N.T.",
+                    "last": "Yen"
+                },
+                {
+                    "first": "Hoang Minh",
+                    "initial": "H.M.",
+                    "last": "Duc"
+                },
+                {
+                    "first": "Tran Cong",
+                    "initial": "T.C.",
+                    "last": "Tu"
+                },
+                {
+                    "first": "Vu Trong",
+                    "initial": "V.T.",
+                    "last": "Thang"
+                },
+                {
+                    "first": "Nguyen Hoang",
+                    "initial": "N.H.",
+                    "last": "Le"
+                },
+                {
+                    "first": "Le Hoang",
+                    "initial": "L.H.",
+                    "last": "San"
+                },
+                {
+                    "first": "Luu Le",
+                    "initial": "L.L.",
+                    "last": "Loan"
+                },
+                {
+                    "first": "Vu Thi Que",
+                    "initial": "V.T.Q.",
+                    "last": "Huong"
+                },
+                {
+                    "first": "Ly Huynh Kim",
+                    "initial": "L.H.K.",
+                    "last": "Khanh"
+                },
+                {
+                    "first": "Huynh Thi Thuy",
+                    "initial": "H.T.T.",
+                    "last": "Trang"
+                },
+                {
+                    "first": "Leonie Z.Y.",
+                    "initial": "L.Z.Y.",
+                    "last": "Lam"
+                },
+                {
+                    "first": "Simon C.",
+                    "initial": "S.C.",
+                    "last": "Kutcher"
+                },
+                {
+                    "first": "John G.",
+                    "initial": "J.G.",
+                    "last": "Aaskov"
+                },
+                {
+                    "first": "Jason A.L.",
+                    "initial": "J.A.L.",
+                    "last": "Jeffery"
+                },
+                {
+                    "first": "Peter A.",
+                    "initial": "P.A.",
+                    "last": "Ryan"
+                },
+                {
+                    "first": "Brian H.",
+                    "initial": "B.H.",
+                    "last": "Kay"
+                }
+            ],
+            "doi": "10.4269/ajtmh.2012.11-0466",
+            "firstpage": "850",
+            "issn": "00029637",
+            "lastpage": "859",
+            "pmid": "22556087",
+            "pub_year": 2012,
+            "title": "Community-based control of Aedes aegypti by using Mesocyclops in Southern Vietnam",
+            "volume": "86"
+        },
+        "bib0140": {
+            "authors": [
+                {
+                    "first": "Vu Sinh",
+                    "initial": "V.S.",
+                    "last": "Nam"
+                },
+                {
+                    "first": "Nguyen Thi",
+                    "initial": "N.T.",
+                    "last": "Yen"
+                },
+                {
+                    "first": "Tran Vu",
+                    "initial": "T.V.",
+                    "last": "Phong"
+                },
+                {
+                    "first": "Truong Uyen",
+                    "initial": "T.U.",
+                    "last": "Ninh"
+                },
+                {
+                    "first": "Le Quyen",
+                    "initial": "L.Q.",
+                    "last": "Mai"
+                },
+                {
+                    "first": "Le Viet",
+                    "initial": "L.V.",
+                    "last": "Lo"
+                },
+                {
+                    "first": "Le Trung",
+                    "initial": "L.T.",
+                    "last": "Nghia"
+                },
+                {
+                    "first": "Ahmet",
+                    "initial": "A.",
+                    "last": "Bektas"
+                },
+                {
+                    "first": "Alistair",
+                    "initial": "A.",
+                    "last": "Briscombe"
+                },
+                {
+                    "first": "John G.",
+                    "initial": "J.G.",
+                    "last": "Aaskov"
+                },
+                {
+                    "first": "Peter A.",
+                    "initial": "P.A.",
+                    "last": "Ryan"
+                },
+                {
+                    "first": "Brian H.",
+                    "initial": "B.H.",
+                    "last": "Kay"
+                }
+            ],
+            "firstpage": "67",
+            "issn": "00029637",
+            "lastpage": "73",
+            "pmid": "15728869",
+            "pub_year": 2005,
+            "title": "Elimination of dengue by community programs using Mesocyclops (copepoda) against Aedes aegypti in central Vietnam",
+            "volume": "72"
+        },
+        "bib0145": null,
+        "bib0150": null,
+        "bib0155": null
+    },
+    "body_text": [
+        {
+            "endOffset": 19736,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "However, their understanding of dengue biology was not sophisticated enough to distinguish between Anophelines and Aedes mosquitoes.",
+            "startOffset": 19604,
+            "title": "Knowledge of dengue"
+        },
+        {
+            "endOffset": 25689,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0080",
+            "sentence": "(Collaborator)",
+            "startOffset": 25675,
+            "title": "Structural changes and the Mesocyclops program"
+        },
+        {
+            "endOffset": 17985,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "Participants\u2019 beliefs, attitudes, and opinions were compared and contrasted.",
+            "startOffset": 17909,
+            "title": "Qualitative study"
+        },
+        {
+            "endOffset": 22113,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                },
+                {
+                    "id": "sec0060",
+                    "title": "Mesocyclops knowledge and adoption"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "Some villagers described the program as advantageous and reported accepting and implementing the initiative in their households.",
+            "startOffset": 21985,
+            "title": "Full adoption"
+        },
+        {
+            "endOffset": 23153,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                },
+                {
+                    "id": "sec0060",
+                    "title": "Mesocyclops knowledge and adoption"
+                }
+            ],
+            "secId": "sec0070",
+            "sentence": "Some villagers recognised the benefit of Mesocyclops but expressed concerns about safety, particularly consequences of consuming Mesocyclops contained in household drinking water.",
+            "startOffset": 22974,
+            "title": "Partial adoption"
+        },
+        {
+            "endOffset": 14316,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "Similar to other areas in the Mekong Delta, most of residents depend on agriculture for living.",
+            "startOffset": 14221,
+            "title": "Study location and population"
+        },
+        {
+            "endOffset": 29019,
+            "parents": [],
+            "secId": "sec0085",
+            "sentence": "One facilitator of programmatic compliance was peoples\u2019 desire to keep their water containers and properties clean.",
+            "startOffset": 28904,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17482,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "A focus group discussion was also conducted with six local program collaborators.",
+            "startOffset": 17401,
+            "title": "Qualitative study"
+        },
+        {
+            "endOffset": 25300,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0080",
+            "sentence": "But for the households that have left the commune, or work afar \u2026 we have to care for them frequently \u2026 those resisting households, we now choose them as the principle target [of the program].",
+            "startOffset": 25108,
+            "title": "Structural changes and the Mesocyclops program"
+        },
+        {
+            "endOffset": 22951,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                },
+                {
+                    "id": "sec0060",
+                    "title": "Mesocyclops knowledge and adoption"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "(Villager)",
+            "startOffset": 22941,
+            "title": "Full adoption"
+        },
+        {
+            "endOffset": 17717,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "All interviews and the focus group were conducted in Vietnamese, audio recorded and transcribed by author TT.",
+            "startOffset": 17608,
+            "title": "Qualitative study"
+        },
+        {
+            "endOffset": 15687,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0060": {
+                    "endOffset": 15685,
+                    "startOffset": 15632
+                },
+                "bib0085": {
+                    "endOffset": 15685,
+                    "startOffset": 15632
+                },
+                "bib0135": {
+                    "endOffset": 15685,
+                    "startOffset": 15632
+                }
+            },
+            "secId": "sec0025",
+            "sentence": "The entomological collection technique employed was similar to previous surveys that covered the period 2008\u20132010, allowing for data comparison (Kay et al., 1992a; Knox et al., 2007; Vu et al., 2012).",
+            "startOffset": 15487,
+            "title": "Quantitative study"
+        },
+        {
+            "endOffset": 17133,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0025": {
+                    "endOffset": 17131,
+                    "startOffset": 17107
+                }
+            },
+            "secId": "sec0030",
+            "sentence": "To ensure inclusion of various stakeholders, a purposive sampling method was used (Devers and Frankel, 2000).",
+            "startOffset": 17024,
+            "title": "Qualitative study"
+        },
+        {
+            "endOffset": 10842,
+            "parents": [],
+            "refoffsets": {
+                "bib0115": {
+                    "endOffset": 10840,
+                    "startOffset": 10774
+                },
+                "bib0155": {
+                    "endOffset": 10840,
+                    "startOffset": 10774
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Dengue infections in Vietnam have been increasing, with approximately 90,000\u2013100,000 cases reported annually (WHO, 2012; Vietnam General Department of Preventive Medicine, 2013).",
+            "startOffset": 10664,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18157,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "For each theme identified, transcripts were re-read and re-coded, systematically comparing data in order to build links between themes, and condensing any that overlapped.",
+            "startOffset": 17986,
+            "title": "Qualitative study"
+        },
+        {
+            "endOffset": 26084,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0080",
+            "sentence": "We cannot hold their [the villagers] hands forever \u2026 So what is important now is to remind and educate the people so they know how to do it.",
+            "startOffset": 25944,
+            "title": "Structural changes and the Mesocyclops program"
+        },
+        {
+            "endOffset": 17400,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "The interviewees included: two members of the program management committee (one government official and one local medical doctor); two entomological professionals stationed at IP who delivered technical supports for the program; two teachers; and 11 local villagers.",
+            "startOffset": 17134,
+            "title": "Qualitative study"
+        },
+        {
+            "endOffset": 19054,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "Although the Mesocyclops program reduced larval density by over 98% during the (government) intervention period (August 2008 to February 2010), the LDI subsequently rose more than 15-fold.",
+            "startOffset": 18866,
+            "title": "Quantitative study"
+        },
+        {
+            "endOffset": 23558,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                },
+                {
+                    "id": "sec0060",
+                    "title": "Mesocyclops knowledge and adoption"
+                }
+            ],
+            "secId": "sec0070",
+            "sentence": "I release Meso into containers like tanks and jars that are too big for me to clean every week.",
+            "startOffset": 23463,
+            "title": "Partial adoption"
+        },
+        {
+            "endOffset": 18289,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "Fig. 2 summarises the temporal pattern of Aedes larvae abundance in Chanh An commune from 2008 to 2013.",
+            "startOffset": 18186,
+            "title": "Quantitative study"
+        },
+        {
+            "endOffset": 19336,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "There was also a sharp decrease in the prevalence of Mesocyclops over the same period.",
+            "startOffset": 19250,
+            "title": "Quantitative study"
+        },
+        {
+            "endOffset": 12674,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Following this success, the program was expanded into tropical southern areas in June 2004, and was implemented in 14 communes by 2008.",
+            "startOffset": 12539,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22480,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                },
+                {
+                    "id": "sec0060",
+                    "title": "Mesocyclops knowledge and adoption"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "I can see its effect as there are no mosquitoes, so I am content.",
+            "startOffset": 22415,
+            "title": "Full adoption"
+        },
+        {
+            "endOffset": 20139,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "Dengue is caused by our living environment.",
+            "startOffset": 20096,
+            "title": "Knowledge of dengue"
+        },
+        {
+            "endOffset": 24895,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0080",
+            "sentence": "However, with decreased funding, each collaborator now has to cover over 100 households.",
+            "startOffset": 24807,
+            "title": "Structural changes and the Mesocyclops program"
+        },
+        {
+            "endOffset": 26099,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0080",
+            "sentence": "(Collaborator)",
+            "startOffset": 26085,
+            "title": "Structural changes and the Mesocyclops program"
+        },
+        {
+            "endOffset": 29168,
+            "parents": [],
+            "secId": "sec0085",
+            "sentence": "Increased education, focusing on the safety and \u2018cleanliness\u2019 of Mesocyclops, can potentially help to improve program compliance and sustainability.",
+            "startOffset": 29020,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28095,
+            "parents": [],
+            "refoffsets": {
+                "bib0005": {
+                    "endOffset": 28093,
+                    "startOffset": 28051
+                },
+                "bib0110": {
+                    "endOffset": 28093,
+                    "startOffset": 28051
+                }
+            },
+            "secId": "sec0085",
+            "sentence": "As Aedes mosquitoes are active during the day, the use of bed nets does not prevent dengue (Anders and Hay, 2012; Tsuzuki et al., 2010).",
+            "startOffset": 27959,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 12538,
+            "parents": [],
+            "refoffsets": {
+                "bib0070": {
+                    "endOffset": 12536,
+                    "startOffset": 12520
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Evaluation of the Mesocyclops program introduced in northern and central regions of Vietnam indicated successful mosquito control and high program sustainability (Kay et al., 2010).",
+            "startOffset": 12357,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20096,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "Villagers also described avoiding mosquito bites in the evening, even though Aedes are primarily active in the day time.",
+            "startOffset": 19976,
+            "title": "Knowledge of dengue"
+        },
+        {
+            "endOffset": 30182,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "Our findings suggest that the Mesocyclops program has generally only been partially adopted by the villagers.",
+            "startOffset": 30073,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 14464,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "The Mesocyclops program, led by the government commenced in Chanh An commune in August 2008, and was transferred to the community in February 2010.",
+            "startOffset": 14317,
+            "title": "Study location and population"
+        },
+        {
+            "endOffset": 21965,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "Generally, there were three levels of Mesocyclops program adoption described by the interviewees: full adoption; partial adoption; and non-adoption.",
+            "startOffset": 21817,
+            "title": "Mesocyclops knowledge and adoption"
+        },
+        {
+            "endOffset": 27351,
+            "parents": [],
+            "secId": "sec0085",
+            "sentence": "The post-transfer decrease in Mesocyclops prevalence and increase in Aedes abundance was notable but there was no evidence of concomitant escalation in dengue risk.",
+            "startOffset": 27187,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22940,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                },
+                {
+                    "id": "sec0060",
+                    "title": "Mesocyclops knowledge and adoption"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "I am growing some creatures [Mesocyclops] so I do not dare clean or touch this water jar [referred to a jar full of Mesocyclops].",
+            "startOffset": 22811,
+            "title": "Full adoption"
+        },
+        {
+            "endOffset": 14220,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0135": {
+                    "endOffset": 14218,
+                    "startOffset": 14203
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "Chanh An commune includes approximately 6475 people in 2000 households (Vu et al., 2012).",
+            "startOffset": 14131,
+            "title": "Study location and population"
+        },
+        {
+            "endOffset": 23951,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                },
+                {
+                    "id": "sec0060",
+                    "title": "Mesocyclops knowledge and adoption"
+                }
+            ],
+            "secId": "sec0075",
+            "sentence": "Non-participants belonged to various groups: those working afar with little time to tend to water containers; poorer households with difficulties maintaining Mesocyclops; and the elderly with visual impairments that hampers maintenance.",
+            "startOffset": 23715,
+            "title": "Non adoption"
+        },
+        {
+            "endOffset": 20722,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "Bed nets were the preferred method of dengue control, and were repeatedly mentioned by all participants.",
+            "startOffset": 20618,
+            "title": "Prevention methods"
+        },
+        {
+            "endOffset": 21054,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "One interviewee described cleaning as the most effective and preferable method, because it has a clear and direct impact on the living environment; aiding in the prevention of other diseases as well as mosquito control.",
+            "startOffset": 20835,
+            "title": "Prevention methods"
+        },
+        {
+            "endOffset": 27958,
+            "parents": [],
+            "secId": "sec0085",
+            "sentence": "For instance, bed nets were frequently identified as a control strategy for dengue.",
+            "startOffset": 27875,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18580,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "Mesocylops prevalence over time was also recorded.",
+            "startOffset": 18530,
+            "title": "Quantitative study"
+        },
+        {
+            "endOffset": 11256,
+            "parents": [],
+            "refoffsets": {
+                "bib0080": {
+                    "endOffset": 11254,
+                    "startOffset": 11198
+                },
+                "bib0095": {
+                    "endOffset": 11254,
+                    "startOffset": 11198
+                },
+                "bib0125": {
+                    "endOffset": 11254,
+                    "startOffset": 11198
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "These aquatic crustaceans are among the most abundant multicellular animals on Earth and can be found naturally throughout Vietnam, living in natural water sources as well as artificial containers (Marten and Reid, 2007; Kay et al., 2002; Vu et al., 2000).",
+            "startOffset": 11000,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22811,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                },
+                {
+                    "id": "sec0060",
+                    "title": "Mesocyclops knowledge and adoption"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "For example, one villager observed with a full jar of Mesocyclops described not knowing what was in the jar and was confused about how to deal with it.",
+            "startOffset": 22660,
+            "title": "Full adoption"
+        },
+        {
+            "endOffset": 20485,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "When asked about dengue prevention, interviewees reported using numerous methods to prevent mosquito breeding and biting.",
+            "startOffset": 20364,
+            "title": "Prevention methods"
+        },
+        {
+            "endOffset": 19975,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "This includes differentiating between key breeding habitats of these two distinct mosquito genera (while Aedes prefer clean water containers, \u2018unclean\u2019 environments such as puddles and trenches were repeatedly mentioned in the interview).",
+            "startOffset": 19737,
+            "title": "Knowledge of dengue"
+        },
+        {
+            "endOffset": 21816,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "Interviewees\u2019 attitudes to Mesocyclops varied and were often contradictory or ambiguous.",
+            "startOffset": 21728,
+            "title": "Mesocyclops knowledge and adoption"
+        },
+        {
+            "endOffset": 25107,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0080",
+            "sentence": "Now, those households that have been cooperating well, we can visit only once every quarter or so.",
+            "startOffset": 25009,
+            "title": "Structural changes and the Mesocyclops program"
+        },
+        {
+            "endOffset": 13980,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "The chosen study commune, Chanh An, is part of the Vietnamese Mekong Delta (Fig. 1).",
+            "startOffset": 13896,
+            "title": "Study location and population"
+        },
+        {
+            "endOffset": 14855,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "An entomological survey assessed Aedes prevalence and abundance in household water containers in March 2013.",
+            "startOffset": 14747,
+            "title": "Study design"
+        },
+        {
+            "endOffset": 28174,
+            "parents": [],
+            "secId": "sec0085",
+            "sentence": "Both villagers and health officers appeared to be unaware of this distinction.",
+            "startOffset": 28096,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18529,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "The abundance was expressed as larval density index (LDI, average number of Aedes III&IV instars per house), Breteau Index (BI, number of positive containers per 100 households), and Container Index (CI, percentage of containers positive).",
+            "startOffset": 18290,
+            "title": "Quantitative study"
+        },
+        {
+            "endOffset": 19249,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "While BI or CI values over the past one and a half years remained relatively stable, there appeared to have been a big increase after the transfer of the project responsibility to the community.",
+            "startOffset": 19055,
+            "title": "Quantitative study"
+        },
+        {
+            "endOffset": 28341,
+            "parents": [],
+            "secId": "sec0085",
+            "sentence": "It appears that the initial education program was not able to clarify these issues but in this study there was no opportunity to evaluate the education in any detail.",
+            "startOffset": 28175,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 14131,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "This commune was chosen in consultation with senior staff at Institute Pasteur (IP) Ho Chi Minh City on the basis of availability of logistic support.",
+            "startOffset": 13981,
+            "title": "Study location and population"
+        },
+        {
+            "endOffset": 15049,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "Simultaneously, 16 semi-structured interviews and a focus group were used to elicit information about water storage habits, beliefs about dengue prevention and behaviour related to Mesocyclops.",
+            "startOffset": 14856,
+            "title": "Study design"
+        },
+        {
+            "endOffset": 25674,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0080",
+            "sentence": "I am also the head of the hamlet and I normally arrange many meetings so I can easily incorporate.",
+            "startOffset": 25576,
+            "title": "Structural changes and the Mesocyclops program"
+        },
+        {
+            "endOffset": 22491,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                },
+                {
+                    "id": "sec0060",
+                    "title": "Mesocyclops knowledge and adoption"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "(Villager)",
+            "startOffset": 22481,
+            "title": "Full adoption"
+        },
+        {
+            "endOffset": 18866,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "As the collaborators only recorded the presence of larvae in containers without counting the absolute number, there is insufficient data on the LDI for the period of 2010\u20132012.",
+            "startOffset": 18690,
+            "title": "Quantitative study"
+        },
+        {
+            "endOffset": 29905,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "One major advantage of the initial Mesocyclops program was the incorporation of both \u2018top-down\u2019 and \u2018bottom-up\u2019 approaches to ensure the community had sufficient support while facilitating acceptance.",
+            "startOffset": 29705,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 26586,
+            "parents": [],
+            "secId": "sec0085",
+            "sentence": "The findings suggest that the change in mosquito density is due to the lack of Mesocyclops in household water containers.",
+            "startOffset": 26465,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27761,
+            "parents": [],
+            "refoffsets": {
+                "bib0135": {
+                    "endOffset": 27759,
+                    "startOffset": 27744
+                }
+            },
+            "secId": "sec0085",
+            "sentence": "This finding is consistent with a previous study in the same area (Vu et al., 2012).",
+            "startOffset": 27677,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 15146,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "The research was enhanced by field-notes and participant observation by TT, a native of Vietnam.",
+            "startOffset": 15050,
+            "title": "Study design"
+        },
+        {
+            "endOffset": 10528,
+            "parents": [],
+            "refoffsets": {
+                "bib0045": {
+                    "endOffset": 10526,
+                    "startOffset": 10504
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "As there is no vaccine or treatment for dengue, prevention and control of this disease depend on vector control to reduce viral transmission (Guzman and Kouri, 2002).",
+            "startOffset": 10362,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28904,
+            "parents": [],
+            "secId": "sec0085",
+            "sentence": "However, there is still a pressing need for collaborator assistance because there remains confusion about the safety and production of Mesocyclops among the villagers.",
+            "startOffset": 28737,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25330,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0080",
+            "sentence": "(Management Committee Member)",
+            "startOffset": 25301,
+            "title": "Structural changes and the Mesocyclops program"
+        },
+        {
+            "endOffset": 21512,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "However, few villagers used fish in their household water containers because fish excrement and breeding pollute the water; while \u201cMesocyclops is white so it is clean!\u201d",
+            "startOffset": 21344,
+            "title": "Prevention methods"
+        },
+        {
+            "endOffset": 10999,
+            "parents": [],
+            "refoffsets": {
+                "bib0075": {
+                    "endOffset": 10997,
+                    "startOffset": 10964
+                },
+                "bib0120": {
+                    "endOffset": 10997,
+                    "startOffset": 10964
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "From 1998, the Vietnamese government has experimented with copepod Mesocyclops as a biological control agent for dengue (Kay and Vu, 2005; Vu et al., 1998).",
+            "startOffset": 10843,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16433,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "Containers were considered positive if they hosted Aedes III or IV instars.",
+            "startOffset": 16358,
+            "title": "Quantitative study"
+        },
+        {
+            "endOffset": 20834,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "Frequent clean-up of the water containers, household, and surroundings were also popular prevention techniques.",
+            "startOffset": 20723,
+            "title": "Prevention methods"
+        },
+        {
+            "endOffset": 15964,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "Unlike the original intervention study (2008\u20132010) where samples of III/IV instars were brought back to the laboratory for accurate species identification, we identified and counted mosquito larvae (Aedes vs. other genera) in the field using visual magnification glasses only.",
+            "startOffset": 15688,
+            "title": "Quantitative study"
+        },
+        {
+            "endOffset": 23714,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                },
+                {
+                    "id": "sec0060",
+                    "title": "Mesocyclops knowledge and adoption"
+                }
+            ],
+            "secId": "sec0075",
+            "sentence": "The collaborators and a few villagers reported that approximately a quarter of the total households did not adopt the program.",
+            "startOffset": 23588,
+            "title": "Non adoption"
+        },
+        {
+            "endOffset": 19603,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "They were able to link the cause of dengue to mosquito bites, identify basic symptoms, and correctly name mosquito breeding grounds and hiding places.",
+            "startOffset": 19453,
+            "title": "Knowledge of dengue"
+        },
+        {
+            "endOffset": 29523,
+            "parents": [],
+            "secId": "sec0085",
+            "sentence": "Accordingly, more support from the health sector is needed to help collaborators and villagers to maintain the intervention program.",
+            "startOffset": 29391,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30072,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "Two years since the community assumed responsibility in managing the program, mosquito population has resurged, suggesting escalation of risk for dengue transmission.",
+            "startOffset": 29906,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 26464,
+            "parents": [],
+            "secId": "sec0085",
+            "sentence": "Coinciding with this increase in Aedes density was a reduction in Mesocyclops prevalence, which by 2013 fell close to the 2008 pre-intervention level.",
+            "startOffset": 26314,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 13260,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Here we report on our single commune study of the social sustainability of the Mesocyclops intervention program in southern Vietnam.",
+            "startOffset": 13128,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22659,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                },
+                {
+                    "id": "sec0060",
+                    "title": "Mesocyclops knowledge and adoption"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "However, even among the people who appeared to be fully supportive, there were some gaps in their understanding of Mesocyclops, relating to the purpose and maintenance.",
+            "startOffset": 22491,
+            "title": "Full adoption"
+        },
+        {
+            "endOffset": 24371,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                },
+                {
+                    "id": "sec0060",
+                    "title": "Mesocyclops knowledge and adoption"
+                }
+            ],
+            "secId": "sec0075",
+            "sentence": "Sometimes with Meso, they have the knowledge but they cannot see it with naked eye \u2026 so when they hear about dengue, they would stock up guppy fish.",
+            "startOffset": 24223,
+            "title": "Non adoption"
+        },
+        {
+            "endOffset": 12960,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "In October 2010, the Vietnamese government transferred the southern Mesocyclops program responsibility to local residents and community collaborators.",
+            "startOffset": 12810,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23569,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                },
+                {
+                    "id": "sec0060",
+                    "title": "Mesocyclops knowledge and adoption"
+                }
+            ],
+            "secId": "sec0070",
+            "sentence": "(Villager)",
+            "startOffset": 23559,
+            "title": "Partial adoption"
+        },
+        {
+            "endOffset": 16195,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0050": {
+                    "endOffset": 16193,
+                    "startOffset": 16155
+                },
+                "bib0055": {
+                    "endOffset": 16193,
+                    "startOffset": 16155
+                }
+            },
+            "secId": "sec0025",
+            "sentence": "While misclassification of some immature mosquitoes could be an issue, it is unlikely given the experience and expertise of IP and the known predominance of Aedes aegypti in the study area (Higa et al., 2010; Kawada et al., 2009).",
+            "startOffset": 15965,
+            "title": "Quantitative study"
+        },
+        {
+            "endOffset": 20341,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "For instance, unventilated houses with surroundings full of containers or coconut shells, bottles or jars that were discarded and collect water \u2026 providing hiding places for the mosquitoes \u2026 (Villager)",
+            "startOffset": 20140,
+            "title": "Knowledge of dengue"
+        },
+        {
+            "endOffset": 29390,
+            "parents": [],
+            "secId": "sec0085",
+            "sentence": "Although, many public health programs combine interventions with other community development programs, the current lack of detailed knowledge of Mesocyclops highlights the need for the program to be separately maintained.",
+            "startOffset": 29169,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23361,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                },
+                {
+                    "id": "sec0060",
+                    "title": "Mesocyclops knowledge and adoption"
+                }
+            ],
+            "secId": "sec0070",
+            "sentence": "In practice, many people were classifying containers as Mesocyclops \u2018suitable\u2019, restricting Mesocyclops breeding to non-drinking containers or those perceived to be a potential breeding ground for mosquitos.",
+            "startOffset": 23154,
+            "title": "Partial adoption"
+        },
+        {
+            "endOffset": 25496,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0080",
+            "sentence": "Additionally, many collaborators reported that they no longer set aside specific time to conduct Mesocyclops control, instead integrating the program with other work.",
+            "startOffset": 25330,
+            "title": "Structural changes and the Mesocyclops program"
+        },
+        {
+            "endOffset": 25009,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0080",
+            "sentence": "In adapting to this change, the collaborators reported focusing their monitoring on special \u2018non-adopting\u2019 cases.",
+            "startOffset": 24896,
+            "title": "Structural changes and the Mesocyclops program"
+        },
+        {
+            "endOffset": 11307,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "They prey on first and second instar larvae of Ae.",
+            "startOffset": 11257,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27186,
+            "parents": [],
+            "secId": "sec0085",
+            "sentence": "The entomological measurements at Chanh An from 2008 to 2010 suggest there was an initial positive effect of the biological control program on reduction of dengue transmission potential.",
+            "startOffset": 27000,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16506,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "Mesocyclops prevalence was defined as the number of positive containers.",
+            "startOffset": 16434,
+            "title": "Quantitative study"
+        },
+        {
+            "endOffset": 17786,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0010": {
+                    "endOffset": 17784,
+                    "startOffset": 17770
+                }
+            },
+            "secId": "sec0030",
+            "sentence": "Qualitative data were analysed using ATLAS.ti 7.15 (ATLAS.ti, 2013).",
+            "startOffset": 17718,
+            "title": "Qualitative study"
+        },
+        {
+            "endOffset": 28662,
+            "parents": [],
+            "secId": "sec0085",
+            "sentence": "With reduced input from the government and increased geographical coverage, collaborators presently focus on \u2018problem\u2019 households and general monitoring have largely ceased.",
+            "startOffset": 28489,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16357,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0150": {
+                    "endOffset": 16355,
+                    "startOffset": 16346
+                }
+            },
+            "secId": "sec0025",
+            "sentence": "Standard mosquito measurements (Breteau, Container, and Larval Density Indices) were computed according to World Health Organisation (WHO) guidelines (WHO, 2003).",
+            "startOffset": 16195,
+            "title": "Quantitative study"
+        },
+        {
+            "endOffset": 21177,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "Guppy fish are effective in reducing mosquito larvae and were commonly used before the Mesocyclops program was implemented.",
+            "startOffset": 21054,
+            "title": "Prevention methods"
+        },
+        {
+            "endOffset": 24682,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0080",
+            "sentence": "Responsibility to continue the program now rested heavily on village collaborators.",
+            "startOffset": 24599,
+            "title": "Structural changes and the Mesocyclops program"
+        },
+        {
+            "endOffset": 27610,
+            "parents": [],
+            "refoffsets": {
+                "bib0015": {
+                    "endOffset": 27608,
+                    "startOffset": 27566
+                },
+                "bib0030": {
+                    "endOffset": 27608,
+                    "startOffset": 27566
+                }
+            },
+            "secId": "sec0085",
+            "sentence": "This is not surprising because the risk of dengue is influenced by many factors besides Aedes abundance and survival, including climate, dengue virulence, immunological status, and density of the human population (Esu et al., 2010; Barcellos and Lowe, 2014).",
+            "startOffset": 27352,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30495,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "Considering the limited scale of this study, restricted to one commune and using a relatively small data set, the findings are necessarily tentative and other evaluations are needed.",
+            "startOffset": 30313,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 13843,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Such information can help improve strategies and programs that adopt this control approach in Vietnam and elsewhere.",
+            "startOffset": 13727,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29694,
+            "parents": [],
+            "refoffsets": {
+                "bib0100": {
+                    "endOffset": 29692,
+                    "startOffset": 29671
+                }
+            },
+            "secId": "sec0085",
+            "sentence": "This is not surprising given international experience with dengue control has generally shown a need for strong \u2018top-down\u2019 leadership and support (Morrison et al., 2008).",
+            "startOffset": 29524,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 12809,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "The initial education programs mounted were similar to those implemented in the North and involved health workers and school teachers.",
+            "startOffset": 12675,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22414,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                },
+                {
+                    "id": "sec0060",
+                    "title": "Mesocyclops knowledge and adoption"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "To me there is no difficulty [with Mesocyclops maintenance]\u2026 I just put a bit of effort to catch and release copepods into the containers.",
+            "startOffset": 22276,
+            "title": "Full adoption"
+        },
+        {
+            "endOffset": 30313,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "Local staff are struggling to maintain intervention structures, raising the need for a strong and committed leadership to support.",
+            "startOffset": 30183,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 28736,
+            "parents": [],
+            "secId": "sec0085",
+            "sentence": "Furthermore, collaborators feel \u2018they cannot hold people's hand forever\u2019.",
+            "startOffset": 28663,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 10361,
+            "parents": [],
+            "refoffsets": {
+                "bib0020": {
+                    "endOffset": 10359,
+                    "startOffset": 10285
+                },
+                "bib0035": {
+                    "endOffset": 10359,
+                    "startOffset": 10285
+                },
+                "bib0045": {
+                    "endOffset": 10359,
+                    "startOffset": 10285
+                },
+                "bib0155": {
+                    "endOffset": 10359,
+                    "startOffset": 10285
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "With an annual estimation of 390 million cases worldwide, growing incidence and more frequent epidemics, dengue is an increasingly important public health challenge (Bhatt et al., 2013; Farrar et al., 2007; Guzman and Kouri, 2002; WHO, 2012).",
+            "startOffset": 10119,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 13335,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "This is the first copepod sustainability evaluation conducted in the area.",
+            "startOffset": 13261,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 14666,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0135": {
+                    "endOffset": 14664,
+                    "startOffset": 14649
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "Previous entomological surveillance of this area from 2008 to 2010 showed that the control program had a substantial impact on Aedes aegypti abundance, with control efficacy of 98.2% (Vu et al., 2012).",
+            "startOffset": 14465,
+            "title": "Study location and population"
+        },
+        {
+            "endOffset": 26313,
+            "parents": [],
+            "secId": "sec0085",
+            "sentence": "Chanh An mosquito indices (BI, CI and LDI) demonstrated a substantial increase in mosquito density after the responsibility for the intervention program was transferred to the community in February 2010.",
+            "startOffset": 26110,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17908,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0090": {
+                    "endOffset": 17906,
+                    "startOffset": 17889
+                }
+            },
+            "secId": "sec0030",
+            "sentence": "Thematic analyses of data were guided by themes from the research literature and interview questions (Liamputtong, 2013).",
+            "startOffset": 17787,
+            "title": "Qualitative study"
+        },
+        {
+            "endOffset": 24182,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                },
+                {
+                    "id": "sec0060",
+                    "title": "Mesocyclops knowledge and adoption"
+                }
+            ],
+            "secId": "sec0075",
+            "sentence": "It is just that people are scared of dengue fever, so they frequently clean and rinse containers, sleep under bed nets \u2026 I see some people do use Meso but the number is very limited.",
+            "startOffset": 24000,
+            "title": "Non adoption"
+        },
+        {
+            "endOffset": 11480,
+            "parents": [],
+            "refoffsets": {
+                "bib0065": {
+                    "endOffset": 11478,
+                    "startOffset": 11438
+                },
+                "bib0095": {
+                    "endOffset": 11478,
+                    "startOffset": 11438
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "aegypti, with preference for first instars, so acting as an effective predator for biological control of the transmission system (Marten and Reid, 2007; Kay et al., 1992b).",
+            "startOffset": 11308,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23463,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                },
+                {
+                    "id": "sec0060",
+                    "title": "Mesocyclops knowledge and adoption"
+                }
+            ],
+            "secId": "sec0070",
+            "sentence": "Mesocyclops would be stored in larger containers, those with covers or considered difficult to clean.",
+            "startOffset": 23362,
+            "title": "Partial adoption"
+        },
+        {
+            "endOffset": 18689,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "The data sources were (i) IP (2008\u20132010), (ii) collaborators (2010\u20132012), and (iii) the final survey (2013).",
+            "startOffset": 18581,
+            "title": "Quantitative study"
+        },
+        {
+            "endOffset": 30657,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "We did not examine changes in the health burden and dengue endemicity as a result of the Mesocyclops program, and this is a potential avenue for future research.",
+            "startOffset": 30496,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 27000,
+            "parents": [],
+            "refoffsets": {
+                "bib0095": {
+                    "endOffset": 26998,
+                    "startOffset": 26977
+                },
+                "bib0145": {
+                    "endOffset": 26714,
+                    "startOffset": 26695
+                }
+            },
+            "secId": "sec0085",
+            "sentence": "While the survey was cross-sectional and the issues of temporality complicate inference of cause or effect (Webb and Bain, 2011), external (prior) knowledge of the predator-prey relationship between copepods and Aedes larvae suggests strongly that the trends of decreasing Mesocyclops and increasing Aedes are biologically related with copepods as cause and the larval abundance as effect (Marten and Reid, 2007).",
+            "startOffset": 26587,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 13726,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Using a mixed methods approach of quantitative (entomological survey) and qualitative (interviews and focus group discussion) approaches, we identify factors that facilitate and impede the continuation of the community-based Aedes biological control program.",
+            "startOffset": 13468,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22276,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                },
+                {
+                    "id": "sec0060",
+                    "title": "Mesocyclops knowledge and adoption"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "This group took care to ensure that copepods were continuously present in all household containers, and did not consider maintaining Mesocyclops to be burdensome.",
+            "startOffset": 22114,
+            "title": "Full adoption"
+        },
+        {
+            "endOffset": 10664,
+            "parents": [],
+            "refoffsets": {
+                "bib0040": {
+                    "endOffset": 10662,
+                    "startOffset": 10644
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "The main vector of dengue is Aedes aegypti, a domestic mosquito that breeds mainly in artificial water containers (Focks et al., 1981).",
+            "startOffset": 10529,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 12159,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Local health workers and community volunteers (called collaborators) were authorised by the Vietnamese government to introduce Mesocyclops copepods into household water containers and to monitor mosquito levels.",
+            "startOffset": 11948,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16851,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "As larval data were available before the community transfer of responsibility (2008\u20132010) and at the end of the study (2013), it is possible to impute trends and trajectories for the various larval indices across this period of analysis.",
+            "startOffset": 16614,
+            "title": "Quantitative study"
+        },
+        {
+            "endOffset": 24598,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0080",
+            "sentence": "The transfer of program responsibility from the government to the community in 2010 meant that centralised education, training and feedback were no longer available.",
+            "startOffset": 24433,
+            "title": "Structural changes and the Mesocyclops program"
+        },
+        {
+            "endOffset": 11726,
+            "parents": [],
+            "refoffsets": {
+                "bib0075": {
+                    "endOffset": 11724,
+                    "startOffset": 11687
+                },
+                "bib0105": {
+                    "endOffset": 11724,
+                    "startOffset": 11687
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "In the Vietnamese countryside, many people store water in containers around the household due to unreliable public water supply, thereby providing a major site for mosquito breeding and dengue transmission (Kay and Vu, 2005; Nguyen et al., 2011).",
+            "startOffset": 11480,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16613,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0135": {
+                    "endOffset": 16611,
+                    "startOffset": 16596
+                }
+            },
+            "secId": "sec0025",
+            "sentence": "The calculated values were compared with the original study, noting trends and patterns (Vu et al., 2012).",
+            "startOffset": 16507,
+            "title": "Quantitative study"
+        },
+        {
+            "endOffset": 17608,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "Issues discussed included local water storage habits, beliefs about dengue prevention, and behaviours related to Mesocyclops.",
+            "startOffset": 17483,
+            "title": "Qualitative study"
+        },
+        {
+            "endOffset": 21343,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "An advantage of using fishes over Mesocyclops as a dengue control measure is the ease of maintenance because fishes are bigger and more easily seen than Mesocyclops.",
+            "startOffset": 21178,
+            "title": "Prevention methods"
+        },
+        {
+            "endOffset": 13467,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "We define social sustainability as maintenance of social support for activities and resources directed at program-related outcomes.",
+            "startOffset": 13336,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24382,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                },
+                {
+                    "id": "sec0060",
+                    "title": "Mesocyclops knowledge and adoption"
+                }
+            ],
+            "secId": "sec0075",
+            "sentence": "(Villager)",
+            "startOffset": 24372,
+            "title": "Non adoption"
+        },
+        {
+            "endOffset": 25944,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0080",
+            "sentence": "The breeding and collection of copepods was increasingly seen as the villagers\u2019 responsibility.",
+            "startOffset": 25849,
+            "title": "Structural changes and the Mesocyclops program"
+        },
+        {
+            "endOffset": 24806,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0080",
+            "sentence": "During government control (2008\u20132010), each collaborator was responsible for monitoring Mesocyclops in around 50 households.",
+            "startOffset": 24682,
+            "title": "Structural changes and the Mesocyclops program"
+        },
+        {
+            "endOffset": 27874,
+            "parents": [],
+            "secId": "sec0085",
+            "sentence": "There are, however, persistent gaps in the villagers\u2019 understanding of effective dengue control and Mesocyclops.",
+            "startOffset": 27762,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19452,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "The villagers of Chanh An commune showed good basic knowledge of dengue.",
+            "startOffset": 19380,
+            "title": "Knowledge of dengue"
+        },
+        {
+            "endOffset": 21689,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "Furthermore, one villager observed that fish die more easily than Mesocyclops and another believed that Mesocyclops prey on Aedes larvae more efficiently than fish.",
+            "startOffset": 21525,
+            "title": "Prevention methods"
+        },
+        {
+            "endOffset": 13128,
+            "parents": [],
+            "refoffsets": {
+                "bib0135": {
+                    "endOffset": 13126,
+                    "startOffset": 13111
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "These collaborators were trained to produce Mesocyclops and to monitor domestic water containers, treating them with copepods inoculations as needed (Vu et al., 2012).",
+            "startOffset": 12961,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 12357,
+            "parents": [],
+            "refoffsets": {
+                "bib0075": {
+                    "endOffset": 12355,
+                    "startOffset": 12280
+                },
+                "bib0080": {
+                    "endOffset": 12355,
+                    "startOffset": 12280
+                },
+                "bib0120": {
+                    "endOffset": 12355,
+                    "startOffset": 12280
+                },
+                "bib0125": {
+                    "endOffset": 12355,
+                    "startOffset": 12280
+                },
+                "bib0130": {
+                    "endOffset": 12355,
+                    "startOffset": 12280
+                },
+                "bib0135": {
+                    "endOffset": 12355,
+                    "startOffset": 12280
+                },
+                "bib0140": {
+                    "endOffset": 12355,
+                    "startOffset": 12280
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Community clean-up campaigns were also carried out to clear rubbish that could act as breeding sites for Aedes species (Kay et al., 2002; Kay and Vu, 2005; Vu et al., 1998, 2000, 2004, 2005, 2012).",
+            "startOffset": 12160,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20618,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "The methods can be divided into \u2018passive\u2019 (bite avoiding) and \u2018active\u2019 (insecticidal) approaches and are summarised below (Table 1).",
+            "startOffset": 20486,
+            "title": "Prevention methods"
+        },
+        {
+            "endOffset": 25575,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0080",
+            "sentence": "We incorporate [the Meso program] into meetings and other community activities.",
+            "startOffset": 25496,
+            "title": "Structural changes and the Mesocyclops program"
+        },
+        {
+            "endOffset": 14746,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "We used a mixed methods approach to assess social sustainability.",
+            "startOffset": 14681,
+            "title": "Study design"
+        },
+        {
+            "endOffset": 24222,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                },
+                {
+                    "id": "sec0060",
+                    "title": "Mesocyclops knowledge and adoption"
+                }
+            ],
+            "secId": "sec0075",
+            "sentence": "Some people use fish instead.",
+            "startOffset": 24193,
+            "title": "Non adoption"
+        },
+        {
+            "endOffset": 24193,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                },
+                {
+                    "id": "sec0060",
+                    "title": "Mesocyclops knowledge and adoption"
+                }
+            ],
+            "secId": "sec0075",
+            "sentence": "(Villager)",
+            "startOffset": 24183,
+            "title": "Non adoption"
+        },
+        {
+            "endOffset": 25848,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0080",
+            "sentence": "Another major change following the transfer of responsibility was that the collaborators were no longer actively introducing Mesocyclops into water containers.",
+            "startOffset": 25689,
+            "title": "Structural changes and the Mesocyclops program"
+        },
+        {
+            "endOffset": 17023,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "The qualitative study was primarily based on a series of 16 semi-structured interviews with people working on the control program or living in Chanh An.",
+            "startOffset": 16871,
+            "title": "Qualitative study"
+        },
+        {
+            "endOffset": 23999,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                },
+                {
+                    "id": "sec0060",
+                    "title": "Mesocyclops knowledge and adoption"
+                }
+            ],
+            "secId": "sec0075",
+            "sentence": "Nowadays \u2026 no one would have time to breed Meso.",
+            "startOffset": 23951,
+            "title": "Non adoption"
+        },
+        {
+            "endOffset": 11947,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Recognising the opportunity to control dengue by limiting mosquito breeding in household water containers, Mesocyclops intervention has been developed based on community structure with horizontal and vertical approaches.",
+            "startOffset": 11727,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 15486,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "The entomological study was led by technical staff at IP and involved a standard water container survey in 100 randomly selected households in Chanh An commune.",
+            "startOffset": 15326,
+            "title": "Quantitative study"
+        },
+        {
+            "endOffset": 27676,
+            "parents": [],
+            "secId": "sec0085",
+            "sentence": "Overall, the villagers displayed a good basic knowledge of dengue.",
+            "startOffset": 27610,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 15305,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "This study was approved by the Australian National University Human Research Ethics Committee and supported by the Institute Pasteur Ho Chi Minh City, Vietnam.",
+            "startOffset": 15146,
+            "title": "Study design"
+        },
+        {
+            "endOffset": 21524,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0045",
+                    "title": "Qualitative study"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "(Villager).",
+            "startOffset": 21513,
+            "title": "Prevention methods"
+        },
+        {
+            "endOffset": 30823,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "Overall, evidence from the mixed methods used has converged to suggest that the Mesocyclops program in its current form is not socially sustainable in South Vietnam.",
+            "startOffset": 30658,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 28488,
+            "parents": [],
+            "secId": "sec0085",
+            "sentence": "Local collaborators play an important role in the dengue intervention as they are connected to the communities and possess knowledge and authority.",
+            "startOffset": 28341,
+            "title": "Discussion"
+        }
+    ],
+    "docId": "S0001706X14003180",
+    "metadata": {
+        "asjc": [
+            "1109",
+            "2405",
+            "2725",
+            "3401"
+        ],
+        "authors": [
+            {
+                "email": "tam.tran@anu.edu.au",
+                "first": "Thanh Tam",
+                "initial": "T.T.",
+                "last": "Tran"
+            },
+            {
+                "email": null,
+                "first": "Anna",
+                "initial": "A.",
+                "last": "Olsen"
+            },
+            {
+                "email": null,
+                "first": "Elvina",
+                "initial": "E.",
+                "last": "Viennet"
+            },
+            {
+                "email": null,
+                "first": "Adrian",
+                "initial": "A.",
+                "last": "Sleigh"
+            }
+        ],
+        "doi": "10.1016/j.actatropica.2014.10.006",
+        "firstpage": "54",
+        "issn": "0001706X",
+        "keywords": [
+            "Aedes aegypti",
+            "Dengue control",
+            "Mesocyclops",
+            "Mixed methods",
+            "Social sustainability",
+            "Vietnam"
+        ],
+        "lastpage": "59",
+        "openaccess": "Full",
+        "pub_year": 2015,
+        "subjareas": [
+            "AGRI",
+            "IMMU",
+            "MEDI",
+            "VETE"
+        ],
+        "title": "Social sustainability of Mesocyclops biological control for dengue in South Vietnam"
+    }
+}
