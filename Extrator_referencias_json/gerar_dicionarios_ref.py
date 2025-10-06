@@ -70,9 +70,9 @@ def extrair_dados_artigo(filepath):
     return resultado
 
 
-# --- BLOCO DE EXECUÇÃO ---
+# Driver code
 if __name__ == "__main__":
-    JSON_INPUT_FOLDER = "mini_corpus_json"
+    JSON_INPUT_FOLDER = "mini_corpus_json" # TODO Fazer para todos os arquivos de uma corpora
     ARQUIVO_JSON_EXEMPLO = "S0001706X13001861.json"
     
     caminho_completo = os.path.join(JSON_INPUT_FOLDER, ARQUIVO_JSON_EXEMPLO)

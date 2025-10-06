@@ -3,12 +3,12 @@ import json
 from jinja2 import Environment, FileSystemLoader
 from weasyprint import HTML
 
-# --- Configuração ---
+# Configuração
 JSON_INPUT_FOLDER = "mini_corpus_json"
-PDF_OUTPUT_FOLDER = "artigos_pdf_completos" # Novo nome para a pasta de saída
+PDF_OUTPUT_FOLDER = "artigos_pdf_completos" 
 TEMPLATE_FILE = "template.html"
 
-# --- Preparação do Ambiente ---
+#  Preparação do Ambiente 
 if not os.path.exists(PDF_OUTPUT_FOLDER):
     os.makedirs(PDF_OUTPUT_FOLDER)
 
