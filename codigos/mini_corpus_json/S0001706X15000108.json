@@ -1,0 +1,3636 @@
+{
+    "abstract": "The Xinjiang Uyghur Autonomous Region in northwest China is one of the world's most important foci for cystic echinococcosis. Domestic dogs are the main source for human infection, and previous studies in Xinjiang have found a canine Echinococcus spp. coproELISA prevalence of between 36% and 41%. In 2010 the Chinese National Echinococcosis Control Programme was implemented in Xinjiang, and includes regular dosing of domestic dogs with praziquantel. Six communities in Hobukesar County, northwest Xinjiang were assessed in relation to the impact of this control programme through dog necropsies, dog Echinococcus spp. coproantigen surveys based on Lot Quality Assurance Sampling (LQAS) and dog owner questionnaires. We found that 42.1% of necropsied dogs were infected with Echinococcus granulosus, and coproELISA prevalences were between 15% and 70% in the communities. Although approximately half of all dog owners reported dosing their dogs within the 12 months prior to sampling, coproELISA prevalence remained high. Regular praziquantel dosing of owned dogs in remote and semi-nomadic communities such as those in Hobukesar County is logistically very difficult and additional measures should be considered to reduce canine echinococcosis.",
+    "author_highlights": [
+        {
+            "endOffset": 9716,
+            "sentence": "Xinjiang is one of the most important foci of human cystic echinococcosis in the world.",
+            "startOffset": 9629
+        },
+        {
+            "endOffset": 9794,
+            "sentence": "A control programme, including PZQ dosing of dogs, began in Xinjiang in 2010.",
+            "startOffset": 9717
+        },
+        {
+            "endOffset": 9886,
+            "sentence": "The control programme was evaluated using LQAS sampling, dog necropsies and questionnaires.",
+            "startOffset": 9795
+        },
+        {
+            "endOffset": 9974,
+            "sentence": "The control programme did not meet our evaluation criteria in most communities studied.",
+            "startOffset": 9887
+        },
+        {
+            "endOffset": 10060,
+            "sentence": "Other measures should be considered to improve Echinococcus spp. control in Xinjiang.",
+            "startOffset": 9975
+        }
+    ],
+    "bib_entries": {
+        "bib0005": {
+            "authors": [
+                {
+                    "first": "Ibrahim",
+                    "initial": "I.",
+                    "last": "Abbasi"
+                },
+                {
+                    "first": "Anna",
+                    "initial": "A.",
+                    "last": "Branzburg"
+                },
+                {
+                    "first": "Maiza",
+                    "initial": "M.",
+                    "last": "Campos-Ponce"
+                },
+                {
+                    "first": "Sami K.",
+                    "initial": "S.K.",
+                    "last": "Abdel Hafez"
+                },
+                {
+                    "first": "Francis",
+                    "initial": "F.",
+                    "last": "Raoul"
+                },
+                {
+                    "first": "Philip S.",
+                    "initial": "P.S.",
+                    "last": "Craig"
+                },
+                {
+                    "first": "Joseph",
+                    "initial": "J.",
+                    "last": "Hamburger"
+                }
+            ],
+            "firstpage": "324",
+            "issn": "00029637",
+            "lastpage": "330",
+            "pmid": "14628952",
+            "pub_year": 2003,
+            "title": "Copro-diagnosis of Echinococcus granulosus infection in dogs by amplification of a newly identified repeated DNA sequence.",
+            "volume": "69"
+        },
+        "bib0010": {
+            "authors": [
+                {
+                    "first": "J. C.",
+                    "initial": "J.C.",
+                    "last": "Allan"
+                },
+                {
+                    "first": "P. S.",
+                    "initial": "P.S.",
+                    "last": "Craig"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Rogan"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Stringer"
+                }
+            ],
+            "doi": "10.1017/S0031182000061801",
+            "firstpage": "347",
+            "issn": "00311820",
+            "lastpage": "355",
+            "pmid": "1594298",
+            "pub_year": 1992,
+            "title": "Coproantigen detection for immunodiagnosis of echinococcosis and taeniasis in dogs and humans",
+            "volume": "104"
+        },
+        "bib0015": {
+            "authors": [
+                {
+                    "first": "T. S.",
+                    "initial": "T.S.",
+                    "last": "Barnes"
+                },
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Deplazes"
+                },
+                {
+                    "first": "B.",
+                    "initial": "B.",
+                    "last": "Gottstein"
+                },
+                {
+                    "first": "D. J.",
+                    "initial": "D.J.",
+                    "last": "Jenkins"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Mathis"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Siles-Lucas"
+                },
+                {
+                    "first": "P. R.",
+                    "initial": "P.R.",
+                    "last": "Torgerson"
+                },
+                {
+                    "first": "I.",
+                    "initial": "I.",
+                    "last": "Ziadinov"
+                },
+                {
+                    "first": "D. D.",
+                    "initial": "D.D.",
+                    "last": "Heath"
+                }
+            ],
+            "doi": "10.1016/j.actatropica.2012.02.066",
+            "firstpage": "1",
+            "issn": "0001706X",
+            "lastpage": "7",
+            "pmid": "22410539",
+            "pub_year": 2012,
+            "title": "Challenges for diagnosis and control of cystic hydatid disease",
+            "volume": "123"
+        },
+        "bib0020": {
+            "authors": [
+                {
+                    "first": "J. M.",
+                    "initial": "J.M.",
+                    "last": "Bart"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Abdukader"
+                },
+                {
+                    "first": "Y. L.",
+                    "initial": "Y.L.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "R. Y.",
+                    "initial": "R.Y.",
+                    "last": "Lin"
+                },
+                {
+                    "first": "Y. H.",
+                    "initial": "Y.H.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Nakao"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Ito"
+                },
+                {
+                    "first": "P. S.",
+                    "initial": "P.S.",
+                    "last": "Craig"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Piarroux"
+                },
+                {
+                    "first": "D. A.",
+                    "initial": "D.A.",
+                    "last": "Vuitton"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Wen"
+                }
+            ],
+            "doi": "10.1017/S0031182006000734",
+            "firstpage": "571",
+            "issn": "00311820",
+            "lastpage": "579",
+            "pmid": "16836793",
+            "pub_year": 2006,
+            "title": "Genotyping of human cystic echinococcosis in Xinjiang, PR China",
+            "volume": "133"
+        },
+        "bib0025": {
+            "authors": [
+                {
+                    "first": "Belgees S.",
+                    "initial": "B.S.",
+                    "last": "Boufana"
+                },
+                {
+                    "first": "Maiza",
+                    "initial": "M.",
+                    "last": "Campos-Ponce"
+                },
+                {
+                    "first": "Ariel",
+                    "initial": "A.",
+                    "last": "Naidich"
+                },
+                {
+                    "first": "Imad",
+                    "initial": "I.",
+                    "last": "Buishi"
+                },
+                {
+                    "first": "Selma",
+                    "initial": "S.",
+                    "last": "Lahmar"
+                },
+                {
+                    "first": "Eberhard",
+                    "initial": "E.",
+                    "last": "Zeyhle"
+                },
+                {
+                    "first": "David J.",
+                    "initial": "D.J.",
+                    "last": "Jenkins"
+                },
+                {
+                    "first": "Benoit",
+                    "initial": "B.",
+                    "last": "Combes"
+                },
+                {
+                    "first": "Hao",
+                    "initial": "H.",
+                    "last": "Wen"
+                },
+                {
+                    "first": "Ning",
+                    "initial": "N.",
+                    "last": "Xiao"
+                },
+                {
+                    "first": "Minora",
+                    "initial": "M.",
+                    "last": "Nakao"
+                },
+                {
+                    "first": "Akira",
+                    "initial": "A.",
+                    "last": "Ito"
+                },
+                {
+                    "first": "Jiamin",
+                    "initial": "J.",
+                    "last": "Qiu"
+                },
+                {
+                    "first": "Philip S.",
+                    "initial": "P.S.",
+                    "last": "Craig"
+                }
+            ],
+            "firstpage": "777",
+            "issn": "00029637",
+            "lastpage": "783",
+            "pmid": "18458313",
+            "pub_year": 2008,
+            "title": "Evaluation of three PCR assays for the identification of the sheep strain (genotype 1) of Echinococcus granulosus in canid feces and parasite tissues",
+            "volume": "78"
+        },
+        "bib0030": {
+            "authors": [
+                {
+                    "first": "Belgees",
+                    "initial": "B.",
+                    "last": "Boufana"
+                },
+                {
+                    "first": "G\u00e9rald",
+                    "initial": "G.",
+                    "last": "Umhang"
+                },
+                {
+                    "first": "Jiamin",
+                    "initial": "J.",
+                    "last": "Qiu"
+                },
+                {
+                    "first": "Xingwang",
+                    "initial": "X.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Samia",
+                    "initial": "S.",
+                    "last": "Lahmar"
+                },
+                {
+                    "first": "Franck",
+                    "initial": "F.",
+                    "last": "Bou\u00e9"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Jenkins"
+                },
+                {
+                    "first": "Philip",
+                    "initial": "P.",
+                    "last": "Craig"
+                }
+            ],
+            "doi": "10.4269/ajtmh.12-0331",
+            "firstpage": "795",
+            "issn": "00029637",
+            "lastpage": "802",
+            "pmid": "23438764",
+            "pub_year": 2013,
+            "title": "Development of three PCR assays for the differentiation between Echinococcus shiquicus, E. granulosus (G1 genotype), and E. multilocularis DNA in the co-endemic region of Qinghai-Tibet plateau, China",
+            "volume": "88"
+        },
+        "bib0035": null,
+        "bib0040": {
+            "authors": [
+                {
+                    "first": "P. S.",
+                    "initial": "P.S.",
+                    "last": "Craig"
+                },
+                {
+                    "first": "E.",
+                    "initial": "E.",
+                    "last": "Larrieu"
+                }
+            ],
+            "doi": "10.1016/S0065-308X(05)61011-1",
+            "firstpage": "443",
+            "issn": "0065308X",
+            "lastpage": "508",
+            "pmid": "16735171",
+            "pub_year": 2006,
+            "title": "Control of Cystic Echinococcosis/Hydatidosis: 1863-2002",
+            "volume": "61"
+        },
+        "bib0045": {
+            "authors": [
+                {
+                    "first": "Philip S.",
+                    "initial": "P.S.",
+                    "last": "Craig"
+                },
+                {
+                    "first": "Christine M.",
+                    "initial": "C.M.",
+                    "last": "Budke"
+                },
+                {
+                    "first": "Peter M.",
+                    "initial": "P.M.",
+                    "last": "Schantz"
+                },
+                {
+                    "first": "Tiaoying",
+                    "initial": "T.",
+                    "last": "Li"
+                },
+                {
+                    "first": "Jiamin",
+                    "initial": "J.",
+                    "last": "Qiu"
+                },
+                {
+                    "first": "Yurong",
+                    "initial": "Y.",
+                    "last": "Yang"
+                },
+                {
+                    "first": "Eberhard",
+                    "initial": "E.",
+                    "last": "Zeyhle"
+                },
+                {
+                    "first": "Akira",
+                    "initial": "A.",
+                    "last": "Ito"
+                },
+                {
+                    "first": "Michael T.",
+                    "initial": "M.T.",
+                    "last": "Rogan"
+                }
+            ],
+            "doi": "10.2149/tmh.35.283",
+            "firstpage": "283",
+            "issn": "13488945",
+            "lastpage": "292",
+            "pub_year": 2007,
+            "title": "Human Echinococcosis: A Neglected Disease?",
+            "volume": "35"
+        },
+        "bib0050": null,
+        "bib0055": {
+            "authors": [
+                {
+                    "first": "H. F.",
+                    "initial": "H.F.",
+                    "last": "Dodge"
+                },
+                {
+                    "first": "H. G.",
+                    "initial": "H.G.",
+                    "last": "Romig"
+                }
+            ],
+            "doi": "10.1002/j.1538-7305.1929.tb01240.x",
+            "firstpage": "613",
+            "issn": "00058580",
+            "lastpage": "631",
+            "pub_year": 1929,
+            "title": "A Method of Sampling Inspection",
+            "volume": "8"
+        },
+        "bib0060": {
+            "authors": [
+                {
+                    "first": "F. A.",
+                    "initial": "F.A.",
+                    "last": "Elayoubi"
+                },
+                {
+                    "first": "P. S.",
+                    "initial": "P.S.",
+                    "last": "Craig"
+                }
+            ],
+            "doi": "10.1017/S0031182003004712",
+            "firstpage": "455",
+            "issn": "00311820",
+            "lastpage": "465",
+            "pmid": "15151151",
+            "pub_year": 2004,
+            "title": "Echinococcus granulosus coproantigens: Chromatographic fractionation and characterization",
+            "volume": "128"
+        },
+        "bib0065": {
+            "authors": [
+                {
+                    "first": "Ian A.",
+                    "initial": "I.A.",
+                    "last": "Gardner"
+                },
+                {
+                    "first": "Matthias",
+                    "initial": "M.",
+                    "last": "Greiner"
+                }
+            ],
+            "doi": "10.1111/j.1939-165X.2006.tb00082.x",
+            "firstpage": "8",
+            "issn": "02756382",
+            "lastpage": "17",
+            "pmid": "16511785",
+            "pub_year": 2006,
+            "title": "Receiver-operating characteristic curves and likelihood ratios: Improvements over traditional methods for the evaluation and application of veterinary clinical pathology tests",
+            "volume": "35"
+        },
+        "bib0070": {
+            "authors": [
+                {
+                    "first": "M. A.",
+                    "initial": "M.A.",
+                    "last": "Gemmell"
+                },
+                {
+                    "first": "P. D.",
+                    "initial": "P.D.",
+                    "last": "Johnstone"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Oudemans"
+                }
+            ],
+            "doi": "10.1016/s0034-5288(18)33240-5",
+            "firstpage": "121",
+            "issn": "00345288",
+            "lastpage": "123",
+            "pmid": "905644",
+            "pub_year": 1977,
+            "title": "The effect of praziquantel on Echinococcus granulosus, Taenia hydatigena and Taenia ovis infections in dogs",
+            "volume": "23"
+        },
+        "bib0075": {
+            "authors": [
+                {
+                    "first": "M. A.",
+                    "initial": "M.A.",
+                    "last": "Gemmell"
+                },
+                {
+                    "first": "J. R.",
+                    "initial": "J.R.",
+                    "last": "Lawson"
+                },
+                {
+                    "first": "M. G.",
+                    "initial": "M.G.",
+                    "last": "Roberts"
+                }
+            ],
+            "firstpage": "333",
+            "issn": "00429686",
+            "lastpage": "339",
+            "pmid": "3490317",
+            "pub_year": 1986,
+            "title": "Control of echinococcosis/hydatidosis: Present status of worldwide progress",
+            "volume": "64"
+        },
+        "bib0080": {
+            "authors": [
+                {
+                    "first": "D. D.",
+                    "initial": "D.D.",
+                    "last": "Heath"
+                },
+                {
+                    "first": "O.",
+                    "initial": "O.",
+                    "last": "Jensen"
+                },
+                {
+                    "first": "M. W.",
+                    "initial": "M.W.",
+                    "last": "Lightowlers"
+                }
+            ],
+            "doi": "10.1016/S0001-706X(02)00219-X",
+            "firstpage": "133",
+            "issn": "0001706X",
+            "lastpage": "143",
+            "pmid": "12606090",
+            "pub_year": 2003,
+            "title": "Progress in control of hydatidosis using vaccination - A review of formulation and delivery of the vaccine and recommendations for practical use in control programmes",
+            "volume": "85"
+        },
+        "bib0085": {
+            "authors": [
+                {
+                    "first": "Liang",
+                    "initial": "L.",
+                    "last": "Huang"
+                },
+                {
+                    "first": "Yan",
+                    "initial": "Y.",
+                    "last": "Huang"
+                },
+                {
+                    "first": "Qian",
+                    "initial": "Q.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Ning",
+                    "initial": "N.",
+                    "last": "Xiao"
+                },
+                {
+                    "first": "Deyou",
+                    "initial": "D.",
+                    "last": "Yi"
+                },
+                {
+                    "first": "Wenjie",
+                    "initial": "W.",
+                    "last": "Yu"
+                },
+                {
+                    "first": "Dongchuan",
+                    "initial": "D.",
+                    "last": "Qiu"
+                }
+            ],
+            "doi": "10.1016/j.vetpar.2011.01.047",
+            "firstpage": "84",
+            "issn": "03044017",
+            "lastpage": "91",
+            "pmid": "21334810",
+            "pub_year": 2011,
+            "title": "An agent-based model for control strategies of Echinococcus granulosus",
+            "volume": "179"
+        },
+        "bib0090": {
+            "authors": [
+                {
+                    "first": "Edmundo",
+                    "initial": "E.",
+                    "last": "Larrieu"
+                },
+                {
+                    "first": "Fabian",
+                    "initial": "F.",
+                    "last": "Zanini"
+                }
+            ],
+            "doi": "10.1590/S1020-49892012000100012",
+            "firstpage": "81",
+            "issn": "10204989",
+            "lastpage": "87",
+            "pmid": "22427169",
+            "pub_year": 2012,
+            "title": "Critical analysis of cystic echinococcosis control programs and praziquantel use in South America, 1974-2010",
+            "volume": "31"
+        },
+        "bib0095": {
+            "authors": [
+                {
+                    "first": "Edmundo",
+                    "initial": "E.",
+                    "last": "Larrieu"
+                },
+                {
+                    "first": "Eduardo",
+                    "initial": "E.",
+                    "last": "Herrero"
+                },
+                {
+                    "first": "Guillermo",
+                    "initial": "G.",
+                    "last": "Mujica"
+                },
+                {
+                    "first": "Jose Luis",
+                    "initial": "J.L.",
+                    "last": "Labanchi"
+                },
+                {
+                    "first": "Daniel",
+                    "initial": "D.",
+                    "last": "Araya"
+                },
+                {
+                    "first": "Claudia",
+                    "initial": "C.",
+                    "last": "Grizmado"
+                },
+                {
+                    "first": "Arnoldo",
+                    "initial": "A.",
+                    "last": "Calabro"
+                },
+                {
+                    "first": "Gabriel",
+                    "initial": "G.",
+                    "last": "Talmon"
+                },
+                {
+                    "first": "Guillermo",
+                    "initial": "G.",
+                    "last": "Ruesta"
+                },
+                {
+                    "first": "Alicia",
+                    "initial": "A.",
+                    "last": "Perez"
+                },
+                {
+                    "first": "Antonio",
+                    "initial": "A.",
+                    "last": "Gatti"
+                },
+                {
+                    "first": "Graciela",
+                    "initial": "G.",
+                    "last": "Santill\u00e1n"
+                },
+                {
+                    "first": "Marta",
+                    "initial": "M.",
+                    "last": "Cabrera"
+                },
+                {
+                    "first": "Marcos",
+                    "initial": "M.",
+                    "last": "Arezzo"
+                },
+                {
+                    "first": "Marcos",
+                    "initial": "M.",
+                    "last": "Seleiman"
+                },
+                {
+                    "first": "Laura",
+                    "initial": "L.",
+                    "last": "Cavagi\u00f3n"
+                },
+                {
+                    "first": "Mariela Garc\u00eda",
+                    "initial": "M.G.",
+                    "last": "Cachau"
+                },
+                {
+                    "first": "Cristian A.",
+                    "initial": "C.A.",
+                    "last": "Alvarez Rojas"
+                },
+                {
+                    "first": "Lilia",
+                    "initial": "L.",
+                    "last": "Gino"
+                },
+                {
+                    "first": "Charles G.",
+                    "initial": "C.G.",
+                    "last": "Gauci"
+                },
+                {
+                    "first": "David D.",
+                    "initial": "D.D.",
+                    "last": "Heath"
+                },
+                {
+                    "first": "Roberto",
+                    "initial": "R.",
+                    "last": "Lamberti"
+                },
+                {
+                    "first": "Marshall W.",
+                    "initial": "M.W.",
+                    "last": "Lightowlers"
+                }
+            ],
+            "doi": "10.1016/j.actatropica.2013.04.009",
+            "firstpage": "143",
+            "issn": "0001706X",
+            "lastpage": "151",
+            "pmid": "23632258",
+            "pub_year": 2013,
+            "title": "Pilot field trial of the EG95 vaccine against ovine cystic echinococcosis in Rio Negro, Argentina: Early impact and preliminary data",
+            "volume": "127"
+        },
+        "bib0100": null,
+        "bib0105": {
+            "authors": [
+                {
+                    "first": "Alexander",
+                    "initial": "A.",
+                    "last": "Mathis"
+                },
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Deplazes"
+                }
+            ],
+            "doi": "10.1016/j.parint.2005.11.012",
+            "firstpage": "S87",
+            "issn": "13835769",
+            "lastpage": "S90",
+            "pmid": "16325459",
+            "pub_year": 2006,
+            "title": "Copro-DNA tests for diagnosis of animal taeniid cestodes",
+            "volume": "55"
+        },
+        "bib0110": null,
+        "bib0115": null,
+        "bib0120": {
+            "authors": [
+                {
+                    "first": "Jeff",
+                    "initial": "J.",
+                    "last": "Olson"
+                },
+                {
+                    "first": "Duncan H.",
+                    "initial": "D.H.",
+                    "last": "Whitney"
+                },
+                {
+                    "first": "Kristine",
+                    "initial": "K.",
+                    "last": "Durkee"
+                },
+                {
+                    "first": "Anthony P.",
+                    "initial": "A.P.",
+                    "last": "Shuber"
+                }
+            ],
+            "doi": "10.1097/01.pas.0000176768.18423.7e",
+            "firstpage": "183",
+            "issn": "10529551",
+            "lastpage": "191",
+            "pmid": "16106201",
+            "pub_year": 2005,
+            "title": "DNA stabilization is critical for maximizing performance of fecal DNA-based colorectal cancer tests",
+            "volume": "14"
+        },
+        "bib0125": {
+            "authors": [
+                {
+                    "first": "Marcello",
+                    "initial": "M.",
+                    "last": "Pagano"
+                },
+                {
+                    "first": "Joseph J.",
+                    "initial": "J.J.",
+                    "last": "Valadez"
+                }
+            ],
+            "doi": "10.1093/ije/dyp406",
+            "firstpage": "69",
+            "issn": "03005771",
+            "lastpage": "71",
+            "pmid": "20139434",
+            "pub_year": 2010,
+            "title": "Commentary: Understanding practical lot quality assurance sampling",
+            "volume": "39"
+        },
+        "bib0130": {
+            "authors": [
+                {
+                    "first": "Susan E.",
+                    "initial": "S.E.",
+                    "last": "Robertson"
+                },
+                {
+                    "first": "Joseph J.",
+                    "initial": "J.J.",
+                    "last": "Valadez"
+                }
+            ],
+            "doi": "10.1016/j.socscimed.2006.04.011",
+            "firstpage": "1648",
+            "issn": "02779536",
+            "lastpage": "1660",
+            "pmid": "16764978",
+            "pub_year": 2006,
+            "title": "Global review of health care surveys using lot quality assurance sampling (LQAS), 1984-2004",
+            "volume": "63"
+        },
+        "bib0135": {
+            "authors": [
+                {
+                    "first": "P. M.",
+                    "initial": "P.M.",
+                    "last": "Schantz"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Qiu"
+                },
+                {
+                    "first": "F. J.",
+                    "initial": "F.J.",
+                    "last": "Liu"
+                },
+                {
+                    "first": "E.",
+                    "initial": "E.",
+                    "last": "Saito"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Emshoff"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Ito"
+                },
+                {
+                    "first": "J. M.",
+                    "initial": "J.M.",
+                    "last": "Roberts"
+                },
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Delker"
+                }
+            ],
+            "doi": "10.1017/s0031182003004165",
+            "firstpage": "S109",
+            "issn": "00311820",
+            "lastpage": "S120",
+            "pmid": "15027608",
+            "pub_year": 2003,
+            "title": "Echinococcosis on the Tibetan Plateau: Prevalence and risk factors for cystic and alveolar echinococcosis in Tibetan populations in Qinghai Province, China",
+            "volume": "127"
+        },
+        "bib0140": null,
+        "bib0145": {
+            "authors": [
+                {
+                    "first": "P. R.",
+                    "initial": "P.R.",
+                    "last": "Torgerson"
+                },
+                {
+                    "first": "D. D.",
+                    "initial": "D.D.",
+                    "last": "Heath"
+                }
+            ],
+            "doi": "10.1017/S0031182003003810",
+            "firstpage": "S143",
+            "issn": "00311820",
+            "lastpage": "S158",
+            "pmid": "15027611",
+            "pub_year": 2003,
+            "title": "Transmission dynamics and control options for Echinococcus granulosus",
+            "volume": "127"
+        },
+        "bib0150": {
+            "authors": [
+                {
+                    "first": "P. R.",
+                    "initial": "P.R.",
+                    "last": "Torgerson"
+                }
+            ],
+            "doi": "10.1016/S0001-706X(02)00227-9",
+            "firstpage": "211",
+            "issn": "0001706X",
+            "lastpage": "221",
+            "pmid": "12606099",
+            "pub_year": 2003,
+            "title": "The use of mathematical models to simulate control options for echinococcosis",
+            "volume": "85"
+        },
+        "bib0155": null,
+        "bib0160": null,
+        "bib0165": null,
+        "bib0170": null,
+        "bib0175": {
+            "authors": [
+                {
+                    "first": "Y. H.",
+                    "initial": "Y.H.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "M. T.",
+                    "initial": "M.T.",
+                    "last": "Rogan"
+                },
+                {
+                    "first": "D. A.",
+                    "initial": "D.A.",
+                    "last": "Vuitton"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Wen"
+                },
+                {
+                    "first": "B.",
+                    "initial": "B.",
+                    "last": "Bartholomot"
+                },
+                {
+                    "first": "C. N.L.",
+                    "initial": "C.N.L.",
+                    "last": "Macpherson"
+                },
+                {
+                    "first": "P. F.",
+                    "initial": "P.F.",
+                    "last": "Zou"
+                },
+                {
+                    "first": "Z. X.",
+                    "initial": "Z.X.",
+                    "last": "Ding"
+                },
+                {
+                    "first": "H. X.",
+                    "initial": "H.X.",
+                    "last": "Zhou"
+                },
+                {
+                    "first": "X. F.",
+                    "initial": "X.F.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Luo"
+                },
+                {
+                    "first": "H. B.",
+                    "initial": "H.B.",
+                    "last": "Xiong"
+                },
+                {
+                    "first": "Y.",
+                    "initial": "Y.",
+                    "last": "Fu"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "McVie"
+                },
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Giraudoux"
+                },
+                {
+                    "first": "W. G.",
+                    "initial": "W.G.",
+                    "last": "Yang"
+                },
+                {
+                    "first": "P. S.",
+                    "initial": "P.S.",
+                    "last": "Craig"
+                }
+            ],
+            "doi": "10.1016/S0035-9203(01)90142-7",
+            "firstpage": "153",
+            "issn": "00359203",
+            "lastpage": "158",
+            "pmid": "11355546",
+            "pub_year": 2001,
+            "title": "Cystic echinococcosis in semi-nomadic pastoral communities in north-west China",
+            "volume": "95"
+        },
+        "bib0180": {
+            "authors": [
+                {
+                    "first": "Y.",
+                    "initial": "Y.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "He"
+                },
+                {
+                    "first": "X.",
+                    "initial": "X.",
+                    "last": "Wen"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Li"
+                },
+                {
+                    "first": "T. T.",
+                    "initial": "T.T.",
+                    "last": "Waili"
+                },
+                {
+                    "first": "W.",
+                    "initial": "W.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Zhou"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Zheng"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Wen"
+                },
+                {
+                    "first": "N.",
+                    "initial": "N.",
+                    "last": "Davaadorj"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Gambolt"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Mukhar"
+                },
+                {
+                    "first": "M. T.",
+                    "initial": "M.T.",
+                    "last": "Rogan"
+                },
+                {
+                    "first": "P. S.",
+                    "initial": "P.S.",
+                    "last": "Craig"
+                }
+            ],
+            "doi": "10.1016/j.trstmh.2005.01.004",
+            "firstpage": "692",
+            "issn": "00359203",
+            "lastpage": "698",
+            "pmid": "15990129",
+            "pub_year": 2005,
+            "title": "Human cystic echinococcosis in two Mongolian communities in Hobukesar (China) and Bulgan (Mongolia)",
+            "volume": "99"
+        },
+        "bib0185": {
+            "authors": [
+                {
+                    "first": "Jiao",
+                    "initial": "J.",
+                    "last": "Wei"
+                },
+                {
+                    "first": "Fu",
+                    "initial": "F.",
+                    "last": "Cheng"
+                },
+                {
+                    "first": "Qu",
+                    "initial": "Q.",
+                    "last": "Qun"
+                },
+                {
+                    "first": null,
+                    "initial": null,
+                    "last": "Nurbek"
+                },
+                {
+                    "first": "Shi Dong",
+                    "initial": "S.D.",
+                    "last": "Xu"
+                },
+                {
+                    "first": "Li Feng",
+                    "initial": "L.F.",
+                    "last": "Sun"
+                },
+                {
+                    "first": "Xin Kui",
+                    "initial": "X.K.",
+                    "last": "Han"
+                },
+                {
+                    "first": null,
+                    "initial": null,
+                    "last": "Muhan"
+                },
+                {
+                    "first": "Ling Ling",
+                    "initial": "L.L.",
+                    "last": "Han"
+                },
+                {
+                    "first": null,
+                    "initial": null,
+                    "last": "Irixiati"
+                },
+                {
+                    "first": "Peng",
+                    "initial": "P.",
+                    "last": "Jie"
+                },
+                {
+                    "first": "Ke Jiu",
+                    "initial": "K.J.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": null,
+                    "initial": null,
+                    "last": "Islayin"
+                },
+                {
+                    "first": "Jun Jie",
+                    "initial": "J.J.",
+                    "last": "Chai"
+                }
+            ],
+            "doi": "10.1016/j.parint.2005.06.002",
+            "firstpage": "231",
+            "issn": "13835769",
+            "lastpage": "236",
+            "pmid": "16231860",
+            "pub_year": 2005,
+            "title": "Epidemiological evaluations of the efficacy of slow-released praziquantel-medicated bars for dogs in the prevention and control of cystic echinococcosis in man and animals",
+            "volume": "54"
+        },
+        "bib0190": {
+            "authors": [
+                {
+                    "first": "Markus",
+                    "initial": "M.",
+                    "last": "Von Nickisch-Rosenegk"
+                },
+                {
+                    "first": "Rolando",
+                    "initial": "R.",
+                    "last": "Silva-Gonzalez"
+                },
+                {
+                    "first": "Richard",
+                    "initial": "R.",
+                    "last": "Lucius"
+                }
+            ],
+            "firstpage": "819",
+            "issn": "00443255",
+            "lastpage": "825",
+            "pmid": "10494807",
+            "pub_year": 1999,
+            "title": "Modification of universal 12S rDNA primers for specific amplification of contaminated Taenia spp. (Cestoda) gDNA enabling phylogenetic studies",
+            "volume": "85"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 17972,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "If dogs were present, these were included in sampling, with ground faecal samples collected from around their owners' houses.",
+            "startOffset": 17847,
+            "title": "Faecal sample collection"
+        },
+        {
+            "endOffset": 16622,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "The binomial distribution can then be used to estimate the cumulative probability distribution of the expected number of positive outcomes for a small sample size (often set at 19), given that the prevalence is at this stated threshold.",
+            "startOffset": 16386,
+            "title": "Lot Quality Assurance Sampling (LQAS)"
+        },
+        {
+            "endOffset": 42121,
+            "parents": [],
+            "secId": "sec0080",
+            "sentence": "The logistical challenges associated with frequent praziquantel dosing and the high coproELISA prevalences found here suggest that additional methods, such as health education and livestock vaccination should be considered to improve compliance levels and the effectiveness of the Echinococcosis Control Programme in Hobukesar County and similar areas.",
+            "startOffset": 41769,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 22883,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0155": {
+                    "endOffset": 22881,
+                    "startOffset": 22861
+                }
+            },
+            "secId": "sec0045",
+            "sentence": "To use LQAS methodology thresholds and corresponding decision rule values must be selected (Valadez et al., 2002).",
+            "startOffset": 22769,
+            "title": "Data analysis"
+        },
+        {
+            "endOffset": 41534,
+            "parents": [],
+            "secId": "sec0080",
+            "sentence": "Although half (50.4%) of all people asked reported dosing their dogs in the last 12 months, the coproELISA prevalence amongst owned dogs remained high in most communities, suggesting little or no reduction has been achieved by the control programme.",
+            "startOffset": 41285,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 35248,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "Although LQAS identified this village as being different from the other five in meeting the decision number, in this particular case we cannot speak of a reduction in coproELISA prevalence as this community was newly established and would not have existed at the time that Wang et al. ([Wang et al., 2001]2001, [Wang et al., 2005]2005) conducted their surveys.",
+            "startOffset": 34888,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 15700,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0125": {
+                    "endOffset": 15699,
+                    "startOffset": 15674
+                }
+            },
+            "secId": "sec0025",
+            "sentence": "LQAS is a form of stratified sampling which requires a relatively low number of samples whilst retaining a statistical basis (the small sample size required sometimes leads to misunderstanding of the statistical basis of LQAS, as described by Pagano and Valadez (2010).",
+            "startOffset": 15431,
+            "title": "Lot Quality Assurance Sampling (LQAS)"
+        },
+        {
+            "endOffset": 14614,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "Thirty-eight unwanted or stray dogs were provided by a local dog catcher, including from Bayenoma (n = 3), Narenhebuke (n = 4), Changan Kul (n = 16), and three other County villages called Yikewutubulage (n = 9), Mogete (n = 2) and Busitinge (n = 1), with the locations of three dogs not recorded.",
+            "startOffset": 14317,
+            "title": "Dog necropsies"
+        },
+        {
+            "endOffset": 32860,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "Nevertheless, the current findings suggest that active transmission of E. granulosus occurs in our study communities, with a high prevalence of canine echinococcosis and taeniasis in the study area.",
+            "startOffset": 32662,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 33208,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "It is important to note that the coproELISA prevalence is likely to differ from the true prevalence due to limitations in the test sensitivity and specificity.",
+            "startOffset": 33049,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 42867,
+            "parents": [],
+            "secId": "sec0085",
+            "sentence": "This research was funded by the Program for Changjiang Scholars and Innovative Research Team in Universities (IRT1181) and the Wellcome Trust (#094325/Z/10/Z).",
+            "startOffset": 42708,
+            "title": "Funding"
+        },
+        {
+            "endOffset": 17647,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0155": {
+                    "endOffset": 17497,
+                    "startOffset": 17477
+                }
+            },
+            "secId": "sec0030",
+            "sentence": "A minimum of 19 dogs were sampled in each community (a sample size of 19 minimises the risk of type A and B errors, Valadez et al., 2002), with additional dogs sampled where possible (Bayenoma = 19, Budengjian = 20, Changan Kul = 27, Chahete = 20, Narenhebuke = 21, Tiebukenwusan = 19).",
+            "startOffset": 17361,
+            "title": "Faecal sample collection"
+        },
+        {
+            "endOffset": 20533,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0010": {
+                    "endOffset": 20201,
+                    "startOffset": 20183
+                },
+                "bib0065": {
+                    "endOffset": 20531,
+                    "startOffset": 20506
+                }
+            },
+            "secId": "sec0035",
+            "sentence": "Because Gaussian approaches for calculating ELISA cut-off values (e.g. Allan et al., 1992), are usually based only on a panel of known negatives (often from a non-endemic area) and do not consider the true distribution of both negatives and positives from the population being studied (Gardner and Greiner, 2006), we calculated our cut-off using Receiver Operating Characteristic (ROC) curves (Gardner and Greiner, 2006).",
+            "startOffset": 20112,
+            "title": "CoproELISA"
+        },
+        {
+            "endOffset": 33978,
+            "parents": [],
+            "refoffsets": {
+                "bib0185": {
+                    "endOffset": 33976,
+                    "startOffset": 33960
+                }
+            },
+            "secId": "sec0075",
+            "sentence": "Other surveys in nearby Fuhai and Emin Counties in Xinjiang found that 54/131 dogs surveyed (41.2%) were coproELISA positive (Wei et al., 2005).",
+            "startOffset": 33834,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18797,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "In four communities (Bayenoma, Budengjian, Changan Kul Tiebukenwusan) owners were asked to describe echinococcosis to assess their knowledge about this disease.",
+            "startOffset": 18637,
+            "title": "Faecal sample collection"
+        },
+        {
+            "endOffset": 21754,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0005": {
+                    "endOffset": 21640,
+                    "startOffset": 21621
+                },
+                "bib0025": {
+                    "endOffset": 21694,
+                    "startOffset": 21674
+                },
+                "bib0030": {
+                    "endOffset": 21599,
+                    "startOffset": 21579
+                }
+            },
+            "secId": "sec0040",
+            "sentence": "Therefore faecal samples were analysed for Echinococcus multilocularis (Boufana et al., 2013), and E. granulosus (Abbasi et al., 2003; with modifications described by Boufana et al., 2008) using published primers and following described protocols.",
+            "startOffset": 21507,
+            "title": "DNA extraction, PCR and sequencing"
+        },
+        {
+            "endOffset": 25866,
+            "parents": [
+                {
+                    "id": "sec0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "Only 14 dogs (36.8%) had neither parasite.",
+            "startOffset": 25824,
+            "title": "Necropsy panel"
+        },
+        {
+            "endOffset": 15190,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "Tapeworms were washed in water and stored in 70% ethanol for DNA analysis.",
+            "startOffset": 15116,
+            "title": "Dog necropsies"
+        },
+        {
+            "endOffset": 28208,
+            "parents": [
+                {
+                    "id": "sec0050",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib0105": {
+                    "endOffset": 28206,
+                    "startOffset": 28181
+                },
+                "bib0120": {
+                    "endOffset": 28098,
+                    "startOffset": 28080
+                }
+            },
+            "secId": "sec0065",
+            "sentence": "As these samples were collected from the ground in a relatively dry and warm environment, any DNA in the samples may have been degraded (e.g. Olson et al., 2005), and the presence of PCR inhibitory substances may lead to false negatives (e.g. Mathis and Deplazes, 2006).",
+            "startOffset": 27938,
+            "title": "Canine echinococcosis in six communities in Hobukesar County"
+        },
+        {
+            "endOffset": 42533,
+            "parents": [],
+            "secId": "sec0080",
+            "sentence": "Instead of aiming to dose dogs every month, which is likely to be overambitious in remote areas, government workers could aim to dose dogs two to four times a year.",
+            "startOffset": 42369,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 11847,
+            "parents": [],
+            "refoffsets": {
+                "bib0175": {
+                    "endOffset": 11845,
+                    "startOffset": 11828
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Many people in north-western Xinjiang live in pastoral areas and have traditional (semi) nomadic lifestyles (Wang et al., 2001).",
+            "startOffset": 11719,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 38948,
+            "parents": [],
+            "refoffsets": {
+                "bib0040": {
+                    "endOffset": 38946,
+                    "startOffset": 38897
+                },
+                "bib0090": {
+                    "endOffset": 38946,
+                    "startOffset": 38897
+                }
+            },
+            "secId": "sec0075",
+            "sentence": "However, these dosing frequencies are often not achieved in Echinococcus endemic areas (Craig and Larrieu, 2006; Larrieu and Zanini, 2012).",
+            "startOffset": 38809,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18308,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "In these areas alternate houses were targeted.",
+            "startOffset": 18262,
+            "title": "Faecal sample collection"
+        },
+        {
+            "endOffset": 39390,
+            "parents": [],
+            "refoffsets": {
+                "bib0150": {
+                    "endOffset": 39388,
+                    "startOffset": 39373
+                }
+            },
+            "secId": "sec0075",
+            "sentence": "For example, mathematical models have suggested that dosing frequencies can be reduced to once every 3 months and still reduce prevalence rates in dogs and livestock to less than 1% within 10\u201315 years (Torgerson, 2003).",
+            "startOffset": 39171,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 38119,
+            "parents": [],
+            "refoffsets": {
+                "bib0090": {
+                    "endOffset": 38117,
+                    "startOffset": 38093
+                }
+            },
+            "secId": "sec0075",
+            "sentence": "Furthermore, there are other challenges associated with praziquantel dosing, including the fact that dogs dislike the taste and smell of tablets, so that ensuring that the whole dose has been consumed is difficult, as well as difficulties with dosing, as dog weights are usually estimated in the field, and dogs may be under-treated (Larrieu and Zanini, 2012).",
+            "startOffset": 37759,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21838,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "granulosus/Taenia.",
+            "startOffset": 21820,
+            "title": "DNA extraction, PCR and sequencing"
+        },
+        {
+            "endOffset": 27811,
+            "parents": [
+                {
+                    "id": "sec0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "In total 26 samples (50%) tested positive for E. granulosus DNA.",
+            "startOffset": 27747,
+            "title": "Canine echinococcosis in six communities in Hobukesar County"
+        },
+        {
+            "endOffset": 12622,
+            "parents": [],
+            "refoffsets": {
+                "bib0165": {
+                    "endOffset": 12620,
+                    "startOffset": 12611
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "In 2006, the Chinese government implemented the National Echinococcosis Control Programme in Sichuan Province, and in 2010 this programme was expanded to include other provinces in China, including Xinjiang (WHO, 2011).",
+            "startOffset": 12403,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 12878,
+            "parents": [],
+            "refoffsets": {
+                "bib0035": {
+                    "endOffset": 12754,
+                    "startOffset": 12722
+                },
+                "bib0160": {
+                    "endOffset": 12876,
+                    "startOffset": 12867
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "The Echinococcosis Control Programme aimed to achieve monthly praziquantel dosing of domestic dogs (Chinese Ministry of Health, 2007), as well as identifying human cases through ultrasound screening and subsequent medical treatment of patients (WHO, 2010).",
+            "startOffset": 12622,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 33443,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "One challenge associated with LQAS is selecting the thresholds used.",
+            "startOffset": 33375,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25002,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "The decision rule values were set at 12 for Chahete (n = 15), 14 for Bayenoma (n = 17), 15 for Narenhebuke and Tiebukenwusan (n = 19 each), 16 for Budengjian (n = 20), and 21 for Changan Kul (n = 27).",
+            "startOffset": 24802,
+            "title": "Data analysis"
+        },
+        {
+            "endOffset": 25823,
+            "parents": [
+                {
+                    "id": "sec0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "Of the 38 dogs necropsied, 20 (52.6%) had Taenia spp. and 16 (42.1%) had Echinococcus spp. on visual inspection, and 13 dogs (34.2%) were infected with both parasites (Table 1).",
+            "startOffset": 25646,
+            "title": "Necropsy panel"
+        },
+        {
+            "endOffset": 25127,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "In four communities, householders were asked to describe echinococcosis in order to assess people's knowledge of the disease.",
+            "startOffset": 25002,
+            "title": "Data analysis"
+        },
+        {
+            "endOffset": 27937,
+            "parents": [
+                {
+                    "id": "sec0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "Twenty-six samples (50%) were coproELISA positive but coproPCR negative.",
+            "startOffset": 27865,
+            "title": "Canine echinococcosis in six communities in Hobukesar County"
+        },
+        {
+            "endOffset": 33374,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "However, as we were only attempting to assess whether the coproELISA prevalence differed from a previous coproELISA estimate, no attempt was made to adjust for this.",
+            "startOffset": 33209,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 40639,
+            "parents": [],
+            "refoffsets": {
+                "bib0095": {
+                    "endOffset": 40637,
+                    "startOffset": 40617
+                },
+                "bib0145": {
+                    "endOffset": 40550,
+                    "startOffset": 40508
+                },
+                "bib0150": {
+                    "endOffset": 40550,
+                    "startOffset": 40508
+                }
+            },
+            "secId": "sec0075",
+            "sentence": "Mathematical models suggest that a combination of dog dosing and sheep vaccination is the most effective strategy for echinococcosis control (Torgerson, 2003; Torgerson and Heath, 2003) and vaccination has been successfully trialled in endemic areas (Larrieu et al., 2013).",
+            "startOffset": 40366,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17846,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "Dogs were selected by starting from each community's health centre and walking in a randomly chosen direction (determined by the second hand on a watch) and enquiring about dogs in alternate houses.",
+            "startOffset": 17648,
+            "title": "Faecal sample collection"
+        },
+        {
+            "endOffset": 26219,
+            "parents": [
+                {
+                    "id": "sec0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "16 samples of Echinococcus spp. were collected, but one sample was lost in transport.",
+            "startOffset": 26134,
+            "title": "Necropsy panel"
+        },
+        {
+            "endOffset": 16788,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "From this, the minimum number of expected positive outcomes which gives a cumulative probability of greater than 0.1 can be estimated \u2013 known as the \u2018decision rule\u2019.",
+            "startOffset": 16623,
+            "title": "Lot Quality Assurance Sampling (LQAS)"
+        },
+        {
+            "endOffset": 27227,
+            "parents": [
+                {
+                    "id": "sec0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "In Budengjiang 14 of 19 people asked (73.7%) could accurately describe the disease.",
+            "startOffset": 27144,
+            "title": "Dog demographics and praziquantel dosing"
+        },
+        {
+            "endOffset": 13756,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "In April 2013 we visited six rural communities in Hobukesar County in north-west Xinjiang to assess the impact of the Control Programme in this County.",
+            "startOffset": 13605,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21819,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "Positive controls (sequenced DNA from adult E. multilocularis/E.",
+            "startOffset": 21755,
+            "title": "DNA extraction, PCR and sequencing"
+        },
+        {
+            "endOffset": 26641,
+            "parents": [
+                {
+                    "id": "sec0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "The majority of dogs were male (78.6%), and most (72.2%) were 4 years old or younger (Fig. 1).",
+            "startOffset": 26547,
+            "title": "Dog demographics and praziquantel dosing"
+        },
+        {
+            "endOffset": 29563,
+            "parents": [],
+            "refoffsets": {
+                "bib0040": {
+                    "endOffset": 29561,
+                    "startOffset": 29538
+                },
+                "bib0170": {
+                    "endOffset": 29428,
+                    "startOffset": 29415
+                }
+            },
+            "secId": "sec0075",
+            "sentence": "Cystic echinococcosis is a neglected zoonotic disease that is very difficult to control or eliminate (WHO/OIE, 2001) and to date, only Iceland, New Zealand and Tasmania have declared elimination status for Echinococcus spp. (Craig and Larrieu, 2006).",
+            "startOffset": 29313,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 37492,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "Praziquantel dosing, although highly effective against canine echinococcosis, is often impractical because of the frequent dosing and high proportion of dog coverage required.",
+            "startOffset": 37317,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25621,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "As such the decision rule value was set at 7 for Bayenoma (n = 13), 8 for Tiebukenwusan (n = 15) and 10 for Budengjiang and Changal Kul (both n = 19).",
+            "startOffset": 25471,
+            "title": "Data analysis"
+        },
+        {
+            "endOffset": 21115,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "DNA was extracted from Taenia spp. and Echinococcus spp. worms using a Qiagen\u00ae DNEasy Blood & Tissue kit following the manufacturer's instructions.",
+            "startOffset": 20968,
+            "title": "DNA extraction, PCR and sequencing"
+        },
+        {
+            "endOffset": 24720,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "We set the threshold at 90%, assuming conservatively that a successful dosing campaign should reach almost all owned dogs at least once a year.",
+            "startOffset": 24577,
+            "title": "Data analysis"
+        },
+        {
+            "endOffset": 21506,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "For the faecal samples it was found that these primers were not suitable, as they cross reacted with non-target DNA (personal observation).",
+            "startOffset": 21367,
+            "title": "DNA extraction, PCR and sequencing"
+        },
+        {
+            "endOffset": 22769,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0110": {
+                    "endOffset": 22660,
+                    "startOffset": 22647
+                },
+                "bib0115": {
+                    "endOffset": 22699,
+                    "startOffset": 22685
+                }
+            },
+            "secId": "sec0045",
+            "sentence": "The population pyramid for the dog population in Hobukesar and the bar chart of praziquantel dosing were made using \u2018package sciplot\u2019 (Morales, 2013) and \u2018package pyramid\u2019 (Nakazawa, 2013) in R statistical software, version 2.15.0 (R Development Core Team).",
+            "startOffset": 22512,
+            "title": "Data analysis"
+        },
+        {
+            "endOffset": 25470,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "We therefore set the knowledge threshold at 65%, i.e. we expected at least 65% of people to be able to describe echinococcosis.",
+            "startOffset": 25343,
+            "title": "Data analysis"
+        },
+        {
+            "endOffset": 23253,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "In this case we wanted to assess whether or not the control scheme had led to a reduction in coproELISA prevalence from pre-intervention prevalences.",
+            "startOffset": 23104,
+            "title": "Data analysis"
+        },
+        {
+            "endOffset": 27665,
+            "parents": [
+                {
+                    "id": "sec0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "CoproELISA prevalences ranged from 15.0% in Chahete to 70.0% in Budengjian, with an overall coproELISA prevalence of 41.3% (Table 3).",
+            "startOffset": 27532,
+            "title": "Canine echinococcosis in six communities in Hobukesar County"
+        },
+        {
+            "endOffset": 43049,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "Ethical approval for this study was provided by the Ethical Review Committee at the First Affiliated Hospital of Xinjiang Medical University, Urumqi, Xinjiang, China.",
+            "startOffset": 42883,
+            "title": "Ethical approval"
+        },
+        {
+            "endOffset": 19706,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0060": {
+                    "endOffset": 19667,
+                    "startOffset": 19643
+                }
+            },
+            "secId": "sec0035",
+            "sentence": "The conjugate antibody was prepared from hyperimmune rabbit IgG raised against a surface extract from adult Echinococcus granulosus worms (Elayoubi and Craig, 2004), and the capture antibody was anti-E.",
+            "startOffset": 19504,
+            "title": "CoproELISA"
+        },
+        {
+            "endOffset": 20112,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "Two known negative faecal samples from a low endemic area (Falkland Islands) were included as negative controls.",
+            "startOffset": 20000,
+            "title": "CoproELISA"
+        },
+        {
+            "endOffset": 21894,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "hydatigena) were used as appropriate for each protocol.",
+            "startOffset": 21839,
+            "title": "DNA extraction, PCR and sequencing"
+        },
+        {
+            "endOffset": 24336,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0155": {
+                    "endOffset": 24172,
+                    "startOffset": 24152
+                }
+            },
+            "secId": "sec0045",
+            "sentence": "Decision rule values based on this threshold were estimated (using tables provided in Valadez et al., 2002) as follows: four for Bayenoma (n = 19), Budengjian (n = 20), Chahete (n = 20), Narenhebuke (n = 21) and Tiebukenwusan (n = 19), and five for Changan Kul (n = 27).",
+            "startOffset": 24066,
+            "title": "Data analysis"
+        },
+        {
+            "endOffset": 30533,
+            "parents": [],
+            "refoffsets": {
+                "bib0165": {
+                    "endOffset": 30531,
+                    "startOffset": 30522
+                }
+            },
+            "secId": "sec0075",
+            "sentence": "In 2006 the Chinese government implemented a National Echinococcosis Control Programme in western China, starting in Sichuan and expanding to other areas including Xinjiang in 2010 (WHO, 2011).",
+            "startOffset": 30340,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 34176,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "However, sensitivity analysis found that changing the threshold from 35% to 40% did not affect our results or conclusions (i.e. the same communities would meet or fail to meet the decision number).",
+            "startOffset": 33979,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19229,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "Faecal samples were extracted by homogenizing, shaking and centrifuging at 2500 r.p.m. (1125 g) for 5 min and collecting the supernatant.",
+            "startOffset": 19092,
+            "title": "CoproELISA"
+        },
+        {
+            "endOffset": 30340,
+            "parents": [],
+            "refoffsets": {
+                "bib0075": {
+                    "endOffset": 30338,
+                    "startOffset": 30298
+                },
+                "bib0100": {
+                    "endOffset": 30338,
+                    "startOffset": 30298
+                }
+            },
+            "secId": "sec0075",
+            "sentence": "In these cases frequent praziquantel dosing of domestic dogs (recommended dosing every 6 weeks) may not be practically feasible (Gemmell et al., 1986; Lembo et al., 2013).",
+            "startOffset": 30169,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 39170,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "As such, it may be better to set more realistic goals; even if it is not feasible to eliminate echinococcosis from a certain area, reductions in transmissions to humans can be achieved with more modest dosing frequencies.",
+            "startOffset": 38949,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 39684,
+            "parents": [],
+            "refoffsets": {
+                "bib0040": {
+                    "endOffset": 39682,
+                    "startOffset": 39659
+                }
+            },
+            "secId": "sec0075",
+            "sentence": "It may also be advisable to ensure that supervised dosing of dogs is conducted by trained operatives, rather than relying on dog owners to administer the tablets, as this has been a feature of most successful control campaigns to date, and can help ensure compliance (Craig and Larrieu, 2006).",
+            "startOffset": 39391,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19999,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "Faecal supernatants of two known positives (an arecoline Echinococcus spp. purge positive sample from Kyrgyzstan, and a sample spiked with E. granulosus whole worm extract at a 1:100 concentration) were used as positive controls throughout.",
+            "startOffset": 19759,
+            "title": "CoproELISA"
+        },
+        {
+            "endOffset": 27413,
+            "parents": [
+                {
+                    "id": "sec0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "In Changal Kul and Tiebukenwusan 19 and 15 people were asked about echinococcosis, respectively, with 18 (94.7%) and 4 (26.7%) respondents being able to accurately describe the disease.",
+            "startOffset": 27228,
+            "title": "Dog demographics and praziquantel dosing"
+        },
+        {
+            "endOffset": 29088,
+            "parents": [
+                {
+                    "id": "sec0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0070",
+            "sentence": "Therefore, this provides evidence that the praziquantel coverage was lower than 90% in Bayenoma, Budengjian, Chahete, Narenhebuke and Tiebukenwusan.",
+            "startOffset": 28940,
+            "title": "Using LQAS to evaluate canine coproELISA prevalence, PZQ dosing and knowledge of echinococcosis in Hobukesar County"
+        },
+        {
+            "endOffset": 32553,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "Furthermore, stray/unwanted dogs may receive less or no food from people, and may be less likely to be restrained and therefore be more likely to scavenge.",
+            "startOffset": 32398,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31540,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "Whilst the LQAS methodology provides a relatively quick and low-cost assessment tool, it is important to remember that it is not appropriate for estimating prevalences at the village level (i.e. any estimates would be expected to have wide confidence intervals, with the exception of villages where the total number of dogs was comparable to the number of dogs sampled).",
+            "startOffset": 31170,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24065,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0155": {
+                    "endOffset": 23783,
+                    "startOffset": 23763
+                },
+                "bib0165": {
+                    "endOffset": 24063,
+                    "startOffset": 24054
+                }
+            },
+            "secId": "sec0045",
+            "sentence": "As the simplified LQAS methodology using tables allowed for setting thresholds to the nearest 5% (Valadez et al., 2002), we conservatively set the upper threshold for coproELISA positive dogs at 35%, to identify communities where the coproantigen prevalence had decreased from this \u2018baseline\u2019 value, as would be expected 3 years after the implementation of a dog dosing control programme (WHO, 2011).",
+            "startOffset": 23665,
+            "title": "Data analysis"
+        },
+        {
+            "endOffset": 32207,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "Therefore it is important to bear in mind that these dogs are not necessarily representative of the owned dog population, as they were all either stray or unwanted.",
+            "startOffset": 32043,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18917,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "Questionnaires were administered in Mandarin Chinese, Mongolian or Kazakh depending on the dog owner's native language.",
+            "startOffset": 18798,
+            "title": "Faecal sample collection"
+        },
+        {
+            "endOffset": 36011,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "In Budengjian and Changan Kul there was no evidence that knowledge of echinococcosis was lower than 65%, and in Changan Kul there was no evidence that the praziquantel dosing rates over the previous year was lower than 90%.",
+            "startOffset": 35788,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26133,
+            "parents": [
+                {
+                    "id": "sec0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "From the remaining samples, DNA was successfully extracted, analysed by PCR and sequenced, and all 17 were identified as T. hydatigena (\u226599% match, accession number GQ228819.1).",
+            "startOffset": 25956,
+            "title": "Necropsy panel"
+        },
+        {
+            "endOffset": 19503,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0010": {
+                    "endOffset": 19393,
+                    "startOffset": 19374
+                }
+            },
+            "secId": "sec0035",
+            "sentence": "Faecal samples were analysed for Echinococcus spp. coproantigen with a genus-specific sandwich ELISA using the protocol originally described by Allan et al. (1992) with a modification in that the capture and conjugate antibodies were derived from different rabbit antisera.",
+            "startOffset": 19230,
+            "title": "CoproELISA"
+        },
+        {
+            "endOffset": 25955,
+            "parents": [
+                {
+                    "id": "sec0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "A total of 18 Taenia spp. tapeworms were collected, but one sample was lost in transport.",
+            "startOffset": 25866,
+            "title": "Necropsy panel"
+        },
+        {
+            "endOffset": 31676,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "We found that of 38 necropsied dogs, 20 (52.6%) had T. hydatigena, 16 (42.1%) had E. granulosus, and 13 (34.2%) dogs had both parasites.",
+            "startOffset": 31540,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18636,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "The sex of these dogs was recorded but no questionnaires were administered.",
+            "startOffset": 18561,
+            "title": "Faecal sample collection"
+        },
+        {
+            "endOffset": 38808,
+            "parents": [],
+            "refoffsets": {
+                "bib0090": {
+                    "endOffset": 38806,
+                    "startOffset": 38765
+                },
+                "bib0150": {
+                    "endOffset": 38806,
+                    "startOffset": 38765
+                }
+            },
+            "secId": "sec0075",
+            "sentence": "If this is carried on for a sufficient time period to allow for previously infected intermediate hosts such as sheep to be removed from the population, the transmission cycle of Echinococcus can be suspended (see also Larrieu and Zanini, 2012; Torgerson, 2003).",
+            "startOffset": 38547,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21252,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "DNA was extracted from faecal samples using a QIAamp\u00ae DNA Stool kit, following the manufacturer's instructions, but using 1 g of faeces.",
+            "startOffset": 21116,
+            "title": "DNA extraction, PCR and sequencing"
+        },
+        {
+            "endOffset": 16165,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "The central concept of LQAS is the classification of \u2018supervision areas\u2019 (e.g. villages) in a dichotomous fashion \u2013 according to whether a target has been achieved \u2013 rather than attempting to present prevalence estimates for each area.",
+            "startOffset": 15930,
+            "title": "Lot Quality Assurance Sampling (LQAS)"
+        },
+        {
+            "endOffset": 39820,
+            "parents": [],
+            "refoffsets": {
+                "bib0085": {
+                    "endOffset": 39818,
+                    "startOffset": 39800
+                }
+            },
+            "secId": "sec0075",
+            "sentence": "Previous studies have found that education campaigns could present a practical way of reducing echinococcosis (e.g. Huang et al., 2011).",
+            "startOffset": 39684,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 40173,
+            "parents": [],
+            "refoffsets": {
+                "bib0040": {
+                    "endOffset": 40171,
+                    "startOffset": 40128
+                },
+                "bib0100": {
+                    "endOffset": 40171,
+                    "startOffset": 40128
+                }
+            },
+            "secId": "sec0075",
+            "sentence": "Inclusion of health education has the potential to reduce echinococcosis through increased compliance with dog dosing, a reduction in offal being fed to dogs and/or through improved hygiene, although education alone is unlikely to achieve the desired dosing frequency and decrease in coproELISA prevalence (Craig and Larrieu, 2006; Lembo et al., 2013).",
+            "startOffset": 39821,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 42701,
+            "parents": [],
+            "secId": "sec0080",
+            "sentence": "Public health education could also help reduce transmission to humans, and avenues to integrate sheep vaccination into existing veterinary practices could be explored.",
+            "startOffset": 42534,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 13111,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Specific methods proposed for reducing canine echinococcosis included registering all owned dogs in endemic areas, and deworming dogs using praziquantel (0.2 g/tablet), with 1\u20132 tablets administered to dogs weighing more than 15 kg.",
+            "startOffset": 12879,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 14967,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "The small intestine of each dog was removed post-mortem and inspected in the field by experienced researchers (PSC&JT) using a magnifying glass.",
+            "startOffset": 14823,
+            "title": "Dog necropsies"
+        },
+        {
+            "endOffset": 27045,
+            "parents": [
+                {
+                    "id": "sec0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "Twenty-six dogs (22.2%) were reportedly dosed within the 6 weeks prior to sampling, with others dosed at various times between 6 weeks and 2 years prior to sampling (n = 32, 27.4%, Fig. 2; for dosing details per village see Table 2).",
+            "startOffset": 26812,
+            "title": "Dog demographics and praziquantel dosing"
+        },
+        {
+            "endOffset": 35509,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "This suggests that the relatively low prevalence recorded in this community was unlikely to be due to successful intervention.",
+            "startOffset": 35383,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27143,
+            "parents": [
+                {
+                    "id": "sec0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "In Bayenoma, 13 people were asked to describe echinococcosis and 5 (38.5%) could accurately do so.",
+            "startOffset": 27045,
+            "title": "Dog demographics and praziquantel dosing"
+        },
+        {
+            "endOffset": 19079,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "Subsamples of faecal samples were stored in 70% ethanol and 0.3% PBS Tween with 10% formalin respectively, and shipped to Salford University at room temperature.",
+            "startOffset": 18918,
+            "title": "Faecal sample collection"
+        },
+        {
+            "endOffset": 15314,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "Faecal samples were collected per rectum post-mortem and stored in 0.3% PBS Tween with 10% formalin for coproELISA testing.",
+            "startOffset": 15191,
+            "title": "Dog necropsies"
+        },
+        {
+            "endOffset": 29302,
+            "parents": [
+                {
+                    "id": "sec0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0070",
+            "sentence": "The decision rule for knowledge of echinococcosis was only reached in Budengjiang and Changal Kul providing some evidence that the level of echinococcosis knowledge was lower than 65% in Bayenoma and Tiebukenwusan.",
+            "startOffset": 29088,
+            "title": "Using LQAS to evaluate canine coproELISA prevalence, PZQ dosing and knowledge of echinococcosis in Hobukesar County"
+        },
+        {
+            "endOffset": 28480,
+            "parents": [
+                {
+                    "id": "sec0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0070",
+            "sentence": "The LQAS decision rule for coproELISA positives was met in five of the six communities, with only Chahete having fewer than four coproELISA positive dogs.",
+            "startOffset": 28326,
+            "title": "Using LQAS to evaluate canine coproELISA prevalence, PZQ dosing and knowledge of echinococcosis in Hobukesar County"
+        },
+        {
+            "endOffset": 26811,
+            "parents": [
+                {
+                    "id": "sec0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "Of the 117 owners questioned, 43 (36.8%) reported never dosing their dogs with praziquantel, and 16 (13.7%) owners did not know when the dog had last been dosed, if ever.",
+            "startOffset": 26641,
+            "title": "Dog demographics and praziquantel dosing"
+        },
+        {
+            "endOffset": 38192,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "Therefore, other measures to reduce echinococcosis should be considered.",
+            "startOffset": 38120,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19758,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0010": {
+                    "endOffset": 19756,
+                    "startOffset": 19738
+                }
+            },
+            "secId": "sec0035",
+            "sentence": "granulosus whole worm somatic (Allan et al., 1992).",
+            "startOffset": 19707,
+            "title": "CoproELISA"
+        },
+        {
+            "endOffset": 34887,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "Of the six communities studied, only one (Chahete) showed evidence of having a coproELISA positive prevalence below 35%.",
+            "startOffset": 34767,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 37590,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "Although praziquantel rids the dosed dog of worms, it provides no protection against reinfection.",
+            "startOffset": 37493,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23664,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "For these surveys, 139 dogs were sampled in Narenhebuke using rectal loops, with the samples tested at Salford University using a similar sandwich coproELISA, for which 50 dogs (36%) were found to be coproELISA positive (Wang et al., 2001, 2005).",
+            "startOffset": 23418,
+            "title": "Data analysis"
+        },
+        {
+            "endOffset": 30948,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "Practical assessment tools are therefore highly desirable.",
+            "startOffset": 30890,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18432,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "The age and sex of each dog was recorded, and dog owners were asked when the dog was most recently dosed with praziquantel.",
+            "startOffset": 18309,
+            "title": "Faecal sample collection"
+        },
+        {
+            "endOffset": 32042,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "The dogs were provided by a local dog catcher, who recorded the location the dogs were sourced, but the exact origin and circumstances of the dogs was not known.",
+            "startOffset": 31881,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 36348,
+            "parents": [],
+            "refoffsets": {
+                "bib0100": {
+                    "endOffset": 36346,
+                    "startOffset": 36328
+                }
+            },
+            "secId": "sec0075",
+            "sentence": "This may be due to infrequent dosing; it is generally suggested that, in order to impact on coproELISA prevalence, praziquantel dosing must be conducted at least four times per year (Lembo et al., 2013).",
+            "startOffset": 36145,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 12402,
+            "parents": [],
+            "refoffsets": {
+                "bib0180": {
+                    "endOffset": 12241,
+                    "startOffset": 12224
+                },
+                "bib0185": {
+                    "endOffset": 12400,
+                    "startOffset": 12384
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Previous dog surveys in Hobukesar County have found necropsy and coproELISA prevalences of 36% (Wang et al., 2005), and a study conducted in Fuhai and Emin counties in north Xinjiang found that 41.2% of dogs were coproELISA positive for Echinococcus spp. (Wei et al., 2005).",
+            "startOffset": 12128,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 36708,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "We found that even modest praziquantel dosing targets (at least 90% of dogs dosed in the previous 12 months) were not met in five communities (Bayenoma, Budengjian, Chahete, Narenhebuke and Tiebukenwusan), and in only one community (Chahete) was there evidence of a reduction in Echinococcus spp. coproELISA prevalence to less than the previously recorded 35%.",
+            "startOffset": 36348,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30889,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "Such assessments are likely to suffer from some of the same challenges as the control programme itself, such as remoteness of communities, logistical challenges and limited time and budgets.",
+            "startOffset": 30699,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 35788,
+            "parents": [],
+            "refoffsets": {
+                "bib0040": {
+                    "endOffset": 35786,
+                    "startOffset": 35763
+                }
+            },
+            "secId": "sec0075",
+            "sentence": "Chahete was unique in being newly established and based largely on agriculture rather than livestock, which may explain the lower coproELISA prevalence (livestock ownership has been identified as a significant risk factor for human echinococcosis, e.g. Craig and Larrieu, 2006).",
+            "startOffset": 35510,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27531,
+            "parents": [
+                {
+                    "id": "sec0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "All 126 dog faecal samples were analysed by coproELISA.",
+            "startOffset": 27476,
+            "title": "Canine echinococcosis in six communities in Hobukesar County"
+        },
+        {
+            "endOffset": 40268,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "Another possible avenue of echinococcosis control is the vaccination of the intermediate host.",
+            "startOffset": 40174,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21957,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "Negative controls (PCR grade water) were included in all PCRs.",
+            "startOffset": 21895,
+            "title": "DNA extraction, PCR and sequencing"
+        },
+        {
+            "endOffset": 34635,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "It should also be considered that the aim of the current study is not necessarily to identify villages which individually have experienced a particular reduction in coproantigen prevalence from their own pre-control status, but to identify those villages which currently have a lower coproantigen prevalence than the county-wide \u2018average\u2019 pre-control coproantigen prevalence (as individual villages may have had different individual pre-control prevalences).",
+            "startOffset": 34177,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 41135,
+            "parents": [],
+            "refoffsets": {
+                "bib0080": {
+                    "endOffset": 41133,
+                    "startOffset": 41115
+                }
+            },
+            "secId": "sec0075",
+            "sentence": "This can increase the challenges associated with logistics, although vaccination could be incorporated into other veterinary measures targeting sheep (Heath et al., 2003).",
+            "startOffset": 40964,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 37758,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "Indeed in our samples we found that of the 26 dogs whose owners reported having dosed them no more than 6 weeks prior to sampling, 15 (57.7%) were coproELISA positive.",
+            "startOffset": 37591,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22496,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "Tissue samples that were successfully extracted and amplified were sequenced by Beckman Coulter (Essex, UK) and resulting sequences analysed using BLAST (http://blast.ncbi.nlm.nih.gov/Blast.cgi).",
+            "startOffset": 22301,
+            "title": "DNA extraction, PCR and sequencing"
+        },
+        {
+            "endOffset": 28584,
+            "parents": [
+                {
+                    "id": "sec0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0070",
+            "sentence": "This provides evidence that the true coproELISA prevalence in Chahete was lower than the 35% threshold.",
+            "startOffset": 28481,
+            "title": "Using LQAS to evaluate canine coproELISA prevalence, PZQ dosing and knowledge of echinococcosis in Hobukesar County"
+        },
+        {
+            "endOffset": 31169,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "We undertook a dog focused assessment of the application and impact of the National Control Programme in Hobukesar County, including dog necropsies, and an LQAS approach to coproELISA tests, and dog owner questionnaires.",
+            "startOffset": 30949,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 34766,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "The current approach rather identifies all villages which may be in need of further attention, regardless of the reasons for this.",
+            "startOffset": 34636,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20931,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "Using this panel, a coproELISA cut-off of 0.11685 was determined, giving a sensitivity of 94%, a specificity of 77% and an overall accuracy of 84%.",
+            "startOffset": 20784,
+            "title": "CoproELISA"
+        },
+        {
+            "endOffset": 36822,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "This suggests that the echinococcosis control campaign has had little or no positive impact in these communities.",
+            "startOffset": 36709,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 35382,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "Furthermore, none of the dog owners interviewed in this community reported having dosed their dogs in the previous 2 years (Table 2).",
+            "startOffset": 35249,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31719,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "Only 14 dogs (36.8%) had neither parasite.",
+            "startOffset": 31677,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 14822,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "Dogs were captured alive and euthanised by a qualified animal technician (JT) using intravenous ketamine.",
+            "startOffset": 14717,
+            "title": "Dog necropsies"
+        },
+        {
+            "endOffset": 20783,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "All faecal samples collected from necropsied dogs were analysed by coproELISA, and this was treated as a panel of known positives (n = 16, with estimated Echinococcus spp. worm burdens between 2 and >10,000) and Echinococcus spp. negatives, n = 22).",
+            "startOffset": 20534,
+            "title": "CoproELISA"
+        },
+        {
+            "endOffset": 13349,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Workers dosing dogs should confirm the tablets were swallowed and the date of de-worming recorded on the dog registration card.",
+            "startOffset": 13222,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26546,
+            "parents": [
+                {
+                    "id": "sec0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "A total of 126 owned dogs were sampled in the six communities, with questionnaires administered to 117 owners.",
+            "startOffset": 26436,
+            "title": "Dog demographics and praziquantel dosing"
+        },
+        {
+            "endOffset": 32661,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "Stray or unwanted dogs may therefore have higher prevalences of Echinococcus and/or Taenia spp. infections.",
+            "startOffset": 32554,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23417,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "The pre-intervention prevalence was estimated from dog surveys conducted in Hobukesar County prior to the start of the control programme (Wang et al., 2001, 2005).",
+            "startOffset": 23254,
+            "title": "Data analysis"
+        },
+        {
+            "endOffset": 32397,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "As praziquantel dosing schemes such as the current one will generally only include owned dogs, stray dogs will not benefit from dosing, and dosing compliance may be lower for unwanted dogs.",
+            "startOffset": 32208,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30168,
+            "parents": [],
+            "refoffsets": {
+                "bib0135": {
+                    "endOffset": 30166,
+                    "startOffset": 30146
+                }
+            },
+            "secId": "sec0075",
+            "sentence": "However, continental areas present greater challenges for control of echinococcosis, especially regions that are relatively remote and where people are nomadic or semi-nomadic (e.g. Schantz et al., 2003).",
+            "startOffset": 29964,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18560,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "Nine dogs were sampled without their owners present; these dogs were chained and faecal samples were collected from the ground.",
+            "startOffset": 18433,
+            "title": "Faecal sample collection"
+        },
+        {
+            "endOffset": 28939,
+            "parents": [
+                {
+                    "id": "sec0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0070",
+            "sentence": "The decision rule for reported praziquantel dosing scheme coverage over the previous year was only met in Changan Kul where 23 dogs were reportedly dosed in the last year.",
+            "startOffset": 28768,
+            "title": "Using LQAS to evaluate canine coproELISA prevalence, PZQ dosing and knowledge of echinococcosis in Hobukesar County"
+        },
+        {
+            "endOffset": 14019,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "Six communities in Hobukesar County were included: Narenhebuke (46.47\u00b0, 85.30\u00b0), Budengjian (46.65\u00b0, 85.31\u00b0), Changan Kul (46.48\u00b0, 85.57\u00b0), Chahete (46.06\u00b0, 86.30\u00b0), Bayenoma (46.51\u00b0, 86.09\u00b0) and Tiebukenwusan (46.48\u00b0, 85.23\u00b0).",
+            "startOffset": 13792,
+            "title": "Communities"
+        },
+        {
+            "endOffset": 33584,
+            "parents": [],
+            "refoffsets": {
+                "bib0175": {
+                    "endOffset": 33582,
+                    "startOffset": 33559
+                },
+                "bib0180": {
+                    "endOffset": 33582,
+                    "startOffset": 33559
+                }
+            },
+            "secId": "sec0075",
+            "sentence": "In this case, we used data collected from a dog survey in Narenhebuke prior to the start of the control programme (Wang et al., 2001, 2005).",
+            "startOffset": 33444,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21366,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0190": {
+                    "endOffset": 21364,
+                    "startOffset": 21330
+                }
+            },
+            "secId": "sec0040",
+            "sentence": "Extracted tissue samples were analysed by PCR using generic cestode primers (von Nickisch-Rosenegk et al., 1999).",
+            "startOffset": 21253,
+            "title": "DNA extraction, PCR and sequencing"
+        },
+        {
+            "endOffset": 29963,
+            "parents": [],
+            "refoffsets": {
+                "bib0040": {
+                    "endOffset": 29961,
+                    "startOffset": 29938
+                }
+            },
+            "secId": "sec0075",
+            "sentence": "Echinococcosis Control Programmes are more likely to succeed on islands, where border control is possible and the area targeted is finite and clearly defined (Craig and Larrieu, 2006).",
+            "startOffset": 29779,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16385,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "For the purposes of the current study, a simplified form of LQAS was used, which requires only one input; the minimum \u2018threshold\u2019 prevalence of the outcome of interest which could be considered a \u2018success\u2019 or \u2018failure\u2019.",
+            "startOffset": 16166,
+            "title": "Lot Quality Assurance Sampling (LQAS)"
+        },
+        {
+            "endOffset": 15115,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "Dogs were scored as Echinococcus spp. and Taenia spp. present/absent, with worm burdens estimated for Echinococcus spp. and counted for Taenia spp.",
+            "startOffset": 14968,
+            "title": "Dog necropsies"
+        },
+        {
+            "endOffset": 27864,
+            "parents": [
+                {
+                    "id": "sec0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "All samples were negative for E. multilocularis DNA.",
+            "startOffset": 27812,
+            "title": "Canine echinococcosis in six communities in Hobukesar County"
+        },
+        {
+            "endOffset": 41284,
+            "parents": [],
+            "secId": "sec0080",
+            "sentence": "Our results suggest that the Echinococcosis Control Programme in Hobukesar County in north-west China is still facing several challenges.",
+            "startOffset": 41147,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 37316,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "From our data, it appears that sufficiently frequent praziquantel dosing is not being achieved in the communities evaluated.",
+            "startOffset": 37192,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 40963,
+            "parents": [],
+            "refoffsets": {
+                "bib0080": {
+                    "endOffset": 40856,
+                    "startOffset": 40816
+                },
+                "bib0095": {
+                    "endOffset": 40961,
+                    "startOffset": 40941
+                }
+            },
+            "secId": "sec0075",
+            "sentence": "However, there are challenges associated with the vaccine, including the fact that lambs need two doses of the vaccine, and a booster vaccine when they are 1\u20131.5 years of age (Heath et al., 2003; Larrieu et al., 2013), and the fact that sheep populations are usually much larger than dog populations (Larrieu et al., 2013).",
+            "startOffset": 40640,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26393,
+            "parents": [
+                {
+                    "id": "sec0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "For the remaining samples DNA was successfully extracted and amplified, and all 15 were successfully sequenced as E. granulosus G1 (\u226599% match, accession number DQ408422.1).",
+            "startOffset": 26220,
+            "title": "Necropsy panel"
+        },
+        {
+            "endOffset": 12127,
+            "parents": [],
+            "refoffsets": {
+                "bib0020": {
+                    "endOffset": 11962,
+                    "startOffset": 11945
+                },
+                "bib0180": {
+                    "endOffset": 12125,
+                    "startOffset": 12108
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Xinjiang is one of the most important foci of human cystic echinococcosis in China and the world (Bart et al., 2006), and surveys in Hobukesar Mongol Autonomous County (Hobukesar County) in north-west Xinjiang found a human CE prevalence by ultrasound of 2.7% (Wang et al., 2005).",
+            "startOffset": 11847,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17183,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0045": {
+                    "endOffset": 17064,
+                    "startOffset": 17046
+                }
+            },
+            "secId": "sec0025",
+            "sentence": "As echinococcosis is commonly a disease of remote, marginalised communities (Craig et al., 2007), surveillance is often hindered by logistical difficulties, and relatively quick and efficient methods are desirable.",
+            "startOffset": 16969,
+            "title": "Lot Quality Assurance Sampling (LQAS)"
+        },
+        {
+            "endOffset": 31880,
+            "parents": [],
+            "refoffsets": {
+                "bib0070": {
+                    "endOffset": 31878,
+                    "startOffset": 31858
+                }
+            },
+            "secId": "sec0075",
+            "sentence": "Presence of either Echinococcus or Taenia tapeworms suggests that the dog had not been dosed recently, and had access to livestock offal (Gemmell et al., 1977).",
+            "startOffset": 31720,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 41768,
+            "parents": [],
+            "secId": "sec0080",
+            "sentence": "It is likely that even quarterly praziquantel dosing in these communities is very difficult; they are small rural and remote communities, and many people have semi-nomadic lifestyles that make regular dosing by authorities difficult.",
+            "startOffset": 41535,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 23103,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "Setting a threshold can be done in several ways, for example a target can be selected (e.g. target for proportion of people vaccinated, etc.), and decision numbers chosen to test whether or not this target has been met.",
+            "startOffset": 22884,
+            "title": "Data analysis"
+        },
+        {
+            "endOffset": 25342,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0165": {
+                    "endOffset": 25340,
+                    "startOffset": 25331
+                },
+                "bib0180": {
+                    "endOffset": 25234,
+                    "startOffset": 25217
+                }
+            },
+            "secId": "sec0045",
+            "sentence": "Studies relating to echinococcosis have been carried out in Hobukesar County previously (Wang et al., 2005) and the National Echinococcosis Control Programme has been carried out in Xinjiang since 2010 (WHO, 2011).",
+            "startOffset": 25128,
+            "title": "Data analysis"
+        },
+        {
+            "endOffset": 15929,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0055": {
+                    "endOffset": 15806,
+                    "startOffset": 15785
+                },
+                "bib0130": {
+                    "endOffset": 15927,
+                    "startOffset": 15900
+                }
+            },
+            "secId": "sec0025",
+            "sentence": "Although originally developed for quality evaluation in the manufacturing industry (Dodge and Romig, 1929), LQAS has more recently been applied to studies on disease and healthcare (for a review see Robertson and Valadez, 2006).",
+            "startOffset": 15701,
+            "title": "Lot Quality Assurance Sampling (LQAS)"
+        },
+        {
+            "endOffset": 24801,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "Nine dogs sampled without their owners present were excluded from this analysis.",
+            "startOffset": 24721,
+            "title": "Data analysis"
+        },
+        {
+            "endOffset": 22300,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "Gels were visualised using Syngene G:Box gel imaging system (Cambridge Biosciences).",
+            "startOffset": 22216,
+            "title": "DNA extraction, PCR and sequencing"
+        },
+        {
+            "endOffset": 13221,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "A de-worming frequency of once a month was aimed for, involving supervised dosing with praziquantel in baits.",
+            "startOffset": 13112,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17334,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "As such, we used LQAS to evaluate coproELISA prevalence, praziquantel dosing, and local knowledge about echinococcosis in the six communities studied.",
+            "startOffset": 17184,
+            "title": "Lot Quality Assurance Sampling (LQAS)"
+        },
+        {
+            "endOffset": 18261,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "If midway through the sampling day it appeared that a minimum of 19 dogs would not be reached by the end of the day, we asked local villagers who served as translators/facilitators to direct us to areas where they knew dogs were present, thus moving away from our chosen random direction.",
+            "startOffset": 17973,
+            "title": "Faecal sample collection"
+        },
+        {
+            "endOffset": 27746,
+            "parents": [
+                {
+                    "id": "sec0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "All coproELISA positive ground faecal samples (n = 52) were analysed by coproPCR.",
+            "startOffset": 27665,
+            "title": "Canine echinococcosis in six communities in Hobukesar County"
+        },
+        {
+            "endOffset": 13604,
+            "parents": [],
+            "refoffsets": {
+                "bib0035": {
+                    "endOffset": 13602,
+                    "startOffset": 13570
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "The Control Programme also aimed to collect dog faeces 5 days after de-worming and bury or burn these to prevent environmental contamination, as well as taking measures to control dog numbers such as culling stray dogs (Chinese Ministry of Health, 2007).",
+            "startOffset": 13350,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 14300,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "These communities included ethnic Mongolians, Kazakhs, and Han Chinese, and were based around livestock husbandry, although Chahete was established in 2010 as an agricultural community and consisted mostly of ethnic Han people that were relocated from Gansu and Sichuan provinces.",
+            "startOffset": 14020,
+            "title": "Communities"
+        },
+        {
+            "endOffset": 24576,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "To assess whether or not the Echinococcosis Control Programme was reaching households in the local communities, we determined the proportion of dog owners who had dosed their dogs at least once in the 12 months prior to our data collection.",
+            "startOffset": 24336,
+            "title": "Data analysis"
+        },
+        {
+            "endOffset": 42368,
+            "parents": [],
+            "secId": "sec0080",
+            "sentence": "Although many authors agree that elimination of Echinococcus spp. from continental areas is often infeasible, attempts to reduce Echinococcus spp. transmission should be undertaken in endemic areas where echinococcosis is a public health concern.",
+            "startOffset": 42122,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 11718,
+            "parents": [],
+            "refoffsets": {
+                "bib0175": {
+                    "endOffset": 11716,
+                    "startOffset": 11699
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Xinjiang is a multi-ethnic province, with ethnic groups including Uyghur, Han Kazakh, Hui and Mongol (Wang et al., 2001).",
+            "startOffset": 11597,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 36144,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "However, in both of these villages there was no evidence of a reduction in coproantigen prevalence from the previous estimate (35%).",
+            "startOffset": 36012,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 33048,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "We used LQAS methodology to investigate three factors related to the success of the control programme: coproELISA prevalence, reported praziquantel dosing, and knowledge of echinococcosis.",
+            "startOffset": 32860,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 40365,
+            "parents": [],
+            "refoffsets": {
+                "bib0080": {
+                    "endOffset": 40363,
+                    "startOffset": 40345
+                }
+            },
+            "secId": "sec0075",
+            "sentence": "A safe and effective vaccine against echinococcosis is available for sheep (Heath et al., 2003).",
+            "startOffset": 40269,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28768,
+            "parents": [
+                {
+                    "id": "sec0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0070",
+            "sentence": "There is no evidence that the true coproantigen prevalence in the other five communities (Bayenoma, Budengjian, Changan Kul Narenhebuke and Tiebukenwusan) was below the 35% threshold.",
+            "startOffset": 28585,
+            "title": "Using LQAS to evaluate canine coproELISA prevalence, PZQ dosing and knowledge of echinococcosis in Hobukesar County"
+        },
+        {
+            "endOffset": 22215,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "A Stratagene Robocycler (La Jolla, CA) was used for all cycling profiles and PCR products were separated by electrophoresis at 110 V on 1.5% (w/v) agarose gels in Tris\u2013Borate\u2013EDTA buffer (Severn Biotech, UK), stained with GelRed (Cambridge Biosciences, UK).",
+            "startOffset": 21958,
+            "title": "DNA extraction, PCR and sequencing"
+        },
+        {
+            "endOffset": 14674,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "All dogs were adults (estimated to be at least 1 year old).",
+            "startOffset": 14615,
+            "title": "Dog necropsies"
+        },
+        {
+            "endOffset": 38546,
+            "parents": [],
+            "refoffsets": {
+                "bib0075": {
+                    "endOffset": 38346,
+                    "startOffset": 38306
+                },
+                "bib0100": {
+                    "endOffset": 38346,
+                    "startOffset": 38306
+                },
+                "bib0140": {
+                    "endOffset": 38484,
+                    "startOffset": 38459
+                }
+            },
+            "secId": "sec0075",
+            "sentence": "Dog dosing frequencies of every 6 weeks (eight times a year) are often suggested during a control programme (e.g. Gemmell et al., 1986; Lembo et al., 2013), with the aim of preventing Echinococcus spp. from reaching patency even in the case of immediate reinfection (Thompson and McManus 2001), and therefore preventing the release of any eggs from dogs.",
+            "startOffset": 38192,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 11596,
+            "parents": [],
+            "refoffsets": {
+                "bib0020": {
+                    "endOffset": 11594,
+                    "startOffset": 11577
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "The Xinjiang Uyghur Autonomous Region (Xinjiang) is an autonomous region of the People's Republic of China, located in the northwest of the country (Bart et al., 2006).",
+            "startOffset": 11428,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 15391,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "All samples were transported to Salford University, UK, at room temperature.",
+            "startOffset": 15315,
+            "title": "Dog necropsies"
+        },
+        {
+            "endOffset": 37191,
+            "parents": [],
+            "refoffsets": {
+                "bib0035": {
+                    "endOffset": 36950,
+                    "startOffset": 36918
+                }
+            },
+            "secId": "sec0075",
+            "sentence": "Although the aims of the Echinococcosis Control Programme, including monthly supervised dosing (Chinese Ministry of Health, 2007), were recommended, it appears that they were over-ambitious in locations such as Hobukesar County, given the associated challenges of the semi-nomadic lifestyles of local people and logistical challenges associated with remote communities.",
+            "startOffset": 36822,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 14716,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "Twenty-one were male, and 17 were female.",
+            "startOffset": 14675,
+            "title": "Dog necropsies"
+        },
+        {
+            "endOffset": 29778,
+            "parents": [],
+            "refoffsets": {
+                "bib0015": {
+                    "endOffset": 29776,
+                    "startOffset": 29757
+                },
+                "bib0075": {
+                    "endOffset": 29687,
+                    "startOffset": 29667
+                }
+            },
+            "secId": "sec0075",
+            "sentence": "Control programmes may include education campaigns, praziquantel dosing of dogs, controlled slaughter (Gemmell et al., 1986), and vaccination of sheep, the intermediate host for E. granulosus (Barnes et al., 2012).",
+            "startOffset": 29564,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 33833,
+            "parents": [],
+            "secId": "sec0075",
+            "sentence": "This was the only pre-intervention data available from this study area, and we therefore made the assumption that the dogs surveyed in Narenhebuke prior to the control scheme were representative of the dogs in other communities in Hobukesar County.",
+            "startOffset": 33585,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16969,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "If the number of positive individuals in a sample is lower than the decision rule, it can be stated that there is some statistical evidence that the threshold has not been reached.",
+            "startOffset": 16789,
+            "title": "Lot Quality Assurance Sampling (LQAS)"
+        },
+        {
+            "endOffset": 30698,
+            "parents": [],
+            "refoffsets": {
+                "bib0040": {
+                    "endOffset": 30672,
+                    "startOffset": 30649
+                },
+                "bib0050": {
+                    "endOffset": 30696,
+                    "startOffset": 30674
+                }
+            },
+            "secId": "sec0075",
+            "sentence": "It is important to evaluate Echinococcosis Control Programmes and assess how well these are meeting their targets (Craig and Larrieu, 2006; Craig et al., in press).",
+            "startOffset": 30534,
+            "title": "Discussion"
+        }
+    ],
+    "docId": "S0001706X15000108",
+    "metadata": {
+        "asjc": [
+            "1109",
+            "2405",
+            "2725",
+            "3401"
+        ],
+        "authors": [
+            {
+                "email": "Freyavankesteren@gmail.com",
+                "first": "Freya",
+                "initial": "F.",
+                "last": "van Kesteren"
+            },
+            {
+                "email": null,
+                "first": "Xinwei",
+                "initial": "X.",
+                "last": "Qi"
+            },
+            {
+                "email": null,
+                "first": "Jiang",
+                "initial": "J.",
+                "last": "Tao"
+            },
+            {
+                "email": null,
+                "first": "Xiaohui",
+                "initial": "X.",
+                "last": "Feng"
+            },
+            {
+                "email": null,
+                "first": "Alexander",
+                "initial": "A.",
+                "last": "Mastin"
+            },
+            {
+                "email": null,
+                "first": "Philip S.",
+                "initial": "P.S.",
+                "last": "Craig"
+            },
+            {
+                "email": null,
+                "first": "Dominique A.",
+                "initial": "D.A.",
+                "last": "Vuitton"
+            },
+            {
+                "email": null,
+                "first": "Xinyu",
+                "initial": "X.",
+                "last": "Duan"
+            },
+            {
+                "email": null,
+                "first": "Xiangdong",
+                "initial": "X.",
+                "last": "Chu"
+            },
+            {
+                "email": null,
+                "first": "Jinlong",
+                "initial": "J.",
+                "last": "Zhu"
+            },
+            {
+                "email": "dr.wenhao@163.com",
+                "first": "Hao",
+                "initial": "H.",
+                "last": "Wen"
+            }
+        ],
+        "doi": "10.1016/j.actatropica.2015.01.009",
+        "firstpage": "1",
+        "issn": "0001706X",
+        "keywords": [
+            "Control programme",
+            "Domestic dogs",
+            "Echinococcus granulosus",
+            "Lot Quality Assurance Sampling",
+            "Xinjiang"
+        ],
+        "lastpage": "7",
+        "openaccess": "Full",
+        "pub_year": 2015,
+        "subjareas": [
+            "AGRI",
+            "IMMU",
+            "MEDI",
+            "VETE"
+        ],
+        "title": "Independent evaluation of a canine Echinococcosis Control Programme in Hobukesar County, Xinjiang, China"
+    }
+}

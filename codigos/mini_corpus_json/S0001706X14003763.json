@@ -1,0 +1,3632 @@
+{
+    "abstract": "With support from the Global Fund, the United States President's Malaria Initiative (PMI) and other cooperating partners, Malawi is implementing a comprehensive malaria control programme involving indoor residual spraying in targeted districts, universal coverage with insecticide-treated bed nets, use of rapid diagnostic tests to confirm the clinical diagnosis of malaria and use of the highly effective artemisinin-based combination therapy, artemether-lumefantrine (AL), as the first-line treatment for malaria. We genotyped 24 genome-wide single nucleotide polymorphisms (SNPs) in Plasmodium falciparum infections (n=316) sampled from a single location in Malawi before (2006 and 2007) and after enhanced intervention (2008 and 2012). The SNP data generated were used to examine temporal changes in the proportion of multiple-genotype infections (MIs), mean number of heterozygous SNPs within MIs, parasite genetic diversity (expected heterozygosity and genotypic richness), multilocus linkage disequilibrium and effective population size (Ne). While the proportion of MIs, expected heterozygosity, genotypic richness, multilocus linkage disequilibrium and Ne were unchanged over time, the mean number (\u00b1standard deviation) of heterozygous SNPs within MIs decreased significantly (p=0.01) from 9(\u00b11) in 2006 to 7(\u00b11) in 2012. These findings indicate that the genetic diversity of P. falciparum malaria parasites in this area remains high, suggesting that only subtle gains, if any, have been made in reducing malaria transmission. Continued surveillance is required to evaluate the impact of malaria control interventions in this area and the rest of Malawi, and to better target control interventions.",
+    "author_highlights": [
+        {
+            "endOffset": 12790,
+            "sentence": "We examined impact of intense malaria control on parasite genetic structure in Malawi.",
+            "startOffset": 12704
+        },
+        {
+            "endOffset": 12877,
+            "sentence": "Malaria infections sampled before and after intense control were genotyped at 24 SNPs.",
+            "startOffset": 12791
+        },
+        {
+            "endOffset": 12962,
+            "sentence": "Despite intense control efforts, parasite genetic diversity was unchanged over time.",
+            "startOffset": 12878
+        },
+        {
+            "endOffset": 13047,
+            "sentence": "Only the mean number of heterozygous SNPs within infections showed change over time.",
+            "startOffset": 12963
+        },
+        {
+            "endOffset": 13134,
+            "sentence": "Findings suggest minimal or no change in malaria transmission despite intense control.",
+            "startOffset": 13048
+        }
+    ],
+    "bib_entries": {
+        "bib0005": {
+            "authors": [
+                {
+                    "first": "Timothy J.C.",
+                    "initial": "T.J.C.",
+                    "last": "Anderson"
+                },
+                {
+                    "first": "Bernhard",
+                    "initial": "B.",
+                    "last": "Haubold"
+                },
+                {
+                    "first": "Jeff T.",
+                    "initial": "J.T.",
+                    "last": "Williams"
+                },
+                {
+                    "first": "Jose G.",
+                    "initial": "J.G.",
+                    "last": "Estrada-Franco"
+                },
+                {
+                    "first": "Lynne",
+                    "initial": "L.",
+                    "last": "Richardson"
+                },
+                {
+                    "first": "Rene",
+                    "initial": "R.",
+                    "last": "Mollinedo"
+                },
+                {
+                    "first": "Moses",
+                    "initial": "M.",
+                    "last": "Bockarie"
+                },
+                {
+                    "first": "John",
+                    "initial": "J.",
+                    "last": "Mokili"
+                },
+                {
+                    "first": "Sungano",
+                    "initial": "S.",
+                    "last": "Mharakurwa"
+                },
+                {
+                    "first": "Neil",
+                    "initial": "N.",
+                    "last": "French"
+                },
+                {
+                    "first": "Jim",
+                    "initial": "J.",
+                    "last": "Whitworth"
+                },
+                {
+                    "first": "Ivan D.",
+                    "initial": "I.D.",
+                    "last": "Velez"
+                },
+                {
+                    "first": "Alan H.",
+                    "initial": "A.H.",
+                    "last": "Brockman"
+                },
+                {
+                    "first": "Francois",
+                    "initial": "F.",
+                    "last": "Nosten"
+                },
+                {
+                    "first": "Marcelo U.",
+                    "initial": "M.U.",
+                    "last": "Ferreira"
+                },
+                {
+                    "first": "Karen P.",
+                    "initial": "K.P.",
+                    "last": "Day"
+                }
+            ],
+            "doi": "10.1093/oxfordjournals.molbev.a026247",
+            "firstpage": "1467",
+            "issn": "07374038",
+            "lastpage": "1482",
+            "pub_year": 2000,
+            "title": "Microsatellite markers reveal a spectrum of population structures in the malaria parasite Plasmodium falciparum",
+            "volume": "17"
+        },
+        "bib0010": {
+            "authors": [
+                {
+                    "first": "Adam",
+                    "initial": "A.",
+                    "last": "Bennett"
+                },
+                {
+                    "first": "Lawrence",
+                    "initial": "L.",
+                    "last": "Kazembe"
+                },
+                {
+                    "first": "Don P.",
+                    "initial": "D.P.",
+                    "last": "Mathanga"
+                },
+                {
+                    "first": "Damaris",
+                    "initial": "D.",
+                    "last": "Kinyoki"
+                },
+                {
+                    "first": "Doreen",
+                    "initial": "D.",
+                    "last": "Ali"
+                },
+                {
+                    "first": "Robert W.",
+                    "initial": "R.W.",
+                    "last": "Snow"
+                },
+                {
+                    "first": "Abdisalan M.",
+                    "initial": "A.M.",
+                    "last": "Noor"
+                }
+            ],
+            "doi": "10.4269/ajtmh.13-0028",
+            "firstpage": "840",
+            "issn": "00029637",
+            "lastpage": "849",
+            "pmid": "24062477",
+            "pub_year": 2013,
+            "title": "Mapping malaria transmission intensity in Malawi, 2000-2010",
+            "volume": "89"
+        },
+        "bib0015": {
+            "authors": [
+                {
+                    "first": "Elizabeth",
+                    "initial": "E.",
+                    "last": "Chizema-Kawesha"
+                },
+                {
+                    "first": "John M.",
+                    "initial": "J.M.",
+                    "last": "Miller"
+                },
+                {
+                    "first": "Richard W.",
+                    "initial": "R.W.",
+                    "last": "Steketee"
+                },
+                {
+                    "first": "Victor M.",
+                    "initial": "V.M.",
+                    "last": "Mukonka"
+                },
+                {
+                    "first": "Chilandu",
+                    "initial": "C.",
+                    "last": "Mukuka"
+                },
+                {
+                    "first": "Abdirahman D.",
+                    "initial": "A.D.",
+                    "last": "Mohamed"
+                },
+                {
+                    "first": "Simon K.",
+                    "initial": "S.K.",
+                    "last": "Miti"
+                },
+                {
+                    "first": "Carlos C.",
+                    "initial": "C.C.",
+                    "last": "Campbell"
+                }
+            ],
+            "doi": "10.4269/ajtmh.2010.10-0035",
+            "firstpage": "480",
+            "issn": "00029637",
+            "lastpage": "488",
+            "pmid": "20810807",
+            "pub_year": 2010,
+            "title": "Scaling up malaria control in Zambia: Progress and impact 2005-2008",
+            "volume": "83"
+        },
+        "bib0020": {
+            "authors": [
+                {
+                    "first": "David J.",
+                    "initial": "D.J.",
+                    "last": "Conway"
+                },
+                {
+                    "first": "Cally",
+                    "initial": "C.",
+                    "last": "Roper"
+                },
+                {
+                    "first": "Ayoade M.J.",
+                    "initial": "A.M.J.",
+                    "last": "Oduola"
+                },
+                {
+                    "first": "David E.",
+                    "initial": "D.E.",
+                    "last": "Arnot"
+                },
+                {
+                    "first": "Peter G.",
+                    "initial": "P.G.",
+                    "last": "Kremsner"
+                },
+                {
+                    "first": "Martin P.",
+                    "initial": "M.P.",
+                    "last": "Grobusch"
+                },
+                {
+                    "first": "Chris F.",
+                    "initial": "C.F.",
+                    "last": "Curtis"
+                },
+                {
+                    "first": "Brian M.",
+                    "initial": "B.M.",
+                    "last": "Greenwood"
+                }
+            ],
+            "doi": "10.1073/pnas.96.8.4506",
+            "firstpage": "4506",
+            "issn": "00278424",
+            "lastpage": "4511",
+            "pmid": "10200292",
+            "pub_year": 1999,
+            "title": "High recombination rate in natural populations of Plasmodium falciparum",
+            "volume": "96"
+        },
+        "bib0025": {
+            "authors": [
+                {
+                    "first": "Rachel",
+                    "initial": "R.",
+                    "last": "Daniels"
+                },
+                {
+                    "first": "Sarah K.",
+                    "initial": "S.K.",
+                    "last": "Volkman"
+                },
+                {
+                    "first": "Danny A.",
+                    "initial": "D.A.",
+                    "last": "Milner"
+                },
+                {
+                    "first": "Nira",
+                    "initial": "N.",
+                    "last": "Mahesh"
+                },
+                {
+                    "first": "Daniel E.",
+                    "initial": "D.E.",
+                    "last": "Neafsey"
+                },
+                {
+                    "first": "Daniel J.",
+                    "initial": "D.J.",
+                    "last": "Park"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Rosen"
+                },
+                {
+                    "first": "Elaine",
+                    "initial": "E.",
+                    "last": "Angelino"
+                },
+                {
+                    "first": "Pardis C.",
+                    "initial": "P.C.",
+                    "last": "Sabeti"
+                },
+                {
+                    "first": "Dyann F.",
+                    "initial": "D.F.",
+                    "last": "Wirth"
+                },
+                {
+                    "first": "Roger C.",
+                    "initial": "R.C.",
+                    "last": "Wiegand"
+                }
+            ],
+            "doi": "10.1186/1475-2875-7-223",
+            "issn": "14752875",
+            "pmid": "18959790",
+            "pub_year": 2008,
+            "title": "A general SNP-based molecular barcode for Plasmodium falciparum identification and tracking",
+            "volume": "7"
+        },
+        "bib0030": {
+            "authors": [
+                {
+                    "first": "Rachel",
+                    "initial": "R.",
+                    "last": "Daniels"
+                },
+                {
+                    "first": "Hsiao Han",
+                    "initial": "H.H.",
+                    "last": "Chang"
+                },
+                {
+                    "first": "Papa Diogoye",
+                    "initial": "P.D.",
+                    "last": "S\u00e9ne"
+                },
+                {
+                    "first": "Danny C.",
+                    "initial": "D.C.",
+                    "last": "Park"
+                },
+                {
+                    "first": "Daniel E.",
+                    "initial": "D.E.",
+                    "last": "Neafsey"
+                },
+                {
+                    "first": "Stephen F.",
+                    "initial": "S.F.",
+                    "last": "Schaffner"
+                },
+                {
+                    "first": "Elizabeth J.",
+                    "initial": "E.J.",
+                    "last": "Hamilton"
+                },
+                {
+                    "first": "Amanda K.",
+                    "initial": "A.K.",
+                    "last": "Lukens"
+                },
+                {
+                    "first": "Daria",
+                    "initial": "D.",
+                    "last": "Van Tyne"
+                },
+                {
+                    "first": "Souleymane",
+                    "initial": "S.",
+                    "last": "Mboup"
+                },
+                {
+                    "first": "Pardis C.",
+                    "initial": "P.C.",
+                    "last": "Sabeti"
+                },
+                {
+                    "first": "Daouda",
+                    "initial": "D.",
+                    "last": "Ndiaye"
+                },
+                {
+                    "first": "Dyann F.",
+                    "initial": "D.F.",
+                    "last": "Wirth"
+                },
+                {
+                    "first": "Daniel L.",
+                    "initial": "D.L.",
+                    "last": "Hartl"
+                },
+                {
+                    "first": "Sarah K.",
+                    "initial": "S.K.",
+                    "last": "Volkman"
+                }
+            ],
+            "doi": "10.1371/journal.pone.0060780",
+            "issn": "19326203",
+            "pmid": "23593309",
+            "pub_year": 2013,
+            "title": "Genetic Surveillance Detects Both Clonal and Epidemic Transmission of Malaria following Enhanced Intervention in Senegal",
+            "volume": "8"
+        },
+        "bib0035": {
+            "authors": [
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Do"
+                },
+                {
+                    "first": "R. S.",
+                    "initial": "R.S.",
+                    "last": "Waples"
+                },
+                {
+                    "first": "D.",
+                    "initial": "D.",
+                    "last": "Peel"
+                },
+                {
+                    "first": "G. M.",
+                    "initial": "G.M.",
+                    "last": "Macbeth"
+                },
+                {
+                    "first": "B. J.",
+                    "initial": "B.J.",
+                    "last": "Tillett"
+                },
+                {
+                    "first": "J. R.",
+                    "initial": "J.R.",
+                    "last": "Ovenden"
+                }
+            ],
+            "doi": "10.1111/1755-0998.12157",
+            "firstpage": "209",
+            "issn": "1755098X",
+            "lastpage": "214",
+            "pmid": "23992227",
+            "pub_year": 2014,
+            "title": "NeEstimator v2: Re-implementation of software for the estimation of contemporary effective population size (Ne) from genetic data",
+            "volume": "14"
+        },
+        "bib0040": {
+            "authors": [
+                {
+                    "first": "Marcel E.",
+                    "initial": "M.E.",
+                    "last": "Dorken"
+                },
+                {
+                    "first": "Christoper G.",
+                    "initial": "C.G.",
+                    "last": "Eckert"
+                }
+            ],
+            "doi": "10.1046/j.1365-2745.2001.00558.x",
+            "firstpage": "339",
+            "issn": "00220477",
+            "lastpage": "350",
+            "pub_year": 2001,
+            "title": "Severely reduced sexual reproduction in northern populations of a clonal plant, Decodon verticillatus (Lythraceae)",
+            "volume": "89"
+        },
+        "bib0045": null,
+        "bib0050": {
+            "authors": [
+                {
+                    "first": "Gaoqian",
+                    "initial": "G.",
+                    "last": "Feng"
+                },
+                {
+                    "first": "Julie A.",
+                    "initial": "J.A.",
+                    "last": "Simpson"
+                },
+                {
+                    "first": "Ebbie",
+                    "initial": "E.",
+                    "last": "Chaluluka"
+                },
+                {
+                    "first": "Malcolm E.",
+                    "initial": "M.E.",
+                    "last": "Molyneux"
+                },
+                {
+                    "first": "Stephen J.",
+                    "initial": "S.J.",
+                    "last": "Rogerson"
+                }
+            ],
+            "doi": "10.1371/journal.pone.0012012",
+            "issn": "19326203",
+            "pmid": "20700457",
+            "pub_year": 2010,
+            "title": "Decreasing burden of malaria in pregnancy in malawian women and its relationship to use of intermittent preventive therapy or bed nets",
+            "volume": "5"
+        },
+        "bib0055": {
+            "authors": [
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Goudet"
+                }
+            ],
+            "doi": "10.1093/oxfordjournals.jhered.a111627",
+            "firstpage": "485",
+            "issn": "00221503",
+            "lastpage": "486",
+            "pub_year": 1995,
+            "title": "FSTAT (Version 1.2): A Computer Program to Calculate F-statistics",
+            "volume": "86"
+        },
+        "bib0060": {
+            "authors": [
+                {
+                    "first": "Sharmini",
+                    "initial": "S.",
+                    "last": "Gunawardena"
+                },
+                {
+                    "first": "Marcelo U.",
+                    "initial": "M.U.",
+                    "last": "Ferreira"
+                },
+                {
+                    "first": "G. M.G.",
+                    "initial": "G.M.G.",
+                    "last": "Kapilananda"
+                },
+                {
+                    "first": "Dyann F.",
+                    "initial": "D.F.",
+                    "last": "Wirth"
+                },
+                {
+                    "first": "Nadira D.",
+                    "initial": "N.D.",
+                    "last": "Karunaweera"
+                }
+            ],
+            "doi": "10.1017/S0031182013002278",
+            "firstpage": "880",
+            "issn": "00311820",
+            "lastpage": "890",
+            "pmid": "24533989",
+            "pub_year": 2014,
+            "title": "The Sri Lankan paradox: High genetic diversity in Plasmodium vivax populations despite decreasing levels of malaria transmission",
+            "volume": "141"
+        },
+        "bib0065": {
+            "authors": [
+                {
+                    "first": "Matthew P.",
+                    "initial": "M.P.",
+                    "last": "Hare"
+                },
+                {
+                    "first": "Leonard",
+                    "initial": "L.",
+                    "last": "Nunney"
+                },
+                {
+                    "first": "Michael K.",
+                    "initial": "M.K.",
+                    "last": "Schwartz"
+                },
+                {
+                    "first": "Daniel E.",
+                    "initial": "D.E.",
+                    "last": "Ruzzante"
+                },
+                {
+                    "first": "Martha",
+                    "initial": "M.",
+                    "last": "Burford"
+                },
+                {
+                    "first": "Robin S.",
+                    "initial": "R.S.",
+                    "last": "Waples"
+                },
+                {
+                    "first": "Kristen",
+                    "initial": "K.",
+                    "last": "Ruegg"
+                },
+                {
+                    "first": "Friso",
+                    "initial": "F.",
+                    "last": "Palstra"
+                }
+            ],
+            "doi": "10.1111/j.1523-1739.2010.01637.x",
+            "firstpage": "438",
+            "issn": "08888892",
+            "lastpage": "449",
+            "pmid": "21284731",
+            "pub_year": 2011,
+            "title": "Understanding and Estimating Effective Population Size for Practical Application in Marine Species Management",
+            "volume": "25"
+        },
+        "bib0070": {
+            "authors": [
+                {
+                    "first": "Bernhard",
+                    "initial": "B.",
+                    "last": "Haubold"
+                },
+                {
+                    "first": "Richard R.",
+                    "initial": "R.R.",
+                    "last": "Hudson"
+                }
+            ],
+            "firstpage": "847",
+            "issn": "13674803",
+            "lastpage": "848",
+            "pmid": "11108709",
+            "pub_year": 2000,
+            "title": "LIAN 3.0: Detecting linkage disequilibrium in multilocus data",
+            "volume": "16"
+        },
+        "bib0075": {
+            "authors": [
+                {
+                    "first": "Per Erik",
+                    "initial": "P.E.",
+                    "last": "Jorde"
+                },
+                {
+                    "first": "Nils",
+                    "initial": "N.",
+                    "last": "Ryman"
+                }
+            ],
+            "doi": "10.1534/genetics.107.075481",
+            "firstpage": "927",
+            "issn": "00166731",
+            "lastpage": "935",
+            "pmid": "17720927",
+            "pub_year": 2007,
+            "title": "Unbiased estimator for genetic drift and effective population size",
+            "volume": "177"
+        },
+        "bib0080": {
+            "authors": [
+                {
+                    "first": "Don P.",
+                    "initial": "D.P.",
+                    "last": "Mathanga"
+                },
+                {
+                    "first": "Carl H.",
+                    "initial": "C.H.",
+                    "last": "Campbell"
+                },
+                {
+                    "first": "Terrie E.",
+                    "initial": "T.E.",
+                    "last": "Taylor"
+                },
+                {
+                    "first": "Robin",
+                    "initial": "R.",
+                    "last": "Barlow"
+                },
+                {
+                    "first": "Mark L.",
+                    "initial": "M.L.",
+                    "last": "Wilson"
+                }
+            ],
+            "firstpage": "622",
+            "issn": "00029637",
+            "lastpage": "625",
+            "pmid": "16172493",
+            "pub_year": 2005,
+            "title": "Reduction of childhood malaria by social marketing of insecticide-treated nets: A case-control study of effectiveness in Malawi",
+            "volume": "73"
+        },
+        "bib0085": {
+            "authors": [
+                {
+                    "first": "Danny A.",
+                    "initial": "D.A.",
+                    "last": "Milner"
+                },
+                {
+                    "first": "Jimmy",
+                    "initial": "J.",
+                    "last": "Vareta"
+                },
+                {
+                    "first": "Clarissa",
+                    "initial": "C.",
+                    "last": "Valim"
+                },
+                {
+                    "first": "Jacqui",
+                    "initial": "J.",
+                    "last": "Montgomery"
+                },
+                {
+                    "first": "Rachel F.",
+                    "initial": "R.F.",
+                    "last": "Daniels"
+                },
+                {
+                    "first": "Sarah K.",
+                    "initial": "S.K.",
+                    "last": "Volkman"
+                },
+                {
+                    "first": "Daniel E.",
+                    "initial": "D.E.",
+                    "last": "Neafsey"
+                },
+                {
+                    "first": "Daniel J.",
+                    "initial": "D.J.",
+                    "last": "Park"
+                },
+                {
+                    "first": "Stephen F.",
+                    "initial": "S.F.",
+                    "last": "Schaffner"
+                },
+                {
+                    "first": "Nira C.",
+                    "initial": "N.C.",
+                    "last": "Mahesh"
+                },
+                {
+                    "first": "Kayla G.",
+                    "initial": "K.G.",
+                    "last": "Barnes"
+                },
+                {
+                    "first": "David M.",
+                    "initial": "D.M.",
+                    "last": "Rosen"
+                },
+                {
+                    "first": "Amanda K.",
+                    "initial": "A.K.",
+                    "last": "Lukens"
+                },
+                {
+                    "first": "Daria",
+                    "initial": "D.",
+                    "last": "Van-Tyne"
+                },
+                {
+                    "first": "Roger C.",
+                    "initial": "R.C.",
+                    "last": "Wiegand"
+                },
+                {
+                    "first": "Pardis C.",
+                    "initial": "P.C.",
+                    "last": "Sabeti"
+                },
+                {
+                    "first": "Karl B.",
+                    "initial": "K.B.",
+                    "last": "Seydel"
+                },
+                {
+                    "first": "Simon J.",
+                    "initial": "S.J.",
+                    "last": "Glover"
+                },
+                {
+                    "first": "Steve",
+                    "initial": "S.",
+                    "last": "Kamiza"
+                },
+                {
+                    "first": "Malcolm E.",
+                    "initial": "M.E.",
+                    "last": "Molyneux"
+                },
+                {
+                    "first": "Terrie E.",
+                    "initial": "T.E.",
+                    "last": "Taylor"
+                },
+                {
+                    "first": "Dyann F.",
+                    "initial": "D.F.",
+                    "last": "Wirth"
+                }
+            ],
+            "doi": "10.1186/1475-2875-11-35",
+            "issn": "14752875",
+            "pmid": "22314206",
+            "pub_year": 2012,
+            "title": "Human cerebral malaria and Plasmodium falciparum genotypes in Malawi",
+            "volume": "11"
+        },
+        "bib0090": {
+            "authors": [
+                {
+                    "first": "Daniel E.",
+                    "initial": "D.E.",
+                    "last": "Neafsey"
+                }
+            ],
+            "doi": "10.1111/mec.12175",
+            "firstpage": "271",
+            "issn": "09621083",
+            "lastpage": "272",
+            "pmid": "23409287",
+            "pub_year": 2013,
+            "title": "'Big data' from shrinking pathogen populations",
+            "volume": "22"
+        },
+        "bib0095": {
+            "authors": [
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Nei"
+                }
+            ],
+            "firstpage": "583",
+            "issn": "00166731",
+            "lastpage": "590",
+            "pub_year": 1978,
+            "title": "Estimation of average heterozygosity and genetic distance from a small number of individuals",
+            "volume": "89"
+        },
+        "bib0100": {
+            "authors": [
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Nei"
+                },
+                {
+                    "first": "F.",
+                    "initial": "F.",
+                    "last": "Tajima"
+                }
+            ],
+            "firstpage": "625",
+            "issn": "00166731",
+            "lastpage": "640",
+            "pub_year": 1981,
+            "title": "Genetic drift and estimation of effective population size",
+            "volume": "98"
+        },
+        "bib0105": {
+            "authors": [
+                {
+                    "first": "Standwell C.",
+                    "initial": "S.C.",
+                    "last": "Nkhoma"
+                },
+                {
+                    "first": "Shalini",
+                    "initial": "S.",
+                    "last": "Nair"
+                },
+                {
+                    "first": "Salma",
+                    "initial": "S.",
+                    "last": "Al-Saai"
+                },
+                {
+                    "first": "Elizabeth",
+                    "initial": "E.",
+                    "last": "Ashley"
+                },
+                {
+                    "first": "Rose",
+                    "initial": "R.",
+                    "last": "McGready"
+                },
+                {
+                    "first": "Aung P.",
+                    "initial": "A.P.",
+                    "last": "Phyo"
+                },
+                {
+                    "first": "Fran\u00e7ois",
+                    "initial": "F.",
+                    "last": "Nosten"
+                },
+                {
+                    "first": "Tim J.C.",
+                    "initial": "T.J.C.",
+                    "last": "Anderson"
+                }
+            ],
+            "doi": "10.1111/mec.12099",
+            "firstpage": "273",
+            "issn": "09621083",
+            "lastpage": "285",
+            "pmid": "23121253",
+            "pub_year": 2013,
+            "title": "Population genetic correlates of declining transmission in a human pathogen",
+            "volume": "22"
+        },
+        "bib0110": {
+            "authors": [
+                {
+                    "first": "Standwell C.",
+                    "initial": "S.C.",
+                    "last": "Nkhoma"
+                },
+                {
+                    "first": "Shalini",
+                    "initial": "S.",
+                    "last": "Nair"
+                },
+                {
+                    "first": "Ian H.",
+                    "initial": "I.H.",
+                    "last": "Cheeseman"
+                },
+                {
+                    "first": "Cherise",
+                    "initial": "C.",
+                    "last": "Rohr-Allegrini"
+                },
+                {
+                    "first": "Sittaporn",
+                    "initial": "S.",
+                    "last": "Singlam"
+                },
+                {
+                    "first": "Fran\u00e7ois",
+                    "initial": "F.",
+                    "last": "Nosten"
+                },
+                {
+                    "first": "Tim J.C.",
+                    "initial": "T.J.C.",
+                    "last": "Anderson"
+                }
+            ],
+            "doi": "10.1098/rspb.2012.0113",
+            "firstpage": "2589",
+            "issn": "09628452",
+            "lastpage": "2598",
+            "pmid": "22398165",
+            "pub_year": 2012,
+            "title": "Close kinship within multiple-genotype malaria parasite infections",
+            "volume": "279"
+        },
+        "bib0115": {
+            "authors": [
+                {
+                    "first": "Wendy Prudhomme",
+                    "initial": "W.P.",
+                    "last": "O'Meara"
+                },
+                {
+                    "first": "Judith Nekesa",
+                    "initial": "J.N.",
+                    "last": "Mangeni"
+                },
+                {
+                    "first": "Rick",
+                    "initial": "R.",
+                    "last": "Steketee"
+                },
+                {
+                    "first": "Brian",
+                    "initial": "B.",
+                    "last": "Greenwood"
+                }
+            ],
+            "doi": "10.1016/S1473-3099(10)70096-7",
+            "firstpage": "545",
+            "issn": "14733099",
+            "lastpage": "555",
+            "pmid": "20637696",
+            "pub_year": 2010,
+            "title": "Changes in the burden of malaria in sub-Saharan Africa",
+            "volume": "10"
+        },
+        "bib0120": {
+            "authors": [
+                {
+                    "first": "Lucy C.",
+                    "initial": "L.C.",
+                    "last": "Okell"
+                },
+                {
+                    "first": "Chris J.",
+                    "initial": "C.J.",
+                    "last": "Drakeley"
+                },
+                {
+                    "first": "Azra C.",
+                    "initial": "A.C.",
+                    "last": "Ghani"
+                },
+                {
+                    "first": "Teun",
+                    "initial": "T.",
+                    "last": "Bousema"
+                },
+                {
+                    "first": "Colin J.",
+                    "initial": "C.J.",
+                    "last": "Sutherland"
+                }
+            ],
+            "doi": "10.1186/1475-2875-7-125",
+            "issn": "14752875",
+            "pmid": "18613962",
+            "pub_year": 2008,
+            "title": "Reduction of transmission from malaria patients by artemisinin combination therapies: A pooled analysis of six randomized trials",
+            "volume": "7"
+        },
+        "bib0125": {
+            "authors": [
+                {
+                    "first": "Emelda A.",
+                    "initial": "E.A.",
+                    "last": "Okiro"
+                },
+                {
+                    "first": "Lawrence N.",
+                    "initial": "L.N.",
+                    "last": "Kazembe"
+                },
+                {
+                    "first": "Caroline W.",
+                    "initial": "C.W.",
+                    "last": "Kabaria"
+                },
+                {
+                    "first": "Jeffrey",
+                    "initial": "J.",
+                    "last": "Ligomeka"
+                },
+                {
+                    "first": "Abdisalan M.",
+                    "initial": "A.M.",
+                    "last": "Noor"
+                },
+                {
+                    "first": "Doreen",
+                    "initial": "D.",
+                    "last": "Ali"
+                },
+                {
+                    "first": "Robert W.",
+                    "initial": "R.W.",
+                    "last": "Snow"
+                }
+            ],
+            "doi": "10.1371/journal.pone.0062214",
+            "issn": "19326203",
+            "pmid": "23638008",
+            "pub_year": 2013,
+            "title": "Childhood Malaria Admission Rates to Four Hospitals in Malawi between 2000 and 2010",
+            "volume": "8"
+        },
+        "bib0130": {
+            "authors": [
+                {
+                    "first": "Friso P.",
+                    "initial": "F.P.",
+                    "last": "Palstra"
+                },
+                {
+                    "first": "Daniel E.",
+                    "initial": "D.E.",
+                    "last": "Ruzzante"
+                }
+            ],
+            "doi": "10.1111/j.1365-294X.2008.03842.x",
+            "firstpage": "3428",
+            "issn": "09621083",
+            "lastpage": "3447",
+            "pmid": "19160474",
+            "pub_year": 2008,
+            "title": "Genetic estimates of contemporary effective population size: What can they tell us about the importance of genetic stochasticity for wild population persistence?",
+            "volume": "17"
+        },
+        "bib0135": {
+            "authors": [
+                {
+                    "first": "E.",
+                    "initial": "E.",
+                    "last": "Pollak"
+                }
+            ],
+            "firstpage": "531",
+            "issn": "00166731",
+            "lastpage": "548",
+            "pub_year": 1983,
+            "title": "A new method for estimating the effective population size from allele frequency changes",
+            "volume": "104"
+        },
+        "bib0140": {
+            "authors": [
+                {
+                    "first": "Arantxa",
+                    "initial": "A.",
+                    "last": "Roca-Feltrer"
+                },
+                {
+                    "first": "Collins J.",
+                    "initial": "C.J.",
+                    "last": "Kwizombe"
+                },
+                {
+                    "first": "Miguel A.",
+                    "initial": "M.A.",
+                    "last": "Sanjoaquin"
+                },
+                {
+                    "first": "Sanie S.S.",
+                    "initial": "S.S.S.",
+                    "last": "Sesay"
+                },
+                {
+                    "first": "Brian",
+                    "initial": "B.",
+                    "last": "Faragher"
+                },
+                {
+                    "first": "Jim",
+                    "initial": "J.",
+                    "last": "Harrison"
+                },
+                {
+                    "first": "Karen",
+                    "initial": "K.",
+                    "last": "Geukers"
+                },
+                {
+                    "first": "Storn",
+                    "initial": "S.",
+                    "last": "Kabuluzi"
+                },
+                {
+                    "first": "Don P.",
+                    "initial": "D.P.",
+                    "last": "Mathanga"
+                },
+                {
+                    "first": "Elizabeth",
+                    "initial": "E.",
+                    "last": "Molyneux"
+                },
+                {
+                    "first": "Maganizo",
+                    "initial": "M.",
+                    "last": "Chagomera"
+                },
+                {
+                    "first": "Terrie",
+                    "initial": "T.",
+                    "last": "Taylor"
+                },
+                {
+                    "first": "Malcolm",
+                    "initial": "M.",
+                    "last": "Molyneux"
+                },
+                {
+                    "first": "Robert S.",
+                    "initial": "R.S.",
+                    "last": "Heyderman"
+                }
+            ],
+            "doi": "10.3201/eid1802.111008",
+            "firstpage": "272",
+            "issn": "10806040",
+            "lastpage": "278",
+            "pmid": "22305090",
+            "pub_year": 2012,
+            "title": "Lack of decline in childhood Malaria, Malawi, 2001-2010",
+            "volume": "18"
+        },
+        "bib0145": {
+            "authors": [
+                {
+                    "first": "Colin J.",
+                    "initial": "C.J.",
+                    "last": "Sutherland"
+                },
+                {
+                    "first": "Rosalynn",
+                    "initial": "R.",
+                    "last": "Ord"
+                },
+                {
+                    "first": "Sam",
+                    "initial": "S.",
+                    "last": "Dunyo"
+                },
+                {
+                    "first": "Musa",
+                    "initial": "M.",
+                    "last": "Jawara"
+                },
+                {
+                    "first": "Christopher J.",
+                    "initial": "C.J.",
+                    "last": "Drakeley"
+                },
+                {
+                    "first": "Neal",
+                    "initial": "N.",
+                    "last": "Alexander"
+                },
+                {
+                    "first": "Rosalind",
+                    "initial": "R.",
+                    "last": "Coleman"
+                },
+                {
+                    "first": "Margaret",
+                    "initial": "M.",
+                    "last": "Pinder"
+                },
+                {
+                    "first": "Gijs",
+                    "initial": "G.",
+                    "last": "Walraven"
+                },
+                {
+                    "first": "Geoffrey A.T.",
+                    "initial": "G.A.T.",
+                    "last": "Targett"
+                }
+            ],
+            "doi": "10.1371/journal.pmed.0020092",
+            "firstpage": "0338",
+            "issn": "15491277",
+            "lastpage": "0346",
+            "pmid": "15839740",
+            "pub_year": 2005,
+            "title": "Reduction of malaria transmission to Anopheles mosquitoes with a six-dose regimen of co-artemether",
+            "volume": "2"
+        },
+        "bib0150": {
+            "authors": [
+                {
+                    "first": "Jinliang",
+                    "initial": "J.",
+                    "last": "Wang"
+                }
+            ],
+            "firstpage": "243",
+            "issn": "00166723",
+            "lastpage": "257",
+            "pmid": "11865714",
+            "pub_year": 2001,
+            "title": "A pseudo-likelihood method for estimating effective population size from temporally spaced samples",
+            "volume": "78"
+        },
+        "bib0160": {
+            "authors": [
+                {
+                    "first": "B. S.",
+                    "initial": "B.S.",
+                    "last": "Weir"
+                },
+                {
+                    "first": "C. C.",
+                    "initial": "C.C.",
+                    "last": "Cockerham"
+                }
+            ],
+            "doi": "10.1111/j.1558-5646.1984.tb05657.x",
+            "firstpage": "1358",
+            "issn": "00143820",
+            "lastpage": "1370",
+            "pub_year": 1984,
+            "title": "Estimating F-statistics for the analysis of population structure.",
+            "volume": "38"
+        },
+        "bib0165": null,
+        "bib0170": null,
+        "bib0175": {
+            "authors": [
+                {
+                    "first": "Daibin",
+                    "initial": "D.",
+                    "last": "Zhong"
+                },
+                {
+                    "first": "Yaw",
+                    "initial": "Y.",
+                    "last": "Afrane"
+                },
+                {
+                    "first": "Andrew",
+                    "initial": "A.",
+                    "last": "Githeko"
+                },
+                {
+                    "first": "Zhaoqing",
+                    "initial": "Z.",
+                    "last": "Yang"
+                },
+                {
+                    "first": "Liwang",
+                    "initial": "L.",
+                    "last": "Cui"
+                },
+                {
+                    "first": "David M.",
+                    "initial": "D.M.",
+                    "last": "Menge"
+                },
+                {
+                    "first": "Emmanuel A.",
+                    "initial": "E.A.",
+                    "last": "Temu"
+                },
+                {
+                    "first": "Guiyun",
+                    "initial": "G.",
+                    "last": "Yan"
+                }
+            ],
+            "firstpage": "1043",
+            "issn": "00029637",
+            "lastpage": "1050",
+            "pmid": "18165519",
+            "pub_year": 2007,
+            "title": "Plasmodium falciparum genetic diversity in Western Kenya highlands",
+            "volume": "77"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 32146,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "Multilocus genotype refers to the number assigned to each parasite haplotype (i.e. a set of alleles at the 24 genotyped SNPs in single-genotype infections).",
+            "startOffset": 31990,
+            "title": "Data summary"
+        },
+        {
+            "endOffset": 21379,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "All samples were collected with the approval of the child's parent or guardian under the auspices of antimalarial drug resistance studies and health facility-based cross-sectional malaria surveys approved by the University of Malawi College of Medicine Research and Ethics Committee.",
+            "startOffset": 21096,
+            "title": "Collection of malaria parasite samples"
+        },
+        {
+            "endOffset": 45305,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "This results in increased within-host relatedness of parasites, and is manifested by reduced numbers of heterozygous SNPs in MIs.",
+            "startOffset": 45176,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31061,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "Supplementary Table S1 related to this article can be found, in the online version, at http://dx.doi.org/10.1016/j.actatropica.2014.11.008.",
+            "startOffset": 30922,
+            "title": "Data summary"
+        },
+        {
+            "endOffset": 32648,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0070",
+            "sentence": "Relationships amongst single-genotype infections sampled and laboratory controls are shown on the UPGMA tree (Fig. 1).",
+            "startOffset": 32530,
+            "title": "Relationships among parasite infections"
+        },
+        {
+            "endOffset": 22529,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "Parasite DNA samples from MR4 P. falciparum laboratory strains 3D7, V1S, W2-8E, DD2, HP710 and an artificial mixture of W2-8E and 3D7 were included in each genotyping run as positive controls.",
+            "startOffset": 22337,
+            "title": "SNP genotyping"
+        },
+        {
+            "endOffset": 45028,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "It appears that different population genetic parameters are informative in various windows of the transmission spectrum.",
+            "startOffset": 44908,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 15128,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Malaria-endemic countries are rapidly scaling up malaria control interventions to reduce the burden of malaria.",
+            "startOffset": 15017,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23800,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "To examine if the 24-SNP molecular barcode assay has enough resolution power, we also genotyped six parasite clones isolated from a multiple-genotype infection sampled at Ndirande Health Centre in 2008.",
+            "startOffset": 23598,
+            "title": "SNP genotyping"
+        },
+        {
+            "endOffset": 16297,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "However, there are limited and conflicting data on the impact of this programme.",
+            "startOffset": 16217,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25967,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "Parasite genotypes were considered \u201cunique\u201d if they differed at one or more of the 24 SNPs genotyped and \u201cidentical\u201d if they shared alleles at all the 24 SNPs.",
+            "startOffset": 25808,
+            "title": "Resolving relationships among parasite genotypes"
+        },
+        {
+            "endOffset": 43343,
+            "parents": [],
+            "refoffsets": {
+                "bib0130": {
+                    "endOffset": 43263,
+                    "startOffset": 43236
+                }
+            },
+            "secId": "sec0095",
+            "sentence": "With respect to Ne, Palstra and Ruzzante (2008) suggest that at least 10% of the population's effective size should be sampled.",
+            "startOffset": 43216,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26911,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0040": {
+                    "endOffset": 26909,
+                    "startOffset": 26886
+                }
+            },
+            "secId": "sec0040",
+            "sentence": "R measures the proportion of unique genotypes present in the samples and is estimated as: R = (G \u2212 1)/(N \u2212 1) where G is the number of unique genotypes and N is the sample size (Dorken and Eckert, 2001).",
+            "startOffset": 26708,
+            "title": "Genetic diversity and population structure"
+        },
+        {
+            "endOffset": 43010,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "In addition, declining populations of small organisms like P. falciparum tend to have relatively large population sizes, which are less sensitive to the loss of genetic diversity.",
+            "startOffset": 42831,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 34544,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0080",
+            "sentence": "The mean He for parasite samples collected in 2006 (He = 0.37 \u00b1 0.16) did not differ significantly (p = 0.34) from that of 2012 samples (He = 0.32 \u00b1 0.17).",
+            "startOffset": 34389,
+            "title": "Lack of change in parasite genetic diversity"
+        },
+        {
+            "endOffset": 25519,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "We conducted analyses both by the year of sampling and by pooling samples from early (2006 and 2007) and late (2008 and 2012) sampling periods.",
+            "startOffset": 25376,
+            "title": "Identification of multiple-genotype infections"
+        },
+        {
+            "endOffset": 19875,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "In recent years, this area and the rest of Malawi have seen increased uptake of malaria control interventions including increased use of ITNs, introduction of rapid diagnostic tests to confirm the clinical diagnosis of malaria and switch to a more efficacious drug, AL, as the first-line treatment for malaria.",
+            "startOffset": 19565,
+            "title": "Collection of malaria parasite samples"
+        },
+        {
+            "endOffset": 28838,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "Proportions were compared using the Chi-square test while means were compared using the Two sample t-test.",
+            "startOffset": 28732,
+            "title": "Statistical tests"
+        },
+        {
+            "endOffset": 37799,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "We attribute this subtle change in malaria transmission to the 2007 drug policy switch from SP to AL, increased ITN use over the time frame observed, and to a lesser extent, to the introduction of rapid diagnostic tests as a confirmatory tool for the clinical diagnosis of malaria in 2011.",
+            "startOffset": 37510,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27383,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0055": {
+                    "endOffset": 27381,
+                    "startOffset": 27369
+                },
+                "bib0160": {
+                    "endOffset": 27343,
+                    "startOffset": 27319
+                }
+            },
+            "secId": "sec0040",
+            "sentence": "Genetic differentiation was expressed as the pairwise fixation (FST) index (Weir and Cockerham, 1984), estimated using FSTAT (Goudet, 1995).",
+            "startOffset": 27243,
+            "title": "Genetic diversity and population structure"
+        },
+        {
+            "endOffset": 40615,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "Therefore, the threshold used in this study would slightly underestimate the proportion of single-genotype infections and overestimate the proportion of multiple-genotype infections for the same dataset.",
+            "startOffset": 40412,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 33653,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0070",
+            "sentence": "Patients infected with identical parasite genotypes were from different households.",
+            "startOffset": 33570,
+            "title": "Relationships among parasite infections"
+        },
+        {
+            "endOffset": 39380,
+            "parents": [],
+            "refoffsets": {
+                "bib0030": {
+                    "endOffset": 39378,
+                    "startOffset": 39337
+                },
+                "bib0105": {
+                    "endOffset": 39378,
+                    "startOffset": 39337
+                }
+            },
+            "secId": "sec0095",
+            "sentence": "However, the lack of temporal change in the proportion of MIs in this setting contrasts previous observations on the Thai-Myanmar border and Senegal where enhanced malaria control was accompanied by a significant decrease in the frequency of MIs (Nkhoma et al., 2013; Daniels et al., 2013).",
+            "startOffset": 39090,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 41909,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "We examined whether the use of different thresholds (\u22651, \u22652 or \u22654 heterozygous SNPs) for categorizing infections as either single-genotype or multiple-genotype infections would have an effect on the association observed between the number of heterozygous SNPs within infections and sampling year.",
+            "startOffset": 41613,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22645,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "W2-8E is a parasite clone isolated from W2 by dilution cloning while HP710 is a clone from the Thai-Myanmar border.",
+            "startOffset": 22530,
+            "title": "SNP genotyping"
+        },
+        {
+            "endOffset": 21878,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0105": {
+                    "endOffset": 21876,
+                    "startOffset": 21857
+                }
+            },
+            "secId": "sec0020",
+            "sentence": "Blood was first eluted from filter paper blood spots using Gensolve Kits (Integen X, USA), followed by parasite DNA extraction with 96-well QIAamp DNA Blood Kits (Qiagen, UK) (Nkhoma et al., 2013).",
+            "startOffset": 21681,
+            "title": "Parasite DNA extraction"
+        },
+        {
+            "endOffset": 33752,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0070",
+            "sentence": "There was no evidence of serial sampling of identical parasite genotypes from the same individual.",
+            "startOffset": 33654,
+            "title": "Relationships among parasite infections"
+        },
+        {
+            "endOffset": 39909,
+            "parents": [],
+            "refoffsets": {
+                "bib0085": {
+                    "endOffset": 39907,
+                    "startOffset": 39888
+                }
+            },
+            "secId": "sec0095",
+            "sentence": "The proportion of MIs estimated by this study was slightly higher (68\u201378%) than in a previous study (50%) from the same setting (Milner et al., 2012).",
+            "startOffset": 39759,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 43607,
+            "parents": [],
+            "refoffsets": {
+                "bib0065": {
+                    "endOffset": 43605,
+                    "startOffset": 43573
+                },
+                "bib0090": {
+                    "endOffset": 43605,
+                    "startOffset": 43573
+                }
+            },
+            "secId": "sec0095",
+            "sentence": "Nonetheless, even if sampling effort is increased to reduce sampling variance, allele frequency changes may be too small to detect in large populations (Hare et al., 2011; Neafsey, 2013).",
+            "startOffset": 43420,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 41224,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "It is possible that there is truly no change or very minimal change in malaria transmission despite enhanced intervention.",
+            "startOffset": 41102,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 36104,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "While most population genetic proxies of malaria transmission were unchanged over time, the mean number of heterozygous SNPs within MIs showed significant change.",
+            "startOffset": 35942,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 42412,
+            "parents": [],
+            "refoffsets": {
+                "bib0060": {
+                    "endOffset": 42306,
+                    "startOffset": 42282
+                },
+                "bib0105": {
+                    "endOffset": 42262,
+                    "startOffset": 42243
+                }
+            },
+            "secId": "sec0095",
+            "sentence": "The lack of detectable change in Ne and He mirrors previous observations on the Thai-Myanmar border (Nkhoma et al., 2013) and in Sri Lanka (Gunawardena et al., 2014) where a marked decline in malaria transmission did not lead to a significant decrease in both Ne and He.",
+            "startOffset": 42142,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 43896,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "Given the exponential relationship between Ne and genetic drift, it is perhaps overly optimistic to expect Ne to change over the time frame observed (1\u20135 years).",
+            "startOffset": 43735,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 44801,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "All population genetic parameters examined, except the mean number of heterozygous SNPs within MIs, were unchanged 1\u20135 years after enhanced intervention.",
+            "startOffset": 44648,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 46237,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "We believe that genetic monitoring of malaria parasite populations will play a central role in identifying areas where parasite genetic diversity remains high despite a significant decrease in the number of malaria cases.",
+            "startOffset": 46016,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29388,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "Univariate Poisson regression was used to model the rate of decline in parasite density over time.",
+            "startOffset": 29290,
+            "title": "Statistical tests"
+        },
+        {
+            "endOffset": 16058,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "In addition, since 2011, rapid diagnostic tests have been deployed at all health facilities to confirm the clinical diagnosis of malaria.",
+            "startOffset": 15921,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 35941,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "We wanted to see if there were detectable changes in parasite genetic structure and infection complexity consistent with a decrease in malaria transmission.",
+            "startOffset": 35785,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17308,
+            "parents": [],
+            "refoffsets": {
+                "bib0005": {
+                    "endOffset": 17306,
+                    "startOffset": 17201
+                },
+                "bib0020": {
+                    "endOffset": 17306,
+                    "startOffset": 17201
+                },
+                "bib0030": {
+                    "endOffset": 17306,
+                    "startOffset": 17201
+                },
+                "bib0105": {
+                    "endOffset": 17306,
+                    "startOffset": 17201
+                },
+                "bib0175": {
+                    "endOffset": 17306,
+                    "startOffset": 17201
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Previous studies have demonstrated a strong correlation between malaria transmission intensity, genotypic complexity of infections and parasite genetic structure (Conway et al., 1999; Anderson et al., 2000; Zhong et al., 2007; Daniels et al., 2013; Nkhoma et al., 2013).",
+            "startOffset": 17038,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24263,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "We identified multiple-genotype infections by examining the number of heterozygous SNPs in each infection genotyped.",
+            "startOffset": 24147,
+            "title": "Identification of multiple-genotype infections"
+        },
+        {
+            "endOffset": 26480,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "This was achieved by calculating the percentage of patients infected with identical parasite genotypes amongst the single-genotype infections that we had identified.",
+            "startOffset": 26315,
+            "title": "Resolving relationships among parasite genotypes"
+        },
+        {
+            "endOffset": 43419,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "This would mean sampling at least 1000 infections per year in this setting.",
+            "startOffset": 43344,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 32860,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0070",
+            "sentence": "As expected, isogenic laboratory controls W2-8E and DD2 cluster together on the tree akin to closely related parasite clones isolated from a multiple-genotype infection sampled at Ndirande Health Centre in 2008.",
+            "startOffset": 32649,
+            "title": "Relationships among parasite infections"
+        },
+        {
+            "endOffset": 34692,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0080",
+            "sentence": "Similarly, the mean He for samples from both 2006 and 2007 was 0.38 \u00b1 0.15 compared with 0.37 \u00b1 0.16 in samples from both 2008 and 2012 (p = 0.58).",
+            "startOffset": 34545,
+            "title": "Lack of change in parasite genetic diversity"
+        },
+        {
+            "endOffset": 44647,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "In conclusion, results from this study indicate that the genetic structure of malaria parasites in Ndirande, Blantyre, has largely remained the same over 5 years despite the rapid scale up of malaria control interventions including the switch from SP to AL as the first-line treatment for malaria.",
+            "startOffset": 44350,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24477,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "Because human blood-stage malaria parasites are haploid, a single-genotype infection is expected to have only one allele at each SNP locus while a multiple-genotype infection is expected to carry multiple alleles.",
+            "startOffset": 24264,
+            "title": "Identification of multiple-genotype infections"
+        },
+        {
+            "endOffset": 19564,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "Ndirande Health Centre is the only public health facility in Ndirande Township, and serves a catchment area with a population of \u223c300,000 people.",
+            "startOffset": 19419,
+            "title": "Collection of malaria parasite samples"
+        },
+        {
+            "endOffset": 40234,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "This discrepancy may also be due to differences in the thresholds used for calling MIs.",
+            "startOffset": 40147,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21540,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "Samples from 2006 to 2008 were in the form of whole blood, and were extracted for parasite DNA using Qiagen DNA Mini Kits (Qiagen, UK).",
+            "startOffset": 21405,
+            "title": "Parasite DNA extraction"
+        },
+        {
+            "endOffset": 28123,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "We examined whether or not Ne had decreased following enhanced intervention.",
+            "startOffset": 28047,
+            "title": "Effective population size"
+        },
+        {
+            "endOffset": 20560,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "This sample size allows the detection of a 30% difference in the proportion of MIs before and after enhanced intervention with 80% power and 95% confidence assuming a pre-intervention prevalence of 78%.",
+            "startOffset": 20358,
+            "title": "Collection of malaria parasite samples"
+        },
+        {
+            "endOffset": 45175,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "It is most likely that serial transmission of MIs previously founded by superinfection predominates during early stages of transmission reduction.",
+            "startOffset": 45029,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 34168,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0075",
+            "sentence": "In contrast, the average number of heterozygous SNPs within MIs decreased significantly from 9 \u00b1 1 in 2006 to 7 \u00b1 1 in 2012 (p = 0.01).",
+            "startOffset": 34033,
+            "title": "Genetic composition of multiple-genotype infections"
+        },
+        {
+            "endOffset": 16216,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "This programme is being implemented with support from the Global Fund, the United States President's Malaria Initiative (PMI) and other cooperating partners.",
+            "startOffset": 16059,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 31154,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "Sample details and 24-SNP genotype data for parasite isolates analysed.",
+            "startOffset": 31083,
+            "title": "Data summary"
+        },
+        {
+            "endOffset": 17038,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Its potency against gametocytes could directly reduce malaria transmission in this setting, and lead to detectable changes in P. falciparum genetic structure.",
+            "startOffset": 16880,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 35497,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0090",
+            "sentence": "All the four measures of the variance effective population size showed no significant change (p > 0.05) over time (Table 2).",
+            "startOffset": 35373,
+            "title": "Lack of change in effective population size of P. falciparum"
+        },
+        {
+            "endOffset": 39564,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "It is possible that in areas of intense malaria transmission such as Malawi where MIs are extremely common, the proportion of MIs is less sensitive to intense malaria control efforts.",
+            "startOffset": 39381,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27067,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "In addition, we investigated whether or not there was significant genetic differentiation between parasites sampled before and after enhanced intervention.",
+            "startOffset": 26912,
+            "title": "Genetic diversity and population structure"
+        },
+        {
+            "endOffset": 36406,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "Poisson regression analysis revealed an average of 2% decline in parasite density per year (incidence rate ratio, IRR = 0.9847 [0.9841\u20130.9853] 95% CI; p < 0.001).",
+            "startOffset": 36244,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 43215,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "It is possible that not enough of the parasite population was sampled to allow accurate estimation of these parameters since our power calculations were based on detecting change in the proportion of MIs.",
+            "startOffset": 43011,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 15342,
+            "parents": [],
+            "refoffsets": {
+                "bib0015": {
+                    "endOffset": 15340,
+                    "startOffset": 15249
+                },
+                "bib0115": {
+                    "endOffset": 15340,
+                    "startOffset": 15249
+                },
+                "bib0165": {
+                    "endOffset": 15340,
+                    "startOffset": 15249
+                },
+                "bib0170": {
+                    "endOffset": 15340,
+                    "startOffset": 15249
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "This has led to significant reductions in the numbers of malaria cases and malaria-related deaths in several countries (Chizema-Kawesha et al., 2010; O\u2019meara et al., 2010; World Health Organization, 2013a, 2013b).",
+            "startOffset": 15129,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17668,
+            "parents": [],
+            "refoffsets": {
+                "bib0005": {
+                    "endOffset": 17666,
+                    "startOffset": 17604
+                },
+                "bib0020": {
+                    "endOffset": 17666,
+                    "startOffset": 17604
+                },
+                "bib0175": {
+                    "endOffset": 17666,
+                    "startOffset": 17604
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "In regions of intense transmission, Plasmodium falciparum exhibits a highly outbred population structure characterized by extensive outcrossing, high incidence of multiple-genotype infections (MIs), low levels of linkage disequilibrium, and a low prevalence of genetically identical infections (Conway et al., 1999; Anderson et al., 2000; Zhong et al., 2007).",
+            "startOffset": 17309,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20912,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "We did this to preclude parasite relatedness structure driven by similar host genetic background.",
+            "startOffset": 20815,
+            "title": "Collection of malaria parasite samples"
+        },
+        {
+            "endOffset": 34388,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0080",
+            "sentence": "We observed no significant temporal change in parasite genetic diversity as expressed by the expected heterozygosity index, He and the genotypic richness index, R (Table 1).",
+            "startOffset": 34215,
+            "title": "Lack of change in parasite genetic diversity"
+        },
+        {
+            "endOffset": 32282,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "Genetically identical infections are assigned the same number while genetically distinguishable infections are assigned unique numbers.",
+            "startOffset": 32147,
+            "title": "Data summary"
+        },
+        {
+            "endOffset": 25375,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "SNP data for multiple-genotype infections (MIs) were used to examine temporal changes in the proportion of MIs and the mean number of heterozygous SNPs within MIs.",
+            "startOffset": 25212,
+            "title": "Identification of multiple-genotype infections"
+        },
+        {
+            "endOffset": 33000,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0070",
+            "sentence": "Parasite clones deemed to be genetically identical using the 384-SNP GoldenGate assay shared alleles at all the 24 SNPs genotyped (Fig. 1).",
+            "startOffset": 32861,
+            "title": "Relationships among parasite infections"
+        },
+        {
+            "endOffset": 32442,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "Clonality denotes the genetic complexity of an infection i.e. whether the infection contains multiple parasite genotypes (M) or a single parasite genotype (S).",
+            "startOffset": 32283,
+            "title": "Data summary"
+        },
+        {
+            "endOffset": 31928,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib0085": {
+                    "endOffset": 31926,
+                    "startOffset": 31907
+                }
+            },
+            "secId": "sec0065",
+            "sentence": "SNP 24 on chromosome 14 position 000755729 of the P. falciparum genome, PlasmoDB version 5.0, was monomorphic in all parasite isolates analysed (allele frequency of the \u201cT\u201d allele = 0) just like in a previous study, which examined parasite genetic diversity in malaria parasite infections from Blantyre (Milner et al., 2012).",
+            "startOffset": 31603,
+            "title": "Data summary"
+        },
+        {
+            "endOffset": 30310,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "We successfully genotyped 295 out of 316 parasite infections sampled from children less than 5 years old presenting to Ndirande Health Centre with uncomplicated P. falciparum malaria before and after enhanced intervention.",
+            "startOffset": 30088,
+            "title": "Data summary"
+        },
+        {
+            "endOffset": 23439,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "Parasite DNA samples were amplified on the StepOne real-time PCR instrument (Applied Biosystems), followed by analysis of the results with Applied Biosystem's proprietary Allelic Discrimination software.",
+            "startOffset": 23236,
+            "title": "SNP genotyping"
+        },
+        {
+            "endOffset": 30065,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "All tests were implemented in STATA version 10.1 (College Station, TX, USA).",
+            "startOffset": 29989,
+            "title": "Statistical tests"
+        },
+        {
+            "endOffset": 18174,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "In addition, P. falciparum populations from low transmission regions show reduced levels of genetic diversity and low effective population sizes.",
+            "startOffset": 18029,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29158,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "The degree of genetic differentiation between temporally spaced samples was assessed using the Wilcoxon signed-rank test.",
+            "startOffset": 29037,
+            "title": "Statistical tests"
+        },
+        {
+            "endOffset": 35204,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0085",
+            "sentence": "There was no significant genetic differentiation between parasite samples collected in 2006 and 2012 (FST = 0.030 \u00b1 0.036), 2007 and 2012 (FST = 0.038 \u00b1 0.043), 2007 and 2008 (FST = \u22120.013 \u00b1 0.018), and between pooled samples from 2006 to 2007 compared with samples collected in 2008 and 2012 combined (FST = 0.008 \u00b1 0.015; p = 0.355).",
+            "startOffset": 34869,
+            "title": "Absence of temporal genetic differentiation and multilocus linkage disequilibrium"
+        },
+        {
+            "endOffset": 28019,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0105": {
+                    "endOffset": 28017,
+                    "startOffset": 27998
+                }
+            },
+            "secId": "sec0045",
+            "sentence": "IAS estimations were performed with and without identical parasite genotypes because we expect identical parasite genotypes to be the major source of LD in these infections (Nkhoma et al., 2013).",
+            "startOffset": 27824,
+            "title": "Multilocus linkage disequilibrium"
+        },
+        {
+            "endOffset": 29036,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "Figures in square brackets reported for the genotypic richness index and effective population size are 95% confidence intervals.",
+            "startOffset": 28908,
+            "title": "Statistical tests"
+        },
+        {
+            "endOffset": 33190,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib0110": {
+                    "endOffset": 33110,
+                    "startOffset": 33091
+                }
+            },
+            "secId": "sec0070",
+            "sentence": "In addition, parasite clones that differed at one SNP using the 384-SNP GoldenGate assay (Nkhoma et al., 2012) were found to differ at just one SNP using the 24-SNP molecular barcode assay.",
+            "startOffset": 33001,
+            "title": "Relationships among parasite infections"
+        },
+        {
+            "endOffset": 25211,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "SNP data for single-genotype infections were used to estimate SNP allele frequencies, and to measure temporal changes in P. falciparum genetic diversity indices (expected heterozygosity and genotypic richness), multilocus linkage disequilibrium, effective population size, proportion of identical parasite infections, and to examine if there was significant genetic differentiation between parasite samples collected before and after the intensification of malaria control efforts.",
+            "startOffset": 24730,
+            "title": "Identification of multiple-genotype infections"
+        },
+        {
+            "endOffset": 33569,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0070",
+            "sentence": "The proportion of patients infected with identical parasite genotypes remained the same between 2006 and 2012 (10% in 2006 vs 13% in 2012; p = 0.813).",
+            "startOffset": 33419,
+            "title": "Relationships among parasite infections"
+        },
+        {
+            "endOffset": 21095,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "However, when collecting malaria-infected blood samples in 2012, no special effort was made to avoid sampling members of the same household or serial sampling of the same individual.",
+            "startOffset": 20913,
+            "title": "Collection of malaria parasite samples"
+        },
+        {
+            "endOffset": 37396,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "Therefore, the observed decrease in the mean number of heterozygous SNPs suggests that MIs from 2008 and 2012, on average, contained fewer or significantly more related parasite genotypes than MIs from 2006 to 2007.",
+            "startOffset": 37181,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 42448,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "Why do these parameters not change?",
+            "startOffset": 42413,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16879,
+            "parents": [],
+            "refoffsets": {
+                "bib0120": {
+                    "endOffset": 16877,
+                    "startOffset": 16834
+                },
+                "bib0145": {
+                    "endOffset": 16877,
+                    "startOffset": 16834
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "We might expect to see significant reductions in malaria transmission partly because, unlike SP, which has weak activity against transmissible stages of the parasite (gametocytes), AL is highly active against both asexual parasites and gametocytes (Okell et al., 2008; Sutherland et al., 2005).",
+            "startOffset": 16585,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 35784,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "The primary goal of this study was to genotype P. falciparum malaria infections sampled from a single location in Malawi before and after enhanced intervention to examine if various population genetic parameters respond in a manner expected of declining parasite transmission.",
+            "startOffset": 35508,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 38010,
+            "parents": [],
+            "refoffsets": {
+                "bib0165": {
+                    "endOffset": 38008,
+                    "startOffset": 37976
+                }
+            },
+            "secId": "sec0095",
+            "sentence": "While there are no area-specific intervention coverage data, country-wide data indicate that household ownership of at least one ITN increased from 38% in 2006 to 55% in 2012 (World Health Organization, 2013a).",
+            "startOffset": 37800,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31259,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib0025": {
+                    "endOffset": 31257,
+                    "startOffset": 31237
+                }
+            },
+            "secId": "sec0065",
+            "sentence": "Each parasite isolate was genotyped at 24 SNPs using the molecular barcode assay (Daniels et al., 2008).",
+            "startOffset": 31155,
+            "title": "Data summary"
+        },
+        {
+            "endOffset": 18865,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "These observations support the practice of using parasite genetic measures as proxies for changes in malaria transmission following enhanced intervention.",
+            "startOffset": 18711,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20168,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "We employed a passive case detection system to identify children with uncomplicated P. falciparum malaria amongst children seeking care at the health centre.",
+            "startOffset": 20011,
+            "title": "Collection of malaria parasite samples"
+        },
+        {
+            "endOffset": 39758,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "The frequency of MIs takes much longer to decline following the intensification of control efforts, and is preceded by a significant decrease in the mean number of heterozygous SNPs within MIs.",
+            "startOffset": 39565,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30745,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "The rest were polymorphic with minor allele frequencies ranging from 0.03 to 0.50 (Supplementary information, Table S1).",
+            "startOffset": 30625,
+            "title": "Data summary"
+        },
+        {
+            "endOffset": 41612,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "Change in the mean number of heterozygous SNPs within multiple-genotype infections (MIs) is independent of the threshold used for calling MIs.",
+            "startOffset": 41470,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 38873,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "Our finding that the frequency of MIs, the proportion of patients infected with identical parasite genotypes, multilocus linkage disequilibrium and genotypic richness did not change significantly following enhanced intervention suggests no change in parasite selfing rate.",
+            "startOffset": 38601,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 40984,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "The lack of significant genetic differentiation between parasite populations sampled before and after enhanced intervention indicates that both populations were panmictic.",
+            "startOffset": 40813,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 46816,
+            "parents": [],
+            "secId": "sec0110",
+            "sentence": "Collection of 2012 samples was supported by the National Institutes of Health, USA through grant # 1U19AIO89683-01 to Professor Terrie Taylor and Dr Miriam Laufer.",
+            "startOffset": 46653,
+            "title": "Financial support"
+        },
+        {
+            "endOffset": 33922,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0075",
+            "sentence": "We observed subtle changes in the composition of multiple-genotype infections over the time frame observed (Fig. 2).",
+            "startOffset": 33806,
+            "title": "Genetic composition of multiple-genotype infections"
+        },
+        {
+            "endOffset": 18028,
+            "parents": [],
+            "refoffsets": {
+                "bib0005": {
+                    "endOffset": 18026,
+                    "startOffset": 17964
+                },
+                "bib0020": {
+                    "endOffset": 18026,
+                    "startOffset": 17964
+                },
+                "bib0175": {
+                    "endOffset": 18026,
+                    "startOffset": 17964
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "In contrast, in low transmission regions, P. falciparum shows a predominantly clonal (inbred) population structure characterized by high levels of self-fertilization, limited recombination, few MIs, high levels of linkage disequilibrium and a high incidence of genetically identical infections (Conway et al., 1999; Anderson et al., 2000; Zhong et al., 2007).",
+            "startOffset": 17669,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 46015,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "Therefore, continued surveillance using epidemiological, entomological and population genetic approaches will be required to evaluate the impact of control interventions on malaria transmission in the study area and the rest of Malawi, and to better target malaria control interventions.",
+            "startOffset": 45728,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20010,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "To our knowledge, the population in this area does not have easy access to other drugs, and AL is available through prescription only.",
+            "startOffset": 19876,
+            "title": "Collection of malaria parasite samples"
+        },
+        {
+            "endOffset": 23036,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "To perform the assay, a master mix consisting of 2.95 \u03bcl of commercial grade nuclease-free water, 0.05 \u03bcl of the 40x Taqman SNP assay and 5 \u03bcl of the TaqMan Universal PCR Master Mix (Applied Biosystems Catalogue # 4364343) per reaction was added to each well of a 96-well real-time PCR plate (Applied Biosystems Catalogue # 4346906) pre-loaded with 2 \u03bcl (10 ng) of each parasite DNA sample.",
+            "startOffset": 22646,
+            "title": "SNP genotyping"
+        },
+        {
+            "endOffset": 24729,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "However, in this study, we used a minimum of two heterozygous SNPs as a threshold for classifying MIs because one random SNP out of the 24 SNPs genotyped was occasionally wrongly scored as heterozygous even in well-characterised monoclonal infections.",
+            "startOffset": 24478,
+            "title": "Identification of multiple-genotype infections"
+        },
+        {
+            "endOffset": 31401,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "The name of each SNP consists of the chromosome on which it is found and its position on the chromosome as annotated in PlasmoDB version 5.0.",
+            "startOffset": 31260,
+            "title": "Data summary"
+        },
+        {
+            "endOffset": 42830,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "Therefore, we may have failed to detect changes in Ne and He because the drop in transmission is not large enough or has not been sustained for long enough to significantly alter Ne and He.",
+            "startOffset": 42641,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20357,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "At least 46 malaria-infected blood samples were sampled per year.",
+            "startOffset": 20292,
+            "title": "Collection of malaria parasite samples"
+        },
+        {
+            "endOffset": 37180,
+            "parents": [],
+            "refoffsets": {
+                "bib0105": {
+                    "endOffset": 37178,
+                    "startOffset": 37159
+                }
+            },
+            "secId": "sec0095",
+            "sentence": "The mean number of heterozygous SNPs within MIs can provide an indirect measure of the number or relatedness of parasite genotypes within MIs (Nkhoma et al., 2013).",
+            "startOffset": 37016,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18377,
+            "parents": [],
+            "refoffsets": {
+                "bib0030": {
+                    "endOffset": 18375,
+                    "startOffset": 18334
+                },
+                "bib0105": {
+                    "endOffset": 18375,
+                    "startOffset": 18334
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Most of these patterns are also observed in longitudinal studies of malaria parasites in areas where transmission is declining due to intense control efforts (Daniels et al., 2013; Nkhoma et al., 2013).",
+            "startOffset": 18175,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20291,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "No special effort was made to find unsuspected or asymptomatic disease in the community where the enrolled children lived.",
+            "startOffset": 20169,
+            "title": "Collection of malaria parasite samples"
+        },
+        {
+            "endOffset": 29289,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "The Kruskal\u2013Wallis rank-sum test was used to examine whether or not there was significant variation in parasite density over time.",
+            "startOffset": 29159,
+            "title": "Statistical tests"
+        },
+        {
+            "endOffset": 23597,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "Where the software did not give genotype calls directly, we made allele calls manually by examining both the amplification plot and the multi-component plot.",
+            "startOffset": 23440,
+            "title": "SNP genotyping"
+        },
+        {
+            "endOffset": 32488,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "N/A = not applicable and ND = not determined.",
+            "startOffset": 32443,
+            "title": "Data summary"
+        },
+        {
+            "endOffset": 45727,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "The lack of change in key population genetic parameters including He and Ne indicates that only subtle gains, if any, have been made in reducing transmission.",
+            "startOffset": 45569,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 37509,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "This decrease most likely arose from serial transmission of MIs between human hosts due to reduced transmission.",
+            "startOffset": 37397,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31989,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "Genotyping controls are shown in rows with red highlighting.",
+            "startOffset": 31929,
+            "title": "Data summary"
+        },
+        {
+            "endOffset": 18710,
+            "parents": [],
+            "refoffsets": {
+                "bib0030": {
+                    "endOffset": 18708,
+                    "startOffset": 18667
+                },
+                "bib0105": {
+                    "endOffset": 18708,
+                    "startOffset": 18667
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "In such areas, the incidence of MIs wanes, the proportion of patients bearing identical parasite genotypes increases, multilocus linkage disequilibrium increases and the mean number of heterozygous SNPs within MIs (an indirect measure of the genotypic complexity of infections) decreases (Daniels et al., 2013; Nkhoma et al., 2013).",
+            "startOffset": 18378,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 33418,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0070",
+            "sentence": "While most genotypes were detected only once, five (7%) were sampled multiple times.",
+            "startOffset": 33334,
+            "title": "Relationships among parasite infections"
+        },
+        {
+            "endOffset": 27550,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "We compared multilocus LD in parasite infections collected in 2006, 2007, 2008 and 2012 to seek evidence of increased LD over time.",
+            "startOffset": 27419,
+            "title": "Multilocus linkage disequilibrium"
+        },
+        {
+            "endOffset": 22336,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0025": {
+                    "endOffset": 22293,
+                    "startOffset": 22273
+                }
+            },
+            "secId": "sec0025",
+            "sentence": "The names and positions of SNPs genotyped were as described in the original methodology paper (Daniels et al., 2008) and as annotated in PlasmoDB version 5.0.",
+            "startOffset": 22178,
+            "title": "SNP genotyping"
+        },
+        {
+            "endOffset": 30400,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "Summary statistics for parasite sampling and basic genetic data are presented in Table 1.",
+            "startOffset": 30311,
+            "title": "Data summary"
+        },
+        {
+            "endOffset": 28712,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0105": {
+                    "endOffset": 28665,
+                    "startOffset": 28646
+                }
+            },
+            "secId": "sec0050",
+            "sentence": "When estimating Ne, we assumed that P. falciparum has a generation time of 2 months (Nkhoma et al., 2013), and we allowed a maximum Ne value of 10,000.",
+            "startOffset": 28561,
+            "title": "Effective population size"
+        },
+        {
+            "endOffset": 28560,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0035": {
+                    "endOffset": 28558,
+                    "startOffset": 28543
+                },
+                "bib0075": {
+                    "endOffset": 28506,
+                    "startOffset": 28485
+                },
+                "bib0100": {
+                    "endOffset": 28443,
+                    "startOffset": 28423
+                },
+                "bib0135": {
+                    "endOffset": 28466,
+                    "startOffset": 28454
+                },
+                "bib0150": {
+                    "endOffset": 28367,
+                    "startOffset": 28357
+                }
+            },
+            "secId": "sec0050",
+            "sentence": "NeV was estimated using the pseudo-maximum likelihood method implemented in the programme, MLNE v. 1547 (Wang, 2001) and the moments-based temporal methods of Nei/Tajima (Nei and Tajima, 1981), Pollak (Pollak, 1983) and Jorde/Ryman (Jorde and Ryman, 2007) implemented in NeEstimator v. 2.0 (Do et al., 2013).",
+            "startOffset": 28252,
+            "title": "Effective population size"
+        },
+        {
+            "endOffset": 30922,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "Of the 295 parasite infections that we successfully genotyped, 217 were classified as multiple-genotype infections (MIs) while the remaining 78 were single-genotype infections.",
+            "startOffset": 30746,
+            "title": "Data summary"
+        },
+        {
+            "endOffset": 35310,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0085",
+            "sentence": "Similarly, there was no significant multilocus linkage disequilibrium (p > 0.05) in all temporal samples.",
+            "startOffset": 35205,
+            "title": "Absence of temporal genetic differentiation and multilocus linkage disequilibrium"
+        },
+        {
+            "endOffset": 42640,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "It is well known that in order to have a substantial effect on He, a bottleneck must be either narrow (very low Ne for a few generations) or very prolonged (moderate Ne for many generations).",
+            "startOffset": 42449,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19091,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "The central goal of this study was to examine P. falciparum genetic structure at a single location in Malawi over time to identify changes which might correspond to the effects of various interventions on malaria transmission.",
+            "startOffset": 18865,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 41101,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "Two reasons might explain the lack of change in most population genetic parameters despite enhanced control efforts.",
+            "startOffset": 40985,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 36756,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "The only variable associated with a reduction in the number of heterozygous SNPs within MIs is the year of sampling.",
+            "startOffset": 36640,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 44350,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "We suggest that changes in Ne based on allele frequency variance may only be detectable and informative in parasite populations at pre-elimination and elimination stages: malaria transmission in Malawi is still too high and robust to be impacted in terms of this variable.",
+            "startOffset": 44078,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28251,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "We used fluctuations in SNP allele frequencies between adjacent years to estimate the variance effective population size (NeV).",
+            "startOffset": 28124,
+            "title": "Effective population size"
+        },
+        {
+            "endOffset": 37015,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "The lack of association between the number of heterozygous SNPs within infections and parasite density suggests that the observed temporal decrease in the mean number of heterozygous SNPs within MIs was not simply a result of sampling low density infections.",
+            "startOffset": 36757,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 34785,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0080",
+            "sentence": "Similarly, R was 0.95 [0.74\u20131.00] in 2006 compared with 0.93 [0.68\u20131.00] in 2012 (p = 0.81).",
+            "startOffset": 34693,
+            "title": "Lack of change in parasite genetic diversity"
+        },
+        {
+            "endOffset": 39089,
+            "parents": [],
+            "refoffsets": {
+                "bib0010": {
+                    "endOffset": 39087,
+                    "startOffset": 39020
+                },
+                "bib0125": {
+                    "endOffset": 39087,
+                    "startOffset": 39020
+                },
+                "bib0140": {
+                    "endOffset": 39087,
+                    "startOffset": 39020
+                }
+            },
+            "secId": "sec0095",
+            "sentence": "It points to very little or no reduction in malaria transmission in this area, and is consistent with some of the available epidemiological data (Roca-Feltrer et al., 2012; Bennett et al., 2013; Okiro et al., 2013).",
+            "startOffset": 38874,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 40411,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "In this study, infections with \u22652 heterozygous SNPs were classified as MIs while in the Milner et al. study, infections were classified as MIs if they had \u22654 heterozygous SNPs.",
+            "startOffset": 40235,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 44907,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "We conclude that any reduction in malaria transmission left most population genetic parameters unchanged.",
+            "startOffset": 44802,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 33333,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0070",
+            "sentence": "Using the molecular barcode assay, we identified 73 parasite genotypes infecting at least one patient over the whole sampling period (Fig. 1).",
+            "startOffset": 33191,
+            "title": "Relationships among parasite infections"
+        },
+        {
+            "endOffset": 40146,
+            "parents": [],
+            "refoffsets": {
+                "bib0085": {
+                    "endOffset": 40116,
+                    "startOffset": 40097
+                }
+            },
+            "secId": "sec0095",
+            "sentence": "This may be due to the fact that most of the infections analysed in the previous study were severe; these tend to be genotypically less complex than the uncomplicated malaria infections (Milner et al., 2012) characterized in this study.",
+            "startOffset": 39910,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 43734,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "The population size would need to drop by several orders of magnitude before any short term effect on He and Ne is detectable.",
+            "startOffset": 43608,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26707,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0040": {
+                    "endOffset": 26589,
+                    "startOffset": 26566
+                },
+                "bib0095": {
+                    "endOffset": 26646,
+                    "startOffset": 26637
+                }
+            },
+            "secId": "sec0040",
+            "sentence": "We used the genotypic richness index, R (Dorken and Eckert, 2001) and Nei's expected heterozygosity (He) index (Nei, 1978) to examine changes in parasite genetic diversity over time.",
+            "startOffset": 26525,
+            "title": "Genetic diversity and population structure"
+        },
+        {
+            "endOffset": 30624,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "Out of the 24 SNPs genotyped, only the G/T SNP on chromosome 14 at position 00755729 of the P. falciparum genome (PlasmoDB version 5.0) was monomorphic in all the four temporal samples (Supplementary information, Table S1).",
+            "startOffset": 30401,
+            "title": "Data summary"
+        },
+        {
+            "endOffset": 40812,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "Nevertheless, regardless of the thresholds used for calling MIs, the mean number of heterozygous SNPs within MIs was found to decrease significantly over time (Supplementary information, Fig. S1).",
+            "startOffset": 40616,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 36639,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "However, univariate negative binomial regression analysis revealed that the number of heterozygous SNPs within MIs was not associated with parasite density (p = 0.062), season (p = 0.056), patient age (p = 0.903) or sex (p = 0.979).",
+            "startOffset": 36407,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 38455,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "Our finding that only the mean number of heterozygous SNPs within MIs showed significant change over time suggests that compared with other genetic parameters examined, this measure has a relatively high sensitivity and can detect minor reductions in transmission intensity.",
+            "startOffset": 38181,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24098,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0110": {
+                    "endOffset": 24096,
+                    "startOffset": 24077
+                }
+            },
+            "secId": "sec0025",
+            "sentence": "These clones were previously genotyped using a custom-made 384-SNP GoldenGate assay, and shown to be either closely related (differing only at a few of the 316 successfully genotyped SNPs) or genetically identical (sharing alleles at all the 316 successfully genotyped SNPs) (Nkhoma et al., 2012).",
+            "startOffset": 23801,
+            "title": "SNP genotyping"
+        },
+        {
+            "endOffset": 23235,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "The concentration of parasite DNA in the template was standardized across all samples to avoid the potential technical bias of scoring more heterozygous loci in samples with high parasite densities.",
+            "startOffset": 23037,
+            "title": "SNP genotyping"
+        },
+        {
+            "endOffset": 29643,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "In addition, we used univariate negative binomial regression to examine associations between the number of heterozygous SNPs within MIs and each of the following covariates: log-transformed parasite density, patient age, sex, season and year of sampling.",
+            "startOffset": 29389,
+            "title": "Statistical tests"
+        },
+        {
+            "endOffset": 38601,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "This measure may be far more informative in high transmission areas undergoing a transition to low transmission than in low transmission regions.",
+            "startOffset": 38456,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29881,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "Negative binomial regression was preferred over Poisson regression wherever there was over-dispersion with the Poisson model (i.e. the variance in the mean number of heterozygous SNPs within MIs being substantially higher than the mean).",
+            "startOffset": 29644,
+            "title": "Statistical tests"
+        },
+        {
+            "endOffset": 45568,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "The fact that only the mean number of heterozygous SNPs in MIs shows change suggests that this parameter has a higher sensitivity than other metrics for monitoring changes in transmission levels, and can detect minor reductions in malaria transmission intensity.",
+            "startOffset": 45306,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 15920,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Since 2007, the Malawi government has been implementing a comprehensive malaria control programme involving indoor residual spraying in seven targeted districts (excluding Blantyre), switch from targeted use of insecticide-treated bed nets (ITNs) as a means of preventing malaria among children and pregnant women attending EPI (Expanded Programme on Immunization) and antenatal clinics to universal ITN coverage, and change from sulphadoxine-pyrimethamine (SP) to an artemisinin-based combination therapy, artemether-lumefantrine (AL), as the first-line treatment for malaria.",
+            "startOffset": 15343,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21680,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "Samples from 2012 were in the form of filter paper blood spots and were extracted using a two-step protocol to maximize parasite DNA yield.",
+            "startOffset": 21541,
+            "title": "Parasite DNA extraction"
+        },
+        {
+            "endOffset": 44077,
+            "parents": [],
+            "refoffsets": {
+                "bib0090": {
+                    "endOffset": 44075,
+                    "startOffset": 44062
+                }
+            },
+            "secId": "sec0095",
+            "sentence": "The Ne metric is very sensitive to Ne decreasing from 10 to 1 or 100 to 10 but detecting the change from 10,000 to 1000 or even 1000 down to 100, is very difficult (Neafsey, 2013).",
+            "startOffset": 43897,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16584,
+            "parents": [],
+            "refoffsets": {
+                "bib0010": {
+                    "endOffset": 16582,
+                    "startOffset": 16515
+                },
+                "bib0050": {
+                    "endOffset": 16489,
+                    "startOffset": 16415
+                },
+                "bib0080": {
+                    "endOffset": 16489,
+                    "startOffset": 16415
+                },
+                "bib0125": {
+                    "endOffset": 16582,
+                    "startOffset": 16515
+                },
+                "bib0140": {
+                    "endOffset": 16582,
+                    "startOffset": 16515
+                },
+                "bib0165": {
+                    "endOffset": 16489,
+                    "startOffset": 16415
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "While some reports indicate a significant decrease in malaria burden in response to enhanced intervention in Malawi (Feng et al., 2010; Mathanga et al., 2005; World Health Organization, 2013a), others show no effect (Roca-Feltrer et al., 2012; Bennett et al., 2013; Okiro et al., 2013).",
+            "startOffset": 16298,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26314,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "We examined the proportion of patients infected with identical parasite genotypes over time to infer changes in self-fertilization rates in this parasite population.",
+            "startOffset": 26149,
+            "title": "Resolving relationships among parasite genotypes"
+        },
+        {
+            "endOffset": 29988,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "This is because in such a case, negative binomial regression provides a better fit than the Poisson model.",
+            "startOffset": 29882,
+            "title": "Statistical tests"
+        },
+        {
+            "endOffset": 46652,
+            "parents": [],
+            "secId": "sec0110",
+            "sentence": "This study was supported by a Research Initiative Award (grant # IA10) from the Malaria Capacity Development Consortium (MCDC) and a Wellcome Trust Intermediate Fellowship in Tropical Medicine and Public Health (grant # 099992/Z/12/Z) to Dr Standwell Nkhoma.",
+            "startOffset": 46394,
+            "title": "Financial support"
+        },
+        {
+            "endOffset": 31602,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "Figures highlighted in green are minor allele frequencies as estimated from single-genotype infections only.",
+            "startOffset": 31494,
+            "title": "Data summary"
+        },
+        {
+            "endOffset": 36243,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "This change was accompanied by significant variation in parasite density over time (Kruskal\u2013Wallis rank-sum test: \u03c72 = 13.364, p = 0.004).",
+            "startOffset": 36105,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20814,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "During the sampling of 2006\u20132008 infections, we avoided sampling members of the same household and serial sampling of the same person by carefully matching records of patients already enrolled into the study with those of prospective study participants.",
+            "startOffset": 20561,
+            "title": "Collection of malaria parasite samples"
+        },
+        {
+            "endOffset": 21985,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "The concentration of parasite DNA in each sample was determined using the NanoDrop 1000 Spectrophotometer.",
+            "startOffset": 21879,
+            "title": "Parasite DNA extraction"
+        },
+        {
+            "endOffset": 27242,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "We did this to examine whether or not the parasite population had become more subdivided due to the pronounced effect of genetic drift and migration in declining populations.",
+            "startOffset": 27068,
+            "title": "Genetic diversity and population structure"
+        },
+        {
+            "endOffset": 41311,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "It is also possible that our study lacks the power to detect a change in transmission.",
+            "startOffset": 41225,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 46377,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "Targeted interventions could be deployed in such areas to dramatically reduce parasite genetic diversity and prevent resurgence of malaria.",
+            "startOffset": 46238,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31493,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "Letters \u201cA\u201d, \u201cC\u201d, \u201cG\u201d or \u201cT\u201d highlighted in yellow below SNP names represent minor alleles.",
+            "startOffset": 31402,
+            "title": "Data summary"
+        },
+        {
+            "endOffset": 38180,
+            "parents": [],
+            "refoffsets": {
+                "bib0165": {
+                    "endOffset": 38178,
+                    "startOffset": 38146
+                }
+            },
+            "secId": "sec0095",
+            "sentence": "Similarly, the proportion of children who slept under an ITN the night preceding the survey increased from 25% in 2006 to 55% in 2012 (World Health Organization, 2013a).",
+            "startOffset": 38011,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 41449,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "Supplementary Fig. S1 related to this article can be found, in the online version, at http://dx.doi.org/10.1016/j.actatropica.2014.11.008.",
+            "startOffset": 41311,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19418,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "Malaria-infected blood samples were collected from 316 children less than 5 years old presenting to Ndirande Health Centre in Blantyre with uncomplicated P. falciparum malaria before (2006 and 2007) and after (2008 and 2012) the intensification of control efforts.",
+            "startOffset": 19154,
+            "title": "Collection of malaria parasite samples"
+        },
+        {
+            "endOffset": 25807,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0045": {
+                    "endOffset": 25805,
+                    "startOffset": 25788
+                }
+            },
+            "secId": "sec0035",
+            "sentence": "We computed the proportion of SNP alleles shared (ps) between all pairwise comparisons of single-genotype infections and clustered infections on the UPGMA tree based on the genetic distance metric, 1-ps, using PHYLIP (Felsenstein, 1993).",
+            "startOffset": 25570,
+            "title": "Resolving relationships among parasite genotypes"
+        },
+        {
+            "endOffset": 22177,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0025": {
+                    "endOffset": 22175,
+                    "startOffset": 22155
+                }
+            },
+            "secId": "sec0025",
+            "sentence": "We genotyped all parasite infections at 24 polymorphic single nucleotide polymorphisms (SNPs) using the molecular barcode assay as described previously (Daniels et al., 2008).",
+            "startOffset": 22002,
+            "title": "SNP genotyping"
+        },
+        {
+            "endOffset": 27823,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0070": {
+                    "endOffset": 27821,
+                    "startOffset": 27797
+                }
+            },
+            "secId": "sec0045",
+            "sentence": "Multilocus LD was measured using the statistic IAS (standardized index of association), which compares the observed variance in the numbers of alleles shared between parasites with that expected when parasites share no alleles at different loci (Haubold and Hudson, 2000).",
+            "startOffset": 27551,
+            "title": "Multilocus linkage disequilibrium"
+        },
+        {
+            "endOffset": 34032,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0075",
+            "sentence": "The incidence of MIs decreased non-significantly from 0.76 \u00b1 0.42 in 2006 to 0.68 \u00b1 0.47 in 2012 (p = 0.823).",
+            "startOffset": 33923,
+            "title": "Genetic composition of multiple-genotype infections"
+        },
+        {
+            "endOffset": 26148,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "Identical parasite genotypes arise when a clonal parasite lineage passes through mosquitoes unchanged due to self-fertilization and is repeatedly sampled from multiple human hosts.",
+            "startOffset": 25968,
+            "title": "Resolving relationships among parasite genotypes"
+        },
+        {
+            "endOffset": 28907,
+            "parents": [
+                {
+                    "id": "sec0105",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "Means and proportions are reported as the mean \u00b1 standard deviation.",
+            "startOffset": 28839,
+            "title": "Statistical tests"
+        },
+        {
+            "endOffset": 42142,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "Regardless of whether \u22651, \u22652 or \u22654 heterozygous SNPs were used as the cut-off for defining multiple-genotype infections (MIs), the mean number of heterozygous SNPs within MIs was found to decrease significantly over time (p < 0.05).",
+            "startOffset": 41910,
+            "title": "Discussion"
+        }
+    ],
+    "docId": "S0001706X14003763",
+    "metadata": {
+        "asjc": [
+            "1109",
+            "2405",
+            "2725",
+            "3401"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Tamika J.",
+                "initial": "T.J.",
+                "last": "Sisya"
+            },
+            {
+                "email": null,
+                "first": "Raphael M.",
+                "initial": "R.M.",
+                "last": "Kamn'gona"
+            },
+            {
+                "email": null,
+                "first": "Jimmy A.",
+                "initial": "J.A.",
+                "last": "Vareta"
+            },
+            {
+                "email": null,
+                "first": "Joseph M.",
+                "initial": "J.M.",
+                "last": "Fulakeza"
+            },
+            {
+                "email": null,
+                "first": "Mavuto F.J.",
+                "initial": "M.F.J.",
+                "last": "Mukaka"
+            },
+            {
+                "email": null,
+                "first": "Karl B.",
+                "initial": "K.B.",
+                "last": "Seydel"
+            },
+            {
+                "email": null,
+                "first": "Miriam K.",
+                "initial": "M.K.",
+                "last": "Laufer"
+            },
+            {
+                "email": null,
+                "first": "Terrie E.",
+                "initial": "T.E.",
+                "last": "Taylor"
+            },
+            {
+                "email": "snkhoma@mlw.medcol.mw",
+                "first": "Standwell C.",
+                "initial": "S.C.",
+                "last": "Nkhoma"
+            }
+        ],
+        "doi": "10.1016/j.actatropica.2014.11.008",
+        "firstpage": "108",
+        "issn": "0001706X",
+        "keywords": [
+            "Effective population size",
+            "Genetic differentiation",
+            "Genetic diversity",
+            "Malaria control interventions",
+            "Multiple-genotype infections",
+            "Plasmodium falciparum"
+        ],
+        "lastpage": "114",
+        "openaccess": "Full",
+        "pub_year": 2015,
+        "subjareas": [
+            "AGRI",
+            "IMMU",
+            "MEDI",
+            "VETE"
+        ],
+        "title": "Subtle changes in Plasmodium falciparum infection complexity following enhanced intervention in Malawi"
+    }
+}

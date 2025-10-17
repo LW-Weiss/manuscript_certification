@@ -1,0 +1,5009 @@
+{
+    "abstract": "Background Taenia solium infections are mostly endemic in less developed countries where poor hygiene conditions and free-range pig management favor their transmission. Knowledge on patterns of infections in both human and pig is crucial to design effective control strategies. The aim of this study was to assess the prevalence, risk factors and spatial distribution of taeniasis in a rural area of the Democratic Republic of Congo (DRC), in the prospect of upcoming control activities. Methods A cross-sectional study was conducted in 24 villages of the health zone of Kimpese, Bas Congo Province. Individual and household characteristics, including geographical coordinates were recorded. Stool samples were collected from willing participants and analyzed using the copro-antigen enzyme-linked immunosorbent assay (copro-Ag ELISA) for the detection of taeniasis. Blood samples were collected from pigs and analyzed using the B158/B60 monoclonal antibody-based antigen ELISA (sero-Ag ELISA) to detect porcine cysticercosis. Logistic regression and multilevel analysis were applied to identify risk factors. Global clustering and spatial correlation of taeniasis and porcine cysticercosis were assessed using K functions. Local clusters of both infections were identified using the Kulldorff's scan statistic. Results A total of 4751 participants above 5 years of age (median: 23 years; IQR: 11\u201341) were included. The overall proportion of taeniasis positivity was 23.4% (95% CI: 22.2\u201324.6), ranging from 1 to 60% between villages, with a significant between-household variance of 2.43 (SE\u00a0=\u00a00.29, p\u00a0<\u00a00.05). Taeniasis was significantly associated with age (p\u00a0<\u00a00.05) and the highest positivity was found in the 5\u201310 years age group (27.0% (95% CI: 24.4\u201329.7)). Overall, 45.6% (95% CI: 40.2\u201351) of sampled pigs were sero-positive. The K functions revealed a significant overall clustering of human and pig infections but no spatial dependence between them. Two significant clusters of taeniasis (p<0.001; n\u00a0=\u00a0276 and n\u00a0=\u00a09) and one cluster of porcine cysticercosis (p<0.001; n\u00a0=\u00a024) were found. Conclusion This study confirms high endemicity and geographical dispersal of taeniasis in the study area. The role of age in taeniasis patterns and significant spatial clusters of both taeniasis and porcine cysticercosis were evidenced, though no spatial correlation was found between human and pig infections. Urgent control activities are needed for this endemic area.",
+    "author_highlights": [
+        {
+            "endOffset": 16857,
+            "sentence": "We assessed patterns of taeniasis in 24 village communities of Kimpese health zone.",
+            "startOffset": 16774
+        },
+        {
+            "endOffset": 16939,
+            "sentence": "Prevalence of taeniasis was very high and varied between households and villages.",
+            "startOffset": 16858
+        },
+        {
+            "endOffset": 17003,
+            "sentence": "Children of five to ten years were the most infected age group.",
+            "startOffset": 16940
+        },
+        {
+            "endOffset": 17070,
+            "sentence": "Taeniasis was not spatially correlated with porcine cysticercosis.",
+            "startOffset": 17004
+        }
+    ],
+    "bib_entries": {
+        "bib0005": {
+            "authors": [
+                {
+                    "first": "Anita",
+                    "initial": "A.",
+                    "last": "Ale"
+                },
+                {
+                    "first": "Bjorn",
+                    "initial": "B.",
+                    "last": "Victor"
+                },
+                {
+                    "first": "Nicolas",
+                    "initial": "N.",
+                    "last": "Praet"
+                },
+                {
+                    "first": "Sarah",
+                    "initial": "S.",
+                    "last": "Gabri\u00ebl"
+                },
+                {
+                    "first": "Niko",
+                    "initial": "N.",
+                    "last": "Speybroeck"
+                },
+                {
+                    "first": "Pierre",
+                    "initial": "P.",
+                    "last": "Dorny"
+                },
+                {
+                    "first": "Brecht",
+                    "initial": "B.",
+                    "last": "Devleesschauwer"
+                }
+            ],
+            "doi": "10.1186/1756-3305-7-45",
+            "issn": "17563305",
+            "pmid": "24450957",
+            "pub_year": 2014,
+            "title": "Epidemiology and genetic diversity of Taenia asiatica: A systematic review",
+            "volume": "7"
+        },
+        "bib0010": {
+            "authors": [
+                {
+                    "first": "J. C.",
+                    "initial": "J.C.",
+                    "last": "Allan"
+                },
+                {
+                    "first": "P. S.",
+                    "initial": "P.S.",
+                    "last": "Craig"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Avila"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Flisser"
+                },
+                {
+                    "first": "J. Garcia",
+                    "initial": "J.G.",
+                    "last": "Noval"
+                }
+            ],
+            "doi": "10.1017/S0031182000060686",
+            "firstpage": "473",
+            "issn": "00311820",
+            "lastpage": "477",
+            "pmid": "2092303",
+            "pub_year": 1990,
+            "title": "Immunodiagnosis of taeniasis by coproantigen detection",
+            "volume": "101"
+        },
+        "bib0015": {
+            "authors": [
+                {
+                    "first": "J. C.",
+                    "initial": "J.C.",
+                    "last": "Allan"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Velasquez-Tohom"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Garcia-Noval"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Torres-Alvarez"
+                },
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Yurrita"
+                },
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Fletes"
+                },
+                {
+                    "first": "F.",
+                    "initial": "F.",
+                    "last": "De Mata"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "De Soto Alfaro"
+                },
+                {
+                    "first": "P. S.",
+                    "initial": "P.S.",
+                    "last": "Craig"
+                }
+            ],
+            "doi": "10.1080/00034983.1996.11813039",
+            "firstpage": "157",
+            "issn": "00034983",
+            "lastpage": "165",
+            "pmid": "8762405",
+            "pub_year": 1996,
+            "title": "Epidemiology of intestinal taeniasis in four, rural, Guatemalan communities",
+            "volume": "90"
+        },
+        "bib0020": {
+            "authors": [
+                {
+                    "first": "J. C.",
+                    "initial": "J.C.",
+                    "last": "Allan"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Velasquez-Tohom"
+                },
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Fletes"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Torres-Alvarez"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Lopez-Virula"
+                },
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Yurrita"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Soto De Alfaro"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Rivera"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Garcia-Noval"
+                }
+            ],
+            "doi": "10.1016/S0035-9203(97)90042-0",
+            "firstpage": "595",
+            "issn": "00359203",
+            "lastpage": "598",
+            "pmid": "9463679",
+            "pub_year": 1997,
+            "title": "Mass chemotherapy for intestinal Taenia solium infection: Effect on prevalence in humans and pigs",
+            "volume": "91"
+        },
+        "bib0025": {
+            "authors": [
+                {
+                    "first": "James C.",
+                    "initial": "J.C.",
+                    "last": "Allan"
+                },
+                {
+                    "first": "Patricia P.",
+                    "initial": "P.P.",
+                    "last": "Wilkins"
+                },
+                {
+                    "first": "Victor C.W.",
+                    "initial": "V.C.W.",
+                    "last": "Tsang"
+                },
+                {
+                    "first": "Philip S.",
+                    "initial": "P.S.",
+                    "last": "Craig"
+                }
+            ],
+            "doi": "10.1016/S0001-706X(03)00059-7",
+            "firstpage": "87",
+            "issn": "0001706X",
+            "lastpage": "93",
+            "pmid": "12781382",
+            "pub_year": 2003,
+            "title": "Immunodiagnostic tools for taeniasis",
+            "volume": "87"
+        },
+        "bib0030": null,
+        "bib0035": {
+            "authors": [
+                {
+                    "first": "Uffe Christian",
+                    "initial": "U.C.",
+                    "last": "Braae"
+                },
+                {
+                    "first": "Mwemezi",
+                    "initial": "M.",
+                    "last": "Kabululu"
+                },
+                {
+                    "first": "Michelle Elisabeth",
+                    "initial": "M.E.",
+                    "last": "N\u00f8rmark"
+                },
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Nejsum"
+                },
+                {
+                    "first": "Helena Aminel",
+                    "initial": "H.A.",
+                    "last": "Ngowi"
+                },
+                {
+                    "first": "Maria Vang",
+                    "initial": "M.V.",
+                    "last": "Johansen"
+                }
+            ],
+            "doi": "10.1007/s11250-015-0892-6",
+            "firstpage": "1523",
+            "issn": "00494747",
+            "lastpage": "1530",
+            "pmid": "26210397",
+            "pub_year": 2015,
+            "title": " Taenia hydatigena cysticercosis in slaughtered pigs, goats, and sheep in Tanzania",
+            "volume": "47"
+        },
+        "bib0040": {
+            "authors": [
+                {
+                    "first": "J. R.A.",
+                    "initial": "J.R.A.",
+                    "last": "Brandt"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Geerts"
+                },
+                {
+                    "first": "R. De",
+                    "initial": "R.D.",
+                    "last": "Deken"
+                },
+                {
+                    "first": "V.",
+                    "initial": "V.",
+                    "last": "Kumar"
+                },
+                {
+                    "first": "F.",
+                    "initial": "F.",
+                    "last": "Ceulemans"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Brijs"
+                },
+                {
+                    "first": "N.",
+                    "initial": "N.",
+                    "last": "Falla"
+                }
+            ],
+            "doi": "10.1016/0020-7519(92)90148-E",
+            "firstpage": "471",
+            "issn": "00207519",
+            "lastpage": "477",
+            "pmid": "1644522",
+            "pub_year": 1992,
+            "title": "A monoclonal antibody-based ELISA for the detection of circulating excretory-secretory antigens in Taenia saginata cysticercosis",
+            "volume": "22"
+        },
+        "bib0045": {
+            "authors": [
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Carabin"
+                },
+                {
+                    "first": "R. C.",
+                    "initial": "R.C.",
+                    "last": "Krecek"
+                },
+                {
+                    "first": "L. D.",
+                    "initial": "L.D.",
+                    "last": "Cowan"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Michael"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Foyaca-Sibat"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Nash"
+                },
+                {
+                    "first": "A. L.",
+                    "initial": "A.L.",
+                    "last": "Willingham"
+                }
+            ],
+            "doi": "10.1111/j.1365-3156.2006.01627.x",
+            "firstpage": "906",
+            "issn": "13602276",
+            "lastpage": "916",
+            "pmid": "16772013",
+            "pub_year": 2006,
+            "title": "Estimation of the cost of Taenia solium cysticercosis in Eastern Cape Province, South Africa",
+            "volume": "11"
+        },
+        "bib0050": {
+            "authors": [
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Chartier"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Bushu"
+                },
+                {
+                    "first": "U.",
+                    "initial": "U.",
+                    "last": "Anican"
+                }
+            ],
+            "firstpage": "491",
+            "issn": "00351865",
+            "lastpage": "497",
+            "pmid": "2132790",
+            "pub_year": 1990,
+            "title": "Characteristics of helminthic parasitism in cattle in Ituri (Haut-Zaire). II. Parasitic associations",
+            "volume": "43"
+        },
+        "bib0055": {
+            "authors": [
+                {
+                    "first": "F.",
+                    "initial": "F.",
+                    "last": "Copado"
+                },
+                {
+                    "first": "A. S.",
+                    "initial": "A.S.",
+                    "last": "De Aluja"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Mayagoitia"
+                },
+                {
+                    "first": "F.",
+                    "initial": "F.",
+                    "last": "Galindo"
+                }
+            ],
+            "doi": "10.1016/j.applanim.2004.03.013",
+            "firstpage": "243",
+            "issn": "01681591",
+            "lastpage": "252",
+            "pub_year": 2004,
+            "title": "The behaviour of free ranging pigs in the Mexican tropics and its relationships with human faeces consumption",
+            "volume": "88"
+        },
+        "bib0060": {
+            "authors": [
+                {
+                    "first": "F.",
+                    "initial": "F.",
+                    "last": "Diaz"
+                },
+                {
+                    "first": "H. H.",
+                    "initial": "H.H.",
+                    "last": "Garcia"
+                },
+                {
+                    "first": "R. H.",
+                    "initial": "R.H.",
+                    "last": "Gilman"
+                },
+                {
+                    "first": "A. E.",
+                    "initial": "A.E.",
+                    "last": "Gonzales"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Castro"
+                },
+                {
+                    "first": "V. C.W.",
+                    "initial": "V.C.W.",
+                    "last": "Tsang"
+                },
+                {
+                    "first": "J. B.",
+                    "initial": "J.B.",
+                    "last": "Pilcher"
+                },
+                {
+                    "first": "L. E.",
+                    "initial": "L.E.",
+                    "last": "Vasquez"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Lescano"
+                },
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Carcamo"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Madico"
+                },
+                {
+                    "first": "E.",
+                    "initial": "E.",
+                    "last": "Miranda"
+                }
+            ],
+            "doi": "10.1093/oxfordjournals.aje.a116383",
+            "firstpage": "875",
+            "issn": "00029262",
+            "lastpage": "882",
+            "pmid": "1585900",
+            "pub_year": 1992,
+            "title": "Epidemiology of taeniasis and cysticercosis in a Peruvian village",
+            "volume": "135"
+        },
+        "bib0065": null,
+        "bib0070": {
+            "authors": [
+                {
+                    "first": "Pierre",
+                    "initial": "P.",
+                    "last": "Dorny"
+                },
+                {
+                    "first": "Jef",
+                    "initial": "J.",
+                    "last": "Brandt"
+                },
+                {
+                    "first": "Stanny",
+                    "initial": "S.",
+                    "last": "Geerts"
+                },
+                {
+                    "first": "Akira",
+                    "initial": "A.",
+                    "last": "Ito"
+                },
+                {
+                    "first": "Philip S.",
+                    "initial": "P.S.",
+                    "last": "Craig"
+                }
+            ],
+            "doi": "10.1016/j.pt.2004.04.001",
+            "firstpage": "259",
+            "issn": "14714922",
+            "lastpage": "260",
+            "pmid": "15147673",
+            "pub_year": 2004,
+            "title": "Immunodiagnostic approaches for detecting Taenia solium [2] (multiple letters)",
+            "volume": "20"
+        },
+        "bib0075": {
+            "authors": [
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Dorny"
+                },
+                {
+                    "first": "I. K.",
+                    "initial": "I.K.",
+                    "last": "Phiri"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Vercruysse"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Gabriel"
+                },
+                {
+                    "first": "A. L.",
+                    "initial": "A.L.",
+                    "last": "Willingham"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Brandt"
+                },
+                {
+                    "first": "B.",
+                    "initial": "B.",
+                    "last": "Victor"
+                },
+                {
+                    "first": "N.",
+                    "initial": "N.",
+                    "last": "Speybroeck"
+                },
+                {
+                    "first": "D.",
+                    "initial": "D.",
+                    "last": "Berkvens"
+                }
+            ],
+            "doi": "10.1016/j.ijpara.2003.11.014",
+            "firstpage": "569",
+            "issn": "00207519",
+            "lastpage": "576",
+            "pmid": "15064121",
+            "pub_year": 2004,
+            "title": "A Bayesian approach for estimating values for prevalence and diagnostic test characteristics of porcine cysticercosis",
+            "volume": "34"
+        },
+        "bib0080": {
+            "authors": [
+                {
+                    "first": "J. P.",
+                    "initial": "J.P.",
+                    "last": "Fabiyi"
+                }
+            ],
+            "doi": "10.1017/S0022149X00005757",
+            "firstpage": "65",
+            "issn": "0022149X",
+            "lastpage": "71",
+            "pmid": "458133",
+            "pub_year": 1979,
+            "title": "Helminths of the pig on the Jos Plateau, Nigeria: Relative prevalence, abundance and economic significance",
+            "volume": "53"
+        },
+        "bib0085": {
+            "authors": [
+                {
+                    "first": "P. C.",
+                    "initial": "P.C.",
+                    "last": "Fan"
+                },
+                {
+                    "first": "W. C.",
+                    "initial": "W.C.",
+                    "last": "Chung"
+                }
+            ],
+            "firstpage": "647",
+            "issn": "1607551X",
+            "lastpage": "652",
+            "pmid": "9425862",
+            "pub_year": 1997,
+            "title": "Sociocultural factors and local customs related to taeniasis in east Asia.",
+            "volume": "13"
+        },
+        "bib0090": {
+            "authors": [
+                {
+                    "first": "Hector H.",
+                    "initial": "H.H.",
+                    "last": "Garc\u00eda"
+                },
+                {
+                    "first": "Oscar H.",
+                    "initial": "O.H.",
+                    "last": "Del Brutto"
+                }
+            ],
+            "firstpage": "1582",
+            "issn": "00283878",
+            "lastpage": "1584",
+            "pmid": "10534273",
+            "pub_year": 1999,
+            "title": "Heavy nonencephalitic cerebral cysticercosis in tapeworm carriers",
+            "volume": "53"
+        },
+        "bib0095": {
+            "authors": [
+                {
+                    "first": "H\u00e9ctor H.",
+                    "initial": "H.H.",
+                    "last": "Garc\u00eda"
+                },
+                {
+                    "first": "Robert H.",
+                    "initial": "R.H.",
+                    "last": "Gilman"
+                },
+                {
+                    "first": "Armando E.",
+                    "initial": "A.E.",
+                    "last": "Gonzalez"
+                },
+                {
+                    "first": "Manuela",
+                    "initial": "M.",
+                    "last": "Verastegui"
+                },
+                {
+                    "first": "Silvia",
+                    "initial": "S.",
+                    "last": "Rodriguez"
+                },
+                {
+                    "first": "Cesar",
+                    "initial": "C.",
+                    "last": "Gavidia"
+                },
+                {
+                    "first": "Victor C.W.",
+                    "initial": "V.C.W.",
+                    "last": "Tsang"
+                },
+                {
+                    "first": "Nestor",
+                    "initial": "N.",
+                    "last": "Falcon"
+                },
+                {
+                    "first": "Andres G.",
+                    "initial": "A.G.",
+                    "last": "Lescano"
+                },
+                {
+                    "first": "Lawrence H.",
+                    "initial": "L.H.",
+                    "last": "Moulton"
+                },
+                {
+                    "first": "Teresa",
+                    "initial": "T.",
+                    "last": "Bernal"
+                },
+                {
+                    "first": "Marco",
+                    "initial": "M.",
+                    "last": "Tovar"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Mayta"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Jimenez"
+                },
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Castillo"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Martinez"
+                },
+                {
+                    "first": "C. A.W.",
+                    "initial": "C.A.W.",
+                    "last": "Evans"
+                }
+            ],
+            "doi": "10.4269/ajtmh.2003.68.268",
+            "firstpage": "268",
+            "issn": "00029637",
+            "lastpage": "275",
+            "pmid": "12685628",
+            "pub_year": 2003,
+            "title": "Hyperendemic human and porcine Taenia solium infection in Per\u00fa",
+            "volume": "68"
+        },
+        "bib0100": {
+            "authors": [
+                {
+                    "first": "H\u00e9ctor H.",
+                    "initial": "H.H.",
+                    "last": "Garc\u00eda"
+                },
+                {
+                    "first": "Armando E.",
+                    "initial": "A.E.",
+                    "last": "Gonzalez"
+                },
+                {
+                    "first": "Carlton A.W.",
+                    "initial": "C.A.W.",
+                    "last": "Evans"
+                },
+                {
+                    "first": "Robert H.",
+                    "initial": "R.H.",
+                    "last": "Gilman"
+                }
+            ],
+            "doi": "10.1016/S0140-6736(03)14117-7",
+            "firstpage": "547",
+            "issn": "01406736",
+            "lastpage": "556",
+            "pmid": "12932389",
+            "pub_year": 2003,
+            "title": "Taenia solium cysticercosis",
+            "volume": "362"
+        },
+        "bib0105": {
+            "authors": [
+                {
+                    "first": "H\u00e9ctor H.",
+                    "initial": "H.H.",
+                    "last": "Garc\u00eda"
+                },
+                {
+                    "first": "Armando E.",
+                    "initial": "A.E.",
+                    "last": "Gonz\u00e1lez"
+                },
+                {
+                    "first": "Oscar H.",
+                    "initial": "O.H.",
+                    "last": "Del Brutto"
+                },
+                {
+                    "first": "Victor C.W.",
+                    "initial": "V.C.W.",
+                    "last": "Tsang"
+                },
+                {
+                    "first": "Fernando",
+                    "initial": "F.",
+                    "last": "Llanos-Zavalaga"
+                },
+                {
+                    "first": "Guillermo",
+                    "initial": "G.",
+                    "last": "Gonzalvez"
+                },
+                {
+                    "first": "Jaime",
+                    "initial": "J.",
+                    "last": "Romero"
+                },
+                {
+                    "first": "Robert H.",
+                    "initial": "R.H.",
+                    "last": "Gilman"
+                }
+            ],
+            "doi": "10.1016/j.jns.2007.06.039",
+            "firstpage": "153",
+            "issn": "0022510X",
+            "lastpage": "157",
+            "pmid": "17681546",
+            "pub_year": 2007,
+            "title": "Strategies for the elimination of taeniasis/cysticercosis",
+            "volume": "262"
+        },
+        "bib0110": {
+            "authors": [
+                {
+                    "first": "Jose",
+                    "initial": "J.",
+                    "last": "Garcia-Noval"
+                },
+                {
+                    "first": "James C.",
+                    "initial": "J.C.",
+                    "last": "Allan"
+                },
+                {
+                    "first": "Concha",
+                    "initial": "C.",
+                    "last": "Fletes"
+                },
+                {
+                    "first": "Eduardo",
+                    "initial": "E.",
+                    "last": "Moreno"
+                },
+                {
+                    "first": "Fredy",
+                    "initial": "F.",
+                    "last": "De Mata"
+                },
+                {
+                    "first": "Rodrigo",
+                    "initial": "R.",
+                    "last": "Torres-Alvarez"
+                },
+                {
+                    "first": "Hany Soto",
+                    "initial": "H.S.",
+                    "last": "De Alfaro"
+                },
+                {
+                    "first": "Pablo",
+                    "initial": "P.",
+                    "last": "Yurrita"
+                },
+                {
+                    "first": "Hector",
+                    "initial": "H.",
+                    "last": "Higueros-Morales"
+                },
+                {
+                    "first": "Felix",
+                    "initial": "F.",
+                    "last": "Mencos"
+                },
+                {
+                    "first": "Philip S.",
+                    "initial": "P.S.",
+                    "last": "Craig"
+                }
+            ],
+            "doi": "10.4269/ajtmh.1996.55.282",
+            "firstpage": "282",
+            "issn": "00029637",
+            "lastpage": "289",
+            "pmid": "8842116",
+            "pub_year": 1996,
+            "title": "Epidemiology of Taenia solium taeniasis and cysticercosis in two rural Guatemalan communities",
+            "volume": "55"
+        },
+        "bib0115": {
+            "authors": [
+                {
+                    "first": "R. H.",
+                    "initial": "R.H.",
+                    "last": "Gilman"
+                },
+                {
+                    "first": "Oscar H.",
+                    "initial": "O.H.",
+                    "last": "Del Brutto"
+                },
+                {
+                    "first": "H. H.",
+                    "initial": "H.H.",
+                    "last": "Garc\u00eda"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Mart\u00ednez"
+                }
+            ],
+            "doi": "10.1212/WNL.55.7.1062",
+            "firstpage": "1062",
+            "issn": "00283878",
+            "pmid": "11061275",
+            "pub_year": 2000,
+            "title": "Prevalence of taeniosis among patients with neurocysticercosis is related to severity of infection",
+            "volume": "55"
+        },
+        "bib0120": {
+            "authors": [
+                {
+                    "first": "A. E.",
+                    "initial": "A.E.",
+                    "last": "Gonzalez"
+                },
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Gavidia"
+                },
+                {
+                    "first": "N.",
+                    "initial": "N.",
+                    "last": "Falcon"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Bernal"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Verastegui"
+                },
+                {
+                    "first": "H. H.",
+                    "initial": "H.H.",
+                    "last": "Garcia"
+                },
+                {
+                    "first": "R. H.",
+                    "initial": "R.H.",
+                    "last": "Gilman"
+                },
+                {
+                    "first": "V. C.W.",
+                    "initial": "V.C.W.",
+                    "last": "Tsang"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Mayta"
+                },
+                {
+                    "first": "M. T.",
+                    "initial": "M.T.",
+                    "last": "Lopez"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Rodriguez"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Martinez"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Noh"
+                }
+            ],
+            "doi": "10.4269/ajtmh.2001.65.15",
+            "firstpage": "15",
+            "issn": "00029637",
+            "lastpage": "18",
+            "pmid": "11504400",
+            "pub_year": 2001,
+            "title": "Protection of pigs with cysticercosis from further infections after treatment with oxfendazole",
+            "volume": "65"
+        },
+        "bib0125": null,
+        "bib0130": null,
+        "bib0135": {
+            "authors": [
+                {
+                    "first": "Kirezi",
+                    "initial": "K.",
+                    "last": "Kanobana"
+                },
+                {
+                    "first": "Nicolas",
+                    "initial": "N.",
+                    "last": "Praet"
+                },
+                {
+                    "first": "Constantin",
+                    "initial": "C.",
+                    "last": "Kabwe"
+                },
+                {
+                    "first": "Pierre",
+                    "initial": "P.",
+                    "last": "Dorny"
+                },
+                {
+                    "first": "Philippe",
+                    "initial": "P.",
+                    "last": "Lukanu"
+                },
+                {
+                    "first": "Joule",
+                    "initial": "J.",
+                    "last": "Madinga"
+                },
+                {
+                    "first": "Patrick",
+                    "initial": "P.",
+                    "last": "Mitashi"
+                },
+                {
+                    "first": "Mirjam",
+                    "initial": "M.",
+                    "last": "Verwijs"
+                },
+                {
+                    "first": "Pascal",
+                    "initial": "P.",
+                    "last": "Lutumba"
+                },
+                {
+                    "first": "Katja",
+                    "initial": "K.",
+                    "last": "Polman"
+                }
+            ],
+            "doi": "10.1016/j.ijpara.2011.06.004",
+            "firstpage": "1015",
+            "issn": "00207519",
+            "lastpage": "1018",
+            "pmid": "21763695",
+            "pub_year": 2011,
+            "title": "High prevalence of Taenia solium cysticerosis in a village community of Bas-Congo, Democratic Republic of Congo",
+            "volume": "41"
+        },
+        "bib0140": {
+            "authors": [
+                {
+                    "first": "Martin",
+                    "initial": "M.",
+                    "last": "Kulldorff"
+                },
+                {
+                    "first": "Farzad",
+                    "initial": "F.",
+                    "last": "Mostashari"
+                },
+                {
+                    "first": "Luiz",
+                    "initial": "L.",
+                    "last": "Duczmal"
+                },
+                {
+                    "first": "W. Katherine",
+                    "initial": "W.K.",
+                    "last": "Yih"
+                },
+                {
+                    "first": "Ken",
+                    "initial": "K.",
+                    "last": "Kleinman"
+                },
+                {
+                    "first": "Richard",
+                    "initial": "R.",
+                    "last": "Platt"
+                }
+            ],
+            "doi": "10.1002/sim.2818",
+            "firstpage": "1824",
+            "issn": "02776715",
+            "lastpage": "1833",
+            "pmid": "17216592",
+            "pub_year": 2007,
+            "title": "Multivariate scan statistics for disease surveillance",
+            "volume": "26"
+        },
+        "bib0145": {
+            "authors": [
+                {
+                    "first": "Martin",
+                    "initial": "M.",
+                    "last": "Kulldorff"
+                }
+            ],
+            "doi": "10.1080/03610929708831995",
+            "firstpage": "1481",
+            "issn": "03610926",
+            "lastpage": "1496",
+            "pub_year": 1997,
+            "title": "A spatial scan statistic",
+            "volume": "26"
+        },
+        "bib0150": null,
+        "bib0155": {
+            "authors": [
+                {
+                    "first": "Andres G.",
+                    "initial": "A.G.",
+                    "last": "Lescano"
+                },
+                {
+                    "first": "Hector H.",
+                    "initial": "H.H.",
+                    "last": "Garc\u00eda"
+                },
+                {
+                    "first": "Robert H.",
+                    "initial": "R.H.",
+                    "last": "Gilman"
+                },
+                {
+                    "first": "M. Claudia",
+                    "initial": "M.C.",
+                    "last": "Guezala"
+                },
+                {
+                    "first": "Victor C.W.",
+                    "initial": "V.C.W.",
+                    "last": "Tsang"
+                },
+                {
+                    "first": "Cesar M.",
+                    "initial": "C.M.",
+                    "last": "Gavidia"
+                },
+                {
+                    "first": "Silvia",
+                    "initial": "S.",
+                    "last": "Rodriguez"
+                },
+                {
+                    "first": "Lawrence H.",
+                    "initial": "L.H.",
+                    "last": "Moulton"
+                },
+                {
+                    "first": "Justin A.",
+                    "initial": "J.A.",
+                    "last": "Green"
+                },
+                {
+                    "first": "Armando E.",
+                    "initial": "A.E.",
+                    "last": "Gonzalez"
+                }
+            ],
+            "firstpage": "376",
+            "issn": "00029637",
+            "lastpage": "383",
+            "pmid": "17297051",
+            "pub_year": 2007,
+            "title": "Swine cysticercosis hotspots surrounding taenia solium tapeworm carriers",
+            "volume": "76"
+        },
+        "bib0160": {
+            "authors": [
+                {
+                    "first": "Julio",
+                    "initial": "J.",
+                    "last": "Morales"
+                },
+                {
+                    "first": "Jos\u00e9 Juan",
+                    "initial": "J.J.",
+                    "last": "Mart\u00ednez"
+                },
+                {
+                    "first": "Marcos",
+                    "initial": "M.",
+                    "last": "Rosetti"
+                },
+                {
+                    "first": "Agnes",
+                    "initial": "A.",
+                    "last": "Fleury"
+                },
+                {
+                    "first": "Victor",
+                    "initial": "V.",
+                    "last": "Maza"
+                },
+                {
+                    "first": "Marisela",
+                    "initial": "M.",
+                    "last": "Hernandez"
+                },
+                {
+                    "first": "Nelly",
+                    "initial": "N.",
+                    "last": "Villalobos"
+                },
+                {
+                    "first": "Gladis",
+                    "initial": "G.",
+                    "last": "Fragoso"
+                },
+                {
+                    "first": "Aline S.",
+                    "initial": "A.S.",
+                    "last": "de Aluja"
+                },
+                {
+                    "first": "Carlos",
+                    "initial": "C.",
+                    "last": "Larralde"
+                },
+                {
+                    "first": "Edda",
+                    "initial": "E.",
+                    "last": "Sciutto"
+                }
+            ],
+            "doi": "10.1371/journal.pntd.0000284",
+            "pmid": "18846230",
+            "pub_year": 2008,
+            "title": "Spatial distribution of Taenia solium porcine cysticercosis within a rural area of Mexico",
+            "volume": "2"
+        },
+        "bib0165": {
+            "authors": [
+                {
+                    "first": "Gloria",
+                    "initial": "G.",
+                    "last": "Mwanjali"
+                },
+                {
+                    "first": "Charles",
+                    "initial": "C.",
+                    "last": "Kihamia"
+                },
+                {
+                    "first": "Deodatus Vitalis Conatus",
+                    "initial": "D.V.C.",
+                    "last": "Kakoko"
+                },
+                {
+                    "first": "Faustin",
+                    "initial": "F.",
+                    "last": "Lekule"
+                },
+                {
+                    "first": "Helena",
+                    "initial": "H.",
+                    "last": "Ngowi"
+                },
+                {
+                    "first": "Maria Vang",
+                    "initial": "M.V.",
+                    "last": "Johansen"
+                },
+                {
+                    "first": "Stig Milan",
+                    "initial": "S.M.",
+                    "last": "Thamsborg"
+                },
+                {
+                    "first": "Arve Lee",
+                    "initial": "A.L.",
+                    "last": "Willingham"
+                }
+            ],
+            "doi": "10.1371/journal.pntd.0002102",
+            "issn": "19352727",
+            "pub_year": 2013,
+            "title": "Prevalence and Risk Factors Associated with Human Taenia Solium Infections in Mbozi District, Mbeya Region, Tanzania",
+            "volume": "7"
+        },
+        "bib0170": {
+            "authors": [
+                {
+                    "first": "Kabemba E.",
+                    "initial": "K.E.",
+                    "last": "Mwape"
+                },
+                {
+                    "first": "Isaac K.",
+                    "initial": "I.K.",
+                    "last": "Phiri"
+                },
+                {
+                    "first": "Nicolas",
+                    "initial": "N.",
+                    "last": "Praet"
+                },
+                {
+                    "first": "John B.",
+                    "initial": "J.B.",
+                    "last": "Muma"
+                },
+                {
+                    "first": "Gideon",
+                    "initial": "G.",
+                    "last": "Zulu"
+                },
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "van den Bossche"
+                },
+                {
+                    "first": "Reginald",
+                    "initial": "R.",
+                    "last": "de Deken"
+                },
+                {
+                    "first": "Niko",
+                    "initial": "N.",
+                    "last": "Speybroeck"
+                },
+                {
+                    "first": "Pierre",
+                    "initial": "P.",
+                    "last": "Dorny"
+                },
+                {
+                    "first": "Sarah",
+                    "initial": "S.",
+                    "last": "Gabri\u00ebl"
+                }
+            ],
+            "doi": "10.1371/journal.pntd.0001594",
+            "issn": "19352727",
+            "pmid": "22479664",
+            "pub_year": 2012,
+            "title": "Taenia solium infections in a rural area of Eastern Zambia-A community based study",
+            "volume": "6"
+        },
+        "bib0175": {
+            "authors": [
+                {
+                    "first": "Kabemba E.",
+                    "initial": "K.E.",
+                    "last": "Mwape"
+                },
+                {
+                    "first": "Isaac K.",
+                    "initial": "I.K.",
+                    "last": "Phiri"
+                },
+                {
+                    "first": "Nicolas",
+                    "initial": "N.",
+                    "last": "Praet"
+                },
+                {
+                    "first": "Niko",
+                    "initial": "N.",
+                    "last": "Speybroeck"
+                },
+                {
+                    "first": "John B.",
+                    "initial": "J.B.",
+                    "last": "Muma"
+                },
+                {
+                    "first": "Pierre",
+                    "initial": "P.",
+                    "last": "Dorny"
+                },
+                {
+                    "first": "Sarah",
+                    "initial": "S.",
+                    "last": "Gabri\u00ebl"
+                }
+            ],
+            "doi": "10.1371/journal.pntd.0002142",
+            "issn": "19352727",
+            "pub_year": 2013,
+            "title": "The Incidence of Human Cysticercosis in a Rural Community of Eastern Zambia",
+            "volume": "7"
+        },
+        "bib0180": {
+            "authors": [
+                {
+                    "first": "Patrick C.",
+                    "initial": "P.C.",
+                    "last": "Ndimubanzi"
+                },
+                {
+                    "first": "H\u00e9le\u01f9e",
+                    "initial": "H.",
+                    "last": "Carabin"
+                },
+                {
+                    "first": "Christine M.",
+                    "initial": "C.M.",
+                    "last": "Budke"
+                },
+                {
+                    "first": "Hai",
+                    "initial": "H.",
+                    "last": "Nguyen"
+                },
+                {
+                    "first": "Ying Jun",
+                    "initial": "Y.J.",
+                    "last": "Qian"
+                },
+                {
+                    "first": "Elizabeth",
+                    "initial": "E.",
+                    "last": "Rainwater"
+                },
+                {
+                    "first": "Mary",
+                    "initial": "M.",
+                    "last": "Dickey"
+                },
+                {
+                    "first": "Stephanie",
+                    "initial": "S.",
+                    "last": "Reynolds"
+                },
+                {
+                    "first": "Julie A.",
+                    "initial": "J.A.",
+                    "last": "Stoner"
+                }
+            ],
+            "doi": "10.1371/journal.pntd.0000870",
+            "pmid": "21072231",
+            "pub_year": 2010,
+            "title": "A systematic review of the frequency of neurocyticercosis with a focus on people with epilepsy",
+            "volume": "4"
+        },
+        "bib0185": {
+            "authors": [
+                {
+                    "first": "H. A.",
+                    "initial": "H.A.",
+                    "last": "Ngowi"
+                },
+                {
+                    "first": "A. A.",
+                    "initial": "A.A.",
+                    "last": "Kassuku"
+                },
+                {
+                    "first": "G. E.M.",
+                    "initial": "G.E.M.",
+                    "last": "Maeda"
+                },
+                {
+                    "first": "M. E.",
+                    "initial": "M.E.",
+                    "last": "Boa"
+                },
+                {
+                    "first": "A. L.",
+                    "initial": "A.L.",
+                    "last": "Willingham"
+                }
+            ],
+            "doi": "10.1023/B:TROP.0000026663.07862.2a",
+            "firstpage": "335",
+            "issn": "00494747",
+            "lastpage": "340",
+            "pmid": "15241967",
+            "pub_year": 2004,
+            "title": "A slaughter slab survey for extra-intestinal porcine helminth infections in northern Tanzania",
+            "volume": "36"
+        },
+        "bib0190": {
+            "authors": [
+                {
+                    "first": "Helena A.",
+                    "initial": "H.A.",
+                    "last": "Ngowi"
+                },
+                {
+                    "first": "Ayub A.",
+                    "initial": "A.A.",
+                    "last": "Kassuku"
+                },
+                {
+                    "first": "H\u00e9l\u00e8ne",
+                    "initial": "H.",
+                    "last": "Carabin"
+                },
+                {
+                    "first": "James E.D.",
+                    "initial": "J.E.D.",
+                    "last": "Mlangwa"
+                },
+                {
+                    "first": "Malongo R.S.",
+                    "initial": "M.R.S.",
+                    "last": "Mlozi"
+                },
+                {
+                    "first": "Boniface P.",
+                    "initial": "B.P.",
+                    "last": "Mbilinyi"
+                },
+                {
+                    "first": "Arve L.",
+                    "initial": "A.L.",
+                    "last": "Willingham"
+                }
+            ],
+            "doi": "10.1371/journal.pntd.0000652",
+            "pmid": "20386601",
+            "pub_year": 2010,
+            "title": "Spatial clustering of porcine cysticercosis in Mbulu district, northern Tanzania",
+            "volume": "4"
+        },
+        "bib0195": {
+            "authors": [
+                {
+                    "first": "Seth E.",
+                    "initial": "S.E.",
+                    "last": "O'Neal"
+                },
+                {
+                    "first": "Luz M.",
+                    "initial": "L.M.",
+                    "last": "Moyano"
+                },
+                {
+                    "first": "Viterbo",
+                    "initial": "V.",
+                    "last": "Ayvar"
+                },
+                {
+                    "first": "Guillermo",
+                    "initial": "G.",
+                    "last": "Gonzalvez"
+                },
+                {
+                    "first": "Andre",
+                    "initial": "A.",
+                    "last": "Diaz"
+                },
+                {
+                    "first": "Silvia",
+                    "initial": "S.",
+                    "last": "Rodriguez"
+                },
+                {
+                    "first": "Patricia P.",
+                    "initial": "P.P.",
+                    "last": "Wilkins"
+                },
+                {
+                    "first": "Victor C.W.",
+                    "initial": "V.C.W.",
+                    "last": "Tsang"
+                },
+                {
+                    "first": "Robert H.",
+                    "initial": "R.H.",
+                    "last": "Gilman"
+                },
+                {
+                    "first": "Hector H.",
+                    "initial": "H.H.",
+                    "last": "Garcia"
+                },
+                {
+                    "first": "Armando E.",
+                    "initial": "A.E.",
+                    "last": "Gonzalez"
+                }
+            ],
+            "doi": "10.1371/journal.pntd.0001953",
+            "issn": "19352727",
+            "pmid": "23285305",
+            "pub_year": 2012,
+            "title": "Geographic Correlation between Tapeworm Carriers and Heavily Infected Cysticercotic Pigs",
+            "volume": "6"
+        },
+        "bib0200": {
+            "authors": [
+                {
+                    "first": "Zbigniew S.",
+                    "initial": "Z.S.",
+                    "last": "Pawlowski"
+                }
+            ],
+            "doi": "10.1016/j.parint.2005.11.017",
+            "firstpage": "S105",
+            "issn": "13835769",
+            "lastpage": "S109",
+            "pmid": "16356763",
+            "pub_year": 2006,
+            "title": "Role of chemotherapy of taeniasis in prevention of neurocysticercosis",
+            "volume": "55"
+        },
+        "bib0205": {
+            "authors": [
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Permin"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Yelifari"
+                },
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Bloch"
+                },
+                {
+                    "first": "N.",
+                    "initial": "N.",
+                    "last": "Steenhard"
+                },
+                {
+                    "first": "N. P.",
+                    "initial": "N.P.",
+                    "last": "Hansen"
+                },
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Nansen"
+                }
+            ],
+            "doi": "10.1016/S0304-4017(99)00159-4",
+            "firstpage": "63",
+            "issn": "03044017",
+            "lastpage": "71",
+            "pmid": "10628701",
+            "pub_year": 1999,
+            "title": "Parasites in cross-bred pigs in the Upper East Region of Ghana",
+            "volume": "87"
+        },
+        "bib0210": {
+            "authors": [
+                {
+                    "first": "Nicolas",
+                    "initial": "N.",
+                    "last": "Praet"
+                },
+                {
+                    "first": "Niko",
+                    "initial": "N.",
+                    "last": "Speybroeck"
+                },
+                {
+                    "first": "Rafael",
+                    "initial": "R.",
+                    "last": "Manzanedo"
+                },
+                {
+                    "first": "Dirk",
+                    "initial": "D.",
+                    "last": "Berkvens"
+                },
+                {
+                    "first": "Denis Nsame",
+                    "initial": "D.N.",
+                    "last": "Nforninwe"
+                },
+                {
+                    "first": "Andr\u00e9",
+                    "initial": "A.",
+                    "last": "Zoli"
+                },
+                {
+                    "first": "Fabrice",
+                    "initial": "F.",
+                    "last": "Quet"
+                },
+                {
+                    "first": "Pierre Marie",
+                    "initial": "P.M.",
+                    "last": "Preux"
+                },
+                {
+                    "first": "H\u00e9l\u00e8ne",
+                    "initial": "H.",
+                    "last": "Carabin"
+                },
+                {
+                    "first": "Stanny",
+                    "initial": "S.",
+                    "last": "Geerts"
+                }
+            ],
+            "doi": "10.1371/journal.pntd.0000406",
+            "pmid": "19333365",
+            "pub_year": 2009,
+            "title": "The disease burden of Taenia solium cysticercosis in Cameroon",
+            "volume": "3"
+        },
+        "bib0215": {
+            "authors": [
+                {
+                    "first": "Nicolas",
+                    "initial": "N.",
+                    "last": "Praet"
+                },
+                {
+                    "first": "Kirezi",
+                    "initial": "K.",
+                    "last": "Kanobana"
+                },
+                {
+                    "first": "Constantin",
+                    "initial": "C.",
+                    "last": "Kabwe"
+                },
+                {
+                    "first": "Vivi",
+                    "initial": "V.",
+                    "last": "Maketa"
+                },
+                {
+                    "first": "Philippe",
+                    "initial": "P.",
+                    "last": "Lukanu"
+                },
+                {
+                    "first": "Pascal",
+                    "initial": "P.",
+                    "last": "Lutumba"
+                },
+                {
+                    "first": "Katja",
+                    "initial": "K.",
+                    "last": "Polman"
+                },
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Matondo"
+                },
+                {
+                    "first": "Niko",
+                    "initial": "N.",
+                    "last": "Speybroeck"
+                },
+                {
+                    "first": "Pierre",
+                    "initial": "P.",
+                    "last": "Dorny"
+                },
+                {
+                    "first": "Julienne",
+                    "initial": "J.",
+                    "last": "Sumbu"
+                }
+            ],
+            "doi": "10.1371/journal.pntd.0000817",
+            "pmid": "20838646",
+            "pub_year": 2010,
+            "title": "Taenia solium cysticercosis in the democratic Republic of Congo: How does pork trade affect the transmission of the parasite?",
+            "volume": "4"
+        },
+        "bib0220": {
+            "authors": [
+                {
+                    "first": "Nicolas",
+                    "initial": "N.",
+                    "last": "Praet"
+                },
+                {
+                    "first": "Jaco J.",
+                    "initial": "J.J.",
+                    "last": "Verweij"
+                },
+                {
+                    "first": "Kabemba E.",
+                    "initial": "K.E.",
+                    "last": "Mwape"
+                },
+                {
+                    "first": "Isaac K.",
+                    "initial": "I.K.",
+                    "last": "Phiri"
+                },
+                {
+                    "first": "John B.",
+                    "initial": "J.B.",
+                    "last": "Muma"
+                },
+                {
+                    "first": "Gideon",
+                    "initial": "G.",
+                    "last": "Zulu"
+                },
+                {
+                    "first": "Lisette",
+                    "initial": "L.",
+                    "last": "van Lieshout"
+                },
+                {
+                    "first": "Richar",
+                    "initial": "R.",
+                    "last": "Rodriguez-Hidalgo"
+                },
+                {
+                    "first": "Washington",
+                    "initial": "W.",
+                    "last": "Benitez-Ortiz"
+                },
+                {
+                    "first": "Pierre",
+                    "initial": "P.",
+                    "last": "Dorny"
+                },
+                {
+                    "first": "Sarah",
+                    "initial": "S.",
+                    "last": "Gabri\u00ebl"
+                }
+            ],
+            "doi": "10.1111/tmi.12089",
+            "firstpage": "608",
+            "issn": "13602276",
+            "lastpage": "614",
+            "pmid": "23464616",
+            "pub_year": 2013,
+            "title": "Bayesian modelling to estimate the test characteristics of coprology, coproantigen ELISA and a novel real-time PCR for the diagnosis of taeniasis",
+            "volume": "18"
+        },
+        "bib0225": {
+            "authors": [
+                {
+                    "first": "M. Venkata",
+                    "initial": "M.V.",
+                    "last": "Raghava"
+                },
+                {
+                    "first": "V.",
+                    "initial": "V.",
+                    "last": "Prabhakaran"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Jayaraman"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Muliyil"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Oommen"
+                },
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Dorny"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Vercruysse"
+                },
+                {
+                    "first": "V.",
+                    "initial": "V.",
+                    "last": "Rajshekhar"
+                }
+            ],
+            "doi": "10.1016/j.trstmh.2010.06.002",
+            "firstpage": "601",
+            "issn": "00359203",
+            "lastpage": "612",
+            "pmid": "20638091",
+            "pub_year": 2010,
+            "title": "Detecting spatial clusters of Taenia solium infections in a rural block in South India",
+            "volume": "104"
+        },
+        "bib0230": {
+            "authors": [
+                {
+                    "first": "Anne W.",
+                    "initial": "A.W.",
+                    "last": "Rimoin"
+                },
+                {
+                    "first": "Peter J.",
+                    "initial": "P.J.",
+                    "last": "Hotez"
+                }
+            ],
+            "doi": "10.1371/journal.pntd.0002118",
+            "issn": "19352727",
+            "pub_year": 2013,
+            "title": "NTDs in the Heart of Darkness: The Democratic Republic of Congo's Unknown Burden of Neglected Tropical Diseases",
+            "volume": "7"
+        },
+        "bib0235": null,
+        "bib0240": {
+            "authors": [
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Rodriguez-Canul"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Fraser"
+                },
+                {
+                    "first": "J. C.",
+                    "initial": "J.C.",
+                    "last": "Allan"
+                },
+                {
+                    "first": "J. L.",
+                    "initial": "J.L.",
+                    "last": "Dominguez-Alpizar"
+                },
+                {
+                    "first": "F.",
+                    "initial": "F.",
+                    "last": "Argaez-Rodriguez"
+                },
+                {
+                    "first": "P. S.",
+                    "initial": "P.S.",
+                    "last": "Craig"
+                }
+            ],
+            "doi": "10.1080/00034989958807",
+            "firstpage": "57",
+            "issn": "00034983",
+            "lastpage": "67",
+            "pmid": "10492672",
+            "pub_year": 1999,
+            "title": "Epidemiological study of Taenia solium taeniasis/cysticercosis in a rural village in Yucatan state, Mexico",
+            "volume": "93"
+        },
+        "bib0245": {
+            "authors": [
+                {
+                    "first": "E.",
+                    "initial": "E.",
+                    "last": "Sarti"
+                },
+                {
+                    "first": "P. M.",
+                    "initial": "P.M.",
+                    "last": "Schantz"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Plancarte"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Wilson"
+                },
+                {
+                    "first": "I. O.",
+                    "initial": "I.O.",
+                    "last": "Gutierrez"
+                },
+                {
+                    "first": "A. S.",
+                    "initial": "A.S.",
+                    "last": "Lopez"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Roberts"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Flisser"
+                }
+            ],
+            "doi": "10.4269/ajtmh.1992.46.677",
+            "firstpage": "677",
+            "issn": "00029637",
+            "lastpage": "685",
+            "pmid": "1621892",
+            "pub_year": 1992,
+            "title": "Prevalence and risk factors for Taenia solium taeniasis and cysticercosis in humans and pigs in a village in Morelos, Mexico",
+            "volume": "46"
+        },
+        "bib0250": {
+            "authors": [
+                {
+                    "first": "E.",
+                    "initial": "E.",
+                    "last": "Sarti"
+                },
+                {
+                    "first": "P. M.",
+                    "initial": "P.M.",
+                    "last": "Schantz"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Avila"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Ambrosio"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Medina-Santill\u00e1n"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Flisser"
+                }
+            ],
+            "doi": "10.1016/S0035-9203(00)90451-6",
+            "firstpage": "85",
+            "issn": "00359203",
+            "lastpage": "89",
+            "pmid": "10748908",
+            "pub_year": 2000,
+            "title": "Mass treatment against human taeniasis for the control of cysticercosis: A population-based intervention study",
+            "volume": "94"
+        },
+        "bib0255": {
+            "authors": [
+                {
+                    "first": "Edda",
+                    "initial": "E.",
+                    "last": "Sciutto"
+                },
+                {
+                    "first": "Gladis",
+                    "initial": "G.",
+                    "last": "Fragoso"
+                },
+                {
+                    "first": "Agnes",
+                    "initial": "A.",
+                    "last": "Fleury"
+                },
+                {
+                    "first": "Juan Pedro",
+                    "initial": "J.P.",
+                    "last": "Laclette"
+                },
+                {
+                    "first": "Julio",
+                    "initial": "J.",
+                    "last": "Sotelo"
+                },
+                {
+                    "first": "Aline",
+                    "initial": "A.",
+                    "last": "Aluja"
+                },
+                {
+                    "first": "Laura",
+                    "initial": "L.",
+                    "last": "Vargas"
+                },
+                {
+                    "first": "Carlos",
+                    "initial": "C.",
+                    "last": "Larralde"
+                }
+            ],
+            "doi": "10.1016/S1286-4579(00)01336-8",
+            "firstpage": "1875",
+            "issn": "12864579",
+            "lastpage": "1890",
+            "pmid": "11165932",
+            "pub_year": 2000,
+            "title": "Taenia solium disease in humans and pigs: An ancient parasitosis disease rooted in developing countries and emerging as a major health problem of global dimensions",
+            "volume": "2"
+        },
+        "bib0260": {
+            "authors": [
+                {
+                    "first": "Lian F.",
+                    "initial": "L.F.",
+                    "last": "Thomas"
+                },
+                {
+                    "first": "William A.",
+                    "initial": "W.A.",
+                    "last": "De Glanville"
+                },
+                {
+                    "first": "Elizabeth A.",
+                    "initial": "E.A.",
+                    "last": "Cook"
+                },
+                {
+                    "first": "Eric M.",
+                    "initial": "E.M.",
+                    "last": "F\u00e8vre"
+                }
+            ],
+            "doi": "10.1186/1746-6148-9-46",
+            "issn": "17466148",
+            "pmid": "23497587",
+            "pub_year": 2013,
+            "title": "The spatial ecology of free-ranging domestic pigs (Sus scrofa) in western Kenya",
+            "volume": "9"
+        },
+        "bib0265": null,
+        "bib0270": null,
+        "bib0275": null,
+        "bib0280": {
+            "authors": [
+                {
+                    "first": "M. A.",
+                    "initial": "M.A.",
+                    "last": "Widdowson"
+                },
+                {
+                    "first": "A. J.C.",
+                    "initial": "A.J.C.",
+                    "last": "Cook"
+                },
+                {
+                    "first": "J. J.",
+                    "initial": "J.J.",
+                    "last": "Williams"
+                },
+                {
+                    "first": "F.",
+                    "initial": "F.",
+                    "last": "Argaes"
+                },
+                {
+                    "first": "I.",
+                    "initial": "I.",
+                    "last": "Rodriguez"
+                },
+                {
+                    "first": "J. L.",
+                    "initial": "J.L.",
+                    "last": "Dominguez"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Rodriguez"
+                }
+            ],
+            "doi": "10.1016/S0035-9203(00)90209-8",
+            "firstpage": "620",
+            "issn": "00359203",
+            "lastpage": "624",
+            "pmid": "11198643",
+            "pub_year": 2000,
+            "title": "Investigation of risk factors for porcine Taenia solium cysticercosis: A multiple regression analysis of a cross-sectional study in the Yucatan Peninsula, Mexico",
+            "volume": "94"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 39830,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "Further studies are warranted in our study area to explore influence of those factors on the observed heterogeneity.",
+            "startOffset": 39714,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 48402,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "Also, pigs slaughtered in the villages are not consumed only in the immediate vicinity of breeders, but also by members of other households in the same village or in neighboring villages, spreading randomly the geographic risk of taeniasis.",
+            "startOffset": 48162,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 45486,
+            "parents": [],
+            "refoffsets": {
+                "bib0015": {
+                    "endOffset": 45484,
+                    "startOffset": 45466
+                }
+            },
+            "secId": "sec0065",
+            "sentence": "In Guatemala, children in 5\u201310 years age group were significantly more likely to be infected than in 0-4 years age group (RR = 1.43; CI = 1.12-1.83; p < 0.04), though the highest prevalence was found in the 30-39 years age group (Allan et al., 1996).",
+            "startOffset": 45236,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23333,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "In DRC, a health zone is the operational unit of the health system, in charge of implementation of primary health care strategies developed at the central level.",
+            "startOffset": 23172,
+            "title": "Study area and population"
+        },
+        {
+            "endOffset": 20253,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Ingestion of these eggs by coprophagic pigs or by human through fecal-oral contamination, leads to establishment of the metacestode larval stage of the parasite (cysticerci) in hosts tissues, causing porcine and human cysticercosis, respectively.",
+            "startOffset": 20007,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25147,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Study area and population"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "Briefly, 24 villages in a radius of 50 km around Kimpese city were selected based on pre-determined inclusion criteria.",
+            "startOffset": 25028,
+            "title": "Study design and data collection"
+        },
+        {
+            "endOffset": 33755,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "This enables to test the null hypothesis of absolute spatial randomness against the alternative hypothesis that there is an elevated risk within the window as compared to outside the window.",
+            "startOffset": 33565,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 29003,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Study area and population"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "For individuals younger than 16 years, permission was sought from their parents or guardians through written informed consent.",
+            "startOffset": 28877,
+            "title": "Ethical statement"
+        },
+        {
+            "endOffset": 24042,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0135": {
+                    "endOffset": 24040,
+                    "startOffset": 23999
+                },
+                "bib0215": {
+                    "endOffset": 24040,
+                    "startOffset": 23999
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "Previous studies in this health zone reported a high number of free roaming pigs and occurrence of both human and porcine cysticercosis (Kanobana et al., 2011; Praet et al., 2010).",
+            "startOffset": 23862,
+            "title": "Study area and population"
+        },
+        {
+            "endOffset": 41042,
+            "parents": [],
+            "refoffsets": {
+                "bib0220": {
+                    "endOffset": 41040,
+                    "startOffset": 41022
+                }
+            },
+            "secId": "sec0065",
+            "sentence": "Nonetheless, a Bayesian modeling estimating the test characteristics of coprology, coproantigen ELISA and PCR for the diagnosis of taeniasis, yielded estimates of 84.5% sensitivity and 92% specificity for the ELISA coproantigen, based on samples from Zambia, which is close to DRC (Praet et al., 2013).",
+            "startOffset": 40740,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19783,
+            "parents": [],
+            "refoffsets": {
+                "bib0255": {
+                    "endOffset": 19781,
+                    "startOffset": 19761
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Taenia solium is a cestode parasite, infecting both human and pigs and prevailing mostly in developing countries (Sciutto et al., 2000).",
+            "startOffset": 19647,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 47465,
+            "parents": [],
+            "refoffsets": {
+                "bib0055": {
+                    "endOffset": 47416,
+                    "startOffset": 47397
+                },
+                "bib0160": {
+                    "endOffset": 47280,
+                    "startOffset": 47259
+                }
+            },
+            "secId": "sec0065",
+            "sentence": "Similar lack of spatial correlation was reported by Morales et al. (2008) in Mexico and explained by the combination of roaming behavior of pigs that covered large distances (2-5 km) daily (Copado et al., 2004) and mobile patterns of human in the study area.",
+            "startOffset": 47207,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29339,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Study area and population"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "Participating farmers were offered advice on the advantage of keeping pigs housed and improving the hygiene related to human open defecation.",
+            "startOffset": 29198,
+            "title": "Ethical statement"
+        },
+        {
+            "endOffset": 51074,
+            "parents": [],
+            "secId": "sec0070",
+            "sentence": "These data can contribute to the design of appropriate control for T. solium in the DRC and potential for integrated control strategies with other NTDs.",
+            "startOffset": 50922,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 34877,
+            "parents": [
+                {
+                    "id": "sec0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "Of these, 4751 individuals (90.3%) provided a stool sample.",
+            "startOffset": 34818,
+            "title": "Characteristics of the study population"
+        },
+        {
+            "endOffset": 35629,
+            "parents": [
+                {
+                    "id": "sec0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "Table 1 shows the proportion of positive human and pig samples in the different villages, grouped per health area.",
+            "startOffset": 35515,
+            "title": "Proportion of taeniasis positivity and risk factors"
+        },
+        {
+            "endOffset": 49747,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "This might have weakened the correlation, in space and time, between taeniasis cases and porcine cysticercosis cases.",
+            "startOffset": 49630,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 36065,
+            "parents": [
+                {
+                    "id": "sec0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "The highest positivity was determined in the 5-10 years age group (27.0% (95% CI: 24.4-29.7)).",
+            "startOffset": 35971,
+            "title": "Proportion of taeniasis positivity and risk factors"
+        },
+        {
+            "endOffset": 47206,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "However, no geospatial correlation of cysticercosis infected pigs and human positive taeniasis was found.",
+            "startOffset": 47101,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 37744,
+            "parents": [
+                {
+                    "id": "sec0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "Both clusters were located in the health area of Kiasungwa, situated in the center of the Kimpese health zone.",
+            "startOffset": 37634,
+            "title": "Spatial point patterns analysis"
+        },
+        {
+            "endOffset": 37226,
+            "parents": [
+                {
+                    "id": "sec0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "Spatial point pattern analysis indicated significant spatial clustering of the taeniasis positive individuals at distance up to 80 m (Fig. 2), as do porcine cysticercosis cases (Fig. 3).",
+            "startOffset": 37040,
+            "title": "Spatial point patterns analysis"
+        },
+        {
+            "endOffset": 38461,
+            "parents": [
+                {
+                    "id": "sec0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "There was no overlap between the human taeniasis clusters and the porcine cysticercosis cluster (Fig. 5).",
+            "startOffset": 38356,
+            "title": "Spatial point patterns analysis"
+        },
+        {
+            "endOffset": 44131,
+            "parents": [],
+            "refoffsets": {
+                "bib0090": {
+                    "endOffset": 44129,
+                    "startOffset": 44081
+                },
+                "bib0115": {
+                    "endOffset": 44129,
+                    "startOffset": 44081
+                }
+            },
+            "secId": "sec0065",
+            "sentence": "It was previously shown that frequency of taeniasis in patients with neurocysticercosis may reach 15%, and patients with more cerebral cysticerci have a higher probability of carrying concomitantly a tapeworm (Garcia and Del Brutto, 1999; Gilman et al., 2000).",
+            "startOffset": 43871,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 46959,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "This is indicative of the spatial heterogeneity of T. solium infections in endemic areas.",
+            "startOffset": 46870,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 45850,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "Currently, it is unclear whether this age relation in taeniasis is due to meat consumption behavior or rather the consequence of (immune-) protection against the tapeworm development in older individuals.",
+            "startOffset": 45646,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21822,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Clustering of porcine cysticercosis in specific households would then indicate the occurrence of tapeworm carriers in the vicinity, pointing to targeted screening and treatment, whereas a dispersed distribution would suggest a wider geographic spread of taenia carriers, pointing to the need for mass treatment.",
+            "startOffset": 21511,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24190,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "There is no piped water, roads are not paved and there is no electricity.",
+            "startOffset": 24117,
+            "title": "Study area and population"
+        },
+        {
+            "endOffset": 38355,
+            "parents": [
+                {
+                    "id": "sec0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "It included 24 cases and covered a radius of 5.23 km straddling between three villages (Lovo, Kuluzu and Lumbi) with a relative risk of 1.95 (p = 0.019).",
+            "startOffset": 38202,
+            "title": "Spatial point patterns analysis"
+        },
+        {
+            "endOffset": 45235,
+            "parents": [],
+            "refoffsets": {
+                "bib0095": {
+                    "endOffset": 45233,
+                    "startOffset": 45213
+                }
+            },
+            "secId": "sec0065",
+            "sentence": "In Peru, Garcia et al. reported significantly higher prevalence in individuals of 10 years old or younger (23/595, OR 1.83, p = 0.042) among 1620 post treatment tested samples (Garcia et al., 2003a).",
+            "startOffset": 45036,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 41757,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "Also T. hydatigena prevalence in sub-saharian African countries seems to be low.",
+            "startOffset": 41677,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 32049,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "The same process was run for porcine cysticercosis cases.",
+            "startOffset": 31992,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 27995,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Study area and population"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "The positive controls were sera collected from two known highly positive local pigs (confirmed by dissection).",
+            "startOffset": 27885,
+            "title": "Laboratory analysis"
+        },
+        {
+            "endOffset": 35865,
+            "parents": [
+                {
+                    "id": "sec0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "The overall proportion of positive pig samples was 45.6% (95% CI: 40.2-51) and varied from 0 to 94.1% between villages.",
+            "startOffset": 35746,
+            "title": "Proportion of taeniasis positivity and risk factors"
+        },
+        {
+            "endOffset": 49403,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "Indeed, an outbreak of African swine fever occurred in April 2011 and reduced the pig population.",
+            "startOffset": 49306,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28176,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Study area and population"
+                }
+            ],
+            "refoffsets": {
+                "bib0075": {
+                    "endOffset": 28174,
+                    "startOffset": 28155
+                }
+            },
+            "secId": "sec0030",
+            "sentence": "The test results were determined by comparing the OD of each serum sample with a sample of negative serum samples (n = 8) at a probability level of p = 0.001 (Dorny et al., 2004b).",
+            "startOffset": 27996,
+            "title": "Laboratory analysis"
+        },
+        {
+            "endOffset": 29927,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "A multivariate logistic regression was used to investigate the association between current taeniasis infection and individual (age, sex, use of latrine) as well as household (presence of latrine in the household and breeding pigs) variables recorded in questionnaires.",
+            "startOffset": 29659,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 40642,
+            "parents": [],
+            "refoffsets": {
+                "bib0025": {
+                    "endOffset": 40532,
+                    "startOffset": 40514
+                },
+                "bib0070": {
+                    "endOffset": 40640,
+                    "startOffset": 40621
+                }
+            },
+            "secId": "sec0065",
+            "sentence": "Indeed, the copro-Ag ELISA is only genus specific and as such cannot differentiate between T. solium and Taenia saginata infections (Allan et al., 2003), while Ag-ELISA cannot distinguish T. solium from Taenia hydatigena infections in pig (Dorny et al., 2004a).",
+            "startOffset": 40381,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30664,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "The results of random effects were presented as household random variance with standard errors (SE) and variance partition coefficient.",
+            "startOffset": 30529,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 49501,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "New pigs were imported and could therefore not be linked to infection by local tapeworm carriers.",
+            "startOffset": 49404,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 36576,
+            "parents": [
+                {
+                    "id": "sec0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "The empty model showed a significant variation in the likelihood of being infected between households (variance = 2.43 (SE = 0.29), p < 0.05).",
+            "startOffset": 36434,
+            "title": "Proportion of taeniasis positivity and risk factors"
+        },
+        {
+            "endOffset": 24370,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "Poor hygiene is widespread in the Bas-Congo province as only 26.8% of the population use toilets (http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/DRC).",
+            "startOffset": 24191,
+            "title": "Study area and population"
+        },
+        {
+            "endOffset": 29501,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "Both descriptive and analytical statistics were applied.",
+            "startOffset": 29445,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 31490,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0065": {
+                    "endOffset": 31488,
+                    "startOffset": 31477
+                }
+            },
+            "secId": "sec0040",
+            "sentence": "This function processes by dividing the average number of extra events (taeniasis infected individual) within a distance r of a randomly chosen event by the density of events in the area (Dixon, 2002).",
+            "startOffset": 31289,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 30225,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "The modeling was done in three steps, and the following models were constructed:",
+            "startOffset": 30145,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 34405,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "The level of significance was set at p = 0.05.",
+            "startOffset": 34359,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 48161,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "It could be that such situation occurs in our study area where all pigs are free roaming and human, essentially farmers, move around for agricultural work.",
+            "startOffset": 48006,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25027,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Study area and population"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "The baseline survey took place between November 2011 and November 2012.",
+            "startOffset": 24956,
+            "title": "Study design and data collection"
+        },
+        {
+            "endOffset": 42575,
+            "parents": [],
+            "refoffsets": {
+                "bib0095": {
+                    "endOffset": 42573,
+                    "startOffset": 42506
+                },
+                "bib0110": {
+                    "endOffset": 42573,
+                    "startOffset": 42506
+                },
+                "bib0165": {
+                    "endOffset": 42449,
+                    "startOffset": 42428
+                },
+                "bib0170": {
+                    "endOffset": 42401,
+                    "startOffset": 42364
+                },
+                "bib0175": {
+                    "endOffset": 42401,
+                    "startOffset": 42364
+                },
+                "bib0245": {
+                    "endOffset": 42573,
+                    "startOffset": 42506
+                }
+            },
+            "secId": "sec0065",
+            "sentence": "Compared with similar studies (using copro-Ag-ELISA), the overall taeniasis positivity determined in this study is higher than prevalences of 6.3% and 11.9% found in Zambia (Mwape et al., 2012; Mwapeet al., 2013); 5.2% found in Tanzania (Mwanjali et al., 2013) and the range of 2.8%\u201314% reported in Mexico and Peru (Garcia et al., 2003a; Garcia-Noval et al., 1996; Sarti et al., 1992).",
+            "startOffset": 42190,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24955,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Study area and population"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "It is part of a multi-country project aiming to assess the safety and impact of MDA-based control in areas co-endemic for taeniasis/cysticercosis and schistosomiasis (Bill and Melinda Gates Foundation funded \u201cIntegrated control of taeniasis and cysticercosis\u201d coordinated by Imperial College, London).",
+            "startOffset": 24654,
+            "title": "Study design and data collection"
+        },
+        {
+            "endOffset": 43439,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "Moreover, these authors reported that in the pig trade chain from villages of this area to the capital town, highly infected animals were excluded by pig farmers and/or buyers through tongue inspection and kept in the villages.",
+            "startOffset": 43212,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28793,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Study area and population"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "The purpose of the study was explained to the community leaders of all villages and their permission requested before starting the study.",
+            "startOffset": 28656,
+            "title": "Ethical statement"
+        },
+        {
+            "endOffset": 32141,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "The analysis was done in R Studio version 0.98.1028 for Windows using the spatstat package.",
+            "startOffset": 32050,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 24116,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "Villages share cultural, commercial, social and economic characteristics.",
+            "startOffset": 24043,
+            "title": "Study area and population"
+        },
+        {
+            "endOffset": 28655,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Study area and population"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "The research team was composed of human health professionals and veterinarians.",
+            "startOffset": 28576,
+            "title": "Ethical statement"
+        },
+        {
+            "endOffset": 30833,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "The level of significance was set at 5%.",
+            "startOffset": 30793,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 21510,
+            "parents": [],
+            "refoffsets": {
+                "bib0220": {
+                    "endOffset": 21337,
+                    "startOffset": 21319
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Due to lack of adequate field-applicable diagnostic tools for taeniasis (Praet et al., 2013), the micro-geographical distribution of cysticercosis infected pigs has been suggested to be used as an indicator of the distribution of taeniasis infected human subjects.",
+            "startOffset": 21246,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28377,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Study area and population"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "The study received approval of the Imperial College Research Ethics Committee, London and the Ethics Committee of the University of Kinshasa, the DRC (Reference: ESP/CE/008/2012).",
+            "startOffset": 28198,
+            "title": "Ethical statement"
+        },
+        {
+            "endOffset": 28575,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Study area and population"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "Further approval was obtained from the central Ministry of Health of the DRC, from the Provincial Ministry of Health of Bas-Congo province and from local district health and veterinary authorities.",
+            "startOffset": 28378,
+            "title": "Ethical statement"
+        },
+        {
+            "endOffset": 48005,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "In such situation, ingestion of infective T. solium eggs by a free-roaming pig could therefore occur anywhere far from the homestead of origin and in the immediate circle of any tapeworm carrier.",
+            "startOffset": 47810,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28876,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Study area and population"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "Written consent was sought from each individual subject to take part in the study.",
+            "startOffset": 28794,
+            "title": "Ethical statement"
+        },
+        {
+            "endOffset": 30338,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "Model 2, which included individual-level factors;",
+            "startOffset": 30289,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 26714,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Study area and population"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "Blood samples were collected from the cranial vena cava of each pig older than 3 months, after written informed consent from pig holders.",
+            "startOffset": 26577,
+            "title": "Sample collection and storage"
+        },
+        {
+            "endOffset": 50372,
+            "parents": [],
+            "secId": "sec0070",
+            "sentence": "This study provides, for the first time, important information on taeniasis in a hyper endemic rural area of the DRC.",
+            "startOffset": 50255,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 26904,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Study area and population"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "The blood samples were placed in a cooler box immediately after collection and transported to the laboratory of the Health Zone of Kimpese where they were allowed to clot overnight at 4 \u00b0C.",
+            "startOffset": 26715,
+            "title": "Sample collection and storage"
+        },
+        {
+            "endOffset": 29197,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Study area and population"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "All participants found positive for taeniasis were informed and provided with niclosamide (5 mg/kg) or praziquantel (40 mg/kg) depending on the arm of the clinical trial to which they belonged.",
+            "startOffset": 29004,
+            "title": "Ethical statement"
+        },
+        {
+            "endOffset": 29973,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "Age variable was categorized using quartiles.",
+            "startOffset": 29928,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 32932,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "The bivariate K function was calculated at 10 m increment distance bands using a vector of distances from 0 to 10 km.",
+            "startOffset": 32815,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 40289,
+            "parents": [],
+            "refoffsets": {
+                "bib0010": {
+                    "endOffset": 40187,
+                    "startOffset": 40169
+                }
+            },
+            "secId": "sec0065",
+            "sentence": "This difference can be partially explained by the sensitivity of copro-antigen ELISA, which is 2-10 times higher than coprology (Allan et al., 1990) or by other factors underlying the aforementioned heterogeneous trend of taeniasis in endemic areas.",
+            "startOffset": 40040,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 48558,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "Hence, the geographical proximity of a human with an infected pig does not determine the risk of being taeniasis infected in our study area and vice versa.",
+            "startOffset": 48403,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29422,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Study area and population"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "All farmers with positive pigs were advised on how to deal with the infected pork.",
+            "startOffset": 29340,
+            "title": "Ethical statement"
+        },
+        {
+            "endOffset": 32307,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0065": {
+                    "endOffset": 32185,
+                    "startOffset": 32174
+                }
+            },
+            "secId": "sec0040",
+            "sentence": "A bivariate K function analysis (Dixon, 2002) was conducted to test the spatial dependence between the taeniasis positive human cases and cysticercosis infected pigs.",
+            "startOffset": 32141,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 34999,
+            "parents": [
+                {
+                    "id": "sec0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "After exclusion of individuals with incomplete files, a total of 4599 individuals were included for a full case analysis.",
+            "startOffset": 34878,
+            "title": "Characteristics of the study population"
+        },
+        {
+            "endOffset": 22128,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "In the Democratic Republic of Congo (DRC), the Ministry of Health has adopted, but not yet implemented a national plan against neglected tropical diseases (NTDs), including mass drug administration (MDA) against helminthiasis according to WHO guidelines (http://www.nyankunde.org/documentation/doc_22.pdf).",
+            "startOffset": 21822,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26451,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Study area and population"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "Submitted stool samples were transported to the laboratory of Kimpese health zone where they were divided into two aliquots; one placed in 10% formalin and the other in 70% ethanol.",
+            "startOffset": 26270,
+            "title": "Sample collection and storage"
+        },
+        {
+            "endOffset": 44564,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "The highest positivity was found in subjects belonging to the 5-10 years age group.",
+            "startOffset": 44481,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 33338,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0145": {
+                    "endOffset": 33336,
+                    "startOffset": 33321
+                }
+            },
+            "secId": "sec0040",
+            "sentence": "Spatial clusters were identified using the spatial scan statistic in the SaTScan software (Kulldorff, 1997).",
+            "startOffset": 33230,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 31288,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0235": {
+                    "endOffset": 31286,
+                    "startOffset": 31274
+                }
+            },
+            "secId": "sec0040",
+            "sentence": "In order to test whether extra cases of taeniasis tended to occur in proximity of other taeniasis cases, an exploratory analysis was conducted using the Ripley\u2019s K function (Ripley, 1977).",
+            "startOffset": 31100,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 47100,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "In our study taeniasis spatial heterogeneity was partly due to the age distribution of human host, as revealed by adjusted satscan analysis.",
+            "startOffset": 46960,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 35064,
+            "parents": [
+                {
+                    "id": "sec0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "Of these, 2240 (48.7%) were females and 2359 (51.3%) were males.",
+            "startOffset": 35000,
+            "title": "Characteristics of the study population"
+        },
+        {
+            "endOffset": 50244,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "In addition, despite the identification of hotspots for both taeniasis and cysticercosis, their widespread distribution in this endemic area suggest that control measures must be applied indiscriminately to all communities of our study area, with a particular attention to children under ten years of age.",
+            "startOffset": 49939,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 34296,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0145": {
+                    "endOffset": 34294,
+                    "startOffset": 34273
+                },
+                "bib0150": {
+                    "endOffset": 34294,
+                    "startOffset": 34273
+                }
+            },
+            "secId": "sec0040",
+            "sentence": "A Bernoulli distribution was used as the probability model and a cluster was significant if it had a maximum likelihood ratio higher than the maximum likelihood ratio from the most likely cluster generated in the random data set (Kulldorff, 1997, 2010).",
+            "startOffset": 34043,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 20843,
+            "parents": [],
+            "refoffsets": {
+                "bib0045": {
+                    "endOffset": 20841,
+                    "startOffset": 20801
+                },
+                "bib0085": {
+                    "endOffset": 20753,
+                    "startOffset": 20711
+                },
+                "bib0120": {
+                    "endOffset": 20753,
+                    "startOffset": 20711
+                },
+                "bib0210": {
+                    "endOffset": 20841,
+                    "startOffset": 20801
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "In addition, porcine cysticercosis is a source of economic losses due to confiscation of contaminated pork (Fan and Chung, 1997; Gonzalez et al., 2001) or significant reduction of its market value (Carabin et al., 2006; Praet et al., 2009).",
+            "startOffset": 20603,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 30144,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "To take into account the hierarchical structure of the data with individuals nested within households, a multilevel logistic regression model with two levels was applied.",
+            "startOffset": 29974,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 40380,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "However, these high proportion of positive humans and pigs must be cautiously interpreted.",
+            "startOffset": 40290,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26016,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Study area and population"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "Geographic coordinates of each participating household were recorded using a Global Positioning System (GPS) receiver (eTrex LegendH Cx, Garmin).",
+            "startOffset": 25871,
+            "title": "Study design and data collection"
+        },
+        {
+            "endOffset": 38201,
+            "parents": [
+                {
+                    "id": "sec0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "The cluster was located in the health area of Lovo, situated in the south of the Kimpese health zone.",
+            "startOffset": 38100,
+            "title": "Spatial point patterns analysis"
+        },
+        {
+            "endOffset": 49305,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "The small pig sample size and the duration of sampling should be taken in account as limiting factors when interpreting these results.",
+            "startOffset": 49171,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 32579,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "The analysis was done in R Studio version 0.98.1028 for Windows using the splancs package.",
+            "startOffset": 32489,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 42891,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "In the absence of data on pig meat production, consumption and cooking habits, the high proportion of taeniasis found here can be explained by the high proportion of sero-positive pigs which in turn can be explained by low hygiene standards, free management of pigs and pig trade system practiced in our study area.",
+            "startOffset": 42576,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 37566,
+            "parents": [
+                {
+                    "id": "sec0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "SatScan analysis revealed the presence of four significant clusters of human taeniasis in the study area.",
+            "startOffset": 37461,
+            "title": "Spatial point patterns analysis"
+        },
+        {
+            "endOffset": 35142,
+            "parents": [
+                {
+                    "id": "sec0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "The age ranged from 5 to 93 years with a median age of 23 years (IQR: 11-41).",
+            "startOffset": 35065,
+            "title": "Characteristics of the study population"
+        },
+        {
+            "endOffset": 33230,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "The results of the bivariate K function were represented in the form of an L function.",
+            "startOffset": 33144,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 30792,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "Parameters were estimated using maximum likelihood estimation using adaptive quadrature in Stata 11 (Stata Corp Inc., TX, USA).",
+            "startOffset": 30665,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 46564,
+            "parents": [],
+            "refoffsets": {
+                "bib0270": {
+                    "endOffset": 46475,
+                    "startOffset": 46466
+                }
+            },
+            "secId": "sec0065",
+            "sentence": "However, as all age-groups are affected by taeniasis, MDA against taeniasis targeting the entire population as recommended by WHO (WHO, 2012) remains probably the most advisable control strategy for this study area at this point.",
+            "startOffset": 46335,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 38045,
+            "parents": [
+                {
+                    "id": "sec0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "A secondary cluster was located in Kiasungwa village; it included 19 cases, with a radius of 0.063 km and a relative risk of 2.8 (p < 0.001).",
+            "startOffset": 37904,
+            "title": "Spatial point patterns analysis"
+        },
+        {
+            "endOffset": 36433,
+            "parents": [
+                {
+                    "id": "sec0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "Logistic regression and multilevel analysis showed that individuals belonging to this age-group were significantly more likely to be infected than those in the 23-40 years (OR: 0.80 (95%CI: 0.66-0.97), p = 0.023) and 41-93 years (OR:0.62 (95%CI: 0.5-0.76), p < 0.001) age groups, but they were not different from the 11-22 years age-group (0.92 (0.76-1.1), p = 0.37).",
+            "startOffset": 36066,
+            "title": "Proportion of taeniasis positivity and risk factors"
+        },
+        {
+            "endOffset": 43211,
+            "parents": [],
+            "refoffsets": {
+                "bib0215": {
+                    "endOffset": 43145,
+                    "startOffset": 43126
+                }
+            },
+            "secId": "sec0065",
+            "sentence": "We found an 45.6% overall proportion of sero-positive pigs, in the range of reported by Praet et al. (2010) in five selected villages of the same area (41.2%; CI95%: 33-49).",
+            "startOffset": 43038,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31991,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0030": {
+                    "endOffset": 31989,
+                    "startOffset": 31978
+                }
+            },
+            "secId": "sec0040",
+            "sentence": "The K function was then transformed into an L function which is easier to interpret visually (Besag, 1977).",
+            "startOffset": 31884,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 35259,
+            "parents": [
+                {
+                    "id": "sec0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "The age distribution was typical of rural areas in developing countries, with a majority from the younger age group.",
+            "startOffset": 35143,
+            "title": "Characteristics of the study population"
+        },
+        {
+            "endOffset": 38896,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "The overall proportion of positivity in human was 23.4%, classifying this health zone as hyper-endemic.",
+            "startOffset": 38793,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 43675,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "This primarily explains the high porcine cysticercosis but it is also plausible that these infected pigs kept for local consumption in a context of lack of meat inspection might increase the risk of taeniasis among village communities.",
+            "startOffset": 43440,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 46869,
+            "parents": [],
+            "refoffsets": {
+                "bib0060": {
+                    "endOffset": 46867,
+                    "startOffset": 46786
+                },
+                "bib0170": {
+                    "endOffset": 46867,
+                    "startOffset": 46786
+                },
+                "bib0190": {
+                    "endOffset": 46867,
+                    "startOffset": 46786
+                },
+                "bib0225": {
+                    "endOffset": 46757,
+                    "startOffset": 46687
+                },
+                "bib0240": {
+                    "endOffset": 46757,
+                    "startOffset": 46687
+                },
+                "bib0280": {
+                    "endOffset": 46867,
+                    "startOffset": 46786
+                }
+            },
+            "secId": "sec0065",
+            "sentence": "As in a number of other studies, geo-spatial analysis conducted in our study revealed significant clustering of taeniasis (Mwape et al., 2012; Raghava et al., 2010; Rodriguez-Canul et al., 1999) and porcine cysticercosis (Diaz et al., 1992; Mwape et al., 2012; Ngowi et al., 2010; Widdowson et al., 2000).",
+            "startOffset": 46564,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 37633,
+            "parents": [
+                {
+                    "id": "sec0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "After adjusting for age, only two significant clusters were found.",
+            "startOffset": 37567,
+            "title": "Spatial point patterns analysis"
+        },
+        {
+            "endOffset": 45645,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "Despite the exclusion of under 5 years, the age-related proportion of taeniasis positivity found in the present study is suggestive of young age of infection.",
+            "startOffset": 45487,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 45035,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "The scarcity of such age-specific infection pattern probably reflects the paucity of data, due to a low number of tapeworm carriers found in studies with small sample sizes.",
+            "startOffset": 44862,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 41132,
+            "parents": [],
+            "refoffsets": {
+                "bib0125": {
+                    "endOffset": 41130,
+                    "startOffset": 41111
+                }
+            },
+            "secId": "sec0065",
+            "sentence": "Moreover, cattle farming is not practiced in the region of Kimpese (Gutu Kia Zimi, 2014).",
+            "startOffset": 41043,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 35427,
+            "parents": [
+                {
+                    "id": "sec0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "Among the included people, 1871 (40.7%) had no latrine in their households while 2211 (48%) did not use latrines; 605 (13.5%) were living in a household breeding pigs.",
+            "startOffset": 35260,
+            "title": "Characteristics of the study population"
+        },
+        {
+            "endOffset": 24653,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Study area and population"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "This study used cross-sectional baseline data from a community-based interventional study assessing the impact of MDA using praziquantel at 40 mg/kg (the dose used against schistosomiasis) on the prevalence of taeniasis and porcine cysticercosis.",
+            "startOffset": 24407,
+            "title": "Study design and data collection"
+        },
+        {
+            "endOffset": 34491,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "All statistically significant clusters were mapped on to the study area using QGIS 2.",
+            "startOffset": 34406,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 27884,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Study area and population"
+                }
+            ],
+            "refoffsets": {
+                "bib0040": {
+                    "endOffset": 27823,
+                    "startOffset": 27783
+                },
+                "bib0070": {
+                    "endOffset": 27823,
+                    "startOffset": 27783
+                }
+            },
+            "secId": "sec0030",
+            "sentence": "Pig sera were submitted to the monoclonal antibody based B158/B60 Ag-ELISA (sero-Ag ELISA) (Brandt et al., 1992; Dorny et al., 2004a) to detect the presence of circulating cysticercus antigens.",
+            "startOffset": 27691,
+            "title": "Laboratory analysis"
+        },
+        {
+            "endOffset": 34817,
+            "parents": [
+                {
+                    "id": "sec0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "This population belonged to 1699 households from 24 villages, with an average of three individuals sampled per household (ranging from 0 to 18).",
+            "startOffset": 34673,
+            "title": "Characteristics of the study population"
+        },
+        {
+            "endOffset": 43037,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "Indeed, 40.7% of the study population had no latrine in their households, 48% did not always use latrines and all pigs were reared on free range.",
+            "startOffset": 42892,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23861,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "Agriculture represents the most important source of income in this area where pigs, goats and chickens are the most reared animals by farmers.",
+            "startOffset": 23719,
+            "title": "Study area and population"
+        },
+        {
+            "endOffset": 50783,
+            "parents": [],
+            "secId": "sec0070",
+            "sentence": "The highest taeniasis positivity in the 5-10 years age group is suggestive of including taeniasis in the school-based epidemiological surveys of schistosomiasis and soil-transmitted helminth infections.",
+            "startOffset": 50581,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 41676,
+            "parents": [],
+            "refoffsets": {
+                "bib0050": {
+                    "endOffset": 41674,
+                    "startOffset": 41653
+                }
+            },
+            "secId": "sec0065",
+            "sentence": "Regarding T. hydatigena, only one case has been reported in the Eastern province of the DRC (Chartier et al., 1990).",
+            "startOffset": 41560,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20006,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Infective eggs are released via the stool of tapeworm carrier and contaminate the environment.",
+            "startOffset": 19912,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20454,
+            "parents": [],
+            "refoffsets": {
+                "bib0100": {
+                    "endOffset": 20452,
+                    "startOffset": 20432
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "In human, the most dangerous location of cysts is the central nervous system, since neurocysticercosis can lead to epilepsy, epileptic seizures and severe neurological symptoms (Garcia et al., 2003b).",
+            "startOffset": 20254,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22214,
+            "parents": [],
+            "refoffsets": {
+                "bib0230": {
+                    "endOffset": 22212,
+                    "startOffset": 22190
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "However, data on most of those NTDs in DRC are still scarce (Rimoin and Hotez, 2013).",
+            "startOffset": 22129,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 35461,
+            "parents": [
+                {
+                    "id": "sec0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "A total of 338 pigs were sampled.",
+            "startOffset": 35428,
+            "title": "Characteristics of the study population"
+        },
+        {
+            "endOffset": 40039,
+            "parents": [],
+            "refoffsets": {
+                "bib0135": {
+                    "endOffset": 40037,
+                    "startOffset": 40016
+                }
+            },
+            "secId": "sec0065",
+            "sentence": "The taeniasis positivity in each village of our study area was much higher than a prevalence of 0.3% found previously, using coprology, in one selected village of the same health zone (Kanobana et al., 2011).",
+            "startOffset": 39831,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 39372,
+            "parents": [],
+            "refoffsets": {
+                "bib0015": {
+                    "endOffset": 39370,
+                    "startOffset": 39352
+                },
+                "bib0095": {
+                    "endOffset": 39322,
+                    "startOffset": 39302
+                }
+            },
+            "secId": "sec0065",
+            "sentence": "Similar findings were also reported in two studies using coproantigen detection in Peru (9 villages) (Garcia et al., 2003a) and Guatemala (4 villages) (Allan et al., 1996).",
+            "startOffset": 39200,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26269,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Study area and population"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "Upon written inform consent, each participant was given one plastic sample bottle and requested to deliver a stool sample.",
+            "startOffset": 26147,
+            "title": "Sample collection and storage"
+        },
+        {
+            "endOffset": 20602,
+            "parents": [],
+            "refoffsets": {
+                "bib0180": {
+                    "endOffset": 20600,
+                    "startOffset": 20577
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Neurocysticercosis is the major cause of acquired epilepsy and is responsible for about 30% of seizures in endemic areas (Ndimubanzi et al., 2010).",
+            "startOffset": 20455,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22510,
+            "parents": [],
+            "refoffsets": {
+                "bib0215": {
+                    "endOffset": 22508,
+                    "startOffset": 22490
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Specifically for taeniasis/cysticercosis, a study recently conducted in 5 villages of the rural health zone of Kimpese in the west of the DRC, reported a 5.2% and a 41.2% porcine cysticercosis prevalence by lingual examination and circulating antigen detection respectively (Praet et al., 2010).",
+            "startOffset": 22215,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25870,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Study area and population"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "The head of each household was interviewed about the presence of household level risk factors of taeniasis/cysticercosis infection (e.g. pig breeding and presence of a latrine in the household).",
+            "startOffset": 25676,
+            "title": "Study design and data collection"
+        },
+        {
+            "endOffset": 21245,
+            "parents": [],
+            "refoffsets": {
+                "bib0020": {
+                    "endOffset": 21192,
+                    "startOffset": 21174
+                },
+                "bib0250": {
+                    "endOffset": 21243,
+                    "startOffset": 21225
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Mass chemotherapy has been used as a control strategy for taeniasis/cysticercosis using the anthelmintic niclosamide at 2 g (Allan et al., 1997) or praziquantel at 5\u201310 mg/kg (Sarti et al., 2000).",
+            "startOffset": 21049,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 31883,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "The confidence envelopes were calculated using 999 simulations under the Complete Spatial Randomness (CSR) hypothesis.",
+            "startOffset": 31765,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 39713,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "Differences in consumption of infected pig meat or household dietary and cooking habits could explain such heterogeneity of taeniasis infection.",
+            "startOffset": 39569,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 49083,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "This discrepancy could be explained by differences in several factors (cultural, geographical, human migration, pig-rearing style, etc.) that may influence the geographic distribution of T. solium infections.",
+            "startOffset": 48875,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23039,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "The current study aims to assess the prevalence, risk factors and spatial distribution of taeniasis in order to contribute in designing control strategies tailored to this setting.",
+            "startOffset": 22859,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 32488,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "This test measured the expected number of taeniasis positive human cases within a distance r from a cysticercosis sero-positive pig divided by the overall density of positive pigs.",
+            "startOffset": 32308,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 27490,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Study area and population"
+                }
+            ],
+            "refoffsets": {
+                "bib0010": {
+                    "endOffset": 27410,
+                    "startOffset": 27392
+                },
+                "bib0170": {
+                    "endOffset": 27488,
+                    "startOffset": 27470
+                }
+            },
+            "secId": "sec0030",
+            "sentence": "Human stool samples were tested for the presence of taenia antigen, by an in-house copro-antigen detection ELISA (copro-Ag ELISA) as described by Allan et al. (Allan et al., 1990), with slight modifications, as described by Mwape et al. (Mwape et al., 2012).",
+            "startOffset": 27232,
+            "title": "Laboratory analysis"
+        },
+        {
+            "endOffset": 32814,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "A polygon containing the points was generated from the datasets.",
+            "startOffset": 32750,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 42001,
+            "parents": [],
+            "refoffsets": {
+                "bib0035": {
+                    "endOffset": 41917,
+                    "startOffset": 41879
+                },
+                "bib0075": {
+                    "endOffset": 41955,
+                    "startOffset": 41936
+                },
+                "bib0080": {
+                    "endOffset": 41812,
+                    "startOffset": 41800
+                },
+                "bib0130": {
+                    "endOffset": 41999,
+                    "startOffset": 41988
+                },
+                "bib0185": {
+                    "endOffset": 41917,
+                    "startOffset": 41879
+                },
+                "bib0205": {
+                    "endOffset": 41849,
+                    "startOffset": 41830
+                }
+            },
+            "secId": "sec0065",
+            "sentence": "Reported prevalence were 2.2% in Nigeria (Fabiyi, 1979), 6.7% in Ghana (Permin et al., 1999), 1.4% and 6.6% in Tanzania (Ngowi et al., 2004; Braae et al., 2015), 6.1% in Zambia (Dorny et al., 2004b) and few cases in South Africa (Horak, 1980).",
+            "startOffset": 41758,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30289,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "Model 1 (\u2018empty model\u2019), with no explanatory variables included;",
+            "startOffset": 30225,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 33469,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "This test uses concentric circles or ellipses centered on each point with different sizes ranging from 0 to a predetermined limit.",
+            "startOffset": 33339,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 39199,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "However, the infection displays a great heterogeneity as shown by the variability of the positivity (1% \u221260.7%) between villages and the significant between-household variance (variance = 2.43 (SE = 0.29), p < 0.05).",
+            "startOffset": 38983,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 35745,
+            "parents": [
+                {
+                    "id": "sec0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "The overall proportion of taeniasis positivity was 23.4% (95%CI: 22.2-24.6) varying from 1 to 60% between villages.",
+            "startOffset": 35630,
+            "title": "Proportion of taeniasis positivity and risk factors"
+        },
+        {
+            "endOffset": 41559,
+            "parents": [],
+            "refoffsets": {
+                "bib0005": {
+                    "endOffset": 41495,
+                    "startOffset": 41479
+                }
+            },
+            "secId": "sec0065",
+            "sentence": "Regarding Taenia asiatica, we believe that its presence and continued transmission is not likely to occur in our study area, due to its known geographical distribution, mainly in some Asian countries (Ale et al., 2014) and the unlikely migration from Asia to these remote villages.",
+            "startOffset": 41278,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 43870,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "A tapeworm carrier is the central node of cysticercosis transmission since he/she might transmit this infection to himself/herself (through autoinfection), to other community members and to pigs.",
+            "startOffset": 43675,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21048,
+            "parents": [],
+            "refoffsets": {
+                "bib0105": {
+                    "endOffset": 21046,
+                    "startOffset": 20999
+                },
+                "bib0200": {
+                    "endOffset": 21046,
+                    "startOffset": 20999
+                },
+                "bib0270": {
+                    "endOffset": 21046,
+                    "startOffset": 20999
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Control of the complex taeniasis/cysticercosis can be achieved through different approaches, including mass treatment of adult T. solium tapeworm carriers (Garcia et al., 2007; Pawlowski, 2006; WHO, 2012).",
+            "startOffset": 20843,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25383,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Study area and population"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "These criteria included the presence of commonly known taeniasis/cysticercosis risk factors such as free roaming pigs, insufficient number and use of latrines; and the absence of other control initiatives such as sanitation programmes.",
+            "startOffset": 25148,
+            "title": "Study design and data collection"
+        },
+        {
+            "endOffset": 48874,
+            "parents": [],
+            "refoffsets": {
+                "bib0155": {
+                    "endOffset": 48666,
+                    "startOffset": 48646
+                },
+                "bib0195": {
+                    "endOffset": 48706,
+                    "startOffset": 48687
+                }
+            },
+            "secId": "sec0065",
+            "sentence": "These results, however, are opposed to what was reported in studies by Lescano et al. (Lescano et al., 2007) and O\u2019Neal et al. (O'Neal et al., 2012) in Peru, where swine sero-positive pigs clustered near tapeworm carriers (distance < 500m) and taeniasis clustered within 100 m of a tongue positive pig respectively.",
+            "startOffset": 48559,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 35970,
+            "parents": [
+                {
+                    "id": "sec0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "Proportion of taeniasis positivity by age, sex and other explanatory variables are presented in Table 2.",
+            "startOffset": 35866,
+            "title": "Proportion of taeniasis positivity and risk factors"
+        },
+        {
+            "endOffset": 34042,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0140": {
+                    "endOffset": 33964,
+                    "startOffset": 33942
+                }
+            },
+            "secId": "sec0040",
+            "sentence": "The inference was done by using 999 Monte Carlo simulations (Kulldorff et al., 2007) where replications of the data set under the null hypothesis were generated.",
+            "startOffset": 33881,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 39568,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "These studies reported significant household clustering and taeniasis prevalence ranges of 0\u20136.7% (overall prevalence = 2.8%) and 0\u20135.1% (overall prevalence = 2.7%) between villages respectively.",
+            "startOffset": 39373,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 37903,
+            "parents": [
+                {
+                    "id": "sec0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "The main cluster partly covered two villages (Nzovo and Lubi); it included 276 cases and covered a radius of 5.74 km with a relative risk of 2.79 (p < 0.001).",
+            "startOffset": 37745,
+            "title": "Spatial point patterns analysis"
+        },
+        {
+            "endOffset": 46334,
+            "parents": [],
+            "refoffsets": {
+                "bib0265": {
+                    "endOffset": 46291,
+                    "startOffset": 46276
+                },
+                "bib0275": {
+                    "endOffset": 46291,
+                    "startOffset": 46276
+                }
+            },
+            "secId": "sec0065",
+            "sentence": "If the 5-10 years age group (approximately primary school age) is indeed the most affected, then inclusion of taeniasis in the combined school-based epidemiological surveys for schistosomiasis and soil-transmitted helminth infections (WHO, 2004, 2011) could be recommended in co-endemic areas.",
+            "startOffset": 46041,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 50921,
+            "parents": [],
+            "secId": "sec0070",
+            "sentence": "Further studies are needed to better understand this age pattern and the heterogeneous distribution of T. solium infections in this area.",
+            "startOffset": 50784,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 31683,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "A file containing the coordinates of taeniasis positive participants\u2019 households was read in R as Table and a grid was created using the maximum and minimum values for the x and y coordinates.",
+            "startOffset": 31491,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 26577,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Study area and population"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "The formalin aliquots were kept at room temperature while ethanol aliquots were kept at \u221220 \u00b0C for future molecular analysis.",
+            "startOffset": 26452,
+            "title": "Sample collection and storage"
+        },
+        {
+            "endOffset": 38099,
+            "parents": [
+                {
+                    "id": "sec0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "One cluster of porcine cysticercosis cases was found.",
+            "startOffset": 38046,
+            "title": "Spatial point patterns analysis"
+        },
+        {
+            "endOffset": 38561,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "There is little available information on taeniasis/cysticercosis epidemiology in the DRC.",
+            "startOffset": 38472,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27028,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Study area and population"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "Then, the blood was centrifuged and the serum dispensed into 2 ml aliquots and stored in labeled cryogenic vials at \u221220 \u00b0C.",
+            "startOffset": 26905,
+            "title": "Sample collection and storage"
+        },
+        {
+            "endOffset": 49938,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "Nevertheless, our findings imply that the distribution of infected pigs alone cannot be used as an indicator to determine where screening and treatments should be targeted in our study area.",
+            "startOffset": 49748,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23546,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "Each health zone comprises health areas, which include a number of villages depending on one health center for primary health care (http://www.who.int/medicines/areas/coordination/drc_pharmaceutical_profile.pdf).",
+            "startOffset": 23334,
+            "title": "Study area and population"
+        },
+        {
+            "endOffset": 33143,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "Both axes of our study area were approximately 45 km.",
+            "startOffset": 33090,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 44480,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "A remarkable finding of this study is that age appears to be significantly associated with taeniasis.",
+            "startOffset": 44379,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31099,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "For this, latitude and longitude coordinates were linked to the infection and questionnaire data collected at individual and household levels (multiple observations per location).",
+            "startOffset": 30920,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 49629,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "Also, in some cases pig sampling could not be carried out simultaneously with that of humans due to reluctance of some farmers.",
+            "startOffset": 49502,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29658,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "Descriptive statistical analysis consisted in calculating frequencies and percentages of the variables of interest with their 95% confidence intervals (CI).",
+            "startOffset": 29502,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 33880,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "In the present study, a circular window shape was used with a maximum spatial cluster size of 50% of the population at risk.",
+            "startOffset": 33756,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 34672,
+            "parents": [
+                {
+                    "id": "sec0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "Of a census population of 8139, a total of 5261 (64.6%) willing participants meeting inclusion criteria were enrolled in the study.",
+            "startOffset": 34541,
+            "title": "Characteristics of the study population"
+        },
+        {
+            "endOffset": 34358,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "The test was adjusted for the distribution of age categories.",
+            "startOffset": 34297,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 36717,
+            "parents": [
+                {
+                    "id": "sec0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "The value of the variance partition coefficient indicated that 42.48% of the variance could be attributed to differences between households.",
+            "startOffset": 36577,
+            "title": "Proportion of taeniasis positivity and risk factors"
+        },
+        {
+            "endOffset": 40739,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "It is therefore probable that the proportions of positive human and pigs could be overestimated.",
+            "startOffset": 40643,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 46040,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "Further studies, including other age-related factors not assessed in this study, are needed to establish the consistence and the implications of these findings in control activities design.",
+            "startOffset": 45851,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22858,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "These data suggest that T. solium infections may be (highly) endemic in this area.",
+            "startOffset": 22776,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 32749,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "From these, point data sets were created.",
+            "startOffset": 32708,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 38982,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "This high taeniasis positivity indicates a very high exposure risk to infective eggs.",
+            "startOffset": 38897,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27691,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Study area and population"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "The test results were obtained by comparing the optical density (OD) of each stool sample with the mean of a series of 8 reference negative stool samples from DRC plus 3 standard deviations (cut off).",
+            "startOffset": 27491,
+            "title": "Laboratory analysis"
+        },
+        {
+            "endOffset": 30919,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "Spatial point patterns analysis was applied on the household geographical coordinates.",
+            "startOffset": 30833,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 33564,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "A likelihood ratio test is applied to each window, which is considered as a potential cluster.",
+            "startOffset": 33470,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 30406,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "Model 3, with both individual and household-levels factors included.",
+            "startOffset": 30338,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 33089,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0065": {
+                    "endOffset": 33087,
+                    "startOffset": 33076
+                }
+            },
+            "secId": "sec0040",
+            "sentence": "The choice of this distance was based on the recommendation of using distances shorter than one-half the shortest dimension of the study area (Dixon, 2002).",
+            "startOffset": 32933,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 50580,
+            "parents": [],
+            "secId": "sec0070",
+            "sentence": "Data highlight the role of age in the heterogeneous pattern of taeniasis, the absence of spatial correlation between taeniasis and porcine cysticercosis and the need of control measures in this endemic area.",
+            "startOffset": 50373,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 38792,
+            "parents": [],
+            "refoffsets": {
+                "bib0135": {
+                    "endOffset": 38790,
+                    "startOffset": 38749
+                },
+                "bib0215": {
+                    "endOffset": 38790,
+                    "startOffset": 38749
+                }
+            },
+            "secId": "sec0065",
+            "sentence": "The current study is the first step for upcoming control activities in the rural health zone of Kimpese where high human and porcine cysticercosis prevalence have been recently reported (Kanobana et al., 2011; Praet et al., 2010).",
+            "startOffset": 38562,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 49171,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "These conflicting findings call for the need for context-specific situational analysis.",
+            "startOffset": 49084,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23718,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "Early 2011, the population of Kimpese health zone comprised around 150,482 inhabitants distributed over 20 health areas, including 519 villages (P. Lukanu, personal data).",
+            "startOffset": 23547,
+            "title": "Study area and population"
+        },
+        {
+            "endOffset": 37006,
+            "parents": [
+                {
+                    "id": "sec0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "In fact, it increased from 2.43 (SE = 0.29) to 2.52 (SE = 0.30) and the variation partition coefficient increased as well from 42.48% to 43.39% in models 2 and 3.",
+            "startOffset": 36844,
+            "title": "Proportion of taeniasis positivity and risk factors"
+        },
+        {
+            "endOffset": 26113,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Study area and population"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "Another form was used to record individual data (age, gender, toilet use) from each participant.",
+            "startOffset": 26017,
+            "title": "Study design and data collection"
+        },
+        {
+            "endOffset": 44861,
+            "parents": [],
+            "refoffsets": {
+                "bib0015": {
+                    "endOffset": 44718,
+                    "startOffset": 44678
+                },
+                "bib0095": {
+                    "endOffset": 44718,
+                    "startOffset": 44678
+                },
+                "bib0165": {
+                    "endOffset": 44859,
+                    "startOffset": 44818
+                },
+                "bib0170": {
+                    "endOffset": 44859,
+                    "startOffset": 44818
+                }
+            },
+            "secId": "sec0065",
+            "sentence": "This finding is in line with the two aforementioned studies conducted in Peru and Guatemala (n = 1620 and 3399) (Allan et al., 1996; Garcia et al., 2003a) but not with comparable epidemiologic studies performed in Tanzania and Zambia (n = 718 and 830) (Mwanjali et al., 2013; Mwape et al., 2012).",
+            "startOffset": 44565,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22775,
+            "parents": [],
+            "refoffsets": {
+                "bib0135": {
+                    "endOffset": 22773,
+                    "startOffset": 22752
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Another study conducted in one of these villages reported a 21.6% prevalence of active human cysticercosis by circulating antigen detection with a 12.7\u2030 adjusted prevalence of active epilepsy and a 0.3% prevalence of taeniasis by coprology (Kanobana et al., 2011).",
+            "startOffset": 22511,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 31764,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "An object of class \u201cppp\u201d was then created on which the K test function was used.",
+            "startOffset": 31684,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 37380,
+            "parents": [
+                {
+                    "id": "sec0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "Bivariate K function analysis showed that there was no significant spatial dependence of human taeniasis and porcine cysticercosis cases at any distance.",
+            "startOffset": 37227,
+            "title": "Spatial point patterns analysis"
+        },
+        {
+            "endOffset": 37460,
+            "parents": [
+                {
+                    "id": "sec0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "Fig. 4 presents the most easily readable graph of this analysis, at 20 m scale.",
+            "startOffset": 37381,
+            "title": "Spatial point patterns analysis"
+        },
+        {
+            "endOffset": 41277,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "Likewise there is a very limited consumption of beef in the study area (personal observation), both factors indicating low risk for T. saginata.",
+            "startOffset": 41133,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23171,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "The study was conducted in the rural health zone of Kimpese, in the Bas-Congo Province (Fig. 1).",
+            "startOffset": 23075,
+            "title": "Study area and population"
+        },
+        {
+            "endOffset": 47809,
+            "parents": [],
+            "refoffsets": {
+                "bib0260": {
+                    "endOffset": 47807,
+                    "startOffset": 47788
+                }
+            },
+            "secId": "sec0065",
+            "sentence": "A study conducted in Kenya, geographically closer to our study area, found that free ranging pigs traveled an average of 4,340 m in a 12 h period and spent on average 47% of their time outside their homestead of origin and on average only 1.3% of their time interacting with the latrine area in their homestead of origin (Thomas et al., 2013).",
+            "startOffset": 47466,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 32707,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "Files were created and read as tables with the coordinates of the households of the positive human cases and the positive pigs.",
+            "startOffset": 32580,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 42190,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "Based on these data, we do not expect high number of T. saginata and T. hydatigena cases and at the very most only slight overestimates for both human and pig infections could be expected.",
+            "startOffset": 42002,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 36843,
+            "parents": [
+                {
+                    "id": "sec0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "The variance remained significant and did not reduce after including individual nor household level factors in model 2 and 3.",
+            "startOffset": 36718,
+            "title": "Proportion of taeniasis positivity and risk factors"
+        },
+        {
+            "endOffset": 25675,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Study area and population"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "All households of included villages were visited and all household members were invited to participate in the study, except children younger than 5 years, pregnant women, people with a history of epilepsy or seizures and people who had received a praziquantel treatment in the past 2 months.",
+            "startOffset": 25384,
+            "title": "Study design and data collection"
+        },
+        {
+            "endOffset": 27208,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Study area and population"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "All samples were shipped to the Regional Reference Laboratory for Cysticercosis in the School of Veterinary Medicine, University of Zambia, Lusaka, Zambia for subsequent analyses.",
+            "startOffset": 27029,
+            "title": "Sample collection and storage"
+        },
+        {
+            "endOffset": 44379,
+            "parents": [],
+            "refoffsets": {
+                "bib0135": {
+                    "endOffset": 44377,
+                    "startOffset": 44356
+                }
+            },
+            "secId": "sec0065",
+            "sentence": "The high taeniasis positivity found here may thus imply high risk for human (neuro) cysticercosis in our study area, which is in line with 21.6% of human cysticercosis prevalence reported previously in one selected village (Kanobana et al., 2011).",
+            "startOffset": 44132,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19911,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "The adult tapeworm develops in the intestine of the human host after ingestion of undercooked infected pork, causing taeniasis.",
+            "startOffset": 19784,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 30528,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "The results of fixed effects (measure of association) were presented as odds ratios (OR) with 95% confident interval (CI).",
+            "startOffset": 30406,
+            "title": "Statistical analysis"
+        }
+    ],
+    "docId": "S0001706X16301036",
+    "metadata": {
+        "asjc": [
+            "1109",
+            "2405",
+            "2725",
+            "3401"
+        ],
+        "authors": [
+            {
+                "email": "jmadinga@yahoo.fr",
+                "first": "Joule",
+                "initial": "J.",
+                "last": "Madinga"
+            },
+            {
+                "email": null,
+                "first": "Kirezi",
+                "initial": "K.",
+                "last": "Kanobana"
+            },
+            {
+                "email": null,
+                "first": "Philippe",
+                "initial": "P.",
+                "last": "Lukanu"
+            },
+            {
+                "email": null,
+                "first": "Emmanuel",
+                "initial": "E.",
+                "last": "Abatih"
+            },
+            {
+                "email": null,
+                "first": "Sylvain",
+                "initial": "S.",
+                "last": "Baloji"
+            },
+            {
+                "email": null,
+                "first": "Sylvie",
+                "initial": "S.",
+                "last": "Linsuke"
+            },
+            {
+                "email": null,
+                "first": "Nicolas",
+                "initial": "N.",
+                "last": "Praet"
+            },
+            {
+                "email": null,
+                "first": "Serge",
+                "initial": "S.",
+                "last": "Kapinga"
+            },
+            {
+                "email": null,
+                "first": "Katja",
+                "initial": "K.",
+                "last": "Polman"
+            },
+            {
+                "email": null,
+                "first": "Pascal",
+                "initial": "P.",
+                "last": "Lutumba"
+            },
+            {
+                "email": null,
+                "first": "Niko",
+                "initial": "N.",
+                "last": "Speybroeck"
+            },
+            {
+                "email": null,
+                "first": "Pierre",
+                "initial": "P.",
+                "last": "Dorny"
+            },
+            {
+                "email": null,
+                "first": "Wendy",
+                "initial": "W.",
+                "last": "Harrison"
+            },
+            {
+                "email": null,
+                "first": "Sarah",
+                "initial": "S.",
+                "last": "Gabriel"
+            }
+        ],
+        "doi": "10.1016/j.actatropica.2016.03.013",
+        "firstpage": "100",
+        "issn": "0001706X",
+        "keywords": [
+            "Democratic republic of Congo",
+            "Epidemiology",
+            "Porcine cysticercosis",
+            "Spatial clustering",
+            "Taeniasis"
+        ],
+        "lastpage": "109",
+        "openaccess": "Full",
+        "pub_year": 2017,
+        "subjareas": [
+            "AGRI",
+            "IMMU",
+            "MEDI",
+            "VETE"
+        ],
+        "title": "Geospatial and age-related patterns of Taenia solium taeniasis in the rural health zone of Kimpese, Democratic Republic of Congo"
+    }
+}
