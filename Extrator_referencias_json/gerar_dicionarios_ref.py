@@ -1,3 +1,7 @@
+"""
+Módulo para gerar um dicionário que contém A lista de Autores do artigo, Palavras-Chaves contidas no artigo, referências e o DoI
+"""
+
 import os
 import json
 
@@ -11,7 +15,7 @@ def extrair_dados_artigo(filepath):
         "Autores": [],
         "Palavras-Chave": [],
         "Referências": [],
-        "DOI": ""  ### MUDANÇA: Adicionamos a nova chave para o DOI ###
+        "DOI": ""
     }
 
     try:
@@ -31,9 +35,9 @@ def extrair_dados_artigo(filepath):
         autores_formatados = [f"{author.get('first', '')} {author.get('last', '')}".strip() for author in lista_de_autores_obj]
         resultado["Autores"] = autores_formatados
         resultado["Palavras-Chave"] = metadata.get('keywords', [])
-        resultado["DOI"] = metadata.get('doi', 'DOI não disponível') ### MUDANÇA: Extraímos apenas o DOI ###
+        resultado["DOI"] = metadata.get('doi', 'DOI não disponível') 
 
-    # Lógica para extrair as referências na estrutura de dicionário (sem alteração)
+    # Lógica para extrair as referências na estrutura de dicionário 
     bib_entries = data.get('bib_entries', {})
     if bib_entries:
         lista_de_referencias_estruturadas = []
@@ -55,6 +59,8 @@ def extrair_dados_artigo(filepath):
                 if paginas_str: paginas_str += ", "
                 paginas_str += f"pp. {pagina_inicial}-{pagina_final}"
 
+
+            # Dicionário com artigo e autores das referências, local (pode ser removido) e o DoI
             ref_dict = {
                 "Autores Referência": lista_autores_ref,
                 "Artigo Referência": ref_data.get('title', 'Título não disponível'),
