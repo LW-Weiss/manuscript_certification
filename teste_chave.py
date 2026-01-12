@@ -2,7 +2,7 @@ import google.generativeai as genai
 import os
 
 # 1. Cole sua chave aqui para testar
-CHAVE = "AIzaSyB4T3V2vi1BPBfXqAGTYN-srbY3dQs6GvQ"
+CHAVE = "CHAVE_API_AQUI"
 
 print("--- INICIANDO TESTE DE CONEXÃO ---")
 
