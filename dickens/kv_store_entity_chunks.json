@@ -1,0 +1,2124 @@
+{
+  "Oxygen": {
+    "chunk_ids": [
+      "chunk-22628eef813855ce45f903e724ee1e21",
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c",
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 3,
+    "update_time": 1766109526,
+    "_id": "Oxygen"
+  },
+  "Forests": {
+    "chunk_ids": [
+      "chunk-22628eef813855ce45f903e724ee1e21"
+    ],
+    "count": 1,
+    "create_time": 1766109397,
+    "update_time": 1766109397,
+    "_id": "Forests"
+  },
+  "Oceans": {
+    "chunk_ids": [
+      "chunk-22628eef813855ce45f903e724ee1e21"
+    ],
+    "count": 1,
+    "create_time": 1766109397,
+    "update_time": 1766109397,
+    "_id": "Oceans"
+  },
+  "Phytoplankton": {
+    "chunk_ids": [
+      "chunk-22628eef813855ce45f903e724ee1e21"
+    ],
+    "count": 1,
+    "create_time": 1766109397,
+    "update_time": 1766109397,
+    "_id": "Phytoplankton"
+  },
+  "Tropical Forests": {
+    "chunk_ids": [
+      "chunk-22628eef813855ce45f903e724ee1e21"
+    ],
+    "count": 1,
+    "create_time": 1766109397,
+    "update_time": 1766109397,
+    "_id": "Tropical Forests"
+  },
+  "Amazon": {
+    "chunk_ids": [
+      "chunk-22628eef813855ce45f903e724ee1e21"
+    ],
+    "count": 1,
+    "create_time": 1766109397,
+    "update_time": 1766109397,
+    "_id": "Amazon"
+  },
+  "Lungs Of The Planet": {
+    "chunk_ids": [
+      "chunk-22628eef813855ce45f903e724ee1e21"
+    ],
+    "count": 1,
+    "create_time": 1766109397,
+    "update_time": 1766109397,
+    "_id": "Lungs Of The Planet"
+  },
+  "Climatic Balance": {
+    "chunk_ids": [
+      "chunk-22628eef813855ce45f903e724ee1e21"
+    ],
+    "count": 1,
+    "create_time": 1766109397,
+    "update_time": 1766109397,
+    "_id": "Climatic Balance"
+  },
+  "Earth": {
+    "chunk_ids": [
+      "chunk-22628eef813855ce45f903e724ee1e21",
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 2,
+    "update_time": 1766109590,
+    "_id": "Earth"
+  },
+  "Microscopic Algae": {
+    "chunk_ids": [
+      "chunk-22628eef813855ce45f903e724ee1e21"
+    ],
+    "count": 1,
+    "create_time": 1766109402,
+    "update_time": 1766109402,
+    "_id": "Microscopic Algae"
+  },
+  "Cyanobacteria": {
+    "chunk_ids": [
+      "chunk-22628eef813855ce45f903e724ee1e21"
+    ],
+    "count": 1,
+    "create_time": 1766109402,
+    "update_time": 1766109402,
+    "_id": "Cyanobacteria"
+  },
+  "Sunlight": {
+    "chunk_ids": [
+      "chunk-22628eef813855ce45f903e724ee1e21"
+    ],
+    "count": 1,
+    "create_time": 1766109402,
+    "update_time": 1766109402,
+    "_id": "Sunlight"
+  },
+  "Carbon Dioxide": {
+    "chunk_ids": [
+      "chunk-22628eef813855ce45f903e724ee1e21"
+    ],
+    "count": 1,
+    "create_time": 1766109402,
+    "update_time": 1766109402,
+    "_id": "Carbon Dioxide"
+  },
+  "Water": {
+    "chunk_ids": [
+      "chunk-22628eef813855ce45f903e724ee1e21",
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 2,
+    "update_time": 1766109587,
+    "_id": "Water"
+  },
+  "Chemical Energy": {
+    "chunk_ids": [
+      "chunk-22628eef813855ce45f903e724ee1e21"
+    ],
+    "count": 1,
+    "create_time": 1766109402,
+    "update_time": 1766109402,
+    "_id": "Chemical Energy"
+  },
+  "Biological Carbon Pump": {
+    "chunk_ids": [
+      "chunk-22628eef813855ce45f903e724ee1e21"
+    ],
+    "count": 1,
+    "create_time": 1766109402,
+    "update_time": 1766109402,
+    "_id": "Biological Carbon Pump"
+  },
+  "Greenhouse Gases": {
+    "chunk_ids": [
+      "chunk-22628eef813855ce45f903e724ee1e21"
+    ],
+    "count": 1,
+    "create_time": 1766109407,
+    "update_time": 1766109407,
+    "_id": "Greenhouse Gases"
+  },
+  "Average Planet Temperature": {
+    "chunk_ids": [
+      "chunk-22628eef813855ce45f903e724ee1e21"
+    ],
+    "count": 1,
+    "create_time": 1766109407,
+    "update_time": 1766109407,
+    "_id": "Average Planet Temperature"
+  },
+  "Climate Change": {
+    "chunk_ids": [
+      "chunk-22628eef813855ce45f903e724ee1e21"
+    ],
+    "count": 1,
+    "create_time": 1766109407,
+    "update_time": 1766109407,
+    "_id": "Climate Change"
+  },
+  "Ocean Acidification": {
+    "chunk_ids": [
+      "chunk-22628eef813855ce45f903e724ee1e21"
+    ],
+    "count": 1,
+    "create_time": 1766109407,
+    "update_time": 1766109407,
+    "_id": "Ocean Acidification"
+  },
+  "Pollution": {
+    "chunk_ids": [
+      "chunk-22628eef813855ce45f903e724ee1e21"
+    ],
+    "count": 1,
+    "create_time": 1766109407,
+    "update_time": 1766109407,
+    "_id": "Pollution"
+  },
+  "Complex Life On Earth": {
+    "chunk_ids": [
+      "chunk-22628eef813855ce45f903e724ee1e21"
+    ],
+    "count": 1,
+    "create_time": 1766109407,
+    "update_time": 1766109407,
+    "_id": "Complex Life On Earth"
+  },
+  "Human Life": {
+    "chunk_ids": [
+      "chunk-22628eef813855ce45f903e724ee1e21"
+    ],
+    "count": 1,
+    "create_time": 1766109407,
+    "update_time": 1766109407,
+    "_id": "Human Life"
+  },
+  "Oxygen Production": {
+    "chunk_ids": [
+      "chunk-22628eef813855ce45f903e724ee1e21"
+    ],
+    "count": 1,
+    "create_time": 1766109407,
+    "update_time": 1766109407,
+    "_id": "Oxygen Production"
+  },
+  "Global Climate Regulation": {
+    "chunk_ids": [
+      "chunk-22628eef813855ce45f903e724ee1e21"
+    ],
+    "count": 1,
+    "create_time": 1766109411,
+    "update_time": 1766109411,
+    "_id": "Global Climate Regulation"
+  },
+  "Photosynthesis": {
+    "chunk_ids": [
+      "chunk-22628eef813855ce45f903e724ee1e21"
+    ],
+    "count": 1,
+    "create_time": 1766109411,
+    "update_time": 1766109411,
+    "_id": "Photosynthesis"
+  },
+  "Atmosphere": {
+    "chunk_ids": [
+      "chunk-22628eef813855ce45f903e724ee1e21"
+    ],
+    "count": 1,
+    "create_time": 1766109411,
+    "update_time": 1766109411,
+    "_id": "Atmosphere"
+  },
+  "Amazônia": {
+    "chunk_ids": [
+      "chunk-22628eef813855ce45f903e724ee1e21"
+    ],
+    "count": 1,
+    "create_time": 1766109411,
+    "update_time": 1766109411,
+    "_id": "Amazônia"
+  },
+  "Lungs of The Planet": {
+    "chunk_ids": [
+      "chunk-22628eef813855ce45f903e724ee1e21"
+    ],
+    "count": 1,
+    "create_time": 1766109411,
+    "update_time": 1766109411,
+    "_id": "Lungs of The Planet"
+  },
+  "Ocean Temperature Increase": {
+    "chunk_ids": [
+      "chunk-22628eef813855ce45f903e724ee1e21"
+    ],
+    "count": 1,
+    "create_time": 1766109411,
+    "update_time": 1766109411,
+    "_id": "Ocean Temperature Increase"
+  },
+  "Global Climate": {
+    "chunk_ids": [
+      "chunk-22628eef813855ce45f903e724ee1e21"
+    ],
+    "count": 1,
+    "create_time": 1766109411,
+    "update_time": 1766109411,
+    "_id": "Global Climate"
+  },
+  "Life on Earth": {
+    "chunk_ids": [
+      "chunk-22628eef813855ce45f903e724ee1e21"
+    ],
+    "count": 1,
+    "create_time": 1766109411,
+    "update_time": 1766109411,
+    "_id": "Life on Earth"
+  },
+  "Superoxide (O₂⁻)": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c",
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 2,
+    "create_time": 1766109526,
+    "update_time": 1766109526,
+    "_id": "Superoxide (O₂⁻)"
+  },
+  "Peroxide (O₂²⁻)": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c",
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 2,
+    "create_time": 1766109526,
+    "update_time": 1766109526,
+    "_id": "Peroxide (O₂²⁻)"
+  },
+  "Hydroxyl Radicals": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c",
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 2,
+    "create_time": 1766109526,
+    "update_time": 1766109526,
+    "_id": "Hydroxyl Radicals"
+  },
+  "Electrochemistry": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c",
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 2,
+    "create_time": 1766109526,
+    "update_time": 1766109526,
+    "_id": "Electrochemistry"
+  },
+  "Corrosion Science": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c",
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 2,
+    "create_time": 1766109526,
+    "update_time": 1766109526,
+    "_id": "Corrosion Science"
+  },
+  "Biological Respiration": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c",
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 2,
+    "create_time": 1766109526,
+    "update_time": 1766109526,
+    "_id": "Biological Respiration"
+  },
+  "Biological Systems": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c",
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 2,
+    "create_time": 1766109526,
+    "update_time": 1766109526,
+    "_id": "Biological Systems"
+  },
+  "Oxidative Phosphorylation": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c",
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 2,
+    "create_time": 1766109529,
+    "update_time": 1766109529,
+    "_id": "Oxidative Phosphorylation"
+  },
+  "Reactive Oxygen Species (ROS)": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c",
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 2,
+    "create_time": 1766109529,
+    "update_time": 1766109529,
+    "_id": "Reactive Oxygen Species (ROS)"
+  },
+  "Cellular Integrity": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c",
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 2,
+    "create_time": 1766109529,
+    "update_time": 1766109529,
+    "_id": "Cellular Integrity"
+  },
+  "Antioxidant Defense Systems": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109529,
+    "update_time": 1766109529,
+    "_id": "Antioxidant Defense Systems"
+  },
+  "Oxidative Damage": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109529,
+    "update_time": 1766109529,
+    "_id": "Oxidative Damage"
+  },
+  "Oxygen Chemistry": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c",
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 2,
+    "create_time": 1766109529,
+    "update_time": 1766109529,
+    "_id": "Oxygen Chemistry"
+  },
+  "Atmospheric Chemistry": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c",
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 2,
+    "create_time": 1766109529,
+    "update_time": 1766109529,
+    "_id": "Atmospheric Chemistry"
+  },
+  "Ozone": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109529,
+    "update_time": 1766109529,
+    "_id": "Ozone"
+  },
+  "Photochemical Smog": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109532,
+    "update_time": 1766109532,
+    "_id": "Photochemical Smog"
+  },
+  "Pollutants": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109532,
+    "update_time": 1766109532,
+    "_id": "Pollutants"
+  },
+  "Solar Radiation": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109532,
+    "update_time": 1766109532,
+    "_id": "Solar Radiation"
+  },
+  "Trace Gases": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109532,
+    "update_time": 1766109532,
+    "_id": "Trace Gases"
+  },
+  "Non-Equilibrium Chemical Dynamics": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109532,
+    "update_time": 1766109532,
+    "_id": "Non-Equilibrium Chemical Dynamics"
+  },
+  "Planetary Scale": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109532,
+    "update_time": 1766109532,
+    "_id": "Planetary Scale"
+  },
+  "Industrial Oxidation Processes": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109532,
+    "update_time": 1766109532,
+    "_id": "Industrial Oxidation Processes"
+  },
+  "Chemical Manufacturing": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109532,
+    "update_time": 1766109532,
+    "_id": "Chemical Manufacturing"
+  },
+  "Acids": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109535,
+    "update_time": 1766109535,
+    "_id": "Acids"
+  },
+  "Polymers": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109535,
+    "update_time": 1766109535,
+    "_id": "Polymers"
+  },
+  "Fuels": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109535,
+    "update_time": 1766109535,
+    "_id": "Fuels"
+  },
+  "Control of Oxygen Reactivity": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109535,
+    "update_time": 1766109535,
+    "_id": "Control of Oxygen Reactivity"
+  },
+  "Catalysts": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109535,
+    "update_time": 1766109535,
+    "_id": "Catalysts"
+  },
+  "Pressure": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109535,
+    "update_time": 1766109535,
+    "_id": "Pressure"
+  },
+  "Temperature": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109535,
+    "update_time": 1766109535,
+    "_id": "Temperature"
+  },
+  "Chemical Engineering": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109535,
+    "update_time": 1766109535,
+    "_id": "Chemical Engineering"
+  },
+  "Classical Models": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109538,
+    "update_time": 1766109538,
+    "_id": "Classical Models"
+  },
+  "Electronic Structure": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c",
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 2,
+    "create_time": 1766109538,
+    "update_time": 1766109538,
+    "_id": "Electronic Structure"
+  },
+  "Quantum Mechanical Principles": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109538,
+    "update_time": 1766109538,
+    "_id": "Quantum Mechanical Principles"
+  },
+  "Reactivity Landscape": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109538,
+    "update_time": 1766109538,
+    "_id": "Reactivity Landscape"
+  },
+  "Thermodynamic Inevitability": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109538,
+    "update_time": 1766109538,
+    "_id": "Thermodynamic Inevitability"
+  },
+  "Kinetic Restraint": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109538,
+    "update_time": 1766109538,
+    "_id": "Kinetic Restraint"
+  },
+  "Molecular Orbitals": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109538,
+    "update_time": 1766109538,
+    "_id": "Molecular Orbitals"
+  },
+  "Global Biogeochemical Cycles": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109538,
+    "update_time": 1766109538,
+    "_id": "Global Biogeochemical Cycles"
+  },
+  "Chemical Science": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c",
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 2,
+    "create_time": 1766109541,
+    "update_time": 1766109541,
+    "_id": "Chemical Science"
+  },
+  "Energy": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109541,
+    "update_time": 1766109541,
+    "_id": "Energy"
+  },
+  "Environment": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109541,
+    "update_time": 1766109541,
+    "_id": "Environment"
+  },
+  "Health": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109541,
+    "update_time": 1766109541,
+    "_id": "Health"
+  },
+  "P. Atkins": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109541,
+    "update_time": 1766109541,
+    "_id": "P. Atkins"
+  },
+  "J. de Paula": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109541,
+    "update_time": 1766109541,
+    "_id": "J. de Paula"
+  },
+  "Physical Chemistry": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109541,
+    "update_time": 1766109541,
+    "_id": "Physical Chemistry"
+  },
+  "C. E. Housecroft": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109541,
+    "update_time": 1766109541,
+    "_id": "C. E. Housecroft"
+  },
+  "A. G. Sharpe": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109544,
+    "update_time": 1766109544,
+    "_id": "A. G. Sharpe"
+  },
+  "Inorganic Chemistry": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109544,
+    "update_time": 1766109544,
+    "_id": "Inorganic Chemistry"
+  },
+  "N. J. Turro": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109544,
+    "update_time": 1766109544,
+    "_id": "N. J. Turro"
+  },
+  "Modern Molecular Photochemistry": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109544,
+    "update_time": 1766109544,
+    "_id": "Modern Molecular Photochemistry"
+  },
+  "R. P. Wayne": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109544,
+    "update_time": 1766109544,
+    "_id": "R. P. Wayne"
+  },
+  "Chemistry of Atmospheres": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109544,
+    "update_time": 1766109544,
+    "_id": "Chemistry of Atmospheres"
+  },
+  "Oxygen-Centered Reactions": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109544,
+    "update_time": 1766109544,
+    "_id": "Oxygen-Centered Reactions"
+  },
+  "Electrochemical Reduction Of Oxygen": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c",
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 2,
+    "create_time": 1766109544,
+    "update_time": 1766109544,
+    "_id": "Electrochemical Reduction Of Oxygen"
+  },
+  "Oxidative Cleansing Of Pollutants": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109547,
+    "update_time": 1766109547,
+    "_id": "Oxidative Cleansing Of Pollutants"
+  },
+  "Interplay Of Solar Radiation, Oxygen, And Trace Gases": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109547,
+    "update_time": 1766109547,
+    "_id": "Interplay Of Solar Radiation, Oxygen, And Trace Gases"
+  },
+  "Chemical Principles": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109547,
+    "update_time": 1766109547,
+    "_id": "Chemical Principles"
+  },
+  "Atkins, P.": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109547,
+    "update_time": 1766109547,
+    "_id": "Atkins, P."
+  },
+  "de Paula, J.": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109547,
+    "update_time": 1766109547,
+    "_id": "de Paula, J."
+  },
+  "Housecroft, C. E.": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109547,
+    "update_time": 1766109547,
+    "_id": "Housecroft, C. E."
+  },
+  "Sharpe, A. G.": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109547,
+    "update_time": 1766109547,
+    "_id": "Sharpe, A. G."
+  },
+  "Turro, N. J.": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109547,
+    "update_time": 1766109547,
+    "_id": "Turro, N. J."
+  },
+  "Wayne, R. P.": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109550,
+    "update_time": 1766109550,
+    "_id": "Wayne, R. P."
+  },
+  "Chemistry Of Atmospheres": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109550,
+    "update_time": 1766109550,
+    "_id": "Chemistry Of Atmospheres"
+  },
+  "Reactivity": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109550,
+    "update_time": 1766109550,
+    "_id": "Reactivity"
+  },
+  "Thermodynamic Implications": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109550,
+    "update_time": 1766109550,
+    "_id": "Thermodynamic Implications"
+  },
+  "Chemical Systems": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109550,
+    "update_time": 1766109550,
+    "_id": "Chemical Systems"
+  },
+  "Biological Metabolism": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109550,
+    "update_time": 1766109550,
+    "_id": "Biological Metabolism"
+  },
+  "Planetary Redox Balance": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109550,
+    "update_time": 1766109550,
+    "_id": "Planetary Redox Balance"
+  },
+  "Industrial Oxidation Chemistry": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109550,
+    "update_time": 1766109550,
+    "_id": "Industrial Oxidation Chemistry"
+  },
+  "Molecular Oxygen": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109552,
+    "update_time": 1766109552,
+    "_id": "Molecular Oxygen"
+  },
+  "Classical Bonding Models": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109552,
+    "update_time": 1766109552,
+    "_id": "Classical Bonding Models"
+  },
+  "Advanced Theoretical And Thermodynamic Analysis": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109552,
+    "update_time": 1766109552,
+    "_id": "Advanced Theoretical And Thermodynamic Analysis"
+  },
+  "Quantum Mechanical Descriptions": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109552,
+    "update_time": 1766109552,
+    "_id": "Quantum Mechanical Descriptions"
+  },
+  "Molecular Orbital Theory": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109552,
+    "update_time": 1766109552,
+    "_id": "Molecular Orbital Theory"
+  },
+  "Spin Chemistry": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109552,
+    "update_time": 1766109552,
+    "_id": "Spin Chemistry"
+  },
+  "Triplet Ground State": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109552,
+    "update_time": 1766109552,
+    "_id": "Triplet Ground State"
+  },
+  "Radical Mechanisms": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109552,
+    "update_time": 1766109552,
+    "_id": "Radical Mechanisms"
+  },
+  "Oxygen-Driven Reactions": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109555,
+    "update_time": 1766109555,
+    "_id": "Oxygen-Driven Reactions"
+  },
+  "Earth's Crust": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109555,
+    "update_time": 1766109555,
+    "_id": "Earth's Crust"
+  },
+  "Planet's Atmosphere": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109555,
+    "update_time": 1766109555,
+    "_id": "Planet's Atmosphere"
+  },
+  "Biosphere": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109555,
+    "update_time": 1766109555,
+    "_id": "Biosphere"
+  },
+  "Geochemical Cycles": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109555,
+    "update_time": 1766109555,
+    "_id": "Geochemical Cycles"
+  },
+  "Group 16 Element": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109555,
+    "update_time": 1766109555,
+    "_id": "Group 16 Element"
+  },
+  "Valence Electrons": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109555,
+    "update_time": 1766109555,
+    "_id": "Valence Electrons"
+  },
+  "High Electronegativity": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109555,
+    "update_time": 1766109555,
+    "_id": "High Electronegativity"
+  },
+  "Oxides": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109558,
+    "update_time": 1766109558,
+    "_id": "Oxides"
+  },
+  "Quantum Mechanical Factors": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109558,
+    "update_time": 1766109558,
+    "_id": "Quantum Mechanical Factors"
+  },
+  "Thermodynamic Favorability": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109558,
+    "update_time": 1766109558,
+    "_id": "Thermodynamic Favorability"
+  },
+  "Kinetic Inhibition": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109558,
+    "update_time": 1766109558,
+    "_id": "Kinetic Inhibition"
+  },
+  "Oxidation Reactions": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109558,
+    "update_time": 1766109558,
+    "_id": "Oxidation Reactions"
+  },
+  "Electronic Spin States": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109558,
+    "update_time": 1766109558,
+    "_id": "Electronic Spin States"
+  },
+  "Orbital Symmetry": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109558,
+    "update_time": 1766109558,
+    "_id": "Orbital Symmetry"
+  },
+  "Transition State Theory": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109558,
+    "update_time": 1766109558,
+    "_id": "Transition State Theory"
+  },
+  "Quantum Theory": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109561,
+    "update_time": 1766109561,
+    "_id": "Quantum Theory"
+  },
+  "Applied Chemical Kinetics": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109561,
+    "update_time": 1766109561,
+    "_id": "Applied Chemical Kinetics"
+  },
+  "Atomic Oxygen": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109561,
+    "update_time": 1766109561,
+    "_id": "Atomic Oxygen"
+  },
+  "1s² 2s² 2p⁴": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109561,
+    "update_time": 1766109561,
+    "_id": "1s² 2s² 2p⁴"
+  },
+  "Unpaired Electrons": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109561,
+    "update_time": 1766109561,
+    "_id": "Unpaired Electrons"
+  },
+  "Paramagnetic Character": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109561,
+    "update_time": 1766109561,
+    "_id": "Paramagnetic Character"
+  },
+  "Pauling Scale": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109561,
+    "update_time": 1766109561,
+    "_id": "Pauling Scale"
+  },
+  "Small Atomic Radius": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109561,
+    "update_time": 1766109561,
+    "_id": "Small Atomic Radius"
+  },
+  "Effective Nuclear Charge": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109564,
+    "update_time": 1766109564,
+    "_id": "Effective Nuclear Charge"
+  },
+  "Covalent Bonds": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109564,
+    "update_time": 1766109564,
+    "_id": "Covalent Bonds"
+  },
+  "Oxoanions": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109564,
+    "update_time": 1766109564,
+    "_id": "Oxoanions"
+  },
+  "Sulfur": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109564,
+    "update_time": 1766109564,
+    "_id": "Sulfur"
+  },
+  "Selenium": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109564,
+    "update_time": 1766109564,
+    "_id": "Selenium"
+  },
+  "Valence Shell Expansion": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109564,
+    "update_time": 1766109564,
+    "_id": "Valence Shell Expansion"
+  },
+  "D Orbitals": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109564,
+    "update_time": 1766109564,
+    "_id": "D Orbitals"
+  },
+  "Bonding Models": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109564,
+    "update_time": 1766109564,
+    "_id": "Bonding Models"
+  },
+  "Reactivity Patterns": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109567,
+    "update_time": 1766109567,
+    "_id": "Reactivity Patterns"
+  },
+  "Diatomic Oxygen Molecule": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109567,
+    "update_time": 1766109567,
+    "_id": "Diatomic Oxygen Molecule"
+  },
+  "Valence Bond Approaches": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109567,
+    "update_time": 1766109567,
+    "_id": "Valence Bond Approaches"
+  },
+  "Antibonding π* Orbitals": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109567,
+    "update_time": 1766109567,
+    "_id": "Antibonding π* Orbitals"
+  },
+  "³Σg⁻": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109567,
+    "update_time": 1766109567,
+    "_id": "³Σg⁻"
+  },
+  "Paramagnetism Of O₂": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109567,
+    "update_time": 1766109567,
+    "_id": "Paramagnetism Of O₂"
+  },
+  "Bond Order": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109567,
+    "update_time": 1766109567,
+    "_id": "Bond Order"
+  },
+  "Double-Bond Character": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109567,
+    "update_time": 1766109567,
+    "_id": "Double-Bond Character"
+  },
+  "Singlet Oxygen": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109570,
+    "update_time": 1766109570,
+    "_id": "Singlet Oxygen"
+  },
+  "Excited States": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109570,
+    "update_time": 1766109570,
+    "_id": "Excited States"
+  },
+  "¹Δg": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109570,
+    "update_time": 1766109570,
+    "_id": "¹Δg"
+  },
+  "¹Σg⁺": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109570,
+    "update_time": 1766109570,
+    "_id": "¹Σg⁺"
+  },
+  "Pericyclic Reactions": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109570,
+    "update_time": 1766109570,
+    "_id": "Pericyclic Reactions"
+  },
+  "Ene Reactions": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109570,
+    "update_time": 1766109570,
+    "_id": "Ene Reactions"
+  },
+  "Triplet Oxygen": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109570,
+    "update_time": 1766109570,
+    "_id": "Triplet Oxygen"
+  },
+  "Photochemical Processes": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109570,
+    "update_time": 1766109570,
+    "_id": "Photochemical Processes"
+  },
+  "Photodynamic Therapy": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109573,
+    "update_time": 1766109573,
+    "_id": "Photodynamic Therapy"
+  },
+  "Spin Conservation Rules": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109573,
+    "update_time": 1766109573,
+    "_id": "Spin Conservation Rules"
+  },
+  "Organic Molecules": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109573,
+    "update_time": 1766109573,
+    "_id": "Organic Molecules"
+  },
+  "Singlet Ground States": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109573,
+    "update_time": 1766109573,
+    "_id": "Singlet Ground States"
+  },
+  "Direct Reactions": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109573,
+    "update_time": 1766109573,
+    "_id": "Direct Reactions"
+  },
+  "Singlet Substrates": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109573,
+    "update_time": 1766109573,
+    "_id": "Singlet Substrates"
+  },
+  "Activation Barriers": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109573,
+    "update_time": 1766109573,
+    "_id": "Activation Barriers"
+  },
+  "Organic Matter": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109573,
+    "update_time": 1766109573,
+    "_id": "Organic Matter"
+  },
+  "Ambient Conditions": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109578,
+    "update_time": 1766109578,
+    "_id": "Ambient Conditions"
+  },
+  "Spin Inversion Mechanisms": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109578,
+    "update_time": 1766109578,
+    "_id": "Spin Inversion Mechanisms"
+  },
+  "Radicals": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109578,
+    "update_time": 1766109578,
+    "_id": "Radicals"
+  },
+  "Transition Metal Complexes": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109578,
+    "update_time": 1766109578,
+    "_id": "Transition Metal Complexes"
+  },
+  "Radical Chain Mechanisms": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109578,
+    "update_time": 1766109578,
+    "_id": "Radical Chain Mechanisms"
+  },
+  "Autoxidation Processes": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109578,
+    "update_time": 1766109578,
+    "_id": "Autoxidation Processes"
+  },
+  "Peroxyl Radicals": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109578,
+    "update_time": 1766109578,
+    "_id": "Peroxyl Radicals"
+  },
+  "Alkoxyl Radicals": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109578,
+    "update_time": 1766109578,
+    "_id": "Alkoxyl Radicals"
+  },
+  "Polymer Degradation": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109581,
+    "update_time": 1766109581,
+    "_id": "Polymer Degradation"
+  },
+  "Lipid Peroxidation": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109581,
+    "update_time": 1766109581,
+    "_id": "Lipid Peroxidation"
+  },
+  "Oxidation Cycles": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109581,
+    "update_time": 1766109581,
+    "_id": "Oxidation Cycles"
+  },
+  "Enthalpic Driving Forces": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109581,
+    "update_time": 1766109581,
+    "_id": "Enthalpic Driving Forces"
+  },
+  "Enthalpy Changes": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109581,
+    "update_time": 1766109581,
+    "_id": "Enthalpy Changes"
+  },
+  "O–H Bonds": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109581,
+    "update_time": 1766109581,
+    "_id": "O–H Bonds"
+  },
+  "C=O Bonds": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109581,
+    "update_time": 1766109581,
+    "_id": "C=O Bonds"
+  },
+  "Bond Dissociation Energy": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109581,
+    "update_time": 1766109581,
+    "_id": "Bond Dissociation Energy"
+  },
+  "Oxidation Products": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109584,
+    "update_time": 1766109584,
+    "_id": "Oxidation Products"
+  },
+  "Reactants": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109584,
+    "update_time": 1766109584,
+    "_id": "Reactants"
+  },
+  "Entropy Considerations": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109584,
+    "update_time": 1766109584,
+    "_id": "Entropy Considerations"
+  },
+  "Gibbs Free Energy Change": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109584,
+    "update_time": 1766109584,
+    "_id": "Gibbs Free Energy Change"
+  },
+  "Acid–Base Chemistry": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109584,
+    "update_time": 1766109584,
+    "_id": "Acid–Base Chemistry"
+  },
+  "Redox Chemistry": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109584,
+    "update_time": 1766109584,
+    "_id": "Redox Chemistry"
+  },
+  "Proton Acceptor": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109584,
+    "update_time": 1766109584,
+    "_id": "Proton Acceptor"
+  },
+  "Proton Donor": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109584,
+    "update_time": 1766109584,
+    "_id": "Proton Donor"
+  },
+  "Functional Groups": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109587,
+    "update_time": 1766109587,
+    "_id": "Functional Groups"
+  },
+  "Oxidizing Agent": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109587,
+    "update_time": 1766109587,
+    "_id": "Oxidizing Agent"
+  },
+  "Aqueous Environments": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109587,
+    "update_time": 1766109587,
+    "_id": "Aqueous Environments"
+  },
+  "Multi-Electron Reduction": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109587,
+    "update_time": 1766109587,
+    "_id": "Multi-Electron Reduction"
+  },
+  "Electrochemical Reduction": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109587,
+    "update_time": 1766109587,
+    "_id": "Electrochemical Reduction"
+  },
+  "Superoxide": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109587,
+    "update_time": 1766109587,
+    "_id": "Superoxide"
+  },
+  "Peroxide": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109587,
+    "update_time": 1766109587,
+    "_id": "Peroxide"
+  },
+  "Energy Production": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109590,
+    "update_time": 1766109590,
+    "_id": "Energy Production"
+  },
+  "Reactive Oxygen Species": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109590,
+    "update_time": 1766109590,
+    "_id": "Reactive Oxygen Species"
+  },
+  "Macroscopic Thermodynamic Consequences": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109590,
+    "update_time": 1766109590,
+    "_id": "Macroscopic Thermodynamic Consequences"
+  },
+  "Oxygen's Triplet Ground State": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109590,
+    "update_time": 1766109590,
+    "_id": "Oxygen's Triplet Ground State"
+  },
+  "Equilibrium Chemical Systems": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109590,
+    "update_time": 1766109590,
+    "_id": "Equilibrium Chemical Systems"
+  },
+  "Non-Equilibrium Chemical Systems": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109590,
+    "update_time": 1766109590,
+    "_id": "Non-Equilibrium Chemical Systems"
+  },
+  "Universe": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109590,
+    "update_time": 1766109590,
+    "_id": "Universe"
+  },
+  "Fundamental Quantum Theory": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109593,
+    "update_time": 1766109593,
+    "_id": "Fundamental Quantum Theory"
+  },
+  "Ground-State Electron Configuration (1s² 2s² 2p⁴)": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109593,
+    "update_time": 1766109593,
+    "_id": "Ground-State Electron Configuration (1s² 2s² 2p⁴)"
+  },
+  "2p Orbitals": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109593,
+    "update_time": 1766109593,
+    "_id": "2p Orbitals"
+  },
+  "Electronegativity": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109593,
+    "update_time": 1766109593,
+    "_id": "Electronegativity"
+  },
+  "Atomic Radius": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109593,
+    "update_time": 1766109593,
+    "_id": "Atomic Radius"
+  },
+  "Valence Shell": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109593,
+    "update_time": 1766109593,
+    "_id": "Valence Shell"
+  },
+  "d Orbitals": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109593,
+    "update_time": 1766109593,
+    "_id": "d Orbitals"
+  },
+  "Bond Order Of O₂": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109593,
+    "update_time": 1766109593,
+    "_id": "Bond Order Of O₂"
+  },
+  "Bonding Electrons": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109596,
+    "update_time": 1766109596,
+    "_id": "Bonding Electrons"
+  },
+  "Antibonding Electrons": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109596,
+    "update_time": 1766109596,
+    "_id": "Antibonding Electrons"
+  },
+  "High Activation Barriers": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109596,
+    "update_time": 1766109596,
+    "_id": "High Activation Barriers"
+  },
+  "Air": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109596,
+    "update_time": 1766109596,
+    "_id": "Air"
+  },
+  "Peroxyl (ROO·) Radicals": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109596,
+    "update_time": 1766109596,
+    "_id": "Peroxyl (ROO·) Radicals"
+  },
+  "Alkoxyl (RO·) Radicals": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109596,
+    "update_time": 1766109596,
+    "_id": "Alkoxyl (RO·) Radicals"
+  },
+  "Atmospheric Oxidation Cycles": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109596,
+    "update_time": 1766109596,
+    "_id": "Atmospheric Oxidation Cycles"
+  },
+  "Gaseous Oxygen": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109596,
+    "update_time": 1766109596,
+    "_id": "Gaseous Oxygen"
+  },
+  "Condensed-Phase Products": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109599,
+    "update_time": 1766109599,
+    "_id": "Condensed-Phase Products"
+  },
+  "Utility": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109618,
+    "update_time": 1766109618,
+    "_id": "Utility"
+  },
+  "Toxicity": {
+    "chunk_ids": [
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "count": 1,
+    "create_time": 1766109624,
+    "update_time": 1766109624,
+    "_id": "Toxicity"
+  },
+  "This Article": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109634,
+    "update_time": 1766109634,
+    "_id": "This Article"
+  },
+  "Oxygen's Chemical Behavior": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109637,
+    "update_time": 1766109637,
+    "_id": "Oxygen's Chemical Behavior"
+  },
+  "Oxygen's Reactivity": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109641,
+    "update_time": 1766109641,
+    "_id": "Oxygen's Reactivity"
+  },
+  "Understanding": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109643,
+    "update_time": 1766109643,
+    "_id": "Understanding"
+  },
+  "Oxygen's High Electronegativity": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109646,
+    "update_time": 1766109646,
+    "_id": "Oxygen's High Electronegativity"
+  },
+  "Reduced Ability to Expand Valence Shell": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109649,
+    "update_time": 1766109649,
+    "_id": "Reduced Ability to Expand Valence Shell"
+  },
+  "Spin Restriction": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109658,
+    "update_time": 1766109658,
+    "_id": "Spin Restriction"
+  },
+  "Kinetic Barriers": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109658,
+    "update_time": 1766109658,
+    "_id": "Kinetic Barriers"
+  },
+  "Spin-Forbidden": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109660,
+    "update_time": 1766109660,
+    "_id": "Spin-Forbidden"
+  },
+  "Radical Intermediates": {
+    "chunk_ids": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa"
+    ],
+    "count": 1,
+    "create_time": 1766109660,
+    "update_time": 1766109660,
+    "_id": "Radical Intermediates"
+  }
+}

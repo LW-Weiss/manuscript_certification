@@ -1,0 +1,37 @@
+{
+  "doc-22628eef813855ce45f903e724ee1e21": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-22628eef813855ce45f903e724ee1e21"
+    ],
+    "content_summary": "Uma curiosidade pouco conhecida, mas profundamente reveladora sobre o mundo em que vivemos, é que a maior parte do oxigênio que respiramos não vem das florestas, e sim dos oceanos — mais especificamente, de organismos microscópicos invisíveis a olho ...",
+    "content_length": 2834,
+    "created_at": "2025-12-19T01:43:44.788093+00:00",
+    "updated_at": "2025-12-19T01:57:12.178608+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251218_224344_1a071c69",
+    "metadata": {
+      "processing_start_time": 1766109334,
+      "processing_end_time": 1766109432
+    }
+  },
+  "doc-f58b22078e5d5595c4606cd360bac776": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-6a7ac5f2987c27476e0cdaded49ee4fa",
+      "chunk-d3de8b788647b7a88c4595c4aca30c2c"
+    ],
+    "content_summary": "Electronic Structure, Reactivity, and Thermodynamic Implications of Oxygen in Chemical Systems\nAbstract\n\nOxygen is arguably the most chemically influential element on Earth, governing processes that range from biological metabolism to planetary redox...",
+    "content_length": 8057,
+    "created_at": "2025-12-19T01:47:58.821519+00:00",
+    "updated_at": "2025-12-19T02:01:33.410164+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251218_224758_0166322d",
+    "metadata": {
+      "processing_start_time": 1766109334,
+      "processing_end_time": 1766109693
+    }
+  }
+}

@@ -1,0 +1,1034 @@
+{
+  "doc-22628eef813855ce45f903e724ee1e21": {
+    "relation_pairs": [
+      [
+        "Chemical Energy",
+        "Photosynthesis"
+      ],
+      [
+        "Photosynthesis",
+        "Phytoplankton"
+      ],
+      [
+        "Global Climate Regulation",
+        "Phytoplankton"
+      ],
+      [
+        "Forests",
+        "Oxygen Production"
+      ],
+      [
+        "Atmosphere",
+        "Oxygen"
+      ],
+      [
+        "Lungs of The Planet",
+        "Tropical Forests"
+      ],
+      [
+        "Amazon",
+        "Tropical Forests"
+      ],
+      [
+        "Climatic Balance",
+        "Forests"
+      ],
+      [
+        "Climate Change",
+        "Phytoplankton"
+      ],
+      [
+        "Atmosphere",
+        "Phytoplankton"
+      ],
+      [
+        "Earth",
+        "Oceans"
+      ],
+      [
+        "Average Planet Temperature",
+        "Biological Carbon Pump"
+      ],
+      [
+        "Biological Carbon Pump",
+        "Phytoplankton"
+      ],
+      [
+        "Oxygen",
+        "Phytoplankton"
+      ],
+      [
+        "Ocean Acidification",
+        "Phytoplankton"
+      ],
+      [
+        "Oceans",
+        "Oxygen"
+      ],
+      [
+        "Phytoplankton",
+        "Pollution"
+      ],
+      [
+        "Microscopic Algae",
+        "Phytoplankton"
+      ],
+      [
+        "Ocean Temperature Increase",
+        "Phytoplankton"
+      ],
+      [
+        "Human Life",
+        "Phytoplankton"
+      ],
+      [
+        "Carbon Dioxide",
+        "Phytoplankton"
+      ],
+      [
+        "Cyanobacteria",
+        "Phytoplankton"
+      ],
+      [
+        "Biological Carbon Pump",
+        "Greenhouse Gases"
+      ],
+      [
+        "Complex Life On Earth",
+        "Phytoplankton"
+      ],
+      [
+        "Oceans",
+        "Phytoplankton"
+      ],
+      [
+        "Phytoplankton",
+        "Water"
+      ],
+      [
+        "Global Climate",
+        "Phytoplankton"
+      ],
+      [
+        "Amazônia",
+        "Tropical Forests"
+      ],
+      [
+        "Oxygen",
+        "Photosynthesis"
+      ],
+      [
+        "Phytoplankton",
+        "Sunlight"
+      ],
+      [
+        "Forests",
+        "Oxygen"
+      ],
+      [
+        "Lungs Of The Planet",
+        "Tropical Forests"
+      ],
+      [
+        "Life on Earth",
+        "Phytoplankton"
+      ]
+    ],
+    "count": 33,
+    "create_time": 1766109432,
+    "update_time": 1766109432,
+    "_id": "doc-22628eef813855ce45f903e724ee1e21"
+  },
+  "doc-f58b22078e5d5595c4606cd360bac776": {
+    "relation_pairs": [
+      [
+        "Oxygen",
+        "Peroxide (O₂²⁻)"
+      ],
+      [
+        "Oxygen",
+        "Selenium"
+      ],
+      [
+        "Atomic Radius",
+        "Electronegativity"
+      ],
+      [
+        "Equilibrium Chemical Systems",
+        "Oxygen"
+      ],
+      [
+        "Ambient Conditions",
+        "Organic Matter"
+      ],
+      [
+        "Autoxidation Processes",
+        "Lipid Peroxidation"
+      ],
+      [
+        "Pericyclic Reactions",
+        "Singlet Oxygen"
+      ],
+      [
+        "Electrochemistry",
+        "Superoxide"
+      ],
+      [
+        "Organic Matter",
+        "Spin Restriction"
+      ],
+      [
+        "Multi-Electron Reduction",
+        "Water"
+      ],
+      [
+        "Corrosion Science",
+        "Hydroxyl Radicals"
+      ],
+      [
+        "Control of Oxygen Reactivity",
+        "Pressure"
+      ],
+      [
+        "High Electronegativity",
+        "Oxygen"
+      ],
+      [
+        "Covalent Bonds",
+        "Oxygen"
+      ],
+      [
+        "Oxygen-Centered Reactions",
+        "Pollutants"
+      ],
+      [
+        "Advanced Theoretical And Thermodynamic Analysis",
+        "Quantum Mechanical Descriptions"
+      ],
+      [
+        "A. G. Sharpe",
+        "Inorganic Chemistry"
+      ],
+      [
+        "Oxygen",
+        "Valence Shell"
+      ],
+      [
+        "Radicals",
+        "Spin Inversion Mechanisms"
+      ],
+      [
+        "J. de Paula",
+        "Physical Chemistry"
+      ],
+      [
+        "Energy",
+        "Oxygen Chemistry"
+      ],
+      [
+        "Reactivity Landscape",
+        "Thermodynamic Inevitability"
+      ],
+      [
+        "Oxygen",
+        "Quantum Mechanical Principles"
+      ],
+      [
+        "Antibonding Electrons",
+        "Reactivity"
+      ],
+      [
+        "Chemical Engineering",
+        "Control of Oxygen Reactivity"
+      ],
+      [
+        "1s² 2s² 2p⁴",
+        "Atomic Oxygen"
+      ],
+      [
+        "Entropy Considerations",
+        "Oxidation Reactions"
+      ],
+      [
+        "Inorganic Chemistry",
+        "Sharpe, A. G."
+      ],
+      [
+        "Bond Order Of O₂",
+        "Double-Bond Character"
+      ],
+      [
+        "Biological Systems",
+        "Oxidative Phosphorylation"
+      ],
+      [
+        "Interplay Of Solar Radiation, Oxygen, And Trace Gases",
+        "Non-Equilibrium Chemical Dynamics"
+      ],
+      [
+        "Atkins, P.",
+        "Physical Chemistry"
+      ],
+      [
+        "Cellular Integrity",
+        "Reactive Oxygen Species"
+      ],
+      [
+        "Molecular Orbitals",
+        "Oxygen"
+      ],
+      [
+        "Enthalpy Changes",
+        "Oxidation Reactions"
+      ],
+      [
+        "Bond Dissociation Energy",
+        "Oxidation Products"
+      ],
+      [
+        "Chemical Engineering",
+        "Oxygen"
+      ],
+      [
+        "Oxygen",
+        "Solar Radiation"
+      ],
+      [
+        "Advanced Theoretical And Thermodynamic Analysis",
+        "Triplet Ground State"
+      ],
+      [
+        "D Orbitals",
+        "Valence Shell Expansion"
+      ],
+      [
+        "Fuels",
+        "Industrial Oxidation Processes"
+      ],
+      [
+        "Reactivity Patterns",
+        "Reduced Ability to Expand Valence Shell"
+      ],
+      [
+        "Industrial Oxidation Processes",
+        "Polymers"
+      ],
+      [
+        "Direct Reactions",
+        "Triplet Oxygen"
+      ],
+      [
+        "Oxygen",
+        "Temperature"
+      ],
+      [
+        "Electrochemical Reduction Of Oxygen",
+        "Superoxide (O₂⁻)"
+      ],
+      [
+        "Atmospheric Oxidation Cycles",
+        "Autoxidation Processes"
+      ],
+      [
+        "Corrosion Science",
+        "Superoxide"
+      ],
+      [
+        "Oxygen",
+        "Valence Electrons"
+      ],
+      [
+        "Housecroft, C. E.",
+        "Inorganic Chemistry"
+      ],
+      [
+        "Direct Reactions",
+        "Spin-Forbidden"
+      ],
+      [
+        "Effective Nuclear Charge",
+        "Oxygen's High Electronegativity"
+      ],
+      [
+        "Atmospheric Chemistry",
+        "Singlet Oxygen"
+      ],
+      [
+        "Advanced Theoretical And Thermodynamic Analysis",
+        "Macroscopic Thermodynamic Consequences"
+      ],
+      [
+        "Chemical Manufacturing",
+        "Industrial Oxidation Processes"
+      ],
+      [
+        "Excited States",
+        "Photodynamic Therapy"
+      ],
+      [
+        "Electronic Structure",
+        "Quantum Mechanical Principles"
+      ],
+      [
+        "Group 16 Element",
+        "Oxygen"
+      ],
+      [
+        "Advanced Theoretical And Thermodynamic Analysis",
+        "Molecular Orbital Theory"
+      ],
+      [
+        "Oxygen's Reactivity",
+        "Quantum Mechanical Factors"
+      ],
+      [
+        "Oxygen-Centered Reactions",
+        "Photochemical Smog"
+      ],
+      [
+        "Entropy Considerations",
+        "Gibbs Free Energy Change"
+      ],
+      [
+        "Organic Molecules",
+        "Singlet Ground States"
+      ],
+      [
+        "Oxygen",
+        "Proton Donor"
+      ],
+      [
+        "Oxygen Chemistry",
+        "Quantum Theory"
+      ],
+      [
+        "Molecular Oxygen",
+        "Reactivity Patterns"
+      ],
+      [
+        "Electrochemistry",
+        "Superoxide (O₂⁻)"
+      ],
+      [
+        "Organic Molecules",
+        "Oxygen's Triplet Ground State"
+      ],
+      [
+        "Enthalpy Changes",
+        "O–H Bonds"
+      ],
+      [
+        "Oxygen Chemistry",
+        "Thermodynamic Favorability"
+      ],
+      [
+        "Antibonding π* Orbitals",
+        "Unpaired Electrons"
+      ],
+      [
+        "Photochemical Processes",
+        "Singlet Oxygen"
+      ],
+      [
+        "Advanced Theoretical And Thermodynamic Analysis",
+        "This Article"
+      ],
+      [
+        "Applied Chemical Kinetics",
+        "Oxygen Chemistry"
+      ],
+      [
+        "Antibonding Electrons",
+        "Reactivity Patterns"
+      ],
+      [
+        "Paramagnetic Character",
+        "Unpaired Electrons"
+      ],
+      [
+        "Chemical Manufacturing",
+        "Fuels"
+      ],
+      [
+        "Oxygen",
+        "Photochemical Smog"
+      ],
+      [
+        "Cellular Integrity",
+        "Reactive Oxygen Species (ROS)"
+      ],
+      [
+        "Peroxyl Radicals",
+        "Radical Intermediates"
+      ],
+      [
+        "Valence Shell",
+        "d Orbitals"
+      ],
+      [
+        "Classical Models",
+        "Oxygen"
+      ],
+      [
+        "Transition State Theory",
+        "Understanding"
+      ],
+      [
+        "Oxidative Phosphorylation",
+        "Oxygen"
+      ],
+      [
+        "Electronic Spin States",
+        "Reactivity Patterns"
+      ],
+      [
+        "Geochemical Cycles",
+        "Oxygen"
+      ],
+      [
+        "Oxygen",
+        "Thermodynamic Favorability"
+      ],
+      [
+        "Quantum Mechanical Factors",
+        "Reactivity Patterns"
+      ],
+      [
+        "Kinetic Inhibition",
+        "Oxygen Chemistry"
+      ],
+      [
+        "Alkoxyl Radicals",
+        "Radical Intermediates"
+      ],
+      [
+        "High Activation Barriers",
+        "Spin Restriction"
+      ],
+      [
+        "Chemistry of Atmospheres",
+        "R. P. Wayne"
+      ],
+      [
+        "C=O Bonds",
+        "Enthalpy Changes"
+      ],
+      [
+        "High Activation Barriers",
+        "Spin Inversion Mechanisms"
+      ],
+      [
+        "Direct Reactions",
+        "Singlet Substrates"
+      ],
+      [
+        "Ene Reactions",
+        "Singlet Oxygen"
+      ],
+      [
+        "Atmospheric Chemistry",
+        "Oxygen"
+      ],
+      [
+        "Electronic Structure",
+        "Oxygen"
+      ],
+      [
+        "Oxygen",
+        "Superoxide (O₂⁻)"
+      ],
+      [
+        "Oxygen's Chemical Behavior",
+        "Planet's Atmosphere"
+      ],
+      [
+        "Orbital Symmetry",
+        "Understanding"
+      ],
+      [
+        "Energy Production",
+        "Oxidative Phosphorylation"
+      ],
+      [
+        "Chemical Manufacturing",
+        "Polymers"
+      ],
+      [
+        "Advanced Theoretical And Thermodynamic Analysis",
+        "Spin Chemistry"
+      ],
+      [
+        "Spin Inversion Mechanisms",
+        "Transition Metal Complexes"
+      ],
+      [
+        "Oxygen Chemistry",
+        "Utility"
+      ],
+      [
+        "Corrosion Science",
+        "Superoxide (O₂⁻)"
+      ],
+      [
+        "Fundamental Quantum Theory",
+        "Oxygen Chemistry"
+      ],
+      [
+        "Biological Respiration",
+        "Peroxide (O₂²⁻)"
+      ],
+      [
+        "Oxidative Cleansing Of Pollutants",
+        "Oxygen"
+      ],
+      [
+        "2p Orbitals",
+        "Unpaired Electrons"
+      ],
+      [
+        "Oxoanions",
+        "Oxygen's High Electronegativity"
+      ],
+      [
+        "Molecular Orbital Theory",
+        "Paramagnetism Of O₂"
+      ],
+      [
+        "Global Biogeochemical Cycles",
+        "Oxygen"
+      ],
+      [
+        "1s² 2s² 2p⁴",
+        "Unpaired Electrons"
+      ],
+      [
+        "Control of Oxygen Reactivity",
+        "Temperature"
+      ],
+      [
+        "Reactivity Patterns",
+        "Singlet Oxygen"
+      ],
+      [
+        "Oxidizing Agent",
+        "Oxygen"
+      ],
+      [
+        "Modern Molecular Photochemistry",
+        "N. J. Turro"
+      ],
+      [
+        "Electronic Structure",
+        "Molecular Oxygen"
+      ],
+      [
+        "Biological Respiration",
+        "Hydroxyl Radicals"
+      ],
+      [
+        "Biological Metabolism",
+        "Oxygen"
+      ],
+      [
+        "Earth's Crust",
+        "Oxygen"
+      ],
+      [
+        "Entropy Considerations",
+        "Gaseous Oxygen"
+      ],
+      [
+        "Kinetic Inhibition",
+        "Molecular Oxygen"
+      ],
+      [
+        "Oxygen",
+        "Planetary Redox Balance"
+      ],
+      [
+        "Alkoxyl (RO·) Radicals",
+        "Autoxidation Processes"
+      ],
+      [
+        "Oxygen's High Electronegativity",
+        "Small Atomic Radius"
+      ],
+      [
+        "Oxidation Products",
+        "Reactants"
+      ],
+      [
+        "Chemical Science",
+        "Oxygen Chemistry"
+      ],
+      [
+        "C. E. Housecroft",
+        "Inorganic Chemistry"
+      ],
+      [
+        "Oxygen",
+        "Water"
+      ],
+      [
+        "Oxygen",
+        "Redox Chemistry"
+      ],
+      [
+        "Reactivity Patterns",
+        "Transition State Theory"
+      ],
+      [
+        "Atmospheric Chemistry",
+        "Excited States"
+      ],
+      [
+        "Autoxidation Processes",
+        "Peroxyl (ROO·) Radicals"
+      ],
+      [
+        "Photodynamic Therapy",
+        "Singlet Oxygen"
+      ],
+      [
+        "Oxides",
+        "Oxygen"
+      ],
+      [
+        "Oxygen-Centered Reactions",
+        "Ozone"
+      ],
+      [
+        "Biological Respiration",
+        "Superoxide"
+      ],
+      [
+        "Autoxidation Processes",
+        "Polymer Degradation"
+      ],
+      [
+        "Solar Radiation",
+        "Trace Gases"
+      ],
+      [
+        "Hydroxyl Radicals",
+        "Oxygen"
+      ],
+      [
+        "Autoxidation Processes",
+        "Radical Intermediates"
+      ],
+      [
+        "Chemistry Of Atmospheres",
+        "Wayne, R. P."
+      ],
+      [
+        "Non-Equilibrium Chemical Systems",
+        "Oxygen"
+      ],
+      [
+        "Biological Systems",
+        "Energy Production"
+      ],
+      [
+        "Molecular Oxygen",
+        "Oxidation Reactions"
+      ],
+      [
+        "Enthalpic Driving Forces",
+        "Oxidation Reactions"
+      ],
+      [
+        "Oxygen",
+        "Reactive Oxygen Species (ROS)"
+      ],
+      [
+        "Modern Molecular Photochemistry",
+        "Turro, N. J."
+      ],
+      [
+        "Kinetic Barriers",
+        "Spin Inversion Mechanisms"
+      ],
+      [
+        "Oxidation Reactions",
+        "Thermodynamic Favorability"
+      ],
+      [
+        "Kinetic Inhibition",
+        "Oxygen"
+      ],
+      [
+        "Oxygen",
+        "Ozone"
+      ],
+      [
+        "Acid–Base Chemistry",
+        "Oxygen"
+      ],
+      [
+        "Atomic Oxygen",
+        "Ground-State Electron Configuration (1s² 2s² 2p⁴)"
+      ],
+      [
+        "Biosphere",
+        "Oxygen"
+      ],
+      [
+        "Covalent Bonds",
+        "Oxygen's High Electronegativity"
+      ],
+      [
+        "Corrosion Science",
+        "Peroxide (O₂²⁻)"
+      ],
+      [
+        "Oxygen's Triplet Ground State",
+        "Unpaired Electrons"
+      ],
+      [
+        "Bonding Models",
+        "Reduced Ability to Expand Valence Shell"
+      ],
+      [
+        "Electrochemical Reduction Of Oxygen",
+        "Peroxide (O₂²⁻)"
+      ],
+      [
+        "Oxygen",
+        "Pressure"
+      ],
+      [
+        "Multi-Electron Reduction",
+        "Oxygen"
+      ],
+      [
+        "Triplet Ground State",
+        "Unpaired Electrons"
+      ],
+      [
+        "Oxygen",
+        "Sulfur"
+      ],
+      [
+        "Kinetic Restraint",
+        "Reactivity Landscape"
+      ],
+      [
+        "Oxygen",
+        "Valence Shell Expansion"
+      ],
+      [
+        "Electrochemical Reduction Of Oxygen",
+        "Hydroxyl Radicals"
+      ],
+      [
+        "Electronic Structure",
+        "Reactivity Landscape"
+      ],
+      [
+        "Geochemical Cycles",
+        "Oxygen's Chemical Behavior"
+      ],
+      [
+        "Non-Equilibrium Chemical Dynamics",
+        "Planetary Scale"
+      ],
+      [
+        "Molecular Orbital Theory",
+        "Valence Bond Approaches"
+      ],
+      [
+        "Advanced Theoretical And Thermodynamic Analysis",
+        "Radical Mechanisms"
+      ],
+      [
+        "Electrochemical Reduction Of Oxygen",
+        "Peroxide"
+      ],
+      [
+        "Catalysts",
+        "Control of Oxygen Reactivity"
+      ],
+      [
+        "Electronegativity",
+        "Oxygen"
+      ],
+      [
+        "Oxygen's Triplet Ground State",
+        "Radical Mechanisms"
+      ],
+      [
+        "Oxoanions",
+        "Oxygen"
+      ],
+      [
+        "Oxygen Chemistry",
+        "Radical Chain Mechanisms"
+      ],
+      [
+        "Industrial Oxidation Chemistry",
+        "Oxygen"
+      ],
+      [
+        "Enthalpic Driving Forces",
+        "Gibbs Free Energy Change"
+      ],
+      [
+        "Environment",
+        "Oxygen Chemistry"
+      ],
+      [
+        "Electrochemistry",
+        "Peroxide (O₂²⁻)"
+      ],
+      [
+        "Catalysts",
+        "Oxygen"
+      ],
+      [
+        "Molecular Oxygen",
+        "Paramagnetic Character"
+      ],
+      [
+        "Functional Groups",
+        "Oxygen"
+      ],
+      [
+        "Biological Systems",
+        "Oxygen"
+      ],
+      [
+        "Molecular Oxygen",
+        "Singlet Oxygen"
+      ],
+      [
+        "Advanced Theoretical And Thermodynamic Analysis",
+        "Oxygen-Driven Reactions"
+      ],
+      [
+        "Electrochemistry",
+        "Hydroxyl Radicals"
+      ],
+      [
+        "Biosphere",
+        "Oxygen's Chemical Behavior"
+      ],
+      [
+        "Chemical Science",
+        "Oxygen"
+      ],
+      [
+        "P. Atkins",
+        "Physical Chemistry"
+      ],
+      [
+        "Acids",
+        "Chemical Manufacturing"
+      ],
+      [
+        "Electronic Spin States",
+        "Understanding"
+      ],
+      [
+        "Energy Production",
+        "Oxygen"
+      ],
+      [
+        "Atomic Oxygen",
+        "Unpaired Electrons"
+      ],
+      [
+        "Kinetic Restraint",
+        "Thermodynamic Inevitability"
+      ],
+      [
+        "Paramagnetism Of O₂",
+        "Triplet Ground State"
+      ],
+      [
+        "Effective Nuclear Charge",
+        "Electronegativity"
+      ],
+      [
+        "Oxygen",
+        "Trace Gases"
+      ],
+      [
+        "Classical Bonding Models",
+        "Electronic Structure"
+      ],
+      [
+        "Reactivity",
+        "Singlet Oxygen"
+      ],
+      [
+        "Orbital Symmetry",
+        "Reactivity Patterns"
+      ],
+      [
+        "Antioxidant Defense Systems",
+        "Oxidative Damage"
+      ],
+      [
+        "Chemical Principles",
+        "Oxygen"
+      ],
+      [
+        "Biological Respiration",
+        "Superoxide (O₂⁻)"
+      ],
+      [
+        "Electrochemical Reduction Of Oxygen",
+        "Superoxide"
+      ],
+      [
+        "Diatomic Oxygen Molecule",
+        "Molecular Orbital Theory"
+      ],
+      [
+        "Oxygen",
+        "Planet's Atmosphere"
+      ],
+      [
+        "Bond Order",
+        "Double-Bond Character"
+      ],
+      [
+        "Acids",
+        "Industrial Oxidation Processes"
+      ],
+      [
+        "Oxygen",
+        "Proton Acceptor"
+      ],
+      [
+        "Physical Chemistry",
+        "de Paula, J."
+      ],
+      [
+        "Oxygen Chemistry",
+        "Toxicity"
+      ],
+      [
+        "Health",
+        "Oxygen Chemistry"
+      ],
+      [
+        "Excited States",
+        "Photochemical Processes"
+      ],
+      [
+        "Aqueous Environments",
+        "Oxygen"
+      ],
+      [
+        "Oxygen",
+        "Oxygen Chemistry"
+      ]
+    ],
+    "count": 221,
+    "create_time": 1766109693,
+    "update_time": 1766109693,
+    "_id": "doc-f58b22078e5d5595c4606cd360bac776"
+  }
+}
