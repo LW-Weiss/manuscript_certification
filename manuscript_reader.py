@@ -5,7 +5,7 @@ from lightrag import LightRAG, QueryParam
 from lightrag.kg.shared_storage import initialize_pipeline_status
 
 # 1. Configuração da API
-CHAVE_MESTRA = "AIzaSyB4T3V2vi1BPBfXqAGTYN-srbY3dQs6GvQ"
+CHAVE_MESTRA = "YOUR_API_KEY"
 os.environ["GOOGLE_API_KEY"] = CHAVE_MESTRA
 genai.configure(api_key=CHAVE_MESTRA)
 
