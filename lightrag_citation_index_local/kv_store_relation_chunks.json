@@ -1,0 +1,956 @@
+{
+  "Fortaleza<SEP>Funnel Trap": {
+    "chunk_ids": [
+      "chunk-9089d650ae8e2a5eeaa48428ac790da9"
+    ],
+    "count": 1,
+    "create_time": 1768935309,
+    "update_time": 1768935309,
+    "_id": "Fortaleza<SEP>Funnel Trap"
+  },
+  "Aquatic Fauna<SEP>Funnel Trap": {
+    "chunk_ids": [
+      "chunk-9089d650ae8e2a5eeaa48428ac790da9"
+    ],
+    "count": 1,
+    "create_time": 1768935309,
+    "update_time": 1768935309,
+    "_id": "Aquatic Fauna<SEP>Funnel Trap"
+  },
+  "Fortaleza<SEP>Wells": {
+    "chunk_ids": [
+      "chunk-9089d650ae8e2a5eeaa48428ac790da9"
+    ],
+    "count": 1,
+    "create_time": 1768935309,
+    "update_time": 1768935309,
+    "_id": "Fortaleza<SEP>Wells"
+  },
+  "Container Populations<SEP>III/IV Instars": {
+    "chunk_ids": [
+      "chunk-c84b46b3aab74e9ac67c29d261c5a8f0"
+    ],
+    "count": 1,
+    "create_time": 1768935380,
+    "update_time": 1768935380,
+    "_id": "Container Populations<SEP>III/IV Instars"
+  },
+  "Emergent Adult Populations<SEP>Pupae": {
+    "chunk_ids": [
+      "chunk-c84b46b3aab74e9ac67c29d261c5a8f0"
+    ],
+    "count": 1,
+    "create_time": 1768935380,
+    "update_time": 1768935380,
+    "_id": "Emergent Adult Populations<SEP>Pupae"
+  },
+  "Conversion Factors<SEP>Field Net Sampling Data": {
+    "chunk_ids": [
+      "chunk-c84b46b3aab74e9ac67c29d261c5a8f0"
+    ],
+    "count": 1,
+    "create_time": 1768935380,
+    "update_time": 1768935380,
+    "_id": "Conversion Factors<SEP>Field Net Sampling Data"
+  },
+  "III/IV Instars<SEP>Pupae": {
+    "chunk_ids": [
+      "chunk-c84b46b3aab74e9ac67c29d261c5a8f0"
+    ],
+    "count": 1,
+    "create_time": 1768935380,
+    "update_time": 1768935380,
+    "_id": "III/IV Instars<SEP>Pupae"
+  },
+  "Community-Based Control Strategy<SEP>Northern and Central Vietnam": {
+    "chunk_ids": [
+      "chunk-150b561d4dd47ec0ef54f8c210978655"
+    ],
+    "count": 1,
+    "create_time": 1768935480,
+    "update_time": 1768935480,
+    "_id": "Community-Based Control Strategy<SEP>Northern and Central Vietnam"
+  },
+  "Hau Giang Province<SEP>Long An Province": {
+    "chunk_ids": [
+      "chunk-150b561d4dd47ec0ef54f8c210978655"
+    ],
+    "count": 1,
+    "create_time": 1768935480,
+    "update_time": 1768935480,
+    "_id": "Hau Giang Province<SEP>Long An Province"
+  },
+  "Ben Tre Province<SEP>Vinh Long Province": {
+    "chunk_ids": [
+      "chunk-150b561d4dd47ec0ef54f8c210978655"
+    ],
+    "count": 1,
+    "create_time": 1768935480,
+    "update_time": 1768935480,
+    "_id": "Ben Tre Province<SEP>Vinh Long Province"
+  },
+  "Binh Thanh Commune<SEP>Mesocyclops": {
+    "chunk_ids": [
+      "chunk-150b561d4dd47ec0ef54f8c210978655"
+    ],
+    "count": 1,
+    "create_time": 1768935480,
+    "update_time": 1768935480,
+    "_id": "Binh Thanh Commune<SEP>Mesocyclops"
+  },
+  "Aedes aegypti<SEP>Community-Based Control Strategy": {
+    "chunk_ids": [
+      "chunk-150b561d4dd47ec0ef54f8c210978655"
+    ],
+    "count": 1,
+    "create_time": 1768935480,
+    "update_time": 1768935480,
+    "_id": "Aedes aegypti<SEP>Community-Based Control Strategy"
+  },
+  "Community-Based Control Strategy<SEP>Sustainability Funds": {
+    "chunk_ids": [
+      "chunk-150b561d4dd47ec0ef54f8c210978655"
+    ],
+    "count": 1,
+    "create_time": 1768935480,
+    "update_time": 1768935480,
+    "_id": "Community-Based Control Strategy<SEP>Sustainability Funds"
+  },
+  "Aedes aegypti<SEP>Dengue Cases": {
+    "chunk_ids": [
+      "chunk-150b561d4dd47ec0ef54f8c210978655"
+    ],
+    "count": 1,
+    "create_time": 1768935480,
+    "update_time": 1768935480,
+    "_id": "Aedes aegypti<SEP>Dengue Cases"
+  },
+  "Paper<SEP>Sampling": {
+    "chunk_ids": [
+      "chunk-3fc823099d0a6aa43191157d05a6250a"
+    ],
+    "count": 1,
+    "create_time": 1768935531,
+    "update_time": 1768935531,
+    "_id": "Paper<SEP>Sampling"
+  },
+  "Data Collection and Management<SEP>Paper": {
+    "chunk_ids": [
+      "chunk-3fc823099d0a6aa43191157d05a6250a"
+    ],
+    "count": 1,
+    "create_time": 1768935531,
+    "update_time": 1768935531,
+    "_id": "Data Collection and Management<SEP>Paper"
+  },
+  "Malaria<SEP>Parasite Prevalence Surveys": {
+    "chunk_ids": [
+      "chunk-91d90edfe796b3337e22aba76624bfd4"
+    ],
+    "count": 1,
+    "create_time": 1768935601,
+    "update_time": 1768935601,
+    "_id": "Malaria<SEP>Parasite Prevalence Surveys"
+  },
+  "Dengue<SEP>Endemicity Mapping": {
+    "chunk_ids": [
+      "chunk-91d90edfe796b3337e22aba76624bfd4"
+    ],
+    "count": 1,
+    "create_time": 1768935601,
+    "update_time": 1768935601,
+    "_id": "Dengue<SEP>Endemicity Mapping"
+  },
+  "D Dengue Prevention<SEP>Parasite Prevalence Surveys": {
+    "chunk_ids": [
+      "chunk-91d90edfe796b3337e22aba76624bfd4"
+    ],
+    "count": 1,
+    "create_time": 1768935601,
+    "update_time": 1768935601,
+    "_id": "D Dengue Prevention<SEP>Parasite Prevalence Surveys"
+  },
+  "Endemicity Mapping<SEP>Malaria": {
+    "chunk_ids": [
+      "chunk-91d90edfe796b3337e22aba76624bfd4"
+    ],
+    "count": 1,
+    "create_time": 1768935601,
+    "update_time": 1768935601,
+    "_id": "Endemicity Mapping<SEP>Malaria"
+  },
+  "Dengue<SEP>Malaria": {
+    "chunk_ids": [
+      "chunk-91d90edfe796b3337e22aba76624bfd4"
+    ],
+    "count": 1,
+    "create_time": 1768935601,
+    "update_time": 1768935601,
+    "_id": "Dengue<SEP>Malaria"
+  },
+  "Case-Control Study<SEP>Children": {
+    "chunk_ids": [
+      "chunk-18dc28b186b69b4dc32fd45ae507f576"
+    ],
+    "count": 1,
+    "create_time": 1768935666,
+    "update_time": 1768935666,
+    "_id": "Case-Control Study<SEP>Children"
+  },
+  "DHF (Dengue Hemorrhagic Fever)<SEP>Untreated Bed Nets": {
+    "chunk_ids": [
+      "chunk-18dc28b186b69b4dc32fd45ae507f576"
+    ],
+    "count": 1,
+    "create_time": 1768935666,
+    "update_time": 1768935666,
+    "_id": "DHF (Dengue Hemorrhagic Fever)<SEP>Untreated Bed Nets"
+  },
+  "Children<SEP>Vietnam": {
+    "chunk_ids": [
+      "chunk-18dc28b186b69b4dc32fd45ae507f576"
+    ],
+    "count": 1,
+    "create_time": 1768935666,
+    "update_time": 1768935666,
+    "_id": "Children<SEP>Vietnam"
+  },
+  "Case-Control Study<SEP>Untreated Bed Nets": {
+    "chunk_ids": [
+      "chunk-18dc28b186b69b4dc32fd45ae507f576"
+    ],
+    "count": 1,
+    "create_time": 1768935666,
+    "update_time": 1768935666,
+    "_id": "Case-Control Study<SEP>Untreated Bed Nets"
+  },
+  "Case-Control Study<SEP>DHF (Dengue Hemorrhagic Fever)": {
+    "chunk_ids": [
+      "chunk-18dc28b186b69b4dc32fd45ae507f576"
+    ],
+    "count": 1,
+    "create_time": 1768935666,
+    "update_time": 1768935666,
+    "_id": "Case-Control Study<SEP>DHF (Dengue Hemorrhagic Fever)"
+  },
+  "Aedes aegypti<SEP>Vietnam": {
+    "chunk_ids": [
+      "chunk-f8f8704987d6b587388b0e5aace9ebef",
+      "chunk-4c6fa496f303accae9be7d0ff7aeaa8b"
+    ],
+    "count": 2,
+    "update_time": 1768936063,
+    "_id": "Aedes aegypti<SEP>Vietnam"
+  },
+  "Community-Based Mosquito Control Program<SEP>Vietnam": {
+    "chunk_ids": [
+      "chunk-f8f8704987d6b587388b0e5aace9ebef"
+    ],
+    "count": 1,
+    "create_time": 1768935731,
+    "update_time": 1768935731,
+    "_id": "Community-Based Mosquito Control Program<SEP>Vietnam"
+  },
+  "Aedes aegypti Elimination<SEP>Community-Based Mosquito Control Program": {
+    "chunk_ids": [
+      "chunk-f8f8704987d6b587388b0e5aace9ebef"
+    ],
+    "count": 1,
+    "create_time": 1768935731,
+    "update_time": 1768935731,
+    "_id": "Aedes aegypti Elimination<SEP>Community-Based Mosquito Control Program"
+  },
+  "Aedes aegypti<SEP>Community-Based Mosquito Control Program": {
+    "chunk_ids": [
+      "chunk-f8f8704987d6b587388b0e5aace9ebef"
+    ],
+    "count": 1,
+    "create_time": 1768935731,
+    "update_time": 1768935731,
+    "_id": "Aedes aegypti<SEP>Community-Based Mosquito Control Program"
+  },
+  "Aedes aegypti<SEP>Vietnam Government": {
+    "chunk_ids": [
+      "chunk-f8f8704987d6b587388b0e5aace9ebef"
+    ],
+    "count": 1,
+    "create_time": 1768935731,
+    "update_time": 1768935731,
+    "_id": "Aedes aegypti<SEP>Vietnam Government"
+  },
+  "Control Communes<SEP>Untreated Communes": {
+    "chunk_ids": [
+      "chunk-8f00f059d4b0cec6970495ae9915f012"
+    ],
+    "count": 1,
+    "create_time": 1768935804,
+    "update_time": 1768935804,
+    "_id": "Control Communes<SEP>Untreated Communes"
+  },
+  "Clinical Surveillance<SEP>Dengue Transmission": {
+    "chunk_ids": [
+      "chunk-8f00f059d4b0cec6970495ae9915f012"
+    ],
+    "count": 1,
+    "create_time": 1768935804,
+    "update_time": 1768935804,
+    "_id": "Clinical Surveillance<SEP>Dengue Transmission"
+  },
+  "Ichthyophthirius Multifiliis<SEP>White Spot Disease": {
+    "chunk_ids": [
+      "chunk-af8370e6f9fc8c5574122728d7b5006f"
+    ],
+    "count": 1,
+    "create_time": 1768935883,
+    "update_time": 1768935883,
+    "_id": "Ichthyophthirius Multifiliis<SEP>White Spot Disease"
+  },
+  "Cyclopoid Copepods<SEP>Theronts": {
+    "chunk_ids": [
+      "chunk-af8370e6f9fc8c5574122728d7b5006f"
+    ],
+    "count": 1,
+    "create_time": 1768935883,
+    "update_time": 1768935883,
+    "_id": "Cyclopoid Copepods<SEP>Theronts"
+  },
+  "Goldfish<SEP>White Spot Disease": {
+    "chunk_ids": [
+      "chunk-af8370e6f9fc8c5574122728d7b5006f"
+    ],
+    "count": 1,
+    "create_time": 1768935883,
+    "update_time": 1768935883,
+    "_id": "Goldfish<SEP>White Spot Disease"
+  },
+  "Theronts<SEP>Zooplankton": {
+    "chunk_ids": [
+      "chunk-af8370e6f9fc8c5574122728d7b5006f"
+    ],
+    "count": 1,
+    "create_time": 1768935883,
+    "update_time": 1768935883,
+    "_id": "Theronts<SEP>Zooplankton"
+  },
+  "White Spot Disease<SEP>Zooplankton": {
+    "chunk_ids": [
+      "chunk-af8370e6f9fc8c5574122728d7b5006f"
+    ],
+    "count": 1,
+    "create_time": 1768935883,
+    "update_time": 1768935883,
+    "_id": "White Spot Disease<SEP>Zooplankton"
+  },
+  "Mesocyclops spp.<SEP>This Study": {
+    "chunk_ids": [
+      "chunk-4a14c114d2071ce1f1b2720e241751ff"
+    ],
+    "count": 1,
+    "create_time": 1768935945,
+    "update_time": 1768935945,
+    "_id": "Mesocyclops spp.<SEP>This Study"
+  },
+  "Study<SEP>This": {
+    "chunk_ids": [
+      "chunk-4a14c114d2071ce1f1b2720e241751ff"
+    ],
+    "count": 1,
+    "create_time": 1768935945,
+    "update_time": 1768935945,
+    "_id": "Study<SEP>This"
+  },
+  "Aedes aegypti<SEP>Vaccine Development": {
+    "chunk_ids": [
+      "chunk-ae4a9d25675889bda3f33444944f8774"
+    ],
+    "count": 1,
+    "create_time": 1768936009,
+    "update_time": 1768936009,
+    "_id": "Aedes aegypti<SEP>Vaccine Development"
+  },
+  "Authors<SEP>Vaccine Development": {
+    "chunk_ids": [
+      "chunk-ae4a9d25675889bda3f33444944f8774"
+    ],
+    "count": 1,
+    "create_time": 1768936009,
+    "update_time": 1768936009,
+    "_id": "Authors<SEP>Vaccine Development"
+  },
+  "Aedes aegypti<SEP>Mosquito Control Strategy": {
+    "chunk_ids": [
+      "chunk-4c6fa496f303accae9be7d0ff7aeaa8b"
+    ],
+    "count": 1,
+    "create_time": 1768936063,
+    "update_time": 1768936063,
+    "_id": "Aedes aegypti<SEP>Mosquito Control Strategy"
+  },
+  "Mosquito Control Strategy<SEP>Water Storage Containers": {
+    "chunk_ids": [
+      "chunk-4c6fa496f303accae9be7d0ff7aeaa8b"
+    ],
+    "count": 1,
+    "create_time": 1768936063,
+    "update_time": 1768936063,
+    "_id": "Mosquito Control Strategy<SEP>Water Storage Containers"
+  },
+  "copepods<SEP>northern Vietnam": {
+    "chunk_ids": [
+      "chunk-8f67b4135b81382ee1dfd5329983fe84"
+    ],
+    "count": 1,
+    "create_time": 1768936152,
+    "update_time": 1768936152,
+    "_id": "copepods<SEP>northern Vietnam"
+  },
+  "Mesocyclops<SEP>copepods": {
+    "chunk_ids": [
+      "chunk-8f67b4135b81382ee1dfd5329983fe84"
+    ],
+    "count": 1,
+    "create_time": 1768936152,
+    "update_time": 1768936152,
+    "_id": "Mesocyclops<SEP>copepods"
+  },
+  "Aedes aegypti<SEP>copepods": {
+    "chunk_ids": [
+      "chunk-8f67b4135b81382ee1dfd5329983fe84"
+    ],
+    "count": 1,
+    "create_time": 1768936152,
+    "update_time": 1768936152,
+    "_id": "Aedes aegypti<SEP>copepods"
+  },
+  "copepods<SEP>inoculation": {
+    "chunk_ids": [
+      "chunk-8f67b4135b81382ee1dfd5329983fe84"
+    ],
+    "count": 1,
+    "create_time": 1768936152,
+    "update_time": 1768936152,
+    "_id": "copepods<SEP>inoculation"
+  },
+  "Aedes aegypti<SEP>dengue viruses": {
+    "chunk_ids": [
+      "chunk-8f67b4135b81382ee1dfd5329983fe84"
+    ],
+    "count": 1,
+    "create_time": 1768936152,
+    "update_time": 1768936152,
+    "_id": "Aedes aegypti<SEP>dengue viruses"
+  },
+  "copepods<SEP>wells": {
+    "chunk_ids": [
+      "chunk-8f67b4135b81382ee1dfd5329983fe84"
+    ],
+    "count": 1,
+    "create_time": 1768936152,
+    "update_time": 1768936152,
+    "_id": "copepods<SEP>wells"
+  },
+  "copepods<SEP>large cement tanks": {
+    "chunk_ids": [
+      "chunk-8f67b4135b81382ee1dfd5329983fe84"
+    ],
+    "count": 1,
+    "create_time": 1768936152,
+    "update_time": 1768936152,
+    "_id": "copepods<SEP>large cement tanks"
+  },
+  "ceramic jars<SEP>copepods": {
+    "chunk_ids": [
+      "chunk-8f67b4135b81382ee1dfd5329983fe84"
+    ],
+    "count": 1,
+    "create_time": 1768936152,
+    "update_time": 1768936152,
+    "_id": "ceramic jars<SEP>copepods"
+  },
+  "Dengue Mosquitoes<SEP>Larval Collection": {
+    "chunk_ids": [
+      "chunk-2e8cd66fff17acf6faadb72107c15d0a"
+    ],
+    "count": 1,
+    "create_time": 1768936208,
+    "update_time": 1768936208,
+    "_id": "Dengue Mosquitoes<SEP>Larval Collection"
+  },
+  "Dengue Mosquitoes<SEP>Vector Control Measures": {
+    "chunk_ids": [
+      "chunk-2e8cd66fff17acf6faadb72107c15d0a"
+    ],
+    "count": 1,
+    "create_time": 1768936208,
+    "update_time": 1768936208,
+    "_id": "Dengue Mosquitoes<SEP>Vector Control Measures"
+  },
+  "Dengue Mosquitoes<SEP>Larval Collection from Used Tires": {
+    "chunk_ids": [
+      "chunk-2e8cd66fff17acf6faadb72107c15d0a"
+    ],
+    "count": 1,
+    "create_time": 1768936208,
+    "update_time": 1768936208,
+    "_id": "Dengue Mosquitoes<SEP>Larval Collection from Used Tires"
+  },
+  "Pyrethroid Resistance<SEP>Vector Control Program": {
+    "chunk_ids": [
+      "chunk-f02cc0d5c15c87c4dce3279a62ef6ff2"
+    ],
+    "count": 1,
+    "create_time": 1768936313,
+    "update_time": 1768936313,
+    "_id": "Pyrethroid Resistance<SEP>Vector Control Program"
+  },
+  "Cross-Resistance<SEP>Mosquito Coils": {
+    "chunk_ids": [
+      "chunk-f02cc0d5c15c87c4dce3279a62ef6ff2"
+    ],
+    "count": 1,
+    "create_time": 1768936313,
+    "update_time": 1768936313,
+    "_id": "Cross-Resistance<SEP>Mosquito Coils"
+  },
+  "Mekong Delta<SEP>Vietnam": {
+    "chunk_ids": [
+      "chunk-f02cc0d5c15c87c4dce3279a62ef6ff2"
+    ],
+    "count": 1,
+    "create_time": 1768936313,
+    "update_time": 1768936313,
+    "_id": "Mekong Delta<SEP>Vietnam"
+  },
+  "Aedes Aegypti<SEP>D-Alethrin": {
+    "chunk_ids": [
+      "chunk-f02cc0d5c15c87c4dce3279a62ef6ff2"
+    ],
+    "count": 1,
+    "create_time": 1768936313,
+    "update_time": 1768936313,
+    "_id": "Aedes Aegypti<SEP>D-Alethrin"
+  },
+  "Malaria Control<SEP>Pyrethroids": {
+    "chunk_ids": [
+      "chunk-f02cc0d5c15c87c4dce3279a62ef6ff2"
+    ],
+    "count": 1,
+    "create_time": 1768936313,
+    "update_time": 1768936313,
+    "_id": "Malaria Control<SEP>Pyrethroids"
+  },
+  "Noah Carter's Record-Breaking 100m Sprint<SEP>World Athletics Federation": {
+    "chunk_ids": [
+      "chunk-f02cc0d5c15c87c4dce3279a62ef6ff2"
+    ],
+    "count": 1,
+    "create_time": 1768936313,
+    "update_time": 1768936313,
+    "_id": "Noah Carter's Record-Breaking 100m Sprint<SEP>World Athletics Federation"
+  },
+  "Aedes Aegypti<SEP>Pyrethroids": {
+    "chunk_ids": [
+      "chunk-f02cc0d5c15c87c4dce3279a62ef6ff2"
+    ],
+    "count": 1,
+    "create_time": 1768936313,
+    "update_time": 1768936313,
+    "_id": "Aedes Aegypti<SEP>Pyrethroids"
+  },
+  "Noah Carter's Record-Breaking 100m Sprint<SEP>Tokyo": {
+    "chunk_ids": [
+      "chunk-f02cc0d5c15c87c4dce3279a62ef6ff2"
+    ],
+    "count": 1,
+    "create_time": 1768936313,
+    "update_time": 1768936313,
+    "_id": "Noah Carter's Record-Breaking 100m Sprint<SEP>Tokyo"
+  },
+  "Aedes Aegypti<SEP>Vector Control Program": {
+    "chunk_ids": [
+      "chunk-f02cc0d5c15c87c4dce3279a62ef6ff2"
+    ],
+    "count": 1,
+    "create_time": 1768936313,
+    "update_time": 1768936313,
+    "_id": "Aedes Aegypti<SEP>Vector Control Program"
+  },
+  "Brazil<SEP>Dengue Transmission Area": {
+    "chunk_ids": [
+      "chunk-4c492d94e46e6cf3d9b06c416def7bb1"
+    ],
+    "count": 1,
+    "create_time": 1768936373,
+    "update_time": 1768936373,
+    "_id": "Brazil<SEP>Dengue Transmission Area"
+  },
+  "2001-2012 Period<SEP>Dengue Transmission Area": {
+    "chunk_ids": [
+      "chunk-4c492d94e46e6cf3d9b06c416def7bb1"
+    ],
+    "count": 1,
+    "create_time": 1768936373,
+    "update_time": 1768936373,
+    "_id": "2001-2012 Period<SEP>Dengue Transmission Area"
+  },
+  "Brazil<SEP>Dengue Fever": {
+    "chunk_ids": [
+      "chunk-4c492d94e46e6cf3d9b06c416def7bb1"
+    ],
+    "count": 1,
+    "create_time": 1768936373,
+    "update_time": 1768936373,
+    "_id": "Brazil<SEP>Dengue Fever"
+  },
+  "Aedes<SEP>Evidence": {
+    "chunk_ids": [
+      "chunk-2060aef1d7efe9243e29ae313566ff31"
+    ],
+    "count": 1,
+    "create_time": 1768936436,
+    "update_time": 1768936436,
+    "_id": "Aedes<SEP>Evidence"
+  },
+  "Insecticides<SEP>Peridomestic Space Spraying": {
+    "chunk_ids": [
+      "chunk-2060aef1d7efe9243e29ae313566ff31"
+    ],
+    "count": 1,
+    "create_time": 1768936436,
+    "update_time": 1768936436,
+    "_id": "Insecticides<SEP>Peridomestic Space Spraying"
+  },
+  "Aedes<SEP>Dengue": {
+    "chunk_ids": [
+      "chunk-2060aef1d7efe9243e29ae313566ff31"
+    ],
+    "count": 1,
+    "create_time": 1768936436,
+    "update_time": 1768936436,
+    "_id": "Aedes<SEP>Dengue"
+  },
+  "Aedes<SEP>Peridomestic Space Spraying": {
+    "chunk_ids": [
+      "chunk-2060aef1d7efe9243e29ae313566ff31"
+    ],
+    "count": 1,
+    "create_time": 1768936436,
+    "update_time": 1768936436,
+    "_id": "Aedes<SEP>Peridomestic Space Spraying"
+  },
+  "Aedes aegypti suppression<SEP>Authors": {
+    "chunk_ids": [
+      "chunk-cecc1574e3d38e1c2b8f29466bffcf9d"
+    ],
+    "count": 1,
+    "create_time": 1768936508,
+    "update_time": 1768936508,
+    "_id": "Aedes aegypti suppression<SEP>Authors"
+  },
+  "Aedes aegypti<SEP>Urban Dengue": {
+    "chunk_ids": [
+      "chunk-cecc1574e3d38e1c2b8f29466bffcf9d"
+    ],
+    "count": 1,
+    "create_time": 1768936508,
+    "update_time": 1768936508,
+    "_id": "Aedes aegypti<SEP>Urban Dengue"
+  },
+  "Aedes aegypti suppression<SEP>Dengue Virus": {
+    "chunk_ids": [
+      "chunk-cecc1574e3d38e1c2b8f29466bffcf9d"
+    ],
+    "count": 1,
+    "create_time": 1768936508,
+    "update_time": 1768936508,
+    "_id": "Aedes aegypti suppression<SEP>Dengue Virus"
+  },
+  "Aedes aegypti<SEP>Yellow Fever": {
+    "chunk_ids": [
+      "chunk-cecc1574e3d38e1c2b8f29466bffcf9d"
+    ],
+    "count": 1,
+    "create_time": 1768936508,
+    "update_time": 1768936508,
+    "_id": "Aedes aegypti<SEP>Yellow Fever"
+  },
+  "Aedes aegypti suppression<SEP>Yellow Fever Virus": {
+    "chunk_ids": [
+      "chunk-cecc1574e3d38e1c2b8f29466bffcf9d"
+    ],
+    "count": 1,
+    "create_time": 1768936508,
+    "update_time": 1768936508,
+    "_id": "Aedes aegypti suppression<SEP>Yellow Fever Virus"
+  },
+  "Aedes aegypti<SEP>Chikungunya Virus": {
+    "chunk_ids": [
+      "chunk-cecc1574e3d38e1c2b8f29466bffcf9d"
+    ],
+    "count": 1,
+    "create_time": 1768936508,
+    "update_time": 1768936508,
+    "_id": "Aedes aegypti<SEP>Chikungunya Virus"
+  },
+  "Aedes aegypti suppression<SEP>Chikungunya Virus": {
+    "chunk_ids": [
+      "chunk-cecc1574e3d38e1c2b8f29466bffcf9d"
+    ],
+    "count": 1,
+    "create_time": 1768936508,
+    "update_time": 1768936508,
+    "_id": "Aedes aegypti suppression<SEP>Chikungunya Virus"
+  },
+  "Aedes aegypti suppression<SEP>Disease Control": {
+    "chunk_ids": [
+      "chunk-cecc1574e3d38e1c2b8f29466bffcf9d"
+    ],
+    "count": 1,
+    "create_time": 1768936508,
+    "update_time": 1768936508,
+    "_id": "Aedes aegypti suppression<SEP>Disease Control"
+  },
+  "Aedes Mosquitoes<SEP>Dengue": {
+    "chunk_ids": [
+      "chunk-60377a72fdc3717965e736959245d13b"
+    ],
+    "count": 1,
+    "create_time": 1768936585,
+    "update_time": 1768936585,
+    "_id": "Aedes Mosquitoes<SEP>Dengue"
+  },
+  "Dengue Cohort Studies<SEP>Population Surfaces": {
+    "chunk_ids": [
+      "chunk-60377a72fdc3717965e736959245d13b"
+    ],
+    "count": 1,
+    "create_time": 1768936585,
+    "update_time": 1768936585,
+    "_id": "Dengue Cohort Studies<SEP>Population Surfaces"
+  },
+  "Infection Estimates<SEP>Risk Maps": {
+    "chunk_ids": [
+      "chunk-60377a72fdc3717965e736959245d13b"
+    ],
+    "count": 1,
+    "create_time": 1768936585,
+    "update_time": 1768936585,
+    "_id": "Infection Estimates<SEP>Risk Maps"
+  },
+  "Disease Control<SEP>Public Health Impact": {
+    "chunk_ids": [
+      "chunk-60377a72fdc3717965e736959245d13b"
+    ],
+    "count": 1,
+    "create_time": 1768936585,
+    "update_time": 1768936585,
+    "_id": "Disease Control<SEP>Public Health Impact"
+  },
+  "Dengue<SEP>World Health Organization": {
+    "chunk_ids": [
+      "chunk-60377a72fdc3717965e736959245d13b"
+    ],
+    "count": 1,
+    "create_time": 1768936585,
+    "update_time": 1768936585,
+    "_id": "Dengue<SEP>World Health Organization"
+  },
+  "Aedes Mosquitoes<SEP>Rainfall Temperature Urbanization": {
+    "chunk_ids": [
+      "chunk-60377a72fdc3717965e736959245d13b"
+    ],
+    "count": 1,
+    "create_time": 1768936585,
+    "update_time": 1768936585,
+    "_id": "Aedes Mosquitoes<SEP>Rainfall Temperature Urbanization"
+  },
+  "Dengue Cohort Studies<SEP>World Health Organization": {
+    "chunk_ids": [
+      "chunk-60377a72fdc3717965e736959245d13b"
+    ],
+    "count": 1,
+    "create_time": 1768936585,
+    "update_time": 1768936585,
+    "_id": "Dengue Cohort Studies<SEP>World Health Organization"
+  },
+  "Authors<SEP>Disease (Dengue)": {
+    "chunk_ids": [
+      "chunk-871ad0c828540b878a1549b5f21bcafc"
+    ],
+    "count": 1,
+    "create_time": 1768936636,
+    "update_time": 1768936636,
+    "_id": "Authors<SEP>Disease (Dengue)"
+  },
+  "M. longisetus<SEP>Rural Villages in Ceará": {
+    "chunk_ids": [
+      "chunk-d10ecedf5a47ee11598a143f76b0f400"
+    ],
+    "count": 1,
+    "create_time": 1768936739,
+    "update_time": 1768936739,
+    "_id": "M. longisetus<SEP>Rural Villages in Ceará"
+  },
+  "Ae<SEP>M. longisetus": {
+    "chunk_ids": [
+      "chunk-d10ecedf5a47ee11598a143f76b0f400"
+    ],
+    "count": 1,
+    "create_time": 1768936739,
+    "update_time": 1768936739,
+    "_id": "Ae<SEP>M. longisetus"
+  },
+  "Aedes aegypti (L.)<SEP>Container Infestation": {
+    "chunk_ids": [
+      "chunk-defa4dbd529a4663ae47a157c6019fd5"
+    ],
+    "count": 1,
+    "create_time": 1768936865,
+    "update_time": 1768936865,
+    "_id": "Aedes aegypti (L.)<SEP>Container Infestation"
+  },
+  "Aedes aegypti (L.)<SEP>New Orleans, LA": {
+    "chunk_ids": [
+      "chunk-defa4dbd529a4663ae47a157c6019fd5"
+    ],
+    "count": 1,
+    "create_time": 1768936865,
+    "update_time": 1768936865,
+    "_id": "Aedes aegypti (L.)<SEP>New Orleans, LA"
+  },
+  "Aedes aegypti (L.)<SEP>Survey": {
+    "chunk_ids": [
+      "chunk-defa4dbd529a4663ae47a157c6019fd5"
+    ],
+    "count": 1,
+    "create_time": 1768936865,
+    "update_time": 1768936865,
+    "_id": "Aedes aegypti (L.)<SEP>Survey"
+  },
+  "Aedes aegypti (L.)<SEP>House": {
+    "chunk_ids": [
+      "chunk-defa4dbd529a4663ae47a157c6019fd5"
+    ],
+    "count": 1,
+    "create_time": 1768936865,
+    "update_time": 1768936865,
+    "_id": "Aedes aegypti (L.)<SEP>House"
+  },
+  "Aedes aegypti (L.)<SEP>Breteau (foci)": {
+    "chunk_ids": [
+      "chunk-defa4dbd529a4663ae47a157c6019fd5"
+    ],
+    "count": 1,
+    "create_time": 1768936865,
+    "update_time": 1768936865,
+    "_id": "Aedes aegypti (L.)<SEP>Breteau (foci)"
+  },
+  "Aedes aegypti (L.)<SEP>Receptacle": {
+    "chunk_ids": [
+      "chunk-defa4dbd529a4663ae47a157c6019fd5"
+    ],
+    "count": 1,
+    "create_time": 1768936865,
+    "update_time": 1768936865,
+    "_id": "Aedes aegypti (L.)<SEP>Receptacle"
+  },
+  "Aedes aegypti (L.)<SEP>Block": {
+    "chunk_ids": [
+      "chunk-defa4dbd529a4663ae47a157c6019fd5"
+    ],
+    "count": 1,
+    "create_time": 1768936865,
+    "update_time": 1768936865,
+    "_id": "Aedes aegypti (L.)<SEP>Block"
+  },
+  "Aedes aegypti (L.)<SEP>Larval Density": {
+    "chunk_ids": [
+      "chunk-defa4dbd529a4663ae47a157c6019fd5"
+    ],
+    "count": 1,
+    "create_time": 1768936865,
+    "update_time": 1768936865,
+    "_id": "Aedes aegypti (L.)<SEP>Larval Density"
+  },
+  "Ae<SEP>Household Water Storage Container Availability": {
+    "chunk_ids": [
+      "chunk-034ac30d08da304503f5a8c31d4755fb"
+    ],
+    "count": 1,
+    "create_time": 1768936937,
+    "update_time": 1768936937,
+    "_id": "Ae<SEP>Household Water Storage Container Availability"
+  },
+  "Community Health Volunteers<SEP>DF/DHF Prevention Practices": {
+    "chunk_ids": [
+      "chunk-2d650633543735b086887c85b50b0bb0"
+    ],
+    "count": 1,
+    "create_time": 1768937115,
+    "update_time": 1768937115,
+    "_id": "Community Health Volunteers<SEP>DF/DHF Prevention Practices"
+  },
+  "Ae<SEP>Community Health Volunteers": {
+    "chunk_ids": [
+      "chunk-2d650633543735b086887c85b50b0bb0"
+    ],
+    "count": 1,
+    "create_time": 1768937115,
+    "update_time": 1768937115,
+    "_id": "Ae<SEP>Community Health Volunteers"
+  },
+  "Ae<SEP>DF/DHF Prevention Practices": {
+    "chunk_ids": [
+      "chunk-2d650633543735b086887c85b50b0bb0"
+    ],
+    "count": 1,
+    "create_time": 1768937115,
+    "update_time": 1768937115,
+    "_id": "Ae<SEP>DF/DHF Prevention Practices"
+  },
+  "Community-Based Program<SEP>Study": {
+    "chunk_ids": [
+      "chunk-155e703201f0d545bdedc2599eaf52a4"
+    ],
+    "count": 1,
+    "create_time": 1768937210,
+    "update_time": 1768937210,
+    "_id": "Community-Based Program<SEP>Study"
+  },
+  "Dengue Control<SEP>Study": {
+    "chunk_ids": [
+      "chunk-155e703201f0d545bdedc2599eaf52a4"
+    ],
+    "count": 1,
+    "create_time": 1768937210,
+    "update_time": 1768937210,
+    "_id": "Dengue Control<SEP>Study"
+  },
+  "Mesocyclops<SEP>Study": {
+    "chunk_ids": [
+      "chunk-155e703201f0d545bdedc2599eaf52a4"
+    ],
+    "count": 1,
+    "create_time": 1768937210,
+    "update_time": 1768937210,
+    "_id": "Mesocyclops<SEP>Study"
+  },
+  "Community-Based Program<SEP>Mesocyclops": {
+    "chunk_ids": [
+      "chunk-155e703201f0d545bdedc2599eaf52a4"
+    ],
+    "count": 1,
+    "create_time": 1768937210,
+    "update_time": 1768937210,
+    "_id": "Community-Based Program<SEP>Mesocyclops"
+  },
+  "Community-Based Program<SEP>Post-Project Vigilance": {
+    "chunk_ids": [
+      "chunk-155e703201f0d545bdedc2599eaf52a4"
+    ],
+    "count": 1,
+    "create_time": 1768937210,
+    "update_time": 1768937210,
+    "_id": "Community-Based Program<SEP>Post-Project Vigilance"
+  }
+}

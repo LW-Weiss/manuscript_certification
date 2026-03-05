@@ -1,0 +1,427 @@
+{
+  "doc-9089d650ae8e2a5eeaa48428ac790da9": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-9089d650ae8e2a5eeaa48428ac790da9"
+    ],
+    "content_summary": "A simple funnel trap which inverts on entry to and exit from the water, was evaluated with respect to sampling the aquatic fauna of wells in and around Fortaleza, Brazil and the variability was such that a precise estimate of absolute abundance could...",
+    "content_length": 263,
+    "created_at": "2026-01-20T18:54:26.440417+00:00",
+    "updated_at": "2026-01-20T18:55:10.011715+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260120_155426_a810cd72",
+    "metadata": {
+      "processing_start_time": 1768935266,
+      "processing_end_time": 1768935310
+    }
+  },
+  "doc-c84b46b3aab74e9ac67c29d261c5a8f0": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-c84b46b3aab74e9ac67c29d261c5a8f0"
+    ],
+    "content_summary": "Estimates of container populations were more accurate for III/IV instars than pupae, and the relationship between immature abundance and emergent adult populations remains to be defined, when conversion factors were applied to field net sampling data...",
+    "content_length": 251,
+    "created_at": "2026-01-20T18:55:31.157156+00:00",
+    "updated_at": "2026-01-20T18:56:20.822259+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260120_155531_3dec213f",
+    "metadata": {
+      "processing_start_time": 1768935331,
+      "processing_end_time": 1768935380
+    }
+  },
+  "doc-150b561d4dd47ec0ef54f8c210978655": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-150b561d4dd47ec0ef54f8c210978655"
+    ],
+    "content_summary": "We previously reported a new community-based mosquito control strategy that resulted in elimination of Aedes aegypti (Linn.) in 40 of 46 communes in northern and central Vietnam, and with annual recurrent total costs (direct and indirect) of only $0....",
+    "content_length": 1501,
+    "created_at": "2026-01-20T18:56:34.044712+00:00",
+    "updated_at": "2026-01-20T18:58:00.230102+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260120_155634_78c2c4a1",
+    "metadata": {
+      "processing_start_time": 1768935394,
+      "processing_end_time": 1768935480
+    }
+  },
+  "doc-3fc823099d0a6aa43191157d05a6250a": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-3fc823099d0a6aa43191157d05a6250a"
+    ],
+    "content_summary": "This paper describes two key steps in the qualitative research design process, discuss challenges that often emerge when pursuing these steps, and provides guidelines for addressing them: sampling and data collection and management.",
+    "content_length": 232,
+    "created_at": "2026-01-20T18:58:16.513692+00:00",
+    "updated_at": "2026-01-20T18:58:51.634696+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260120_155816_862e8a51",
+    "metadata": {
+      "processing_start_time": 1768935496,
+      "processing_end_time": 1768935531
+    }
+  },
+  "doc-91d90edfe796b3337e22aba76624bfd4": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-91d90edfe796b3337e22aba76624bfd4"
+    ],
+    "content_summary": "Better methods for quantifying dengue endemicity—equivalent to parasite prevalence surveys and endemicity mapping used for malaria—would help target resources, monitor progress, and advocate for investment in d Dengue prevention.",
+    "content_length": 229,
+    "created_at": "2026-01-20T18:59:05.641034+00:00",
+    "updated_at": "2026-01-20T19:00:01.502672+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260120_155905_077b445c",
+    "metadata": {
+      "processing_start_time": 1768935545,
+      "processing_end_time": 1768935601
+    }
+  },
+  "doc-18dc28b186b69b4dc32fd45ae507f576": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-18dc28b186b69b4dc32fd45ae507f576"
+    ],
+    "content_summary": "The results of the case-control study did not support the hypothesis that children using untreated bed nets during the day are less likely to be hospitalized with DHF, and the prevalence of bed net use among children in Vietnam was found to be high.",
+    "content_length": 249,
+    "created_at": "2026-01-20T19:00:14.415880+00:00",
+    "updated_at": "2026-01-20T19:01:06.315493+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260120_160014_c5c62e45",
+    "metadata": {
+      "processing_start_time": 1768935614,
+      "processing_end_time": 1768935666
+    }
+  },
+  "doc-f8f8704987d6b587388b0e5aace9ebef": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-f8f8704987d6b587388b0e5aace9ebef"
+    ],
+    "content_summary": "A new community-based mosquito control that resulted in the elimination of Aedes aegypti in 40 of 46 communes in northern and central Vietnam was reported, to evaluate whether or not these programs were still being maintained 7 years and 4.5 years af...",
+    "content_length": 291,
+    "created_at": "2026-01-20T19:01:20.721391+00:00",
+    "updated_at": "2026-01-20T19:02:11.473890+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260120_160120_f57f8b8a",
+    "metadata": {
+      "processing_start_time": 1768935680,
+      "processing_end_time": 1768935731
+    }
+  },
+  "doc-8f00f059d4b0cec6970495ae9915f012": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-8f00f059d4b0cec6970495ae9915f012"
+    ],
+    "content_summary": "Variable dengue attack rates made the clinical and serological comparison of control and untreated communes problematic, but these data indicate that clinical surveillance by itself is inadequate to monitor d Dengue transmission.",
+    "content_length": 229,
+    "created_at": "2026-01-20T19:02:43.823649+00:00",
+    "updated_at": "2026-01-20T19:03:24.660586+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260120_160243_9f1d0261",
+    "metadata": {
+      "processing_start_time": 1768935763,
+      "processing_end_time": 1768935804
+    }
+  },
+  "doc-af8370e6f9fc8c5574122728d7b5006f": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-af8370e6f9fc8c5574122728d7b5006f"
+    ],
+    "content_summary": "White spot disease, caused by the parasitic ciliate Ichthyophthirius multifiliis, is a significant threat to the freshwater fish farming industry worldwide, resulting in massive mortality and economic losses. Eliminating the free-swimming theronts fr...",
+    "content_length": 1063,
+    "created_at": "2026-01-20T19:03:40.539848+00:00",
+    "updated_at": "2026-01-20T19:04:43.943202+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260120_160340_e643d6c3",
+    "metadata": {
+      "processing_start_time": 1768935820,
+      "processing_end_time": 1768935883
+    }
+  },
+  "doc-4a14c114d2071ce1f1b2720e241751ff": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-4a14c114d2071ce1f1b2720e241751ff"
+    ],
+    "content_summary": "This study demonstrates that there is an abundance of local Mesocyclops spp.",
+    "content_length": 76,
+    "created_at": "2026-01-20T19:05:15.793510+00:00",
+    "updated_at": "2026-01-20T19:05:45.477179+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260120_160515_77dd0db2",
+    "metadata": {
+      "processing_start_time": 1768935915,
+      "processing_end_time": 1768935945
+    }
+  },
+  "doc-ae4a9d25675889bda3f33444944f8774": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-ae4a9d25675889bda3f33444944f8774"
+    ],
+    "content_summary": "The status of vaccine development is described and it is emphasised that the only alternative that the authors have today to control the disease is through control of its vector Aedes aegypti.",
+    "content_length": 192,
+    "created_at": "2026-01-20T19:06:17.231761+00:00",
+    "updated_at": "2026-01-20T19:06:49.288392+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260120_160617_b21b8a20",
+    "metadata": {
+      "processing_start_time": 1768935977,
+      "processing_end_time": 1768936009
+    }
+  },
+  "doc-4c6fa496f303accae9be7d0ff7aeaa8b": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-4c6fa496f303accae9be7d0ff7aeaa8b"
+    ],
+    "content_summary": "Findings suggest that this mosquito control strategy is sustainable in Vietnam and applicable where the major sources of A aegypti are large water storage containers.",
+    "content_length": 166,
+    "created_at": "2026-01-20T19:07:03.486491+00:00",
+    "updated_at": "2026-01-20T19:07:43.664005+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260120_160703_f4641a07",
+    "metadata": {
+      "processing_start_time": 1768936023,
+      "processing_end_time": 1768936063
+    }
+  },
+  "doc-8f67b4135b81382ee1dfd5329983fe84": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-8f67b4135b81382ee1dfd5329983fe84"
+    ],
+    "content_summary": "In northern Vietnam, copepods of the genus Mesocyclops were used for biological control of Aedes aegypti, the principal vector of dengue viruses, by inoculation into wells, large cement tanks, ceramic jars, and other domestic containers that served a...",
+    "content_length": 255,
+    "created_at": "2026-01-20T19:08:01.529924+00:00",
+    "updated_at": "2026-01-20T19:09:12.369886+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260120_160801_254e0c23",
+    "metadata": {
+      "processing_start_time": 1768936081,
+      "processing_end_time": 1768936152
+    }
+  },
+  "doc-2e8cd66fff17acf6faadb72107c15d0a": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-2e8cd66fff17acf6faadb72107c15d0a"
+    ],
+    "content_summary": "Larval collection from used tires may be suitable to assess rapidly the current distribution of dengue mosquitoes for estimating health risks and implementing vector control measures.",
+    "content_length": 183,
+    "created_at": "2026-01-20T19:09:26.150607+00:00",
+    "updated_at": "2026-01-20T19:10:08.396970+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260120_160926_1a29ea77",
+    "metadata": {
+      "processing_start_time": 1768936166,
+      "processing_end_time": 1768936208
+    }
+  },
+  "doc-f02cc0d5c15c87c4dce3279a62ef6ff2": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-f02cc0d5c15c87c4dce3279a62ef6ff2"
+    ],
+    "content_summary": "Pyrethroid resistance is envisioned to be a major problem for the vector control program since, at present, there are no suitable chemical substitutes for pyrethroids. Cross-resistance to knockdown agents, which are mainly used in mosquito coils and ...",
+    "content_length": 1886,
+    "created_at": "2026-01-20T19:10:23.568261+00:00",
+    "updated_at": "2026-01-20T19:11:53.160872+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260120_161023_76efadf9",
+    "metadata": {
+      "processing_start_time": 1768936223,
+      "processing_end_time": 1768936313
+    }
+  },
+  "doc-4c492d94e46e6cf3d9b06c416def7bb1": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-4c492d94e46e6cf3d9b06c416def7bb1"
+    ],
+    "content_summary": "To examine the spatial and temporal patterns of the recent expansion of dengue transmission area in Brazil (2001–2012) with the aim to identify pathways and constraints to dengue diffusion.",
+    "content_length": 189,
+    "created_at": "2026-01-20T19:12:10.655036+00:00",
+    "updated_at": "2026-01-20T19:12:53.873055+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260120_161210_86295479",
+    "metadata": {
+      "processing_start_time": 1768936330,
+      "processing_end_time": 1768936373
+    }
+  },
+  "doc-2060aef1d7efe9243e29ae313566ff31": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-2060aef1d7efe9243e29ae313566ff31"
+    ],
+    "content_summary": "The evidence on effectiveness of peridomestic space spraying of insecticides in reducing wild Aedes populations and interrupting dengue transmission is reviewed.",
+    "content_length": 161,
+    "created_at": "2026-01-20T19:13:10.186877+00:00",
+    "updated_at": "2026-01-20T19:13:56.129470+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260120_161310_05857fe1",
+    "metadata": {
+      "processing_start_time": 1768936390,
+      "processing_end_time": 1768936436
+    }
+  },
+  "doc-cecc1574e3d38e1c2b8f29466bffcf9d": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-cecc1574e3d38e1c2b8f29466bffcf9d"
+    ],
+    "content_summary": "If done properly, say the authors,Aedes aegypti suppression is a practical method to control urban dengue, yellow fever, and chikungunya viruses.",
+    "content_length": 145,
+    "created_at": "2026-01-20T19:14:12.868262+00:00",
+    "updated_at": "2026-01-20T19:15:08.632795+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260120_161412_300cfe9b",
+    "metadata": {
+      "processing_start_time": 1768936452,
+      "processing_end_time": 1768936508
+    }
+  },
+  "doc-60377a72fdc3717965e736959245d13b": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-60377a72fdc3717965e736959245d13b"
+    ],
+    "content_summary": "Dengue is a systemic viral infection transmitted between humans by Aedes mosquitoes. For some patients, dengue is a life-threatening illness. There are currently no licensed vaccines or specific therapeutics, and substantial vector control efforts ha...",
+    "content_length": 1911,
+    "created_at": "2026-01-20T19:15:24.016983+00:00",
+    "updated_at": "2026-01-20T19:16:25.666608+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260120_161524_981af9a7",
+    "metadata": {
+      "processing_start_time": 1768936524,
+      "processing_end_time": 1768936585
+    }
+  },
+  "doc-871ad0c828540b878a1549b5f21bcafc": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-871ad0c828540b878a1549b5f21bcafc"
+    ],
+    "content_summary": "In the early years of the 21st century the authors are collectively failing to meet the threat posed by dengue as the disease spreads unabated and almost 40% of the worlds population now live at risk of contracting it.",
+    "content_length": 218,
+    "created_at": "2026-01-20T19:16:42.349058+00:00",
+    "updated_at": "2026-01-20T19:17:16.282701+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260120_161642_2c22523d",
+    "metadata": {
+      "processing_start_time": 1768936602,
+      "processing_end_time": 1768936636
+    }
+  },
+  "doc-d10ecedf5a47ee11598a143f76b0f400": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-d10ecedf5a47ee11598a143f76b0f400"
+    ],
+    "content_summary": "M. longisetus has been selected for field trials in rural villages in Ceará to control Ae.",
+    "content_length": 90,
+    "created_at": "2026-01-20T19:18:20.845685+00:00",
+    "updated_at": "2026-01-20T19:18:59.602657+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260120_161820_92628e55",
+    "metadata": {
+      "processing_start_time": 1768936700,
+      "processing_end_time": 1768936739
+    }
+  },
+  "doc-defa4dbd529a4663ae47a157c6019fd5": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-defa4dbd529a4663ae47a157c6019fd5"
+    ],
+    "content_summary": "In a survey of containers infested with Aedes aegypti (L.) conducted during September and October 1979 in a substandard residential area of New Orleans, LA, infestation indices were as follows: House--35, Breteau (foci)--85, Receptacle--69, Block--10...",
+    "content_length": 277,
+    "created_at": "2026-01-20T19:20:00.300962+00:00",
+    "updated_at": "2026-01-20T19:21:05.701745+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260120_162000_4b1751cc",
+    "metadata": {
+      "processing_start_time": 1768936800,
+      "processing_end_time": 1768936865
+    }
+  },
+  "doc-034ac30d08da304503f5a8c31d4755fb": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-034ac30d08da304503f5a8c31d4755fb"
+    ],
+    "content_summary": "It is concluded that household water storage container availability is a major risk factor for infestation with Ae.",
+    "content_length": 115,
+    "created_at": "2026-01-20T19:21:42.746953+00:00",
+    "updated_at": "2026-01-20T19:22:17.273025+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260120_162142_983a214b",
+    "metadata": {
+      "processing_start_time": 1768936902,
+      "processing_end_time": 1768936937
+    }
+  },
+  "doc-2d650633543735b086887c85b50b0bb0": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-2d650633543735b086887c85b50b0bb0"
+    ],
+    "content_summary": "How the use of community health volunteers helped DF/DHF prevention practices within the community and made an essential contribution to Ae.",
+    "content_length": 140,
+    "created_at": "2026-01-20T19:24:35.203311+00:00",
+    "updated_at": "2026-01-20T19:25:15.763297+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260120_162435_4631c7f3",
+    "metadata": {
+      "processing_start_time": 1768937075,
+      "processing_end_time": 1768937115
+    }
+  },
+  "doc-155e703201f0d545bdedc2599eaf52a4": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-155e703201f0d545bdedc2599eaf52a4"
+    ],
+    "content_summary": "This study demonstrates that this community-based program for dengue control using local predacious copepods of the genus Mesocyclops is broadly acceptable and achievable at community level but vigilance is required post-project to prevent reinfestat...",
+    "content_length": 254,
+    "created_at": "2026-01-20T19:25:51.410572+00:00",
+    "updated_at": "2026-01-20T19:26:50.273759+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260120_162551_22bae5bb",
+    "metadata": {
+      "processing_start_time": 1768937151,
+      "processing_end_time": 1768937210
+    }
+  }
+}

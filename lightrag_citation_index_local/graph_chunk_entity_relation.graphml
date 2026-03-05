@@ -1,0 +1,2203 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d13" for="edge" attr.name="truncate" attr.type="string"/>
+<key id="d12" for="edge" attr.name="created_at" attr.type="long"/>
+<key id="d11" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d10" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d9" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d8" for="edge" attr.name="description" attr.type="string"/>
+<key id="d7" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d6" for="node" attr.name="truncate" attr.type="string"/>
+<key id="d5" for="node" attr.name="created_at" attr.type="long"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Fortaleza">
+  <data key="d0">Fortaleza</data>
+  <data key="d1">location</data>
+  <data key="d2">Fortaleza is a city in Brazil used as a location for evaluating funnel traps.</data>
+  <data key="d3">chunk-9089d650ae8e2a5eeaa48428ac790da9</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935307</data>
+  <data key="d6"></data>
+</node>
+<node id="Funnel Trap">
+  <data key="d0">Funnel Trap</data>
+  <data key="d1">equipment</data>
+  <data key="d2">The Funnel Trap is a simple device designed to sample aquatic fauna by inverting on entry to and exit from the water.</data>
+  <data key="d3">chunk-9089d650ae8e2a5eeaa48428ac790da9</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935307</data>
+  <data key="d6"></data>
+</node>
+<node id="Aquatic Fauna">
+  <data key="d0">Aquatic Fauna</data>
+  <data key="d1">category</data>
+  <data key="d2">Aquatic Fauna refers to animals living in or around water, such as fish and other organisms sampled using the funnel trap.</data>
+  <data key="d3">chunk-9089d650ae8e2a5eeaa48428ac790da9</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935307</data>
+  <data key="d6"></data>
+</node>
+<node id="Wells">
+  <data key="d0">Wells</data>
+  <data key="d1">location</data>
+  <data key="d2">Wells refer to natural or artificial excavations from the earth used for accessing groundwater.</data>
+  <data key="d3">chunk-9089d650ae8e2a5eeaa48428ac790da9</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935307</data>
+  <data key="d6"></data>
+</node>
+<node id="Container Populations">
+  <data key="d0">Container Populations</data>
+  <data key="d1">concept</data>
+  <data key="d2">Container populations refer to the number of insects or other organisms within containers at various stages of development.</data>
+  <data key="d3">chunk-c84b46b3aab74e9ac67c29d261c5a8f0</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935377</data>
+  <data key="d6"></data>
+</node>
+<node id="III/IV Instars">
+  <data key="d0">III/IV Instars</data>
+  <data key="d1">category</data>
+  <data key="d2">III/IV instars are a specific stage in the development of insects, characterized by distinct physical and behavioral attributes.</data>
+  <data key="d3">chunk-c84b46b3aab74e9ac67c29d261c5a8f0</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935377</data>
+  <data key="d6"></data>
+</node>
+<node id="Pupae">
+  <data key="d0">Pupae</data>
+  <data key="d1">category</data>
+  <data key="d2">Pupae are the transitional stage between larva and adult forms in an insect's life cycle.</data>
+  <data key="d3">chunk-c84b46b3aab74e9ac67c29d261c5a8f0</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935377</data>
+  <data key="d6"></data>
+</node>
+<node id="Emergent Adult Populations">
+  <data key="d0">Emergent Adult Populations</data>
+  <data key="d1">concept</data>
+  <data key="d2">Emergent adult populations refer to the number of newly formed adults emerging from pupal or other developmental stages.</data>
+  <data key="d3">chunk-c84b46b3aab74e9ac67c29d261c5a8f0</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935377</data>
+  <data key="d6"></data>
+</node>
+<node id="Conversion Factors">
+  <data key="d0">Conversion Factors</data>
+  <data key="d1">method</data>
+  <data key="d2">Conversion factors are mathematical tools used to adjust and standardize data collected through various sampling methods, such as field net sampling.</data>
+  <data key="d3">chunk-c84b46b3aab74e9ac67c29d261c5a8f0</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935377</data>
+  <data key="d6"></data>
+</node>
+<node id="Field Net Sampling Data">
+  <data key="d0">Field Net Sampling Data</data>
+  <data key="d1">data</data>
+  <data key="d2">Field net sampling data refers to the information gathered using specialized equipment to collect insects or other organisms from the environment.</data>
+  <data key="d3">chunk-c84b46b3aab74e9ac67c29d261c5a8f0</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935377</data>
+  <data key="d6"></data>
+</node>
+<node id="Estimates">
+  <data key="d0">Estimates</data>
+  <data key="d1">concept</data>
+  <data key="d2">Estimates refer to calculations or approximations used to determine the size of container populations.</data>
+  <data key="d3">chunk-c84b46b3aab74e9ac67c29d261c5a8f0</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935377</data>
+  <data key="d6"></data>
+</node>
+<node id="Aedes aegypti">
+  <data key="d0">Aedes aegypti</data>
+  <data key="d1">creature</data>
+  <data key="d2">Aedes aegypti is a mosquito species that was targeted for elimination using a community-based control strategy.&lt;SEP&gt;Aedes aegypti is a species of mosquito whose population was eliminated in 40 out of 46 communes in northern and central Vietnam through community-based control methods.&lt;SEP&gt;Aedes aegypti is a species of mosquito that serves as a vector for various diseases, including dengue fever and Zika virus.&lt;SEP&gt;Aedes aegypti is a mosquito species responsible for transmitting diseases.&lt;SEP&gt;Aedes aegypti is the primary vector of dengue viruses, targeted by biological control measures involving copepods.&lt;SEP&gt;Aedes aegypti is a mosquito species that transmits various diseases including dengue, yellow fever, and chikungunya viruses.</data>
+  <data key="d3">chunk-150b561d4dd47ec0ef54f8c210978655&lt;SEP&gt;chunk-f8f8704987d6b587388b0e5aace9ebef&lt;SEP&gt;chunk-ae4a9d25675889bda3f33444944f8774&lt;SEP&gt;chunk-4c6fa496f303accae9be7d0ff7aeaa8b&lt;SEP&gt;chunk-8f67b4135b81382ee1dfd5329983fe84&lt;SEP&gt;chunk-cecc1574e3d38e1c2b8f29466bffcf9d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936505</data>
+  <data key="d6"></data>
+</node>
+<node id="Northern and Central Vietnam">
+  <data key="d0">Northern and Central Vietnam</data>
+  <data key="d1">location</data>
+  <data key="d2">Northern and central Vietnam are regions where the Aedes aegypti population was significantly reduced using the control strategy.</data>
+  <data key="d3">chunk-150b561d4dd47ec0ef54f8c210978655</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935476</data>
+  <data key="d6"></data>
+</node>
+<node id="Long An Province">
+  <data key="d0">Long An Province</data>
+  <data key="d1">location</data>
+  <data key="d2">Long An is one of several provinces in southern Vietnam that implemented the mosquito control program.</data>
+  <data key="d3">chunk-150b561d4dd47ec0ef54f8c210978655</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935476</data>
+  <data key="d6"></data>
+</node>
+<node id="Hau Giang Province">
+  <data key="d0">Hau Giang Province</data>
+  <data key="d1">location</data>
+  <data key="d2">Hau Giang is another province in southern Vietnam where the community-based control strategy was applied.</data>
+  <data key="d3">chunk-150b561d4dd47ec0ef54f8c210978655</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935476</data>
+  <data key="d6"></data>
+</node>
+<node id="Ben Tre Province">
+  <data key="d0">Ben Tre Province</data>
+  <data key="d1">location</data>
+  <data key="d2">Ben Tre is a province in southern Vietnam that participated in the mosquito control program.</data>
+  <data key="d3">chunk-150b561d4dd47ec0ef54f8c210978655</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935476</data>
+  <data key="d6"></data>
+</node>
+<node id="Vinh Long Province">
+  <data key="d0">Vinh Long Province</data>
+  <data key="d1">location</data>
+  <data key="d2">Vinh Long is also one of several provinces in southern Vietnam where the Aedes aegypti population was targeted for elimination.</data>
+  <data key="d3">chunk-150b561d4dd47ec0ef54f8c210978655</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935476</data>
+  <data key="d6"></data>
+</node>
+<node id="Binh Thanh Commune">
+  <data key="d0">Binh Thanh Commune</data>
+  <data key="d1">location</data>
+  <data key="d2">Binh Thanh is a commune within Long An Province that achieved significant success with community-based dengue control activities.</data>
+  <data key="d3">chunk-150b561d4dd47ec0ef54f8c210978655</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935476</data>
+  <data key="d6"></data>
+</node>
+<node id="Mesocyclops">
+  <data key="d0">Mesocyclops</data>
+  <data key="d1">genus</data>
+  <data key="d2">Mesocyclops are small freshwater copepods that contribute to ecosystem balance.&lt;SEP&gt;Mesocyclops is a genus of copepods used for biological control in northern Vietnam.&lt;SEP&gt;Mesocyclops is a genus of copepods, which are predacious and used for controlling dengue at the community level.</data>
+  <data key="d3">chunk-150b561d4dd47ec0ef54f8c210978655&lt;SEP&gt;chunk-8f67b4135b81382ee1dfd5329983fe84&lt;SEP&gt;chunk-155e703201f0d545bdedc2599eaf52a4</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768937207</data>
+  <data key="d6"></data>
+</node>
+<node id="Sustainability Funds">
+  <data key="d0">Sustainability Funds</data>
+  <data key="d1">category</data>
+  <data key="d2">Sustainability funds are financial resources set up to ensure continued community-based dengue control activities.</data>
+  <data key="d3">chunk-150b561d4dd47ec0ef54f8c210978655</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935480</data>
+  <data key="d6"></data>
+</node>
+<node id="Dengue Cases">
+  <data key="d0">Dengue Cases</data>
+  <data key="d1">category</data>
+  <data key="d2">Dengue cases refer to instances of the disease detected during the study period.</data>
+  <data key="d3">chunk-150b561d4dd47ec0ef54f8c210978655</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935480</data>
+  <data key="d6"></data>
+</node>
+<node id="Community-Based Control Strategy">
+  <data key="d0">Community-Based Control Strategy</data>
+  <data key="d3">chunk-150b561d4dd47ec0ef54f8c210978655</data>
+  <data key="d2">The community-based control strategy was successfully implemented in northern and central Vietnam to reduce the Aedes aegypti population.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935480</data>
+  <data key="d6"></data>
+</node>
+<node id="Paper">
+  <data key="d0">Paper</data>
+  <data key="d1">content</data>
+  <data key="d2">This paper discusses two essential steps in qualitative research design and offers guidance on overcoming common challenges.</data>
+  <data key="d3">chunk-3fc823099d0a6aa43191157d05a6250a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935528</data>
+  <data key="d6"></data>
+</node>
+<node id="Sampling">
+  <data key="d0">Sampling</data>
+  <data key="d1">concept</data>
+  <data key="d2">Sampling is a crucial step in qualitative research, involving the selection of participants or data sources for study.</data>
+  <data key="d3">chunk-3fc823099d0a6aa43191157d05a6250a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935528</data>
+  <data key="d6"></data>
+</node>
+<node id="Data Collection and Management">
+  <data key="d0">Data Collection and Management</data>
+  <data key="d1">method</data>
+  <data key="d2">Data collection and management are critical components of qualitative research, requiring careful planning and execution to ensure high-quality results.</data>
+  <data key="d3">chunk-3fc823099d0a6aa43191157d05a6250a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935528</data>
+  <data key="d6"></data>
+</node>
+<node id="Dengue">
+  <data key="d0">Dengue</data>
+  <data key="d1">concept</data>
+  <data key="d2">Dengue is a disease with high prevalence in some areas, requiring targeted resource allocation and monitoring.&lt;SEP&gt;Dengue is a viral infection transmitted by Aedes mosquitoes, characterized by high fever and other symptoms.&lt;SEP&gt;Dengue is a systemic viral infection transmitted by Aedes mosquitoes and can be life-threatening for some patients.</data>
+  <data key="d3">chunk-91d90edfe796b3337e22aba76624bfd4&lt;SEP&gt;chunk-2060aef1d7efe9243e29ae313566ff31&lt;SEP&gt;chunk-60377a72fdc3717965e736959245d13b</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936582</data>
+  <data key="d6"></data>
+</node>
+<node id="Malaria">
+  <data key="d0">Malaria</data>
+  <data key="d1">concept</data>
+  <data key="d2">Malaria is another significant disease with methods similar to those proposed for dengue quantification.</data>
+  <data key="d3">chunk-91d90edfe796b3337e22aba76624bfd4</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935598</data>
+  <data key="d6"></data>
+</node>
+<node id="Parasite Prevalence Surveys">
+  <data key="d0">Parasite Prevalence Surveys</data>
+  <data key="d1">method</data>
+  <data key="d2">Parasite prevalence surveys are a method of measuring the extent of a parasite's presence in a population, used for diseases like malaria and potentially applicable to dengue.</data>
+  <data key="d3">chunk-91d90edfe796b3337e22aba76624bfd4</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935598</data>
+  <data key="d6"></data>
+</node>
+<node id="Endemicity Mapping">
+  <data key="d0">Endemicity Mapping</data>
+  <data key="d1">method</data>
+  <data key="d2">Endemicity mapping is a technique used to identify areas where a disease is prevalent, aiding in resource allocation and monitoring efforts.</data>
+  <data key="d3">chunk-91d90edfe796b3337e22aba76624bfd4</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935598</data>
+  <data key="d6"></data>
+</node>
+<node id="D Dengue Prevention">
+  <data key="d0">D Dengue Prevention</data>
+  <data key="d1">concept</data>
+  <data key="d2">Dengue prevention involves strategies aimed at reducing the incidence of dengue fever, such as vaccination, vector control, or better diagnostic tools.</data>
+  <data key="d3">chunk-91d90edfe796b3337e22aba76624bfd4</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935598</data>
+  <data key="d6"></data>
+</node>
+<node id="Resource Allocation">
+  <data key="d0">Resource Allocation</data>
+  <data key="d1">concept</data>
+  <data key="d2">Resource allocation refers to the process of directing resources towards specific areas or activities to achieve goals, such as in disease control and prevention.</data>
+  <data key="d3">chunk-91d90edfe796b3337e22aba76624bfd4</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935598</data>
+  <data key="d6"></data>
+</node>
+<node id="Case-Control Study">
+  <data key="d0">Case-Control Study</data>
+  <data key="d1">category</data>
+  <data key="d2">The case-control study investigated the relationship between using untreated bed nets during the day and hospitalization rates for DHF among children.</data>
+  <data key="d3">chunk-18dc28b186b69b4dc32fd45ae507f576</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935662</data>
+  <data key="d6"></data>
+</node>
+<node id="Children">
+  <data key="d0">Children</data>
+  <data key="d1">group</data>
+  <data key="d2">Children were participants in the case-control study examining the effects of bed net use on hospitalization rates for DHF.</data>
+  <data key="d3">chunk-18dc28b186b69b4dc32fd45ae507f576</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935662</data>
+  <data key="d6"></data>
+</node>
+<node id="Untreated Bed Nets">
+  <data key="d0">Untreated Bed Nets</data>
+  <data key="d1">equipment</data>
+  <data key="d2">Untreated bed nets are a type of mosquito net used to prevent insect-borne illnesses.</data>
+  <data key="d3">chunk-18dc28b186b69b4dc32fd45ae507f576</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935662</data>
+  <data key="d6"></data>
+</node>
+<node id="DHF (Dengue Hemorrhagic Fever)">
+  <data key="d0">DHF (Dengue Hemorrhagic Fever)</data>
+  <data key="d1">disease</data>
+  <data key="d2">DHF is a severe form of dengue fever, which can lead to hospitalization if left untreated.</data>
+  <data key="d3">chunk-18dc28b186b69b4dc32fd45ae507f576</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935662</data>
+  <data key="d6"></data>
+</node>
+<node id="Vietnam">
+  <data key="d0">Vietnam</data>
+  <data key="d1">location</data>
+  <data key="d2">The case-control study took place in Vietnam and found high prevalence of bed net use among children.&lt;SEP&gt;Vietnam is a country where the elimination of Aedes aegypti mosquitoes occurred through community-based mosquito control efforts.&lt;SEP&gt;Vietnam is a Southeast Asian country where this sustainable mosquito control strategy was found to be effective.&lt;SEP&gt;The pilot study for monitoring mosquito resistance was conducted in Vietnam.</data>
+  <data key="d3">chunk-18dc28b186b69b4dc32fd45ae507f576&lt;SEP&gt;chunk-f8f8704987d6b587388b0e5aace9ebef&lt;SEP&gt;chunk-4c6fa496f303accae9be7d0ff7aeaa8b&lt;SEP&gt;chunk-f02cc0d5c15c87c4dce3279a62ef6ff2</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936309</data>
+  <data key="d6"></data>
+</node>
+<node id="Hypothesis">
+  <data key="d0">Hypothesis</data>
+  <data key="d1">category</data>
+  <data key="d2">The hypothesis investigated the relationship between using untreated bed nets during the day and hospitalization rates for DHF among children.</data>
+  <data key="d3">chunk-18dc28b186b69b4dc32fd45ae507f576</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935662</data>
+  <data key="d6"></data>
+</node>
+<node id="Community-Based Mosquito Control Program">
+  <data key="d0">Community-Based Mosquito Control Program</data>
+  <data key="d1">concept</data>
+  <data key="d2">The Community-Based Mosquito Control Program was an initiative to eliminate Aedes aegypti mosquitoes in communes across northern and central Vietnam.</data>
+  <data key="d3">chunk-f8f8704987d6b587388b0e5aace9ebef</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935728</data>
+  <data key="d6"></data>
+</node>
+<node id="Aedes aegypti Elimination">
+  <data key="d0">Aedes aegypti Elimination</data>
+  <data key="d3">chunk-f8f8704987d6b587388b0e5aace9ebef</data>
+  <data key="d2">The Community-Based Mosquito Control Program successfully eliminated Aedes aegypti mosquitoes in 40 out of 46 communes in Vietnam.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935731</data>
+  <data key="d6"></data>
+</node>
+<node id="Vietnam Government">
+  <data key="d0">Vietnam Government</data>
+  <data key="d3">chunk-f8f8704987d6b587388b0e5aace9ebef</data>
+  <data key="d2">The Vietnamese government implemented community-based mosquito control efforts to eliminate Aedes aegypti mosquitoes.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935731</data>
+  <data key="d6"></data>
+</node>
+<node id="Dengue Fever">
+  <data key="d0">Dengue Fever</data>
+  <data key="d1">disease</data>
+  <data key="d2">Dengue fever is a viral infection with variable attack rates affecting both clinical and serological comparisons.&lt;SEP&gt;Dengue fever refers to the disease causing the expansion of transmission area.</data>
+  <data key="d3">chunk-8f00f059d4b0cec6970495ae9915f012&lt;SEP&gt;chunk-4c492d94e46e6cf3d9b06c416def7bb1</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936370</data>
+  <data key="d6"></data>
+</node>
+<node id="Control Communes">
+  <data key="d0">Control Communes</data>
+  <data key="d1">organization</data>
+  <data key="d2">The control communes are communities used for comparison in dengue transmission studies, characterized by the absence of intervention.</data>
+  <data key="d3">chunk-8f00f059d4b0cec6970495ae9915f012</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935801</data>
+  <data key="d6"></data>
+</node>
+<node id="Untreated Communes">
+  <data key="d0">Untreated Communes</data>
+  <data key="d1">organization</data>
+  <data key="d2">The untreated communes are communities involved in monitoring dengue transmission without any intervening measures.</data>
+  <data key="d3">chunk-8f00f059d4b0cec6970495ae9915f012</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935801</data>
+  <data key="d6"></data>
+</node>
+<node id="Dengue Transmission">
+  <data key="d0">Dengue Transmission</data>
+  <data key="d1">event</data>
+  <data key="d2">Dengue transmission refers to the process of spreading or transferring the virus that causes dengue fever among populations.</data>
+  <data key="d3">chunk-8f00f059d4b0cec6970495ae9915f012</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935801</data>
+  <data key="d6"></data>
+</node>
+<node id="Data">
+  <data key="d0">Data</data>
+  <data key="d1">category</data>
+  <data key="d2">The data provided indicate that clinical surveillance by itself is inadequate to monitor dengue transmission.</data>
+  <data key="d3">chunk-8f00f059d4b0cec6970495ae9915f012</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935801</data>
+  <data key="d6"></data>
+</node>
+<node id="Clinical Surveillance">
+  <data key="d0">Clinical Surveillance</data>
+  <data key="d3">chunk-8f00f059d4b0cec6970495ae9915f012</data>
+  <data key="d2">Clinical surveillance alone is insufficient for monitoring dengue transmission according to the provided data.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935804</data>
+  <data key="d6"></data>
+</node>
+<node id="White Spot Disease">
+  <data key="d0">White Spot Disease</data>
+  <data key="d1">condition</data>
+  <data key="d2">White Spot Disease is a parasitic infection caused by Ichthyophthirius multifiliis that affects the freshwater fish farming industry worldwide.</data>
+  <data key="d3">chunk-af8370e6f9fc8c5574122728d7b5006f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935880</data>
+  <data key="d6"></data>
+</node>
+<node id="Ichthyophthirius Multifiliis">
+  <data key="d0">Ichthyophthirius Multifiliis</data>
+  <data key="d1">pathogen</data>
+  <data key="d2">I. multifiliis is the parasitic ciliate responsible for White Spot Disease in freshwater fish.</data>
+  <data key="d3">chunk-af8370e6f9fc8c5574122728d7b5006f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935880</data>
+  <data key="d6"></data>
+</node>
+<node id="Freshwater Fish Farming Industry">
+  <data key="d0">Freshwater Fish Farming Industry</data>
+  <data key="d1">industry</data>
+  <data key="d2">The Freshwater Fish Farming Industry is significantly impacted by White Spot Disease, resulting in massive mortality and economic losses.</data>
+  <data key="d3">chunk-af8370e6f9fc8c5574122728d7b5006f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935880</data>
+  <data key="d6"></data>
+</node>
+<node id="Theronts">
+  <data key="d0">Theronts</data>
+  <data key="d1">stageofpathogen</data>
+  <data key="d2">Theronts are the free-swimming stage of I. multifiliis that must be eliminated from culture environments to control infection.</data>
+  <data key="d3">chunk-af8370e6f9fc8c5574122728d7b5006f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935880</data>
+  <data key="d6"></data>
+</node>
+<node id="Cyclopoid Copepods">
+  <data key="d0">Cyclopoid Copepods</data>
+  <data key="d1">species</data>
+  <data key="d2">Cyclopoid copepods, including Thermocyclops taihokuensis, Mesocyclops spp., Macrocyclops sp., and Paracyclopina sp., are predators of theronts.</data>
+  <data key="d3">chunk-af8370e6f9fc8c5574122728d7b5006f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935880</data>
+  <data key="d6"></data>
+</node>
+<node id="Goldfish">
+  <data key="d0">Goldfish</data>
+  <data key="d1">species</data>
+  <data key="d2">Goldfish are susceptible to I. multifiliis infection in aquaculture settings.</data>
+  <data key="d3">chunk-af8370e6f9fc8c5574122728d7b5006f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935880</data>
+  <data key="d6"></data>
+</node>
+<node id="Zooplankton">
+  <data key="d0">Zooplankton</data>
+  <data key="d1">group</data>
+  <data key="d2">Zooplankton are small aquatic animals that feed on theronts.</data>
+  <data key="d3">chunk-af8370e6f9fc8c5574122728d7b5006f</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935880</data>
+  <data key="d6"></data>
+</node>
+<node id="Mesocyclops spp.">
+  <data key="d0">Mesocyclops spp.</data>
+  <data key="d1">concept</data>
+  <data key="d2">Mesocyclops spp. refers to a species of copepods, specifically mesocyclops.</data>
+  <data key="d3">chunk-4a14c114d2071ce1f1b2720e241751ff</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935942</data>
+  <data key="d6"></data>
+</node>
+<node id="Study">
+  <data key="d0">Study</data>
+  <data key="d1">event</data>
+  <data key="d2">The study demonstrates an abundance of local Mesocyclops spp.&lt;SEP&gt;This study demonstrates that a community-based program for dengue control using local predacious copepods of the genus Mesocyclops is broadly acceptable and achievable at the community level but vigilance is required post-project to prevent reinfestation.</data>
+  <data key="d3">chunk-4a14c114d2071ce1f1b2720e241751ff&lt;SEP&gt;chunk-155e703201f0d545bdedc2599eaf52a4</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768937207</data>
+  <data key="d6"></data>
+</node>
+<node id="This">
+  <data key="d0">This</data>
+  <data key="d1">content</data>
+  <data key="d2">This is the content being described by the study.</data>
+  <data key="d3">chunk-4a14c114d2071ce1f1b2720e241751ff</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935942</data>
+  <data key="d6"></data>
+</node>
+<node id="This Study">
+  <data key="d0">This Study</data>
+  <data key="d3">chunk-4a14c114d2071ce1f1b2720e241751ff</data>
+  <data key="d2">The study focuses on Mesocyclops spp. as its research subject.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768935945</data>
+  <data key="d6"></data>
+</node>
+<node id="Vaccine Development">
+  <data key="d0">Vaccine Development</data>
+  <data key="d1">concept</data>
+  <data key="d2">Vaccine development refers to the creation and testing of vaccines as an approach to preventing infectious diseases.</data>
+  <data key="d3">chunk-ae4a9d25675889bda3f33444944f8774</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936006</data>
+  <data key="d6"></data>
+</node>
+<node id="Authors">
+  <data key="d0">Authors</data>
+  <data key="d1">group</data>
+  <data key="d2">The authors are individuals responsible for creating content, such as the text about vaccine development.&lt;SEP&gt;The Authors are individuals who wrote a text recommending Aedes aegypti suppression.&lt;SEP&gt;The authors are collectively failing to address the dengue threat despite its spread.</data>
+  <data key="d3">chunk-ae4a9d25675889bda3f33444944f8774&lt;SEP&gt;chunk-cecc1574e3d38e1c2b8f29466bffcf9d&lt;SEP&gt;chunk-871ad0c828540b878a1549b5f21bcafc</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936633</data>
+  <data key="d6"></data>
+</node>
+<node id="Mosquito Control Strategy">
+  <data key="d0">Mosquito Control Strategy</data>
+  <data key="d1">concept</data>
+  <data key="d2">The Mosquito Control Strategy is a method used to reduce or eliminate mosquito populations in areas with high presence of Aedes aegypti.</data>
+  <data key="d3">chunk-4c6fa496f303accae9be7d0ff7aeaa8b</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936060</data>
+  <data key="d6"></data>
+</node>
+<node id="Water Storage Containers">
+  <data key="d0">Water Storage Containers</data>
+  <data key="d3">chunk-4c6fa496f303accae9be7d0ff7aeaa8b</data>
+  <data key="d2">The Mosquito Control Strategy is also applicable in areas with large water storage containers which are major sources of Aedes aegypti mosquitoes.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936063</data>
+  <data key="d6"></data>
+</node>
+<node id="northern Vietnam">
+  <data key="d0">northern Vietnam</data>
+  <data key="d1">location</data>
+  <data key="d2">Northern Vietnam is a region in northern Vietnam where biological control of Aedes aegypti was implemented using copepods.</data>
+  <data key="d3">chunk-8f67b4135b81382ee1dfd5329983fe84</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936149</data>
+  <data key="d6"></data>
+</node>
+<node id="copepods">
+  <data key="d0">copepods</data>
+  <data key="d1">creature</data>
+  <data key="d2">Copepods are a type of small crustacean used for biological control against mosquitoes.</data>
+  <data key="d3">chunk-8f67b4135b81382ee1dfd5329983fe84</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936149</data>
+  <data key="d6"></data>
+</node>
+<node id="dengue viruses">
+  <data key="d0">dengue viruses</data>
+  <data key="d1">category</data>
+  <data key="d2">Dengue viruses are the pathogens transmitted by Aedes aegypti mosquitoes.</data>
+  <data key="d3">chunk-8f67b4135b81382ee1dfd5329983fe84</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936149</data>
+  <data key="d6"></data>
+</node>
+<node id="wells">
+  <data key="d0">wells</data>
+  <data key="d1">location</data>
+  <data key="d2">Wells are containers where copepods were inoculated for biological control.</data>
+  <data key="d3">chunk-8f67b4135b81382ee1dfd5329983fe84</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936149</data>
+  <data key="d6"></data>
+</node>
+<node id="large cement tanks">
+  <data key="d0">large cement tanks</data>
+  <data key="d1">location</data>
+  <data key="d2">Large cement tanks are storage containers where copepods were used for biological control.</data>
+  <data key="d3">chunk-8f67b4135b81382ee1dfd5329983fe84</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936149</data>
+  <data key="d6"></data>
+</node>
+<node id="ceramic jars">
+  <data key="d0">ceramic jars</data>
+  <data key="d1">location</data>
+  <data key="d2">Ceramic jars are domestic containers where copepods were inoculated for biological control.</data>
+  <data key="d3">chunk-8f67b4135b81382ee1dfd5329983fe84</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936149</data>
+  <data key="d6"></data>
+</node>
+<node id="inoculation">
+  <data key="d0">inoculation</data>
+  <data key="d3">chunk-8f67b4135b81382ee1dfd5329983fe84</data>
+  <data key="d2">Inoculation was the method used to introduce copepods into domestic containers.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936152</data>
+  <data key="d6"></data>
+</node>
+<node id="Dengue Mosquitoes">
+  <data key="d0">Dengue Mosquitoes</data>
+  <data key="d1">concept</data>
+  <data key="d2">Dengue Mosquitoes are a type of mosquito responsible for spreading dengue fever, which is a significant public health concern.</data>
+  <data key="d3">chunk-2e8cd66fff17acf6faadb72107c15d0a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936205</data>
+  <data key="d6"></data>
+</node>
+<node id="Vector Control Measures">
+  <data key="d0">Vector Control Measures</data>
+  <data key="d1">category</data>
+  <data key="d2">Vector control measures refer to strategies aimed at reducing the population of disease-carrying insects like mosquitoes, thereby minimizing the spread of diseases.</data>
+  <data key="d3">chunk-2e8cd66fff17acf6faadb72107c15d0a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936205</data>
+  <data key="d6"></data>
+</node>
+<node id="Larval Collection">
+  <data key="d0">Larval Collection</data>
+  <data key="d1">method</data>
+  <data key="d2">Larval collection involves gathering and identifying mosquito larvae from specific areas or sources for analysis and research purposes.</data>
+  <data key="d3">chunk-2e8cd66fff17acf6faadb72107c15d0a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936205</data>
+  <data key="d6"></data>
+</node>
+<node id="Larval Collection from Used Tires">
+  <data key="d0">Larval Collection from Used Tires</data>
+  <data key="d1">method</data>
+  <data key="d2">Larval collection from used tires is a method used to assess the distribution of dengue mosquitoes.</data>
+  <data key="d3">chunk-2e8cd66fff17acf6faadb72107c15d0a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936205</data>
+  <data key="d6"></data>
+</node>
+<node id="Pyrethroid Resistance">
+  <data key="d0">Pyrethroid Resistance</data>
+  <data key="d1">concept</data>
+  <data key="d2">Pyrethroid resistance is envisioned to be a major problem for vector control programs due to the lack of suitable chemical substitutes.</data>
+  <data key="d3">chunk-f02cc0d5c15c87c4dce3279a62ef6ff2</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936309</data>
+  <data key="d6"></data>
+</node>
+<node id="Vector Control Program">
+  <data key="d0">Vector Control Program</data>
+  <data key="d1">concept</data>
+  <data key="d2">The Vector Control Program aims to mitigate the effects of insecticide-resistant mosquitoes.</data>
+  <data key="d3">chunk-f02cc0d5c15c87c4dce3279a62ef6ff2</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936309</data>
+  <data key="d6"></data>
+</node>
+<node id="Cross-Resistance">
+  <data key="d0">Cross-Resistance</data>
+  <data key="d1">concept</data>
+  <data key="d2">Cross-resistance to knockdown agents is a significant concern due to its global prevalence.</data>
+  <data key="d3">chunk-f02cc0d5c15c87c4dce3279a62ef6ff2</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936309</data>
+  <data key="d6"></data>
+</node>
+<node id="Mosquito Coils">
+  <data key="d0">Mosquito Coils</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Mosquito coils are spatial repellents that utilize knockdown agents as active ingredients.</data>
+  <data key="d3">chunk-f02cc0d5c15c87c4dce3279a62ef6ff2</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936309</data>
+  <data key="d6"></data>
+</node>
+<node id="Pyrethroids">
+  <data key="d0">Pyrethroids</data>
+  <data key="d1">chemical</data>
+  <data key="d2">Pyrethroids are a class of insecticides used in mosquito control, but their effectiveness is dwindling due to resistance.</data>
+  <data key="d3">chunk-f02cc0d5c15c87c4dce3279a62ef6ff2</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936309</data>
+  <data key="d6"></data>
+</node>
+<node id="Mekong Delta">
+  <data key="d0">Mekong Delta</data>
+  <data key="d1">location</data>
+  <data key="d2">The Mekong Delta region of Vietnam was one of the study areas.</data>
+  <data key="d3">chunk-f02cc0d5c15c87c4dce3279a62ef6ff2</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936309</data>
+  <data key="d6"></data>
+</node>
+<node id="Aedes Aegypti">
+  <data key="d0">Aedes Aegypti</data>
+  <data key="d1">species</data>
+  <data key="d2">Aedes aegypti is one of the mosquito species studied, showing significant resistance to pyrethroids.</data>
+  <data key="d3">chunk-f02cc0d5c15c87c4dce3279a62ef6ff2</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936309</data>
+  <data key="d6"></data>
+</node>
+<node id="Culex Quinquefasciatus">
+  <data key="d0">Culex Quinquefasciatus</data>
+  <data key="d1">species</data>
+  <data key="d2">Culex quinquefasciatus is another mosquito species studied, displaying some level of resistance.</data>
+  <data key="d3">chunk-f02cc0d5c15c87c4dce3279a62ef6ff2</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936312</data>
+  <data key="d6"></data>
+</node>
+<node id="Aedes Albopictus">
+  <data key="d0">Aedes Albopictus</data>
+  <data key="d1">species</data>
+  <data key="d2">Aedes albopictus is the third mosquito species examined in this study, showing lower susceptibility to pyrethroids compared to Aedes aegypti.</data>
+  <data key="d3">chunk-f02cc0d5c15c87c4dce3279a62ef6ff2</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936312</data>
+  <data key="d6"></data>
+</node>
+<node id="D-Alethrin">
+  <data key="d0">D-Alethrin</data>
+  <data key="d1">chemical</data>
+  <data key="d2">D-allethrin is a type of insecticide used as part of the study to assess resistance levels.</data>
+  <data key="d3">chunk-f02cc0d5c15c87c4dce3279a62ef6ff2</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936312</data>
+  <data key="d6"></data>
+</node>
+<node id="World Athletics Championship Tokyo">
+  <data key="d0">World Athletics Championship Tokyo</data>
+  <data key="d1">event</data>
+  <data key="d2">The World Athletics Championship is a global sports competition featuring top athletes in track and field hosted in Tokyo.</data>
+  <data key="d3">chunk-f02cc0d5c15c87c4dce3279a62ef6ff2</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936312</data>
+  <data key="d6"></data>
+</node>
+<node id="Noah Carter's Record-Breaking 100m Sprint">
+  <data key="d0">Noah Carter's Record-Breaking 100m Sprint</data>
+  <data key="d1">category</data>
+  <data key="d2">Noah Carter broke the record with his exceptional speed.</data>
+  <data key="d3">chunk-f02cc0d5c15c87c4dce3279a62ef6ff2</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936312</data>
+  <data key="d6"></data>
+</node>
+<node id="Malaria Control">
+  <data key="d0">Malaria Control</data>
+  <data key="d3">chunk-f02cc0d5c15c87c4dce3279a62ef6ff2</data>
+  <data key="d2">The extensive use of pyrethroids in malaria control has driven the development of resistance among mosquito populations.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936313</data>
+  <data key="d6"></data>
+</node>
+<node id="World Athletics Federation">
+  <data key="d0">World Athletics Federation</data>
+  <data key="d3">chunk-f02cc0d5c15c87c4dce3279a62ef6ff2</data>
+  <data key="d2">The World Athletics Federation oversees and validates record-breaking achievements like Noah Carter's in track and field events.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936313</data>
+  <data key="d6"></data>
+</node>
+<node id="Tokyo">
+  <data key="d0">Tokyo</data>
+  <data key="d3">chunk-f02cc0d5c15c87c4dce3279a62ef6ff2</data>
+  <data key="d2">Tokyo hosted the event where Noah Carter set his record.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936313</data>
+  <data key="d6"></data>
+</node>
+<node id="Brazil">
+  <data key="d0">Brazil</data>
+  <data key="d1">location</data>
+  <data key="d2">Brazil is a country in South America experiencing an expansion of dengue transmission.</data>
+  <data key="d3">chunk-4c492d94e46e6cf3d9b06c416def7bb1</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936370</data>
+  <data key="d6"></data>
+</node>
+<node id="Dengue Transmission Area">
+  <data key="d0">Dengue Transmission Area</data>
+  <data key="d1">category</data>
+  <data key="d2">The dengue transmission area refers to the geographic region where dengue fever cases are spreading rapidly.</data>
+  <data key="d3">chunk-4c492d94e46e6cf3d9b06c416def7bb1</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936370</data>
+  <data key="d6"></data>
+</node>
+<node id="2001-2012 Period">
+  <data key="d0">2001-2012 Period</data>
+  <data key="d1">timeperiod</data>
+  <data key="d2">The period from 2001 to 2012 marks the recent expansion of dengue transmission in Brazil.</data>
+  <data key="d3">chunk-4c492d94e46e6cf3d9b06c416def7bb1</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936370</data>
+  <data key="d6"></data>
+</node>
+<node id="Evidence">
+  <data key="d0">Evidence</data>
+  <data key="d1">concept</data>
+  <data key="d2">Evidence refers to the collection of data or information used for analysis or evaluation.</data>
+  <data key="d3">chunk-2060aef1d7efe9243e29ae313566ff31</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936433</data>
+  <data key="d6"></data>
+</node>
+<node id="Aedes">
+  <data key="d0">Aedes</data>
+  <data key="d1">creature</data>
+  <data key="d2">Aedes is a type of mosquito genus known to transmit dengue fever.</data>
+  <data key="d3">chunk-2060aef1d7efe9243e29ae313566ff31</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936433</data>
+  <data key="d6"></data>
+</node>
+<node id="Peridomestic Space Spraying">
+  <data key="d0">Peridomestic Space Spraying</data>
+  <data key="d1">method</data>
+  <data key="d2">Peridomestic space spraying involves the use of insecticides in areas surrounding homes to control mosquito populations.</data>
+  <data key="d3">chunk-2060aef1d7efe9243e29ae313566ff31</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936433</data>
+  <data key="d6"></data>
+</node>
+<node id="Insecticides">
+  <data key="d0">Insecticides</data>
+  <data key="d1">product</data>
+  <data key="d2">Insecticides are chemicals used for killing or repelling insects, including mosquitoes.</data>
+  <data key="d3">chunk-2060aef1d7efe9243e29ae313566ff31</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936433</data>
+  <data key="d6"></data>
+</node>
+<node id="Population">
+  <data key="d0">Population</data>
+  <data key="d1">concept</data>
+  <data key="d2">Population refers to the total number of organisms or individuals within a specific area or group.</data>
+  <data key="d3">chunk-2060aef1d7efe9243e29ae313566ff31</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936433</data>
+  <data key="d6"></data>
+</node>
+<node id="Aedes aegypti suppression">
+  <data key="d0">Aedes aegypti suppression</data>
+  <data key="d3">chunk-cecc1574e3d38e1c2b8f29466bffcf9d</data>
+  <data key="d2">The authors recommend Aedes aegyti suppression as an effective method for controlling urban dengue, yellow fever, and chikungunya viruses.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936508</data>
+  <data key="d6"></data>
+</node>
+<node id="Urban Dengue">
+  <data key="d0">Urban Dengue</data>
+  <data key="d3">chunk-cecc1574e3d38e1c2b8f29466bffcf9d</data>
+  <data key="d2">The Aedes aegypti mosquito transmits the Urban Dengue virus in urban areas.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936508</data>
+  <data key="d6"></data>
+</node>
+<node id="Dengue Virus">
+  <data key="d0">Dengue Virus</data>
+  <data key="d3">chunk-cecc1574e3d38e1c2b8f29466bffcf9d</data>
+  <data key="d2">Aedes aegypti suppression is used to control the Dengue Virus in urban areas.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936508</data>
+  <data key="d6"></data>
+</node>
+<node id="Yellow Fever">
+  <data key="d0">Yellow Fever</data>
+  <data key="d3">chunk-cecc1574e3d38e1c2b8f29466bffcf9d</data>
+  <data key="d2">The Aedes aegypti mosquito transmits the Yellow Fever virus in urban areas.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936508</data>
+  <data key="d6"></data>
+</node>
+<node id="Yellow Fever Virus">
+  <data key="d0">Yellow Fever Virus</data>
+  <data key="d3">chunk-cecc1574e3d38e1c2b8f29466bffcf9d</data>
+  <data key="d2">Aedes aegypti suppression is used to control the Yellow Fever Virus in urban areas.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936508</data>
+  <data key="d6"></data>
+</node>
+<node id="Chikungunya Virus">
+  <data key="d0">Chikungunya Virus</data>
+  <data key="d3">chunk-cecc1574e3d38e1c2b8f29466bffcf9d</data>
+  <data key="d2">The Aedes aegypti mosquito transmits the Chikungunya Virus in urban areas.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936508</data>
+  <data key="d6"></data>
+</node>
+<node id="Disease Control">
+  <data key="d0">Disease Control</data>
+  <data key="d3">chunk-cecc1574e3d38e1c2b8f29466bffcf9d&lt;SEP&gt;chunk-60377a72fdc3717965e736959245d13b</data>
+  <data key="d2">Aedes aegypti suppression is used for disease control in urban areas.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936508</data>
+  <data key="d6"></data>
+</node>
+<node id="Aedes Mosquitoes">
+  <data key="d0">Aedes Mosquitoes</data>
+  <data key="d1">creature</data>
+  <data key="d2">Aedes mosquitoes are responsible for transmitting dengue between humans.</data>
+  <data key="d3">chunk-60377a72fdc3717965e736959245d13b</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936582</data>
+  <data key="d6"></data>
+</node>
+<node id="World Health Organization">
+  <data key="d0">World Health Organization</data>
+  <data key="d1">organization</data>
+  <data key="d2">The World Health Organization estimates the dengue burden and is referenced in the article for comparison.</data>
+  <data key="d3">chunk-60377a72fdc3717965e736959245d13b</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936582</data>
+  <data key="d6"></data>
+</node>
+<node id="Rainfall">
+  <data key="d0">Rainfall</data>
+  <data key="d1">concept</data>
+  <data key="d2">Rainfall is an environmental factor that affects Aedes mosquito population growth.</data>
+  <data key="d3">chunk-60377a72fdc3717965e736959245d13b</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936582</data>
+  <data key="d6"></data>
+</node>
+<node id="Temperature">
+  <data key="d0">Temperature</data>
+  <data key="d1">concept</data>
+  <data key="d2">Temperature is an environmental factor that influences Aedes mosquito populations and disease transmission.</data>
+  <data key="d3">chunk-60377a72fdc3717965e736959245d13b</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936582</data>
+  <data key="d6"></data>
+</node>
+<node id="Urbanization">
+  <data key="d0">Urbanization</data>
+  <data key="d1">concept</data>
+  <data key="d2">Urbanization is a factor influencing Aedes mosquito habitats and distribution.</data>
+  <data key="d3">chunk-60377a72fdc3717965e736959245d13b</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936582</data>
+  <data key="d6"></data>
+</node>
+<node id="Dengue Cohort Studies">
+  <data key="d0">Dengue Cohort Studies</data>
+  <data key="d3">chunk-60377a72fdc3717965e736959245d13b</data>
+  <data key="d2">Dengue cohort studies and population surfaces are integrated to infer the public health burden of dengue in 2010.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936585</data>
+  <data key="d6"></data>
+</node>
+<node id="Infection Estimates">
+  <data key="d0">Infection Estimates</data>
+  <data key="d3">chunk-60377a72fdc3717965e736959245d13b</data>
+  <data key="d2">Risk maps and infection estimates provide novel insights into the global public health burden imposed by dengue.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936585</data>
+  <data key="d6"></data>
+</node>
+<node id="Risk Maps">
+  <data key="d0">Risk Maps</data>
+  <data key="d3">chunk-60377a72fdc3717965e736959245d13b</data>
+  <data key="d2">Risk maps and infection estimates provide novel insights into the global public health burden imposed by dengue.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936585</data>
+  <data key="d6"></data>
+</node>
+<node id="Public Health Impact">
+  <data key="d0">Public Health Impact</data>
+  <data key="d3">chunk-60377a72fdc3717965e736959245d13b</data>
+  <data key="d2">The article discusses disease control strategies for managing the public health impact of dengue fever.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936585</data>
+  <data key="d6"></data>
+</node>
+<node id="Population Surfaces">
+  <data key="d0">Population Surfaces</data>
+  <data key="d3">chunk-60377a72fdc3717965e736959245d13b</data>
+  <data key="d2">Dengue cohort studies and population surfaces are integrated to infer the public health burden of dengue in 2010.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936585</data>
+  <data key="d6"></data>
+</node>
+<node id="Rainfall Temperature Urbanization">
+  <data key="d0">Rainfall Temperature Urbanization</data>
+  <data key="d3">chunk-60377a72fdc3717965e736959245d13b</data>
+  <data key="d2">Aedes mosquitoes are influenced by rainfall, temperature, and urbanization when transmitting dengue.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936585</data>
+  <data key="d6"></data>
+</node>
+<node id="Disease (Dengue)">
+  <data key="d0">Disease (Dengue)</data>
+  <data key="d1">concept</data>
+  <data key="d2">Dengue is a disease spreading globally and posing a significant threat, affecting nearly 40% of the world's population.</data>
+  <data key="d3">chunk-871ad0c828540b878a1549b5f21bcafc</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936633</data>
+  <data key="d6"></data>
+</node>
+<node id="21st Century">
+  <data key="d0">21st Century</data>
+  <data key="d1">period</data>
+  <data key="d2">The 21st century is a time period referenced in the input text.</data>
+  <data key="d3">chunk-871ad0c828540b878a1549b5f21bcafc</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936633</data>
+  <data key="d6"></data>
+</node>
+<node id="M. longisetus">
+  <data key="d0">M. longisetus</data>
+  <data key="d1">creature</data>
+  <data key="d2">M. longisetus is a biological agent chosen for its potential use in controlling Ae.</data>
+  <data key="d3">chunk-d10ecedf5a47ee11598a143f76b0f400</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936736</data>
+  <data key="d6"></data>
+</node>
+<node id="Ae">
+  <data key="d0">Ae</data>
+  <data key="d1">organization</data>
+  <data key="d2">Ae refers to a pest or disease that M. longisetus is intended to control.&lt;SEP&gt;Ae is a type of creature or organism that infests households when there is availability of household water storage containers.&lt;SEP&gt;Ae is an entity that received essential contributions from Community Health Volunteers in preventing DF/DHF within their community.</data>
+  <data key="d3">chunk-d10ecedf5a47ee11598a143f76b0f400&lt;SEP&gt;chunk-034ac30d08da304503f5a8c31d4755fb&lt;SEP&gt;chunk-2d650633543735b086887c85b50b0bb0</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768937112</data>
+  <data key="d6"></data>
+</node>
+<node id="Rural Villages">
+  <data key="d0">Rural Villages</data>
+  <data key="d1">location</data>
+  <data key="d2">Rural villages are locations where M. longisetus is being tested for its effectiveness in controlling Ae.</data>
+  <data key="d3">chunk-d10ecedf5a47ee11598a143f76b0f400</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936736</data>
+  <data key="d6"></data>
+</node>
+<node id="Rural Villages in Ceará">
+  <data key="d0">Rural Villages in Ceará</data>
+  <data key="d3">chunk-d10ecedf5a47ee11598a143f76b0f400</data>
+  <data key="d2">The rural villages in Ceará are the target locations for using M. longisetus to control Ae.&lt;SEP&gt;M. longisetus has been selected for testing in rural villages in Ceará to combat Ae.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936739</data>
+  <data key="d6"></data>
+</node>
+<node id="Aedes aegypti (L.)">
+  <data key="d0">Aedes aegypti (L.)</data>
+  <data key="d1">creature</data>
+  <data key="d2">Aedes aegypti (L.) is a species of mosquito known to infest containers.</data>
+  <data key="d3">chunk-defa4dbd529a4663ae47a157c6019fd5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936862</data>
+  <data key="d6"></data>
+</node>
+<node id="New Orleans, LA">
+  <data key="d0">New Orleans, LA</data>
+  <data key="d1">location</data>
+  <data key="d2">New Orleans, LA is the location where the survey was conducted.</data>
+  <data key="d3">chunk-defa4dbd529a4663ae47a157c6019fd5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936862</data>
+  <data key="d6"></data>
+</node>
+<node id="Substandard Residential Area">
+  <data key="d0">Substandard Residential Area</data>
+  <data key="d1">location</data>
+  <data key="d2">The substandard residential area in New Orleans, LA is the site of the survey on Aedes aegypti infestation.</data>
+  <data key="d3">chunk-defa4dbd529a4663ae47a157c6019fd5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936862</data>
+  <data key="d6"></data>
+</node>
+<node id="House">
+  <data key="d0">House</data>
+  <data key="d1">location</data>
+  <data key="d2">The house is one of the locations where Aedes aegypti infestation was observed.</data>
+  <data key="d3">chunk-defa4dbd529a4663ae47a157c6019fd5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936862</data>
+  <data key="d6"></data>
+</node>
+<node id="Breteau (foci)">
+  <data key="d0">Breteau (foci)</data>
+  <data key="d1">concept</data>
+  <data key="d2">Breteau (foci) refers to the areas or foci within a given geographic area that are prone to breeding and larval development.</data>
+  <data key="d3">chunk-defa4dbd529a4663ae47a157c6019fd5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936862</data>
+  <data key="d6"></data>
+</node>
+<node id="Container Infestation">
+  <data key="d0">Container Infestation</data>
+  <data key="d3">chunk-defa4dbd529a4663ae47a157c6019fd5</data>
+  <data key="d2">Aedes aegypti (L.) was found to infest containers in the surveyed area.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936865</data>
+  <data key="d6"></data>
+</node>
+<node id="Survey">
+  <data key="d0">Survey</data>
+  <data key="d3">chunk-defa4dbd529a4663ae47a157c6019fd5</data>
+  <data key="d2">The survey aimed to study the presence of Aedes aegypti (L.) in containers.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936865</data>
+  <data key="d6"></data>
+</node>
+<node id="Receptacle">
+  <data key="d0">Receptacle</data>
+  <data key="d3">chunk-defa4dbd529a4663ae47a157c6019fd5</data>
+  <data key="d2">The receptacles were found to be infested with Aedes aegypti (L.).</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936865</data>
+  <data key="d6"></data>
+</node>
+<node id="Block">
+  <data key="d0">Block</data>
+  <data key="d3">chunk-defa4dbd529a4663ae47a157c6019fd5</data>
+  <data key="d2">Aedes aegypti (L.) was found to infest the entire block.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936865</data>
+  <data key="d6"></data>
+</node>
+<node id="Larval Density">
+  <data key="d0">Larval Density</data>
+  <data key="d3">chunk-defa4dbd529a4663ae47a157c6019fd5</data>
+  <data key="d2">The larval density of Aedes aegypti (L.) in the surveyed area was high at 169.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936865</data>
+  <data key="d6"></data>
+</node>
+<node id="Household Water Storage Container Availability">
+  <data key="d0">Household Water Storage Container Availability</data>
+  <data key="d1">concept</data>
+  <data key="d2">Household Water Storage Container Availability refers to the presence and accessibility of water storage containers within households, which can be a significant risk factor for certain types of infestations.</data>
+  <data key="d3">chunk-034ac30d08da304503f5a8c31d4755fb</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936933</data>
+  <data key="d6"></data>
+</node>
+<node id="Household">
+  <data key="d0">Household</data>
+  <data key="d1">location</data>
+  <data key="d2">Household refers to a dwelling or residential area where water storage containers are often present.</data>
+  <data key="d3">chunk-034ac30d08da304503f5a8c31d4755fb</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768936933</data>
+  <data key="d6"></data>
+</node>
+<node id="Community Health Volunteers">
+  <data key="d0">Community Health Volunteers</data>
+  <data key="d1">person</data>
+  <data key="d2">Community Health Volunteers are individuals who assisted in preventing DF/DHF within their communities, contributing to a reduction in disease prevalence.</data>
+  <data key="d3">chunk-2d650633543735b086887c85b50b0bb0</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768937112</data>
+  <data key="d6"></data>
+</node>
+<node id="DF/DHF Prevention Practices">
+  <data key="d0">DF/DHF Prevention Practices</data>
+  <data key="d1">concept</data>
+  <data key="d2">DF/DHF prevention practices refer to the strategies and methods used by Community Health Volunteers to reduce the spread of the disease.</data>
+  <data key="d3">chunk-2d650633543735b086887c85b50b0bb0</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768937112</data>
+  <data key="d6"></data>
+</node>
+<node id="Community-Based Program">
+  <data key="d0">Community-Based Program</data>
+  <data key="d1">concept</data>
+  <data key="d2">This community-based program for dengue control uses local predacious copepods of the genus Mesocyclops, which is a method for controlling dengue at the community level.</data>
+  <data key="d3">chunk-155e703201f0d545bdedc2599eaf52a4</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768937207</data>
+  <data key="d6"></data>
+</node>
+<node id="Dengue Control">
+  <data key="d0">Dengue Control</data>
+  <data key="d1">category</data>
+  <data key="d2">Dengue control refers to measures taken to prevent or reduce the spread of dengue fever in communities.</data>
+  <data key="d3">chunk-155e703201f0d545bdedc2599eaf52a4</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768937207</data>
+  <data key="d6"></data>
+</node>
+<node id="Community">
+  <data key="d0">Community</data>
+  <data key="d1">location</data>
+  <data key="d2">The community-based program is implemented at a community level.</data>
+  <data key="d3">chunk-155e703201f0d545bdedc2599eaf52a4</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768937207</data>
+  <data key="d6"></data>
+</node>
+<node id="Post-Project Vigilance">
+  <data key="d0">Post-Project Vigilance</data>
+  <data key="d3">chunk-155e703201f0d545bdedc2599eaf52a4</data>
+  <data key="d2">The community-based program requires vigilance post-project to prevent reinfestation.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1768937210</data>
+  <data key="d6"></data>
+</node>
+<edge source="Fortaleza" target="Funnel Trap">
+  <data key="d7">1.0</data>
+  <data key="d8">The Funnel Trap was evaluated for use in sampling aquatic fauna in Fortaleza.</data>
+  <data key="d9">equipment location,sampling method</data>
+  <data key="d10">chunk-9089d650ae8e2a5eeaa48428ac790da9</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935309</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Fortaleza" target="Wells">
+  <data key="d7">1.0</data>
+  <data key="d8">The evaluation of the funnel trap took place near Fortaleza and involved sampling from nearby wells.</data>
+  <data key="d9">location relationship,sampling site</data>
+  <data key="d10">chunk-9089d650ae8e2a5eeaa48428ac790da9</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935309</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Funnel Trap" target="Aquatic Fauna">
+  <data key="d7">2.0</data>
+  <data key="d8">The Funnel Trap is used to sample Aquatic Fauna from wells and surrounding areas.&lt;SEP&gt;The Funnel Trap is a sampling device used for capturing Aquatic Fauna in wells and surrounding areas.</data>
+  <data key="d9">sampled organisms,sampling device,trapping device</data>
+  <data key="d10">chunk-9089d650ae8e2a5eeaa48428ac790da9</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935309</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Container Populations" target="III/IV Instars">
+  <data key="d7">1.0</data>
+  <data key="d8">Estimates of container populations are more accurate for III/IV instars compared to pupae.</data>
+  <data key="d9">developmental stage,population dynamics</data>
+  <data key="d10">chunk-c84b46b3aab74e9ac67c29d261c5a8f0</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935380</data>
+  <data key="d13"></data>
+</edge>
+<edge source="III/IV Instars" target="Pupae">
+  <data key="d7">1.0</data>
+  <data key="d8">In comparison to pupae, estimates are more accurate for III/IV instars due to their distinct characteristics and behaviors.</data>
+  <data key="d9">developmental stages,life cycle transitions</data>
+  <data key="d10">chunk-c84b46b3aab74e9ac67c29d261c5a8f0</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935380</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Pupae" target="Emergent Adult Populations">
+  <data key="d7">1.0</data>
+  <data key="d8">The relationship between immature abundance and emergent adult populations is yet to be defined.</data>
+  <data key="d9">life cycle transitions,population growth</data>
+  <data key="d10">chunk-c84b46b3aab74e9ac67c29d261c5a8f0</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935380</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Conversion Factors" target="Field Net Sampling Data">
+  <data key="d7">1.0</data>
+  <data key="d8">When conversion factors are applied to field net sampling data, more accurate estimates can be obtained for various insect stages.</data>
+  <data key="d9">data processing,sampling methods</data>
+  <data key="d10">chunk-c84b46b3aab74e9ac67c29d261c5a8f0</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935380</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aedes aegypti" target="Community-Based Control Strategy">
+  <data key="d7">1.0</data>
+  <data key="d8">The community-based control strategy effectively reduced the Aedes aegypti population across various regions.</data>
+  <data key="d9">mosquito elimination,population reduction</data>
+  <data key="d10">chunk-150b561d4dd47ec0ef54f8c210978655</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935480</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aedes aegypti" target="Dengue Cases">
+  <data key="d7">1.0</data>
+  <data key="d8">The reduction of Aedes aegypti population was associated with fewer dengue cases detected during the study period.</data>
+  <data key="d9">community health,disease transmission</data>
+  <data key="d10">chunk-150b561d4dd47ec0ef54f8c210978655</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935480</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aedes aegypti" target="Vietnam">
+  <data key="d7">2.0</data>
+  <data key="d8">Community-based mosquito control efforts eliminated Aedes aegypti mosquitoes in 40 out of 46 communes in Vietnam.&lt;SEP&gt;Aedes aegypti is prevalent in Vietnam, making this location relevant for implementing the mosquito control strategy.</data>
+  <data key="d9">distribution,location,prevalence,species impact</data>
+  <data key="d10">chunk-f8f8704987d6b587388b0e5aace9ebef&lt;SEP&gt;chunk-4c6fa496f303accae9be7d0ff7aeaa8b</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936063</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aedes aegypti" target="Community-Based Mosquito Control Program">
+  <data key="d7">1.0</data>
+  <data key="d8">Aedes aegypti mosquitoes were eliminated through community-based mosquito control efforts.</data>
+  <data key="d9">control method,species impact</data>
+  <data key="d10">chunk-f8f8704987d6b587388b0e5aace9ebef</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935731</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aedes aegypti" target="Vietnam Government">
+  <data key="d7">1.0</data>
+  <data key="d8">The Vietnamese government implemented community-based mosquito control efforts to eliminate Aedes aegypti mosquitoes.</data>
+  <data key="d9">policy implementation,species impact</data>
+  <data key="d10">chunk-f8f8704987d6b587388b0e5aace9ebef</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935731</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aedes aegypti" target="Vaccine Development">
+  <data key="d7">1.0</data>
+  <data key="d8">The development of vaccines aims to control infectious diseases by targeting their vectors, such as Aedes aegypti.</data>
+  <data key="d9">disease control,vector management</data>
+  <data key="d10">chunk-ae4a9d25675889bda3f33444944f8774</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936009</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aedes aegypti" target="Mosquito Control Strategy">
+  <data key="d7">1.0</data>
+  <data key="d8">The Mosquito Control Strategy specifically targets and aims to control the population of Aedes aegypti mosquitoes.</data>
+  <data key="d9">application,target</data>
+  <data key="d10">chunk-4c6fa496f303accae9be7d0ff7aeaa8b</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936063</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aedes aegypti" target="copepods">
+  <data key="d7">2.0</data>
+  <data key="d8">Copepods were used to control the population of Aedes aegypti mosquitoes.&lt;SEP&gt;Copepods were used to control Aedes aegypti mosquitoes through biological means.</data>
+  <data key="d9">biological control,target organism</data>
+  <data key="d10">chunk-8f67b4135b81382ee1dfd5329983fe84</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936152</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aedes aegypti" target="dengue viruses">
+  <data key="d7">1.0</data>
+  <data key="d8">Aedes aegypti transmits dengue viruses.</data>
+  <data key="d9">disease transmission,pathogen-transmitter relationship</data>
+  <data key="d10">chunk-8f67b4135b81382ee1dfd5329983fe84</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936152</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aedes aegypti" target="Urban Dengue">
+  <data key="d7">1.0</data>
+  <data key="d8">The Aedes aegypti mosquito transmits the Urban Dengue virus in urban areas.</data>
+  <data key="d9">disease spread,virus transmission</data>
+  <data key="d10">chunk-cecc1574e3d38e1c2b8f29466bffcf9d</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936508</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aedes aegypti" target="Yellow Fever">
+  <data key="d7">1.0</data>
+  <data key="d8">The Aedes aegypti mosquito transmits the Yellow Fever virus in urban areas.</data>
+  <data key="d9">disease spread,virus transmission</data>
+  <data key="d10">chunk-cecc1574e3d38e1c2b8f29466bffcf9d</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936508</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aedes aegypti" target="Chikungunya Virus">
+  <data key="d7">1.0</data>
+  <data key="d8">The Aedes aegypti mosquito transmits the Chikungunya Virus in urban areas.</data>
+  <data key="d9">disease spread,virus transmission</data>
+  <data key="d10">chunk-cecc1574e3d38e1c2b8f29466bffcf9d</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936508</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Northern and Central Vietnam" target="Community-Based Control Strategy">
+  <data key="d7">1.0</data>
+  <data key="d8">The community-based control strategy was successfully implemented in northern and central Vietnam to reduce the Aedes aegypti population.</data>
+  <data key="d9">mosquito elimination,population reduction</data>
+  <data key="d10">chunk-150b561d4dd47ec0ef54f8c210978655</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935480</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Long An Province" target="Hau Giang Province">
+  <data key="d7">1.0</data>
+  <data key="d8">The community-based control strategy was extended to Long An and Hau Giang provinces in southern Vietnam.</data>
+  <data key="d9">event participation,program extension</data>
+  <data key="d10">chunk-150b561d4dd47ec0ef54f8c210978655</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935480</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Ben Tre Province" target="Vinh Long Province">
+  <data key="d7">1.0</data>
+  <data key="d8">The mosquito control program also included Ben Tre and Vinh Long provinces in southern Vietnam.</data>
+  <data key="d9">event participation,program extension</data>
+  <data key="d10">chunk-150b561d4dd47ec0ef54f8c210978655</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935480</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Binh Thanh Commune" target="Mesocyclops">
+  <data key="d7">1.0</data>
+  <data key="d8">In Binh Thanh Commune, Mesocyclops were found in large water storage containers, contributing to ecosystem balance.</data>
+  <data key="d9">ecosystem balance,water storage</data>
+  <data key="d10">chunk-150b561d4dd47ec0ef54f8c210978655</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935480</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Mesocyclops" target="copepods">
+  <data key="d7">1.0</data>
+  <data key="d8">Mesocyclops is a genus of copepods used for biological control.</data>
+  <data key="d9">classification,genus relationship</data>
+  <data key="d10">chunk-8f67b4135b81382ee1dfd5329983fe84</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936152</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Mesocyclops" target="Study">
+  <data key="d7">1.0</data>
+  <data key="d8">This corrected relationship highlights the implementation of Mesocyclops as a method in the community-based program and its effectiveness.</data>
+  <data key="d9">effectiveness,method implementation</data>
+  <data key="d10">chunk-155e703201f0d545bdedc2599eaf52a4</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768937210</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Mesocyclops" target="Community-Based Program">
+  <data key="d7">1.0</data>
+  <data key="d8">The community-based program implements the use of Mesocyclops as an effective method for controlling dengue at the community level.</data>
+  <data key="d9">effectiveness,method implementation</data>
+  <data key="d10">chunk-155e703201f0d545bdedc2599eaf52a4</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768937210</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Sustainability Funds" target="Community-Based Control Strategy">
+  <data key="d7">1.0</data>
+  <data key="d8">After the conclusion of the formal project, sustainability funds were set up to ensure continued community-based dengue control activities.</data>
+  <data key="d9">financial support,program continuation</data>
+  <data key="d10">chunk-150b561d4dd47ec0ef54f8c210978655</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935480</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Paper" target="Sampling">
+  <data key="d7">1.0</data>
+  <data key="d8">The paper explores the challenges associated with sampling in qualitative research design.</data>
+  <data key="d9">research content,sampling process</data>
+  <data key="d10">chunk-3fc823099d0a6aa43191157d05a6250a</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935531</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Paper" target="Data Collection and Management">
+  <data key="d7">1.0</data>
+  <data key="d8">The paper also addresses the challenges of collecting and managing data in qualitative research.</data>
+  <data key="d9">data management,research content</data>
+  <data key="d10">chunk-3fc823099d0a6aa43191157d05a6250a</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935531</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Dengue" target="Endemicity Mapping">
+  <data key="d7">1.0</data>
+  <data key="d8">Endemicity mapping would help in identifying areas where dengue is prevalent, enabling more effective resource allocation and targeted interventions.</data>
+  <data key="d9">resource allocation,targeted interventions</data>
+  <data key="d10">chunk-91d90edfe796b3337e22aba76624bfd4</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935601</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Dengue" target="Malaria">
+  <data key="d7">1.0</data>
+  <data key="d8">Comparing methods used for malaria with those proposed for dengue can provide valuable insights into effective disease management approaches.</data>
+  <data key="d9">comparative analysis,disease management</data>
+  <data key="d10">chunk-91d90edfe796b3337e22aba76624bfd4</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935601</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Dengue" target="Aedes">
+  <data key="d7">1.0</data>
+  <data key="d8">Aedes mosquitoes transmit dengue fever.</data>
+  <data key="d9">transmission route,vector-borne disease</data>
+  <data key="d10">chunk-2060aef1d7efe9243e29ae313566ff31</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936436</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Dengue" target="Aedes Mosquitoes">
+  <data key="d7">1.0</data>
+  <data key="d8">Dengue is transmitted between humans by Aedes mosquitoes.</data>
+  <data key="d9">disease transmission,vector</data>
+  <data key="d10">chunk-60377a72fdc3717965e736959245d13b</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936585</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Dengue" target="World Health Organization">
+  <data key="d7">1.0</data>
+  <data key="d8">The World Health Organization estimates the dengue burden, which is compared to new estimates in the article.</data>
+  <data key="d9">estimation,public health burden</data>
+  <data key="d10">chunk-60377a72fdc3717965e736959245d13b</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936585</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Malaria" target="Parasite Prevalence Surveys">
+  <data key="d7">1.0</data>
+  <data key="d8">Parasite prevalence surveys are used to measure malaria endemicity and could potentially be applied to dengue.</data>
+  <data key="d9">disease quantification,surveillance</data>
+  <data key="d10">chunk-91d90edfe796b3337e22aba76624bfd4</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935601</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Malaria" target="Endemicity Mapping">
+  <data key="d7">1.0</data>
+  <data key="d8">Comparing methods used for malaria with those proposed for dengue can provide valuable insights into effective disease management approaches.</data>
+  <data key="d9">comparative analysis,disease management</data>
+  <data key="d10">chunk-91d90edfe796b3337e22aba76624bfd4</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935601</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Parasite Prevalence Surveys" target="D Dengue Prevention">
+  <data key="d7">1.0</data>
+  <data key="d8">Better methods for quantifying parasite prevalence could inform and improve strategies for d Dengue prevention.</data>
+  <data key="d9">disease control strategies</data>
+  <data key="d10">chunk-91d90edfe796b3337e22aba76624bfd4</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935601</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Case-Control Study" target="Children">
+  <data key="d7">1.0</data>
+  <data key="d8">The case-control study focused on children as its primary demographic for analysis.</data>
+  <data key="d9">demographic,study participants</data>
+  <data key="d10">chunk-18dc28b186b69b4dc32fd45ae507f576</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935666</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Case-Control Study" target="Untreated Bed Nets">
+  <data key="d7">1.0</data>
+  <data key="d8">The case-control study examined the effects of untreated bed nets on hospitalization rates for DHF among children.</data>
+  <data key="d9">prevention method,research design</data>
+  <data key="d10">chunk-18dc28b186b69b4dc32fd45ae507f576</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935666</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Case-Control Study" target="DHF (Dengue Hemorrhagic Fever)">
+  <data key="d7">1.0</data>
+  <data key="d8">The case-control study focused on preventing hospitalizations due to DHF among children.</data>
+  <data key="d9">disease protection,study subject</data>
+  <data key="d10">chunk-18dc28b186b69b4dc32fd45ae507f576</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935666</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Children" target="Vietnam">
+  <data key="d7">1.0</data>
+  <data key="d8">The study found high prevalence of bed net use among children in Vietnam.</data>
+  <data key="d9">demographic,geographic location</data>
+  <data key="d10">chunk-18dc28b186b69b4dc32fd45ae507f576</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935666</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Untreated Bed Nets" target="DHF (Dengue Hemorrhagic Fever)">
+  <data key="d7">1.0</data>
+  <data key="d8">Untreated bed nets are intended to prevent mosquito-borne illnesses like DHF.</data>
+  <data key="d9">disease protection,prevention method</data>
+  <data key="d10">chunk-18dc28b186b69b4dc32fd45ae507f576</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935666</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vietnam" target="Community-Based Mosquito Control Program">
+  <data key="d7">1.0</data>
+  <data key="d8">The Community-Based Mosquito Control Program was implemented in communes across northern and central Vietnam to eliminate Aedes aegypti mosquitoes.</data>
+  <data key="d9">initiative,location</data>
+  <data key="d10">chunk-f8f8704987d6b587388b0e5aace9ebef</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935731</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vietnam" target="Mekong Delta">
+  <data key="d7">1.0</data>
+  <data key="d8">The Mekong Delta region served as one of the primary locations for monitoring mosquito resistance to pyrethroids in Vietnam.</data>
+  <data key="d9">geographical location,study site</data>
+  <data key="d10">chunk-f02cc0d5c15c87c4dce3279a62ef6ff2</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936313</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Community-Based Mosquito Control Program" target="Aedes aegypti Elimination">
+  <data key="d7">1.0</data>
+  <data key="d8">The Community-Based Mosquito Control Program successfully eliminated Aedes aegypti mosquitoes in 40 out of 46 communes in Vietnam.</data>
+  <data key="d9">program success,species removal</data>
+  <data key="d10">chunk-f8f8704987d6b587388b0e5aace9ebef</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935731</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Dengue Fever" target="Brazil">
+  <data key="d7">1.0</data>
+  <data key="d8">Brazil is experiencing an outbreak of dengue fever.</data>
+  <data key="d9">disease prevalence,geographic area</data>
+  <data key="d10">chunk-4c492d94e46e6cf3d9b06c416def7bb1</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936373</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Control Communes" target="Untreated Communes">
+  <data key="d7">1.0</data>
+  <data key="d8">The control communes and untreated communes serve as comparative groups in studies examining dengue transmission dynamics.</data>
+  <data key="d9">health study,research comparison</data>
+  <data key="d10">chunk-8f00f059d4b0cec6970495ae9915f012</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935804</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Dengue Transmission" target="Clinical Surveillance">
+  <data key="d7">1.0</data>
+  <data key="d8">Clinical surveillance alone is insufficient for monitoring dengue transmission according to the provided data.</data>
+  <data key="d9">disease tracking,public health monitoring</data>
+  <data key="d10">chunk-8f00f059d4b0cec6970495ae9915f012</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935804</data>
+  <data key="d13"></data>
+</edge>
+<edge source="White Spot Disease" target="Ichthyophthirius Multifiliis">
+  <data key="d7">1.0</data>
+  <data key="d8">I. multifiliis causes White Spot Disease in freshwater fish.</data>
+  <data key="d9">disease causation,parasitic relationship</data>
+  <data key="d10">chunk-af8370e6f9fc8c5574122728d7b5006f</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935883</data>
+  <data key="d13"></data>
+</edge>
+<edge source="White Spot Disease" target="Goldfish">
+  <data key="d7">1.0</data>
+  <data key="d8">Goldfish are susceptible to I. multifiliis infection and White Spot Disease in aquaculture settings.</data>
+  <data key="d9">aquaculture impact,disease susceptibility</data>
+  <data key="d10">chunk-af8370e6f9fc8c5574122728d7b5006f</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935883</data>
+  <data key="d13"></data>
+</edge>
+<edge source="White Spot Disease" target="Zooplankton">
+  <data key="d7">1.0</data>
+  <data key="d8">The presence of zooplankton in culture water bodies significantly reduces the infection of I. multifiliis in goldfish.</data>
+  <data key="d9">aquaculture management,disease impact</data>
+  <data key="d10">chunk-af8370e6f9fc8c5574122728d7b5006f</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935883</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Theronts" target="Cyclopoid Copepods">
+  <data key="d7">2.0</data>
+  <data key="d8">Cyclopoid copepods have the potential to be used as biological control agents against White Spot Disease by predating on theronts.&lt;SEP&gt;Cyclopoid copepods prey on theronts in co-culture experiments.</data>
+  <data key="d9">biological control,predator-prey interaction</data>
+  <data key="d10">chunk-af8370e6f9fc8c5574122728d7b5006f</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935883</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Theronts" target="Zooplankton">
+  <data key="d7">1.0</data>
+  <data key="d8">Zooplankton prey on theronts in co-culture experiments.</data>
+  <data key="d9">biological control,predator-prey interaction</data>
+  <data key="d10">chunk-af8370e6f9fc8c5574122728d7b5006f</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935883</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Mesocyclops spp." target="This Study">
+  <data key="d7">1.0</data>
+  <data key="d8">The study focuses on Mesocyclops spp. as its research subject.</data>
+  <data key="d9">research subject,species focus</data>
+  <data key="d10">chunk-4a14c114d2071ce1f1b2720e241751ff</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935945</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Study" target="This">
+  <data key="d7">1.0</data>
+  <data key="d8">The study describes this as its content.</data>
+  <data key="d9">content description,research content</data>
+  <data key="d10">chunk-4a14c114d2071ce1f1b2720e241751ff</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768935945</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Study" target="Community-Based Program">
+  <data key="d7">1.0</data>
+  <data key="d8">This study focuses on a community-based program for dengue control using local predacious copepods of the genus Mesocyclops.</data>
+  <data key="d9">methodology,research focus</data>
+  <data key="d10">chunk-155e703201f0d545bdedc2599eaf52a4</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768937210</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Study" target="Dengue Control">
+  <data key="d7">1.0</data>
+  <data key="d8">The study aims to demonstrate that this community-based program is broadly acceptable and achievable at the community level for dengue control was partially captured earlier but with missing fields. This corrected relationship focuses on the research topic and goal.</data>
+  <data key="d9">goal,research topic</data>
+  <data key="d10">chunk-155e703201f0d545bdedc2599eaf52a4</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768937210</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vaccine Development" target="Authors">
+  <data key="d7">1.0</data>
+  <data key="d8">The authors have documented their understanding of vaccine development in this context.</data>
+  <data key="d9">documented information,scientific contribution</data>
+  <data key="d10">chunk-ae4a9d25675889bda3f33444944f8774</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936009</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Authors" target="Aedes aegypti suppression">
+  <data key="d7">1.0</data>
+  <data key="d8">The authors recommend Aedes aegyti suppression as an effective method for controlling urban dengue, yellow fever, and chikungunya viruses.</data>
+  <data key="d9">method application</data>
+  <data key="d10">chunk-cecc1574e3d38e1c2b8f29466bffcf9d</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936508</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Authors" target="Disease (Dengue)">
+  <data key="d7">2.0</data>
+  <data key="d8">The authors have a professional responsibility to effectively address the dengue disease, which poses significant health risks to nearly 40% of the world's population.&lt;SEP&gt;The authors have a professional responsibility to address the dengue disease, which poses significant health risks.</data>
+  <data key="d9">health impact,professional responsibility</data>
+  <data key="d10">chunk-871ad0c828540b878a1549b5f21bcafc</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936636</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Mosquito Control Strategy" target="Water Storage Containers">
+  <data key="d7">1.0</data>
+  <data key="d8">The Mosquito Control Strategy is also applicable in areas with large water storage containers which are major sources of Aedes aegypti mosquitoes.</data>
+  <data key="d9">applicability,effectiveness</data>
+  <data key="d10">chunk-4c6fa496f303accae9be7d0ff7aeaa8b</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936063</data>
+  <data key="d13"></data>
+</edge>
+<edge source="northern Vietnam" target="copepods">
+  <data key="d7">1.0</data>
+  <data key="d8">Copepods were used for biological control in northern Vietnam against mosquito-borne diseases.</data>
+  <data key="d9">biological control,location</data>
+  <data key="d10">chunk-8f67b4135b81382ee1dfd5329983fe84</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936152</data>
+  <data key="d13"></data>
+</edge>
+<edge source="copepods" target="inoculation">
+  <data key="d7">1.0</data>
+  <data key="d8">Inoculation was the method used to introduce copepods into domestic containers.</data>
+  <data key="d9">implementation,method relationship</data>
+  <data key="d10">chunk-8f67b4135b81382ee1dfd5329983fe84</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936152</data>
+  <data key="d13"></data>
+</edge>
+<edge source="copepods" target="wells">
+  <data key="d7">1.0</data>
+  <data key="d8">Copepods were introduced into wells as part of the biological control measure.</data>
+  <data key="d9">introduction,location relationship</data>
+  <data key="d10">chunk-8f67b4135b81382ee1dfd5329983fe84</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936152</data>
+  <data key="d13"></data>
+</edge>
+<edge source="copepods" target="large cement tanks">
+  <data key="d7">1.0</data>
+  <data key="d8">Copepods were also used in large cement tanks for biological control purposes.</data>
+  <data key="d9">implementation,location relationship</data>
+  <data key="d10">chunk-8f67b4135b81382ee1dfd5329983fe84</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936152</data>
+  <data key="d13"></data>
+</edge>
+<edge source="copepods" target="ceramic jars">
+  <data key="d7">1.0</data>
+  <data key="d8">Ceramic jars served as a location where copepods were inoculated and allowed to breed for biological control.</data>
+  <data key="d9">introduction,location relationship</data>
+  <data key="d10">chunk-8f67b4135b81382ee1dfd5329983fe84</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936152</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Dengue Mosquitoes" target="Larval Collection">
+  <data key="d7">1.0</data>
+  <data key="d8">Larval collection is a method used to study the presence of dengue mosquitoes and assess their distribution.</data>
+  <data key="d9">research tool,species identification</data>
+  <data key="d10">chunk-2e8cd66fff17acf6faadb72107c15d0a</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936208</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Dengue Mosquitoes" target="Vector Control Measures">
+  <data key="d7">1.0</data>
+  <data key="d8">Implementing vector control measures can help reduce the population of dengue mosquitoes, thereby minimizing health risks associated with dengue fever.</data>
+  <data key="d9">control strategy,disease prevention</data>
+  <data key="d10">chunk-2e8cd66fff17acf6faadb72107c15d0a</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936208</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Dengue Mosquitoes" target="Larval Collection from Used Tires">
+  <data key="d7">1.0</data>
+  <data key="d8">Assessing dengue mosquito presence through larval collection from used tires is a suitable method for estimating health risks and implementing vector control measures.</data>
+  <data key="d9">research tool,species presence</data>
+  <data key="d10">chunk-2e8cd66fff17acf6faadb72107c15d0a</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936208</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Pyrethroid Resistance" target="Vector Control Program">
+  <data key="d7">1.0</data>
+  <data key="d8">The emergence of pyrethroid resistance poses significant challenges for vector control programs worldwide.</data>
+  <data key="d9">concept impact,public health threat</data>
+  <data key="d10">chunk-f02cc0d5c15c87c4dce3279a62ef6ff2</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936313</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vector Control Program" target="Aedes Aegypti">
+  <data key="d7">1.0</data>
+  <data key="d8">The Vector Control Program has inadvertently contributed to the development of pyrethroid-resistant Ae. aegypti populations due to widespread use of insecticide treatments.</data>
+  <data key="d9">public health measure,species interaction</data>
+  <data key="d10">chunk-f02cc0d5c15c87c4dce3279a62ef6ff2</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936313</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Cross-Resistance" target="Mosquito Coils">
+  <data key="d7">1.0</data>
+  <data key="d8">The widespread use of cross-resistant knockdown agents in mosquito coils and related products raises concerns about their effectiveness and potential misuse.</data>
+  <data key="d9">safety concern,technological application</data>
+  <data key="d10">chunk-f02cc0d5c15c87c4dce3279a62ef6ff2</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936313</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Pyrethroids" target="Malaria Control">
+  <data key="d7">1.0</data>
+  <data key="d8">The extensive use of pyrethroids in malaria control has driven the development of resistance among mosquito populations.</data>
+  <data key="d9">chemical application,public health measure</data>
+  <data key="d10">chunk-f02cc0d5c15c87c4dce3279a62ef6ff2</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936313</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Pyrethroids" target="Aedes Aegypti">
+  <data key="d7">1.0</data>
+  <data key="d8">Significant correlations between the use of pyrethroid treatments for malaria control and low susceptibility in Ae. aegypti were observed.</data>
+  <data key="d9">species interaction,treatment impact</data>
+  <data key="d10">chunk-f02cc0d5c15c87c4dce3279a62ef6ff2</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936313</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aedes Aegypti" target="D-Alethrin">
+  <data key="d7">1.0</data>
+  <data key="d8">The results show that Ae. aegypti is less susceptible to d-allethrin than other mosquito species studied.</data>
+  <data key="d9">species interaction,susceptibility level</data>
+  <data key="d10">chunk-f02cc0d5c15c87c4dce3279a62ef6ff2</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936313</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Noah Carter's Record-Breaking 100m Sprint" target="World Athletics Federation">
+  <data key="d7">1.0</data>
+  <data key="d8">The World Athletics Federation oversees and validates record-breaking achievements like Noah Carter's in track and field events.</data>
+  <data key="d9">athletic achievement,governing body</data>
+  <data key="d10">chunk-f02cc0d5c15c87c4dce3279a62ef6ff2</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936313</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Noah Carter's Record-Breaking 100m Sprint" target="Tokyo">
+  <data key="d7">1.0</data>
+  <data key="d8">Tokyo hosted the event where Noah Carter set his record.</data>
+  <data key="d9">event location,host city</data>
+  <data key="d10">chunk-f02cc0d5c15c87c4dce3279a62ef6ff2</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936313</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Brazil" target="Dengue Transmission Area">
+  <data key="d7">1.0</data>
+  <data key="d8">The dengue transmission area is located within Brazil.</data>
+  <data key="d9">disease spread,geographic area</data>
+  <data key="d10">chunk-4c492d94e46e6cf3d9b06c416def7bb1</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936373</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Dengue Transmission Area" target="2001-2012 Period">
+  <data key="d7">2.0</data>
+  <data key="d8">The recent expansion of the dengue transmission area occurred during the 2001–2012 period in Brazil.</data>
+  <data key="d9">disease diffusion,timeframe of expansion</data>
+  <data key="d10">chunk-4c492d94e46e6cf3d9b06c416def7bb1</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936373</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Evidence" target="Aedes">
+  <data key="d7">1.0</data>
+  <data key="d8">The evidence on effectiveness focuses on reducing Aedes populations and interrupting dengue transmission.</data>
+  <data key="d9">research focus,subject of study</data>
+  <data key="d10">chunk-2060aef1d7efe9243e29ae313566ff31</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936436</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aedes" target="Peridomestic Space Spraying">
+  <data key="d7">1.0</data>
+  <data key="d8">Peridomestic space spraying is used for controlling Aedes populations.</data>
+  <data key="d9">method application,target species</data>
+  <data key="d10">chunk-2060aef1d7efe9243e29ae313566ff31</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936436</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Peridomestic Space Spraying" target="Insecticides">
+  <data key="d7">1.0</data>
+  <data key="d8">Peridomestic space spraying involves the use of insecticides to control mosquito populations.</data>
+  <data key="d9">method application,tool use</data>
+  <data key="d10">chunk-2060aef1d7efe9243e29ae313566ff31</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936436</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aedes aegypti suppression" target="Dengue Virus">
+  <data key="d7">1.0</data>
+  <data key="d8">Aedes aegypti suppression is used to control the Dengue Virus in urban areas.</data>
+  <data key="d9">disease control,virus transmission</data>
+  <data key="d10">chunk-cecc1574e3d38e1c2b8f29466bffcf9d</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936508</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aedes aegypti suppression" target="Yellow Fever Virus">
+  <data key="d7">1.0</data>
+  <data key="d8">Aedes aegypti suppression is used to control the Yellow Fever Virus in urban areas.</data>
+  <data key="d9">disease control,virus transmission</data>
+  <data key="d10">chunk-cecc1574e3d38e1c2b8f29466bffcf9d</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936508</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aedes aegypti suppression" target="Chikungunya Virus">
+  <data key="d7">1.0</data>
+  <data key="d8">Aedes aegypti suppression is used to control the Chikungunya Virus in urban areas.</data>
+  <data key="d9">disease control,virus transmission</data>
+  <data key="d10">chunk-cecc1574e3d38e1c2b8f29466bffcf9d</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936508</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aedes aegypti suppression" target="Disease Control">
+  <data key="d7">1.0</data>
+  <data key="d8">Aedes aegypti suppression is used for disease control in urban areas.</data>
+  <data key="d9">disease management,public health</data>
+  <data key="d10">chunk-cecc1574e3d38e1c2b8f29466bffcf9d</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936508</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Disease Control" target="Public Health Impact">
+  <data key="d7">1.0</data>
+  <data key="d8">The article discusses disease control strategies for managing the public health impact of dengue fever.</data>
+  <data key="d9">disease management,health policy</data>
+  <data key="d10">chunk-60377a72fdc3717965e736959245d13b</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936585</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aedes Mosquitoes" target="Rainfall Temperature Urbanization">
+  <data key="d7">1.0</data>
+  <data key="d8">Aedes mosquitoes are influenced by rainfall, temperature, and urbanization when transmitting dengue.</data>
+  <data key="d9">environmental factors,vector influence</data>
+  <data key="d10">chunk-60377a72fdc3717965e736959245d13b</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936585</data>
+  <data key="d13"></data>
+</edge>
+<edge source="World Health Organization" target="Dengue Cohort Studies">
+  <data key="d7">1.0</data>
+  <data key="d8">The new risk maps and infection estimates are compared to national dengue reporting after taking into account the probability of formal reporting.</data>
+  <data key="d9">burden estimation,data comparison</data>
+  <data key="d10">chunk-60377a72fdc3717965e736959245d13b</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936585</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Dengue Cohort Studies" target="Population Surfaces">
+  <data key="d7">1.0</data>
+  <data key="d8">Dengue cohort studies and population surfaces are integrated to infer the public health burden of dengue in 2010.</data>
+  <data key="d9">data integration,mapping</data>
+  <data key="d10">chunk-60377a72fdc3717965e736959245d13b</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936585</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Infection Estimates" target="Risk Maps">
+  <data key="d7">1.0</data>
+  <data key="d8">Risk maps and infection estimates provide novel insights into the global public health burden imposed by dengue.</data>
+  <data key="d9">disease control,public health impact</data>
+  <data key="d10">chunk-60377a72fdc3717965e736959245d13b</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936585</data>
+  <data key="d13"></data>
+</edge>
+<edge source="M. longisetus" target="Rural Villages in Ceará">
+  <data key="d7">2.0</data>
+  <data key="d8">The rural villages in Ceará are the target locations for using M. longisetus to control Ae.&lt;SEP&gt;M. longisetus has been selected for testing in rural villages in Ceará to combat Ae.</data>
+  <data key="d9">biological control,biological control agent,field trials,location</data>
+  <data key="d10">chunk-d10ecedf5a47ee11598a143f76b0f400</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936739</data>
+  <data key="d13"></data>
+</edge>
+<edge source="M. longisetus" target="Ae">
+  <data key="d7">1.0</data>
+  <data key="d8">Ae is the pest or disease that M. longisetus has been selected to control.</data>
+  <data key="d9">biological control,pest or disease</data>
+  <data key="d10">chunk-d10ecedf5a47ee11598a143f76b0f400</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936739</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Ae" target="Household Water Storage Container Availability">
+  <data key="d7">1.0</data>
+  <data key="d8">The availability of household water storage containers poses a significant risk for Ae infestations.</data>
+  <data key="d9">infestation,risk factor</data>
+  <data key="d10">chunk-034ac30d08da304503f5a8c31d4755fb</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936937</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Ae" target="Community Health Volunteers">
+  <data key="d7">1.0</data>
+  <data key="d8">The work of Community Health Volunteers made an essential contribution to Ae in preventing DF/DHF within their community.</data>
+  <data key="d9">contribution,partnership</data>
+  <data key="d10">chunk-2d650633543735b086887c85b50b0bb0</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768937115</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Ae" target="DF/DHF Prevention Practices">
+  <data key="d7">1.0</data>
+  <data key="d8">The work of Community Health Volunteers made an essential contribution to Ae in preventing DF/DHF within their community.</data>
+  <data key="d9">contribution,public health</data>
+  <data key="d10">chunk-2d650633543735b086887c85b50b0bb0</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768937115</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aedes aegypti (L.)" target="Container Infestation">
+  <data key="d7">1.0</data>
+  <data key="d8">Aedes aegypti (L.) was found to infest containers in the surveyed area.</data>
+  <data key="d9">container habitat,pest infestation</data>
+  <data key="d10">chunk-defa4dbd529a4663ae47a157c6019fd5</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936865</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aedes aegypti (L.)" target="New Orleans, LA">
+  <data key="d7">1.0</data>
+  <data key="d8">The Aedes aegypti infestation was observed in New Orleans, LA during the survey.</data>
+  <data key="d9">geographical location,infested area</data>
+  <data key="d10">chunk-defa4dbd529a4663ae47a157c6019fd5</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936865</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aedes aegypti (L.)" target="Survey">
+  <data key="d7">1.0</data>
+  <data key="d8">The survey aimed to study the presence of Aedes aegypti (L.) in containers.</data>
+  <data key="d9">research activity,target subject</data>
+  <data key="d10">chunk-defa4dbd529a4663ae47a157c6019fd5</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936865</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aedes aegypti (L.)" target="House">
+  <data key="d7">1.0</data>
+  <data key="d8">The house was infested with Aedes aegyti (L.).</data>
+  <data key="d9">habitat,infestation</data>
+  <data key="d10">chunk-defa4dbd529a4663ae47a157c6019fd5</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936865</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aedes aegypti (L.)" target="Breteau (foci)">
+  <data key="d7">1.0</data>
+  <data key="d8">Aedes aegypti (L.) showed higher infestation rates in Breteau (foci) compared to other locations.</data>
+  <data key="d9">high-risk areas,infestation</data>
+  <data key="d10">chunk-defa4dbd529a4663ae47a157c6019fd5</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936865</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aedes aegypti (L.)" target="Receptacle">
+  <data key="d7">1.0</data>
+  <data key="d8">The receptacles were found to be infested with Aedes aegypti (L.).</data>
+  <data key="d9">container type,infestation</data>
+  <data key="d10">chunk-defa4dbd529a4663ae47a157c6019fd5</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936865</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aedes aegypti (L.)" target="Block">
+  <data key="d7">1.0</data>
+  <data key="d8">Aedes aegypti (L.) was found to infest the entire block.</data>
+  <data key="d9">infestation,neighborhood level</data>
+  <data key="d10">chunk-defa4dbd529a4663ae47a157c6019fd5</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936865</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aedes aegypti (L.)" target="Larval Density">
+  <data key="d7">1.0</data>
+  <data key="d8">The larval density of Aedes aegypti (L.) in the surveyed area was high at 169.</data>
+  <data key="d9">metric,population measure</data>
+  <data key="d10">chunk-defa4dbd529a4663ae47a157c6019fd5</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768936865</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Community Health Volunteers" target="DF/DHF Prevention Practices">
+  <data key="d7">1.0</data>
+  <data key="d8">The use of Community Health Volunteers significantly contributed to the implementation and success of DF/DHF prevention practices.</data>
+  <data key="d9">contribution,public health</data>
+  <data key="d10">chunk-2d650633543735b086887c85b50b0bb0</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768937115</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Community-Based Program" target="Post-Project Vigilance">
+  <data key="d7">1.0</data>
+  <data key="d8">The community-based program requires vigilance post-project to prevent reinfestation.</data>
+  <data key="d9">post-project maintenance,reinfestation prevention</data>
+  <data key="d10">chunk-155e703201f0d545bdedc2599eaf52a4</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1768937210</data>
+  <data key="d13"></data>
+</edge>
+</graph></graphml>

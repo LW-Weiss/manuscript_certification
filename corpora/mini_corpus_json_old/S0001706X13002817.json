@@ -1,0 +1,2235 @@
+{
+    "abstract": "The objective of the investigation was to characterise infectious bursal disease viruses (IBDV) circulating in commercial and breeding poultry farms in Ethiopia between 2009 and 2011. The nucleotide and deduced amino acid sequence for VP2 hypervariable region of ten IBDVs were determined by RT-PCR, sequenced and compared to well characterised IBDV isolates worldwide. IBDV genetic material was amplified directly from bursa or cell passaged material. Phylogenetically, Ethiopian IBDVs represented two genetic lineages: very virulent (vv) IBDVs or variants of the classical attenuated vaccine strain (D78). The nucleotide identity between Ethiopian vvIBDVs ranged between 0% and 2.6%. Ethiopian vvIBDVs are clustered phylogenetically with the African IBDV genetic lineage, independent of the Asian/European lineage. This report demonstrates the circulation of vvIBDV in commercial and breeding poultry farms in Ethiopia. \u00a9 2013 Elsevier B.V.",
+    "author_highlights": [
+        {
+            "endOffset": 10234,
+            "sentence": "We reported very virulent IBDV in Ethiopia.",
+            "startOffset": 10191
+        },
+        {
+            "endOffset": 10300,
+            "sentence": "Ethiopian vvIBDVs cluster with vvIBDVs from Tanzania and Nigeria.",
+            "startOffset": 10235
+        },
+        {
+            "endOffset": 10354,
+            "sentence": "Virulent IBDVs lacking the genetic markers of vvIBDV.",
+            "startOffset": 10301
+        }
+    ],
+    "bib_entries": {
+        "bib0005": {
+            "authors": [
+                {
+                    "first": "C. D.",
+                    "initial": "C.D.",
+                    "last": "Bayliss"
+                },
+                {
+                    "first": "U.",
+                    "initial": "U.",
+                    "last": "Spies"
+                },
+                {
+                    "first": "K.",
+                    "initial": "K.",
+                    "last": "Shaw"
+                },
+                {
+                    "first": "R. W.",
+                    "initial": "R.W.",
+                    "last": "Peters"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Papageorgiou"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Muller"
+                },
+                {
+                    "first": "M. E.G.",
+                    "initial": "M.E.G.",
+                    "last": "Boursnell"
+                }
+            ],
+            "doi": "10.1099/0022-1317-71-6-1303",
+            "firstpage": "1303",
+            "issn": "00221317",
+            "lastpage": "1312",
+            "pmid": "2161902",
+            "pub_year": 1990,
+            "title": "A comparison of the sequences of segment A of four infectious bursal disease virus strains and identification of a variable region in VP2",
+            "volume": "71"
+        },
+        "bib0010": {
+            "authors": [
+                {
+                    "first": "Hein J.",
+                    "initial": "H.J.",
+                    "last": "Boot"
+                },
+                {
+                    "first": "A. Agnes H.M.",
+                    "initial": "A.A.H.M.",
+                    "last": "Ter Huurne"
+                },
+                {
+                    "first": "Arjan J.W.",
+                    "initial": "A.J.W.",
+                    "last": "Hoekman"
+                },
+                {
+                    "first": "Ben P.H.",
+                    "initial": "B.P.H.",
+                    "last": "Peeters"
+                },
+                {
+                    "first": "Arno L.J.",
+                    "initial": "A.L.J.",
+                    "last": "Gielkens"
+                }
+            ],
+            "doi": "10.1128/JVI.74.15.6701-6711.2000",
+            "firstpage": "6701",
+            "issn": "0022538X",
+            "lastpage": "6711",
+            "pmid": "10888607",
+            "pub_year": 2000,
+            "title": "Rescue of very virulent and mosaic infectious bursal disease virus from cloned cDNA: VP2 is not the sole determinant of the very virulent phenotype",
+            "volume": "74"
+        },
+        "bib0015": {
+            "authors": [
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Brandt"
+                },
+                {
+                    "first": "K.",
+                    "initial": "K.",
+                    "last": "Yao"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Liu"
+                },
+                {
+                    "first": "R. A.",
+                    "initial": "R.A.",
+                    "last": "Heckert"
+                },
+                {
+                    "first": "V. N.",
+                    "initial": "V.N.",
+                    "last": "Vakharia"
+                }
+            ],
+            "doi": "10.1128/JVI.75.24.11974-11982.2001",
+            "firstpage": "11974",
+            "issn": "0022538X",
+            "lastpage": "11982",
+            "pmid": "11711587",
+            "pub_year": 2001,
+            "title": "Molecular determinants of virulence, cell tropism, and pathogenic phenotype of infectious bursal disease virus",
+            "volume": "75"
+        },
+        "bib0020": {
+            "authors": [
+                {
+                    "first": "M. D.",
+                    "initial": "M.D.",
+                    "last": "Brown"
+                },
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Green"
+                },
+                {
+                    "first": "M. A.",
+                    "initial": "M.A.",
+                    "last": "Skinner"
+                }
+            ],
+            "doi": "10.1099/0022-1317-75-3-675",
+            "firstpage": "675",
+            "issn": "00221317",
+            "lastpage": "680",
+            "pmid": "8126466",
+            "pub_year": 1994,
+            "title": "VP2 sequences of recent European 'very virulent' isolates of infectious bursal disease virus are closely related to each other but are distinct from those of 'classical' strains",
+            "volume": "75"
+        },
+        "bib0025": null,
+        "bib0030": null,
+        "bib0035": {
+            "authors": [
+                {
+                    "first": "N.",
+                    "initial": "N.",
+                    "last": "Eterradossi"
+                },
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Arnauld"
+                },
+                {
+                    "first": "D.",
+                    "initial": "D.",
+                    "last": "Toquin"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Rivallan"
+                }
+            ],
+            "doi": "10.1007/s007050050404",
+            "firstpage": "1627",
+            "issn": "03048608",
+            "lastpage": "1636",
+            "pmid": "9739340",
+            "pub_year": 1998,
+            "title": "Critical amino acid changes in VP2 variable domain are associated with typical and atypical antigenicity in very virulent infectious bursal disease viruses: Brief report",
+            "volume": "143"
+        },
+        "bib0040": {
+            "authors": [
+                {
+                    "first": "Daral J.",
+                    "initial": "D.J.",
+                    "last": "Jackwood"
+                }
+            ],
+            "doi": "10.1079/AHR200490",
+            "firstpage": "313",
+            "issn": "14662523",
+            "lastpage": "316",
+            "pmid": "15984346",
+            "pub_year": 2004,
+            "title": "Recent trends in the molecular diagnosis of infectious bursal disease viruses.",
+            "volume": "5"
+        },
+        "bib0045": {
+            "authors": [
+                {
+                    "first": "D. H.",
+                    "initial": "D.H.",
+                    "last": "Jackwood"
+                },
+                {
+                    "first": "Y. M.",
+                    "initial": "Y.M.",
+                    "last": "Saif"
+                }
+            ],
+            "doi": "10.2307/1591028",
+            "firstpage": "766",
+            "issn": "00052086",
+            "lastpage": "770",
+            "pmid": "2831868",
+            "pub_year": 1987,
+            "title": "Antigenic diversity of infectious bursal disease viruses.",
+            "volume": "31"
+        },
+        "bib0050": {
+            "authors": [
+                {
+                    "first": "Daral J.",
+                    "initial": "D.J.",
+                    "last": "Jackwood"
+                },
+                {
+                    "first": "Susan E.",
+                    "initial": "S.E.",
+                    "last": "Sommer"
+                }
+            ],
+            "doi": "10.1006/viro.2002.1724",
+            "firstpage": "105",
+            "issn": "00426822",
+            "lastpage": "113",
+            "pmid": "12490408",
+            "pub_year": 2002,
+            "title": "Identification of infectious bursal disease virus quasispecies in commercial vaccines and field isolates of this double-stranded RNA virus",
+            "volume": "304"
+        },
+        "bib0055": {
+            "authors": [
+                {
+                    "first": "D. J.",
+                    "initial": "D.J.",
+                    "last": "Jackwood"
+                },
+                {
+                    "first": "B.",
+                    "initial": "B.",
+                    "last": "Sreedevi"
+                },
+                {
+                    "first": "L. J.",
+                    "initial": "L.J.",
+                    "last": "LeFever"
+                },
+                {
+                    "first": "S. E.",
+                    "initial": "S.E.",
+                    "last": "Sommer-Wagner"
+                }
+            ],
+            "doi": "10.1016/j.virol.2008.04.018",
+            "firstpage": "110",
+            "issn": "00426822",
+            "lastpage": "116",
+            "pmid": "18502466",
+            "pub_year": 2008,
+            "title": "Studies on naturally occurring infectious bursal disease viruses suggest that a single amino acid substitution at position 253 in VP2 increases pathogenicity",
+            "volume": "377"
+        },
+        "bib0060": {
+            "authors": [
+                {
+                    "first": "C. J.",
+                    "initial": "C.J.",
+                    "last": "Kasanga"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Yamaguchi"
+                },
+                {
+                    "first": "P. N.",
+                    "initial": "P.N.",
+                    "last": "Wambura"
+                },
+                {
+                    "first": "A. D.",
+                    "initial": "A.D.",
+                    "last": "Maeda-Machang'u"
+                },
+                {
+                    "first": "K.",
+                    "initial": "K.",
+                    "last": "Ohya"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Fukushi"
+                }
+            ],
+            "doi": "10.1007/s00705-006-0898-5",
+            "firstpage": "783",
+            "issn": "03048608",
+            "lastpage": "790",
+            "pmid": "17226068",
+            "pub_year": 2007,
+            "title": "Molecular characterization of infectious bursal disease virus (IBDV): Diversity of very virulent IBDV in Tanzania",
+            "volume": "152"
+        },
+        "bib0065": {
+            "authors": [
+                {
+                    "first": "Boon Leong",
+                    "initial": "B.L.",
+                    "last": "Lim"
+                },
+                {
+                    "first": "Yongchang",
+                    "initial": "Y.",
+                    "last": "Cao"
+                },
+                {
+                    "first": "Tiffany",
+                    "initial": "T.",
+                    "last": "Yu"
+                },
+                {
+                    "first": "Chi Wai",
+                    "initial": "C.W.",
+                    "last": "Mo"
+                }
+            ],
+            "firstpage": "2854",
+            "issn": "0022538X",
+            "lastpage": "2862",
+            "pmid": "10074133",
+            "pub_year": 1999,
+            "title": "Adaptation of very virulent infectious bursal disease virus to chicken embryonic fibroblasts by site-directed mutagenesis of residues 279 and 284 of viral coat protein VP2",
+            "volume": "73"
+        },
+        "bib0070": {
+            "authors": [
+                {
+                    "first": "I.",
+                    "initial": "I.",
+                    "last": "Lojki\u0107"
+                },
+                {
+                    "first": "Z.",
+                    "initial": "Z.",
+                    "last": "Bidin"
+                },
+                {
+                    "first": "B.",
+                    "initial": "B.",
+                    "last": "Pokri\u0107"
+                }
+            ],
+            "doi": "10.1637/8272-022808-Reg.1",
+            "firstpage": "513",
+            "issn": "00052086",
+            "lastpage": "519",
+            "pmid": "18939645",
+            "pub_year": 2008,
+            "title": "Sequence analysis of both genome segments of three Croatian infectious bursal disease field viruses",
+            "volume": "52"
+        },
+        "bib0075": {
+            "authors": [
+                {
+                    "first": "Ana Moreno",
+                    "initial": "A.M.",
+                    "last": "Martin"
+                },
+                {
+                    "first": "Francesca",
+                    "initial": "F.",
+                    "last": "Fallacara"
+                },
+                {
+                    "first": "Ilaria",
+                    "initial": "I.",
+                    "last": "Barbieri"
+                },
+                {
+                    "first": "Giovanni",
+                    "initial": "G.",
+                    "last": "Tosi"
+                },
+                {
+                    "first": "Gaelle",
+                    "initial": "G.",
+                    "last": "Rivallan"
+                },
+                {
+                    "first": "Nicolas",
+                    "initial": "N.",
+                    "last": "Eterradossi"
+                },
+                {
+                    "first": "Raffaella",
+                    "initial": "R.",
+                    "last": "Ceruti"
+                },
+                {
+                    "first": "Paolo",
+                    "initial": "P.",
+                    "last": "Cordioli"
+                }
+            ],
+            "doi": "10.1637/7904-020107-REGR.1",
+            "firstpage": "863",
+            "issn": "00052086",
+            "lastpage": "872",
+            "pmid": "18251395",
+            "pub_year": 2007,
+            "title": "Genetic and antigenic characterization of infectious bursal disease viruses isolated in Italy during the period 2002-2005",
+            "volume": "51"
+        },
+        "bib0080": {
+            "authors": [
+                {
+                    "first": "Hermann",
+                    "initial": "H.",
+                    "last": "M\u00fcller"
+                },
+                {
+                    "first": "Md Rafiqul",
+                    "initial": "M.R.",
+                    "last": "Islam"
+                },
+                {
+                    "first": "R\u00fcdiger",
+                    "initial": "R.",
+                    "last": "Raue"
+                }
+            ],
+            "doi": "10.1016/j.vetmic.2003.08.005",
+            "firstpage": "153",
+            "issn": "03781135",
+            "lastpage": "165",
+            "pmid": "14637046",
+            "pub_year": 2003,
+            "title": "Research on infectious bursal disease - The past, the present and the future",
+            "volume": "97"
+        },
+        "bib0085": {
+            "authors": [
+                {
+                    "first": "Egbert",
+                    "initial": "E.",
+                    "last": "Mundt"
+                }
+            ],
+            "doi": "10.1099/0022-1317-80-8-2067",
+            "firstpage": "2067",
+            "issn": "00221317",
+            "lastpage": "2076",
+            "pmid": "10466805",
+            "pub_year": 1999,
+            "title": "Tissue culture infectivity of different strains of infectious bursal disease virus is determined by distinct amino acids in VP2",
+            "volume": "80"
+        },
+        "bib0090": {
+            "authors": [
+                {
+                    "first": "Davor",
+                    "initial": "D.",
+                    "last": "Ojkic"
+                },
+                {
+                    "first": "Emily",
+                    "initial": "E.",
+                    "last": "Martin"
+                },
+                {
+                    "first": "Janet",
+                    "initial": "J.",
+                    "last": "Swinton"
+                },
+                {
+                    "first": "Brian",
+                    "initial": "B.",
+                    "last": "Binnington"
+                },
+                {
+                    "first": "Marina",
+                    "initial": "M.",
+                    "last": "Brash"
+                }
+            ],
+            "doi": "10.1080/03079450701598408",
+            "firstpage": "427",
+            "issn": "03079457",
+            "lastpage": "433",
+            "pmid": "17899469",
+            "pub_year": 2007,
+            "title": "Genotyping of Canadian field strains of infectious bursal disease virus",
+            "volume": "36"
+        },
+        "bib0095": {
+            "authors": [
+                {
+                    "first": "A. A.",
+                    "initial": "A.A.",
+                    "last": "Owoade"
+                },
+                {
+                    "first": "M. N.",
+                    "initial": "M.N.",
+                    "last": "Mulders"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Kohnen"
+                },
+                {
+                    "first": "W.",
+                    "initial": "W.",
+                    "last": "Ammerlaan"
+                },
+                {
+                    "first": "C. P.",
+                    "initial": "C.P.",
+                    "last": "Muller"
+                }
+            ],
+            "doi": "10.1007/s00705-003-0270-y",
+            "firstpage": "653",
+            "issn": "03048608",
+            "lastpage": "672",
+            "pmid": "15045556",
+            "pub_year": 2004,
+            "title": "High sequence diversity in infectious bursal disease virus serotype 1 in poultry and turkey suggests West-African origin of very virulent strains",
+            "volume": "149"
+        },
+        "bib0100": {
+            "authors": [
+                {
+                    "first": "Xiaole",
+                    "initial": "X.",
+                    "last": "Qi"
+                },
+                {
+                    "first": "Honglei",
+                    "initial": "H.",
+                    "last": "Gao"
+                },
+                {
+                    "first": "Yulong",
+                    "initial": "Y.",
+                    "last": "Gao"
+                },
+                {
+                    "first": "Liting",
+                    "initial": "L.",
+                    "last": "Qin"
+                },
+                {
+                    "first": "Yongqiang",
+                    "initial": "Y.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Li",
+                    "initial": "L.",
+                    "last": "Gao"
+                },
+                {
+                    "first": "Xiaomei",
+                    "initial": "X.",
+                    "last": "Wang"
+                }
+            ],
+            "doi": "10.1016/j.antiviral.2009.09.006",
+            "firstpage": "225",
+            "issn": "01663542",
+            "lastpage": "233",
+            "pmid": "19766142",
+            "pub_year": 2009,
+            "title": "Naturally occurring mutations at residues 253 and 284 in VP2 contribute to the cell tropism and virulence of very virulent infectious bursal disease virus",
+            "volume": "84"
+        },
+        "bib0105": {
+            "authors": [
+                {
+                    "first": "Muhammad Hidayat",
+                    "initial": "M.H.",
+                    "last": "Rasool"
+                },
+                {
+                    "first": "Iftikhar",
+                    "initial": "I.",
+                    "last": "Hussain"
+                }
+            ],
+            "doi": "10.1016/j.vaccine.2006.01.044",
+            "firstpage": "2810",
+            "issn": "0264410X",
+            "lastpage": "2814",
+            "pmid": "16490290",
+            "pub_year": 2006,
+            "title": "Preparation and evaluation of Vero-cell infectious bursal disease vaccine in Pakistan",
+            "volume": "24"
+        },
+        "bib0110": {
+            "authors": [
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Raue"
+                },
+                {
+                    "first": "M. R.",
+                    "initial": "M.R.",
+                    "last": "Islam"
+                },
+                {
+                    "first": "M. N.",
+                    "initial": "M.N.",
+                    "last": "Islam"
+                },
+                {
+                    "first": "K. M.",
+                    "initial": "K.M.",
+                    "last": "Islam"
+                },
+                {
+                    "first": "S. C.",
+                    "initial": "S.C.",
+                    "last": "Badhy"
+                },
+                {
+                    "first": "P. M.",
+                    "initial": "P.M.",
+                    "last": "Das"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "M\u00fcller"
+                }
+            ],
+            "doi": "10.1080/03079450310001652112",
+            "firstpage": "181",
+            "issn": "03079457",
+            "lastpage": "189",
+            "pmid": "15276985",
+            "pub_year": 2004,
+            "title": "Reversion of molecularly engineered, partially attenuated, very virulent infectious bursal disease virus during infection of commercial chickens",
+            "volume": "33"
+        },
+        "bib0115": {
+            "authors": [
+                {
+                    "first": "S. I.",
+                    "initial": "S.I.",
+                    "last": "Sapats"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Ignjatovic"
+                }
+            ],
+            "doi": "10.1007/s007050050670",
+            "firstpage": "773",
+            "issn": "03048608",
+            "lastpage": "785",
+            "pmid": "10893155",
+            "pub_year": 2000,
+            "title": "Antigenic and sequence heterogeneity of infectious bursal disease virus strains isolated in Australia",
+            "volume": "145"
+        },
+        "bib0120": {
+            "authors": [
+                {
+                    "first": "Koichiro",
+                    "initial": "K.",
+                    "last": "Tamura"
+                },
+                {
+                    "first": "Daniel",
+                    "initial": "D.",
+                    "last": "Peterson"
+                },
+                {
+                    "first": "Nicholas",
+                    "initial": "N.",
+                    "last": "Peterson"
+                },
+                {
+                    "first": "Glen",
+                    "initial": "G.",
+                    "last": "Stecher"
+                },
+                {
+                    "first": "Masatoshi",
+                    "initial": "M.",
+                    "last": "Nei"
+                },
+                {
+                    "first": "Sudhir",
+                    "initial": "S.",
+                    "last": "Kumar"
+                }
+            ],
+            "doi": "10.1093/molbev/msr121",
+            "firstpage": "2731",
+            "issn": "07374038",
+            "lastpage": "2739",
+            "pmid": "21546353",
+            "pub_year": 2011,
+            "title": "MEGA5: Molecular evolutionary genetics analysis using maximum likelihood, evolutionary distance, and maximum parsimony methods",
+            "volume": "28"
+        },
+        "bib0125": {
+            "authors": [
+                {
+                    "first": "A. A.W.M.",
+                    "initial": "A.A.W.M.",
+                    "last": "Van Loon"
+                },
+                {
+                    "first": "N.",
+                    "initial": "N.",
+                    "last": "De Haas"
+                },
+                {
+                    "first": "E.",
+                    "initial": "E.",
+                    "last": "Mundt"
+                }
+            ],
+            "doi": "10.1099/0022-1317-83-1-121",
+            "firstpage": "121",
+            "issn": "00221317",
+            "lastpage": "129",
+            "pmid": "11752708",
+            "pub_year": 2002,
+            "title": "Alteration of amino acids in VP2 of very virulent infectious bursal disease virus results in tissue culture adaptation and attenuation in chickens",
+            "volume": "83"
+        },
+        "bib0130": {
+            "authors": [
+                {
+                    "first": "Ching Wu",
+                    "initial": "C.W.",
+                    "last": "Ching"
+                },
+                {
+                    "first": "A. Peter",
+                    "initial": "A.P.",
+                    "last": "Rubinelli"
+                },
+                {
+                    "first": "Long Lin",
+                    "initial": "L.L.",
+                    "last": "Tsang"
+                }
+            ],
+            "doi": "10.1637/0005-2086(2007)51[515:MDADOI]2.0.CO;2",
+            "firstpage": "515",
+            "issn": "00052086",
+            "lastpage": "526",
+            "pmid": "17626477",
+            "pub_year": 2007,
+            "title": "Molecular detection and differentiation of infectious bursal disease virus",
+            "volume": "51"
+        },
+        "bib0135": {
+            "authors": [
+                {
+                    "first": "Aschalew",
+                    "initial": "A.",
+                    "last": "Zeleke"
+                },
+                {
+                    "first": "Esayas",
+                    "initial": "E.",
+                    "last": "Gelaye"
+                },
+                {
+                    "first": "Teshale",
+                    "initial": "T.",
+                    "last": "Sori"
+                },
+                {
+                    "first": "Gelagay",
+                    "initial": "G.",
+                    "last": "Ayelet"
+                },
+                {
+                    "first": "Asegedech",
+                    "initial": "A.",
+                    "last": "Sirak"
+                },
+                {
+                    "first": "Bereket",
+                    "initial": "B.",
+                    "last": "Zekarias"
+                }
+            ],
+            "doi": "10.3923/ijps.2005.504.506",
+            "firstpage": "504",
+            "issn": "16828356",
+            "lastpage": "506",
+            "pub_year": 2005,
+            "title": "Investigation on infectious bursal disease outbreak in Debre Zeit, Ethiopia",
+            "volume": "4"
+        },
+        "bib0140": {
+            "authors": [
+                {
+                    "first": "K.",
+                    "initial": "K.",
+                    "last": "Zierenberg"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Nieper"
+                },
+                {
+                    "first": "T. P.",
+                    "initial": "T.P.",
+                    "last": "Van Den Berg"
+                },
+                {
+                    "first": "C. D.",
+                    "initial": "C.D.",
+                    "last": "Ezeokoli"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Vo\u00df"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "M\u00fcller"
+                }
+            ],
+            "doi": "10.1007/s007050050009",
+            "firstpage": "113",
+            "issn": "03048608",
+            "lastpage": "125",
+            "pmid": "10664410",
+            "pub_year": 2000,
+            "title": "The VP2 variable region of African and German isolates of infectious bursal disease virus: Comparison with very virulent, 'classical' virulent, and attenuated tissue culture-adapted strains",
+            "volume": "145"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 28073,
+            "parents": [],
+            "secId": "sec0060",
+            "sentence": "Information from this study could be used to guide IBDV vaccine selection in Ethiopia and further supports an independent vvIBDV African lineage.",
+            "startOffset": 27928,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18926,
+            "parents": [
+                {
+                    "id": "sec0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "Isolates IBDV 03/11, 04/09 and 10/10 showed 100% nucleotide identity over the region sequenced and were genetically related to IBDV 09/09 (97.7%).",
+            "startOffset": 18780,
+            "title": "Nucleotide and deduced amino acid sequence"
+        },
+        {
+            "endOffset": 25257,
+            "parents": [],
+            "refoffsets": {
+                "bib0055": {
+                    "endOffset": 25255,
+                    "startOffset": 25234
+                }
+            },
+            "secId": "sec0060",
+            "sentence": "Single amino acid substitutions in the VP2 HVR at position 253 (N or Q) have experimentally been linked to increased virulence in vivo (Jackwood et al., 2008).",
+            "startOffset": 25098,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 15618,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "Subsequently, 140 \u03bcl was further processed using the QIAGEN Viral RNA extraction kit as outlined by the manufacturer.",
+            "startOffset": 15501,
+            "title": "RNA extraction and reverse transcription"
+        },
+        {
+            "endOffset": 22983,
+            "parents": [],
+            "refoffsets": {
+                "bib0060": {
+                    "endOffset": 22981,
+                    "startOffset": 22961
+                }
+            },
+            "secId": "sec0060",
+            "sentence": "Sequence divergence from a single origin within multiple countries is consistent with the proposed evolution of the two distinct clusters in the African VV2 lineage, specifically, VV2-1 (Nigerian vvIBDVs) and VV2-2 (Tanzania vvIBDVs) (Kasanga et al., 2007).",
+            "startOffset": 22726,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27130,
+            "parents": [],
+            "refoffsets": {
+                "bib0110": {
+                    "endOffset": 27128,
+                    "startOffset": 27111
+                }
+            },
+            "secId": "sec0060",
+            "sentence": "A driver for reversion to virulence of attenuated vaccine strains is the inappropriate usage of vaccines (i.e. lower dose) (Raue et al., 2004).",
+            "startOffset": 26987,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17387,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "Amplicons were separated from reaction components using the QIAGEN Gel extraction kit, with the concentration of DNA determined spectrophotometrically using a Nano Drop Spectrophometer 1000 (Thermo Scientific).",
+            "startOffset": 17177,
+            "title": "PCR amplification and sequencing"
+        },
+        {
+            "endOffset": 23813,
+            "parents": [],
+            "refoffsets": {
+                "bib0060": {
+                    "endOffset": 23773,
+                    "startOffset": 23753
+                },
+                "bib0095": {
+                    "endOffset": 23648,
+                    "startOffset": 23629
+                },
+                "bib0140": {
+                    "endOffset": 23811,
+                    "startOffset": 23788
+                }
+            },
+            "secId": "sec0060",
+            "sentence": "In Nigeria, vvIBDVs show a high level of genetic heterogeneity (5.7%) and two distinct genetic clusters (specifically VV1 and VV2-1) (Owoade et al., 2004), while there is evidence of vvIBDV isolates from both Asian/European lineages circulating in Tanzania (Kasanga et al., 2007) and Nigeria (Zierenberg et al., 2000).",
+            "startOffset": 23495,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23989,
+            "parents": [],
+            "secId": "sec0060",
+            "sentence": "Three of the four vvIBDV isolates (IBDV 03/11, 04/09 and 10/10) sequenced as part of this study had 100% nucleotide identity in VP2 HVR, despite being isolated over two years.",
+            "startOffset": 23814,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 12039,
+            "parents": [],
+            "refoffsets": {
+                "bib0080": {
+                    "endOffset": 12037,
+                    "startOffset": 11989
+                },
+                "bib0115": {
+                    "endOffset": 12037,
+                    "startOffset": 11989
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Serotype 1 viruses are infectious for chickens, differing in their pathogenicity and are classified as avirulent, classical, variant and very virulent (vv) strains (Muller et al., 2003; Sapats and Ignjatovic, 2000).",
+            "startOffset": 11824,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26064,
+            "parents": [],
+            "refoffsets": {
+                "bib0015": {
+                    "endOffset": 25996,
+                    "startOffset": 25977
+                }
+            },
+            "secId": "sec0060",
+            "sentence": "Analysis of these isolates is difficult as cell culture material was used for the genetic analysis and in vitro passaging can affect the nucleotide sequence of VP2 HVR (Brandt et al., 2001) and leads to reduced genetic diversity (population bottlenecking).",
+            "startOffset": 25808,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 14394,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "The supernatant was harvested and filtered using 0.22 \u03bc milipore filters.",
+            "startOffset": 14321,
+            "title": "Bursa sample collection and virus isolation"
+        },
+        {
+            "endOffset": 16007,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0005": {
+                    "endOffset": 15969,
+                    "startOffset": 15949
+                },
+                "bib0075": {
+                    "endOffset": 16005,
+                    "startOffset": 15986
+                }
+            },
+            "secId": "sec0025",
+            "sentence": "RNA was first incubated at 95 \u00b0C for 3 min and placed on ice for at least 3 min in the presence of the gene specific primer L2 (5\u2032-GATCCTGTTGCCACTCTTTC-3\u2032), which binds nucleotides 1194\u20131213 of the positive strand of IBDV segment A (Bayliss et al., 1990), and 20% DMSO (Martin et al., 2007).",
+            "startOffset": 15716,
+            "title": "RNA extraction and reverse transcription"
+        },
+        {
+            "endOffset": 13450,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "In this study, over 25 outbreaks of IBD were investigated by the National Veterinary Institute, Ethiopia, between 2009 and 2011.",
+            "startOffset": 13322,
+            "title": "Study design"
+        },
+        {
+            "endOffset": 18274,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0120": {
+                    "endOffset": 18196,
+                    "startOffset": 18177
+                }
+            },
+            "secId": "sec0035",
+            "sentence": "Nucleotide alignment was performed using ClustalW, within Mega 5.1 (Tamura et al., 2011), with the phylogenetic analysis inferred using the neighbour-joining method.",
+            "startOffset": 18109,
+            "title": "Sequence and Phylogenetic analysis"
+        },
+        {
+            "endOffset": 11823,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "IBDV consists of two serotypes, 1 and 2.",
+            "startOffset": 11783,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 11782,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Infectious bursal disease virus replicates in differentiating lymphocytes of the Bursa of Fabricius, causing the immunosuppressive and often fatal condition called infectious bursal disease (IBD) or Gumboro.",
+            "startOffset": 11575,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26298,
+            "parents": [],
+            "secId": "sec0060",
+            "sentence": "Although classical attenuated IBDV vaccines protect chickens from vvIBDV, a hallmark of vvIBDVs is the ability to cause disease in the presence of higher levels of neutralising antibodies in comparison to the classical virulent IBDVs.",
+            "startOffset": 26064,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26986,
+            "parents": [],
+            "refoffsets": {
+                "bib0105": {
+                    "endOffset": 26889,
+                    "startOffset": 26865
+                },
+                "bib0110": {
+                    "endOffset": 26955,
+                    "startOffset": 26938
+                }
+            },
+            "secId": "sec0060",
+            "sentence": "Vaccination with cell culture attenuated vvIBDV have been found efficacious (Rasool and Hussain, 2006), however, the risk for reversion to virulence (Raue et al., 2004) may hinder commercialisation.",
+            "startOffset": 26788,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20589,
+            "parents": [
+                {
+                    "id": "sec0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "The phenotypic relationship between IBDV isolates showing high nucleotide identity to the Ethiopian IBDVs sequenced in this study, in addition to several well characterised vvIBDVs and Classical IBDVs (inc. variant strains and attenuated vaccine strains) was inferred using the Neighbour-joining method (Fig. 2).",
+            "startOffset": 20277,
+            "title": "Phlyogenetic analysis"
+        },
+        {
+            "endOffset": 12910,
+            "parents": [],
+            "refoffsets": {
+                "bib0135": {
+                    "endOffset": 12908,
+                    "startOffset": 12889
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "The first report of IBD in Ethiopia was in 2005 involving 20\u201345 day old broiler and layer chickens from commercial farms (Zeleke et al., 2005).",
+            "startOffset": 12767,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18527,
+            "parents": [
+                {
+                    "id": "sec0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "The nucleotide sequence of the VP2 HVR was determined for 10 Ethiopian IBDV isolates from cDNA transcripts.",
+            "startOffset": 18420,
+            "title": "Nucleotide and deduced amino acid sequence"
+        },
+        {
+            "endOffset": 22725,
+            "parents": [],
+            "secId": "sec0060",
+            "sentence": "Although Ethiopian and Nigerian vvIBDVs share a common ancestor, VP2 HVR sequences group into two distinct clusters (tentatively named VV1-1 and VV1-2) within VV1.",
+            "startOffset": 22562,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 11574,
+            "parents": [],
+            "refoffsets": {
+                "bib0030": {
+                    "endOffset": 11572,
+                    "startOffset": 11546
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "The genome of virus is double-stranded RNA and bi-segmented (Eterradossi and Saif, 2008).",
+            "startOffset": 11485,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 14939,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "After seven days, samples with no CPE were blindly passed further three times following two cycles of freeze\u2013thawing.",
+            "startOffset": 14822,
+            "title": "Bursa sample collection and virus isolation"
+        },
+        {
+            "endOffset": 19591,
+            "parents": [
+                {
+                    "id": "sec0040",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib0020": {
+                    "endOffset": 19482,
+                    "startOffset": 19464
+                },
+                "bib0035": {
+                    "endOffset": 19589,
+                    "startOffset": 19565
+                }
+            },
+            "secId": "sec0045",
+            "sentence": "Four Ethiopian IBDV isolates (IBDV 03/11, 04/09, 09/09 and 10/10) contain the genetic signature of vvIBDVs, specifically, A222, I256, I294, S299 (Brown et al., 1994), however, lacked L324 and V321, characteristic of antigenically atypical vvIBDV (Eterradossi et al., 1998).",
+            "startOffset": 19318,
+            "title": "Nucleotide and deduced amino acid sequence"
+        },
+        {
+            "endOffset": 13555,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "Outbreaks occurred in both commercial and breeding poultry farms under private and government ownership.",
+            "startOffset": 13451,
+            "title": "Study design"
+        },
+        {
+            "endOffset": 16928,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0005": {
+                    "endOffset": 16855,
+                    "startOffset": 16835
+                }
+            },
+            "secId": "sec0030",
+            "sentence": "A typical 25 \u03bcl reaction contained Pfu Buffer with MgSO4 (Fermentas), 0.2 mM dNTPs (Thermo Scientific), 200 nM of each primers L2 (5\u2032-GATCCTGTTGCCACTCTTTC-3\u2032) and U2 (5\u2032-GGTATGTGAGGCTTGGTGAC-3\u2032) which binds nucleotide position 1194\u20131213 and 658\u2013677 of IBDV segment A, respectively (Bayliss et al., 1990), 2.5 units (U) PfuDNA polymerase (Fermentas) and 2 \u03bcl of cDNA template.",
+            "startOffset": 16553,
+            "title": "PCR amplification and sequencing"
+        },
+        {
+            "endOffset": 16552,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "Polymerase chain reaction (PCR) amplification of products intended for sequencing was carried out using a high fidelity DNA polymerase, Pfu DNA polymerase (Fermentas).",
+            "startOffset": 16385,
+            "title": "PCR amplification and sequencing"
+        },
+        {
+            "endOffset": 22025,
+            "parents": [
+                {
+                    "id": "sec0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "A single point mutation, resulting in a single amino acid change, was detected in three Ethiopian IBDV isolates: IBDV 11/10, a nucleotide change at position 888 (C \u2192 A) resulted in an asparagine (N) at position 253; IBDV 17/10, a nucleotide change at position 877 (A \u2192 G) resulted in a arginine (R) at position 249 and IBDV 01/10, a nucleotide change at position 890 (C \u2192 A) resulted in a glutamine (Q) at position 253.",
+            "startOffset": 21606,
+            "title": "Investigation into the genetic relatedness of Ethiopian IBDV isolates and IBDV D78"
+        },
+        {
+            "endOffset": 23494,
+            "parents": [],
+            "secId": "sec0060",
+            "sentence": "This is in contrast to the sequence heterogeneity detected among vvIBDV isolates from other African countries.",
+            "startOffset": 23384,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19783,
+            "parents": [
+                {
+                    "id": "sec0040",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib0065": {
+                    "endOffset": 19781,
+                    "startOffset": 19752
+                },
+                "bib0085": {
+                    "endOffset": 19781,
+                    "startOffset": 19752
+                }
+            },
+            "secId": "sec0045",
+            "sentence": "Six of the IBDV isolates (IBDV 12/10, 15/10, 11/10, 06/10, 17/10 and 16/10) contain amino acid sequences linked to propagation in cell culture (N279 and T284) (Lim et al., 1999; Mundt, 1999).",
+            "startOffset": 19592,
+            "title": "Nucleotide and deduced amino acid sequence"
+        },
+        {
+            "endOffset": 20852,
+            "parents": [
+                {
+                    "id": "sec0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "The Ethiopian IBDV isolates sequenced in this study represent two distinct genetic lineages (1) vvIBDV and (2) classical IBDV strains.",
+            "startOffset": 20718,
+            "title": "Phlyogenetic analysis"
+        },
+        {
+            "endOffset": 25522,
+            "parents": [],
+            "secId": "sec0060",
+            "sentence": "It would therefore be interesting to examine if like earlier studies, amino acid variation at this position is linked with virulence.",
+            "startOffset": 25389,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 13955,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "For virus detection, bursa samples were aseptically collected from suspected cases, placed into individual sterile universal bottles and transported under cold chain to the virology laboratory, National Veterinary Institute, Ethiopia.",
+            "startOffset": 13721,
+            "title": "Bursa sample collection and virus isolation"
+        },
+        {
+            "endOffset": 23383,
+            "parents": [],
+            "secId": "sec0060",
+            "sentence": "Ethiopian vvIBDVs show considerable genetic homogeneity (0.0\u20132.6%), with phylogenetic analysis suggesting a single origin.",
+            "startOffset": 23261,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22184,
+            "parents": [],
+            "secId": "sec0060",
+            "sentence": "This study demonstrated that vvIBDV genotype is circulating in Ethiopia.",
+            "startOffset": 22112,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 14320,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "The suspension was transferred into sterile centrifuge tube and centrifuged at 3000 \u00d7 g for 10 min.",
+            "startOffset": 14221,
+            "title": "Bursa sample collection and virus isolation"
+        },
+        {
+            "endOffset": 26787,
+            "parents": [],
+            "refoffsets": {
+                "bib0035": {
+                    "endOffset": 26623,
+                    "startOffset": 26599
+                }
+            },
+            "secId": "sec0060",
+            "sentence": "Furthermore, as variations in the deduced amino acid sequence at key neutralisation epitopes (amino acid position 222 (Eterradossi et al., 1998) exists between the vaccines currently distributed in Ethiopia (NVI vaccine and D78) and Ethiopian vvIBDVs, alternative vaccine strains may prove more efficacious.",
+            "startOffset": 26480,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21489,
+            "parents": [
+                {
+                    "id": "sec0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "The genetic relatedness of several Ethiopian isolates (IBDV 11/10, 6/10, 17/10, 01/10, 16/10 and 15/10) and a classical attenuated vaccine strain D78 was further examined by comparing the nucleotide and deduced amino acid sequence of VP2 HVR.",
+            "startOffset": 21247,
+            "title": "Investigation into the genetic relatedness of Ethiopian IBDV isolates and IBDV D78"
+        },
+        {
+            "endOffset": 21027,
+            "parents": [
+                {
+                    "id": "sec0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "Ethiopian isolates IBDV 10/10 and IBDV 09/09 were most closely related to vvIBDV isolates from Nigeria and unpublished Ethiopian IBDV isolates (genetic diversity 0.76\u20132.29%).",
+            "startOffset": 20853,
+            "title": "Phlyogenetic analysis"
+        },
+        {
+            "endOffset": 14069,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "Bursa samples were chopped into small pieces using a sterile scalpel blade, and minced using a mortar and pestle.",
+            "startOffset": 13956,
+            "title": "Bursa sample collection and virus isolation"
+        },
+        {
+            "endOffset": 19050,
+            "parents": [
+                {
+                    "id": "sec0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "Nucleotide identity between the Ethiopian produced IBDV vaccine and Ethiopian IBDV isolates ranged between 90.2% and 94.6%.",
+            "startOffset": 18927,
+            "title": "Nucleotide and deduced amino acid sequence"
+        },
+        {
+            "endOffset": 14220,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "A 10% suspension of each bursa sample was prepared in sterile phosphate buffer saline supplemented with penicillin and streptomycin (1000 \u03bcg/ml each).",
+            "startOffset": 14070,
+            "title": "Bursa sample collection and virus isolation"
+        },
+        {
+            "endOffset": 17925,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0005": {
+                    "endOffset": 17895,
+                    "startOffset": 17875
+                }
+            },
+            "secId": "sec0035",
+            "sentence": "The deduced amino acid sequence (amino acid position 191\u2013350) of Ethiopian IBDV isolates sequenced in this study were alignment to the VP2 amino acid 239\u2013332 (Bayliss et al., 1990) of well characterised IBDVs.",
+            "startOffset": 17716,
+            "title": "Sequence and Phylogenetic analysis"
+        },
+        {
+            "endOffset": 11484,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Infectious bursal disease virus (IBDV) belongs to the Birnaviridae family and has a non-enveloped, icosahedral capsid.",
+            "startOffset": 11366,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 14821,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "Cultures were observed microscopically for up to seven days for the presence of cytopathic effect (CPE) characteristic of IBDV.",
+            "startOffset": 14694,
+            "title": "Bursa sample collection and virus isolation"
+        },
+        {
+            "endOffset": 20276,
+            "parents": [
+                {
+                    "id": "sec0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "The VP2 HVR nucleotide sequence of Ethiopian isolates detected in this study were used in a nucleotide database search BLAST [http://blast.ncbi.nlm.nih.gov/Blast.cgi] to identify IBDV isolates with highest identity.",
+            "startOffset": 20061,
+            "title": "Phlyogenetic analysis"
+        },
+        {
+            "endOffset": 15715,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "Complementary DNA was generated from RNA using the reverse transcriptase RevertAid\u2122 (Fermentas).",
+            "startOffset": 15619,
+            "title": "RNA extraction and reverse transcription"
+        },
+        {
+            "endOffset": 16350,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "Reverse transcription reactions were performed at 42 \u00b0C for 60 min and the reverse transcriptase inactivated at 70 \u00b0C for 10 min.",
+            "startOffset": 16221,
+            "title": "RNA extraction and reverse transcription"
+        },
+        {
+            "endOffset": 15261,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "A total of ten IBDV specimens were available for genetic analysis, seven from original bursa material and three from virus isolated in cell culture.",
+            "startOffset": 15113,
+            "title": "Bursa sample collection and virus isolation"
+        },
+        {
+            "endOffset": 17715,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0025": {
+                    "endOffset": 17713,
+                    "startOffset": 17692
+                }
+            },
+            "secId": "sec0035",
+            "sentence": "Sequences were analyses using Geneious (Drummond et al., 2011).",
+            "startOffset": 17652,
+            "title": "Sequence and Phylogenetic analysis"
+        },
+        {
+            "endOffset": 15112,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "Supernatant fluid from CPE positive cultures were also added onto FTA cards for molecular analysis.",
+            "startOffset": 15013,
+            "title": "Bursa sample collection and virus isolation"
+        },
+        {
+            "endOffset": 12410,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "The use of an appropriate vaccine is vital for effective protection and hence differentiation and identification of local IBDV isolates is crucial for selection of appropriate vaccine strain.",
+            "startOffset": 12219,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27507,
+            "parents": [],
+            "secId": "sec0060",
+            "sentence": "Therefore, ensuring appropriate vaccine usage should be adequately addressed before attenuated vvIBDVs are used for vaccine production.",
+            "startOffset": 27372,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 15500,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "RNA was eluted from FTA card by placing a section of the filter card (approximately 0.5 cm \u00d7 0.5 cm) in 300 \u03bcl of Elution buffer (Qiagen), vortexing and incubating on ice for approximately 15 min.",
+            "startOffset": 15304,
+            "title": "RNA extraction and reverse transcription"
+        },
+        {
+            "endOffset": 27371,
+            "parents": [],
+            "refoffsets": {
+                "bib0055": {
+                    "endOffset": 27241,
+                    "startOffset": 27158
+                },
+                "bib0070": {
+                    "endOffset": 27241,
+                    "startOffset": 27158
+                },
+                "bib0075": {
+                    "endOffset": 27241,
+                    "startOffset": 27158
+                },
+                "bib0090": {
+                    "endOffset": 27241,
+                    "startOffset": 27158
+                }
+            },
+            "secId": "sec0060",
+            "sentence": "In this and other studies (Jackwood et al., 2008; Lojkic et al., 2008; Martin et al., 2007; Ojkic et al., 2007), virulent classical viruses, genetically related to current attenuated classical vaccine strains, are responsible for outbreaks.",
+            "startOffset": 27131,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19317,
+            "parents": [
+                {
+                    "id": "sec0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "The deduced amino acid sequence of the hypervariable region was determined for each of the isolates and compared to well characterise classical virulent IBDV isolates (F52/70), classical attenuated IBDV isolates (IBDV 78) and vvIBDV isolates (vvIBDV UK 661) (Fig. 1).",
+            "startOffset": 19050,
+            "title": "Nucleotide and deduced amino acid sequence"
+        },
+        {
+            "endOffset": 13675,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "This study involved the collection of clinical and epidemiological data, and the post-mortem examination of sick birds.",
+            "startOffset": 13556,
+            "title": "Study design"
+        },
+        {
+            "endOffset": 25388,
+            "parents": [],
+            "secId": "sec0060",
+            "sentence": "Interestingly, heterogeneous variation at this position was also detected in this study (IBDV 11/10 (N253) and IBDV 11/10 (Q253)).",
+            "startOffset": 25258,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25686,
+            "parents": [],
+            "refoffsets": {
+                "bib0070": {
+                    "endOffset": 25684,
+                    "startOffset": 25624
+                },
+                "bib0075": {
+                    "endOffset": 25684,
+                    "startOffset": 25624
+                },
+                "bib0090": {
+                    "endOffset": 25684,
+                    "startOffset": 25624
+                }
+            },
+            "secId": "sec0060",
+            "sentence": "Virulent IBDV genetically related to IBDV D78, have also been reported in Italy, Croatia and Canada (Lojkic et al., 2008; Martin et al., 2007; Ojkic et al., 2007).",
+            "startOffset": 25523,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22561,
+            "parents": [],
+            "refoffsets": {
+                "bib0060": {
+                    "endOffset": 22510,
+                    "startOffset": 22490
+                }
+            },
+            "secId": "sec0060",
+            "sentence": "Phylogenetic analyses of these and other unpublished Ethiopian IBDV sequences demonstrate the clustering of Ethiopian vvIBDVs within the tentatively named African VV1 lineage (Kasanga et al., 2007), independent of the Asian/European lineage (VV3).",
+            "startOffset": 22314,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18602,
+            "parents": [
+                {
+                    "id": "sec0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "Nucleotide identity between the 10 isolates ranged between 90.2% and 100%.",
+            "startOffset": 18528,
+            "title": "Nucleotide and deduced amino acid sequence"
+        },
+        {
+            "endOffset": 12218,
+            "parents": [],
+            "refoffsets": {
+                "bib0045": {
+                    "endOffset": 12216,
+                    "startOffset": 12193
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Variant and vvIBDV strains have been isolated from disease outbreaks despite the presence of high levels of maternal antibody to classic strains of IBDV (Jackwood and Saif, 1987).",
+            "startOffset": 12039,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26479,
+            "parents": [],
+            "secId": "sec0060",
+            "sentence": "Therefore, highly attenuated vaccines that induce lower levels of neutralising antibody, such as Bursine 2, may not provide adequate vaccination induced protection against vvIBDVs.",
+            "startOffset": 26299,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22313,
+            "parents": [],
+            "refoffsets": {
+                "bib0020": {
+                    "endOffset": 22273,
+                    "startOffset": 22255
+                }
+            },
+            "secId": "sec0060",
+            "sentence": "The amino acid characteristic of vvIBDVs (222A, 256I, 294I and 299S) (Brown et al., 1994) were detected in the vvIBDVs analysed.",
+            "startOffset": 22185,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 14604,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "Samples of the resulting suspension were added to FTA card (Whatman) (to capture the viral RNA for molecular analysis) and inoculated onto confluent primary chicken fibroblast cell cultures for virus isolation.",
+            "startOffset": 14394,
+            "title": "Bursa sample collection and virus isolation"
+        },
+        {
+            "endOffset": 14693,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "Cultures were maintained in GMEM containing 2% bovine calf serum and incubated at 37 \u00b0C.",
+            "startOffset": 14605,
+            "title": "Bursa sample collection and virus isolation"
+        },
+        {
+            "endOffset": 20037,
+            "parents": [
+                {
+                    "id": "sec0040",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib0010": {
+                    "endOffset": 20035,
+                    "startOffset": 19957
+                },
+                "bib0015": {
+                    "endOffset": 20035,
+                    "startOffset": 19957
+                },
+                "bib0100": {
+                    "endOffset": 20035,
+                    "startOffset": 19957
+                },
+                "bib0125": {
+                    "endOffset": 20035,
+                    "startOffset": 19957
+                }
+            },
+            "secId": "sec0045",
+            "sentence": "Interestingly, heterogeneous variation was also detected in these six isolates at amino acid 253 (H/Q/N), a residue shown to be involved in both cell tropism and virulence (Boot et al., 2000; Brandt et al., 2001; Qi et al., 2009; Van Loon et al., 2002).",
+            "startOffset": 19784,
+            "title": "Nucleotide and deduced amino acid sequence"
+        },
+        {
+            "endOffset": 23261,
+            "parents": [],
+            "secId": "sec0060",
+            "sentence": "Investigations into the molecular epidemiology of vvIBDV in other African countries (such as Uganda, Sudan, and Kenya) where their VP2 HVR sequence data is not publically available, may provide further phylogenetic insight into the origin and molecular epidemiology of vvIBDVs.",
+            "startOffset": 22984,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25097,
+            "parents": [],
+            "secId": "sec0060",
+            "sentence": "The VP2 HVR of IBDV 11/10 was 100% identical to GA-1.",
+            "startOffset": 25044,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17176,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "The amplified 604 base pair product contained the VP2 hypervariable region coding sequence.",
+            "startOffset": 17085,
+            "title": "PCR amplification and sequencing"
+        },
+        {
+            "endOffset": 16220,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "RNA was reverse transcribed in a final volume of 20 \u03bcl containing reaction buffer (Fermentas), 1 mM of each dNTP (Thermo Scientific), 20 U RiboLock\u2122 RNase Inhibitor and 200 units RevertAid\u2122 Reverse transcriptase.",
+            "startOffset": 16008,
+            "title": "RNA extraction and reverse transcription"
+        },
+        {
+            "endOffset": 20717,
+            "parents": [
+                {
+                    "id": "sec0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "For simplicity, the four Ethiopian IBDVs with 100% nucleotide identity to another Ethiopian IBDV were excluded from the figure.",
+            "startOffset": 20590,
+            "title": "Phlyogenetic analysis"
+        },
+        {
+            "endOffset": 13134,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Subsequently, IBD has become a priority problem in commercial and backyard poultry production system despite regular vaccination practices (in some cases) using attenuated IBDV D78 vaccine and improved biosecurity measures.",
+            "startOffset": 12911,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22101,
+            "parents": [
+                {
+                    "id": "sec0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "A silent point mutation was detected in IBDV 06/10 at position 965 (A \u2192 G).",
+            "startOffset": 22026,
+            "title": "Investigation into the genetic relatedness of Ethiopian IBDV isolates and IBDV D78"
+        },
+        {
+            "endOffset": 12662,
+            "parents": [],
+            "refoffsets": {
+                "bib0005": {
+                    "endOffset": 12660,
+                    "startOffset": 12603
+                },
+                "bib0020": {
+                    "endOffset": 12660,
+                    "startOffset": 12603
+                },
+                "bib0130": {
+                    "endOffset": 12660,
+                    "startOffset": 12603
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Amplification of IBD virus protein 2 (VP2) gene and linking genetic variation found in this region with antigenic variation has been the major focus for strain identification in recent years (Bayliss et al., 1990; Brown et al., 1994; Wu et al., 2007).",
+            "startOffset": 12411,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 12767,
+            "parents": [],
+            "refoffsets": {
+                "bib0040": {
+                    "endOffset": 12765,
+                    "startOffset": 12751
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "The IBDV VP2 hypervariable region (HVR) is commonly used to differentiate IBDV strains (Jackwood, 2004).",
+            "startOffset": 12663,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 15012,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "Samples showing no CPE after the third passage were considered negative.",
+            "startOffset": 14940,
+            "title": "Bursa sample collection and virus isolation"
+        },
+        {
+            "endOffset": 21162,
+            "parents": [
+                {
+                    "id": "sec0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "Five of the Ethiopian isolates (IBDV 15/10, 11/10, 06/10, 17/10) clustered together with the classical attenuated vaccines strain D78.",
+            "startOffset": 21028,
+            "title": "Phlyogenetic analysis"
+        },
+        {
+            "endOffset": 21605,
+            "parents": [
+                {
+                    "id": "sec0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "The nucleotide sequences of two isolates (IBDV 15/10 and 16/10) were 100% identical to a published sequence of D78.",
+            "startOffset": 21490,
+            "title": "Investigation into the genetic relatedness of Ethiopian IBDV isolates and IBDV D78"
+        },
+        {
+            "endOffset": 18108,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0005": {
+                    "endOffset": 18106,
+                    "startOffset": 18086
+                }
+            },
+            "secId": "sec0035",
+            "sentence": "Phylogenetic analysis was based on an alignment of partial IBDV VP2 sequences (nucleotide position 804\u20131190), spanning the HVR at nucleotide position 845\u20131126 (Bayliss et al., 1990).",
+            "startOffset": 17926,
+            "title": "Sequence and Phylogenetic analysis"
+        },
+        {
+            "endOffset": 18779,
+            "parents": [
+                {
+                    "id": "sec0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "Isolates IBDV 15/10 and IBDV 16/10 showed 100% identity over the region sequenced and were genetically related to IBDV 11/10, 6/10, 17/10 and 01/10 (nucleotide identity 99.8%).",
+            "startOffset": 18603,
+            "title": "Nucleotide and deduced amino acid sequence"
+        },
+        {
+            "endOffset": 25807,
+            "parents": [],
+            "secId": "sec0060",
+            "sentence": "The deduced amino acid sequence of the remaining Ethiopian IBDVs (IBDV 15/10, 16/10 and 17/10) was 100% identical to D78.",
+            "startOffset": 25686,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24799,
+            "parents": [],
+            "refoffsets": {
+                "bib0015": {
+                    "endOffset": 24636,
+                    "startOffset": 24594
+                },
+                "bib0050": {
+                    "endOffset": 24797,
+                    "startOffset": 24772
+                },
+                "bib0055": {
+                    "endOffset": 24636,
+                    "startOffset": 24594
+                }
+            },
+            "secId": "sec0060",
+            "sentence": "Virulent genetic variants of IBDV D78 have been documented following only a single point mutation at position 253 (GA-1)(Brandt et al., 2001; Jackwood et al., 2008), or the emergence of a virulent genetic variant within the heterogeneous genetic population present in some commercial IBDV vaccines (Jackwood and Sommer, 2002).",
+            "startOffset": 24473,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27927,
+            "parents": [],
+            "secId": "sec0060",
+            "sentence": "Virulent IBDVs lacking the genetic markers of vvIBDV, however, genetically related to the attenuated classical vaccine strains, D78 were also detected.",
+            "startOffset": 27776,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24249,
+            "parents": [],
+            "refoffsets": {
+                "bib0075": {
+                    "endOffset": 24118,
+                    "startOffset": 24099
+                },
+                "bib0095": {
+                    "endOffset": 24247,
+                    "startOffset": 24228
+                }
+            },
+            "secId": "sec0060",
+            "sentence": "Genetic stability over time within the VP2 HVR has been detected in Nigeria (Owoade et al., 2004) and Italy (Martin et al., 2007), and thought to be maintained by low immune pressure or presence of a non replicative, static virus source (Owoade et al., 2004).",
+            "startOffset": 23990,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18367,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "One thousand bootstrapping replicates were used to estimate the robustness of tree branches.",
+            "startOffset": 18275,
+            "title": "Sequence and Phylogenetic analysis"
+        },
+        {
+            "endOffset": 27775,
+            "parents": [],
+            "secId": "sec0060",
+            "sentence": "Ethiopian vvIBDVs cluster phylogenetically with vvIBDVs from Tanzania and Nigeria in an African genetic lineage, independent of the Asian/European genetic lineage.",
+            "startOffset": 27612,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17615,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "Purified amplicons were sequenced using both L2 and U2 primers by a commercial sequence provider (Macrogen) using the Big Dye terminator cycling (Applied Biosystems) condition and analysed by the automated sequencer ABI 3730XL.",
+            "startOffset": 17388,
+            "title": "PCR amplification and sequencing"
+        },
+        {
+            "endOffset": 17084,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "PCR reactions were carried out for 1 cycle at 95 \u00b0C for 3 min, 35 cycles at 95 \u00b0C for 30 s, 60 \u00b0C for 30 s, 72 \u00b0C for 1 min and 1 cycle at 72 \u00b0C for 7 min.",
+            "startOffset": 16929,
+            "title": "PCR amplification and sequencing"
+        },
+        {
+            "endOffset": 24472,
+            "parents": [],
+            "secId": "sec0060",
+            "sentence": "Six of the 10 Ethiopian IBDV isolates sequenced as part of this study were phylogenetically related to classical attenuated vaccine IBDV D78, despite being detected from bursae with significant gross pathology of the bursa.",
+            "startOffset": 24249,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25043,
+            "parents": [],
+            "refoffsets": {
+                "bib0055": {
+                    "endOffset": 25041,
+                    "startOffset": 25020
+                }
+            },
+            "secId": "sec0060",
+            "sentence": "Virulent genetic variants of the IBDV D78 vaccine strain, such as GA-1, have been isolated from vaccinated flocks when the manufacturers\u2019 recommendations have not been followed (e.g. administration at a reduced dosage) (Jackwood et al., 2008).",
+            "startOffset": 24800,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27611,
+            "parents": [],
+            "secId": "sec0060",
+            "sentence": "In this study we have reported IBDV with the genetic markers of typical vvIBDVs circulating in Ethiopia.",
+            "startOffset": 27507,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 13285,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "This study was therefore initiated to determine the molecular characteristics of IBDV responsible for wide spread mortality and morbidity in Ethiopia.",
+            "startOffset": 13135,
+            "title": "Introduction"
+        }
+    ],
+    "docId": "S0001706X13002817",
+    "metadata": {
+        "asjc": [
+            "1109",
+            "2405",
+            "2725",
+            "3401"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Shiferaw",
+                "initial": "S.",
+                "last": "Jenberie"
+            },
+            {
+                "email": null,
+                "first": "Stacey E.",
+                "initial": "S.E.",
+                "last": "Lynch"
+            },
+            {
+                "email": null,
+                "first": "Fekadu",
+                "initial": "F.",
+                "last": "Kebede"
+            },
+            {
+                "email": null,
+                "first": "Robert M.",
+                "initial": "R.M.",
+                "last": "Christley"
+            },
+            {
+                "email": null,
+                "first": "Esayas",
+                "initial": "E.",
+                "last": "Gelaye"
+            },
+            {
+                "email": null,
+                "first": "Haileleul",
+                "initial": "H.",
+                "last": "Negussie"
+            },
+            {
+                "email": "ka7588@yahoo.com",
+                "first": "Kassahun",
+                "initial": "K.",
+                "last": "Asmare"
+            },
+            {
+                "email": null,
+                "first": "Gelagay",
+                "initial": "G.",
+                "last": "Ayelet"
+            }
+        ],
+        "doi": "10.1016/j.actatropica.2013.09.025",
+        "firstpage": "39",
+        "issn": "0001706X",
+        "keywords": [
+            "Infectious bursal disease",
+            "Phylogenetic",
+            "RT-PCR",
+            "Sequencing",
+            "VP2",
+            "VvIBDV"
+        ],
+        "lastpage": "43",
+        "openaccess": "Full",
+        "pub_year": 2014,
+        "subjareas": [
+            "AGRI",
+            "IMMU",
+            "MEDI",
+            "VETE"
+        ],
+        "title": "Genetic characterisation of infectious bursal disease virus isolates in Ethiopia"
+    }
+}

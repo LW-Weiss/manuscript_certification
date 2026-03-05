@@ -1,0 +1,352 @@
+{
+  "chunk-9089d650ae8e2a5eeaa48428ac790da9": {
+    "tokens": 50,
+    "content": "A simple funnel trap which inverts on entry to and exit from the water, was evaluated with respect to sampling the aquatic fauna of wells in and around Fortaleza, Brazil and the variability was such that a precise estimate of absolute abundance could not be made.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-9089d650ae8e2a5eeaa48428ac790da9",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:b8b530621727568cf2ab82b685f36dad",
+      "default:extract:87e841e1ad859510a38f440406fae8ee"
+    ],
+    "create_time": 1768935266,
+    "update_time": 1768935307,
+    "_id": "chunk-9089d650ae8e2a5eeaa48428ac790da9"
+  },
+  "chunk-c84b46b3aab74e9ac67c29d261c5a8f0": {
+    "tokens": 45,
+    "content": "Estimates of container populations were more accurate for III/IV instars than pupae, and the relationship between immature abundance and emergent adult populations remains to be defined, when conversion factors were applied to field net sampling data.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-c84b46b3aab74e9ac67c29d261c5a8f0",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:f259b6c0b56359f8c1470b6505374483",
+      "default:extract:7eff7d51c6e703f724092effb62a35ea"
+    ],
+    "create_time": 1768935331,
+    "update_time": 1768935377,
+    "_id": "chunk-c84b46b3aab74e9ac67c29d261c5a8f0"
+  },
+  "chunk-150b561d4dd47ec0ef54f8c210978655": {
+    "tokens": 350,
+    "content": "We previously reported a new community-based mosquito control strategy that resulted in elimination of Aedes aegypti (Linn.) in 40 of 46 communes in northern and central Vietnam, and with annual recurrent total costs (direct and indirect) of only $0.28–$0.89 international dollars per person. This control strategy was extended to four provinces in southern Vietnam in Long An and Hau Giang (2004–2007) and to Long An, Ben Tre, and Vinh Long (2005–2010). In a total of 14 communes with 124,743 residents, the mean ± SD of adult female Ae. aegypti was reduced from 0.93 ± 0.62 to 0.06 ± 0.09, and the reduction of immature Ae. aegypti averaged 98.8%. By the final survey, no adults could be collected in 6 of 14 communes, and one commune, Binh Thanh, also had no immature forms. Although the community-based programs also involved community education and clean-up campaigns, the prevalence of Mesocyclops in large water storage containers > 50 liters increased from 12.77 ± 8.39 to 75.69 ± 9.17% over periods of 15–45 months. At the conclusion of the study, no confirmed dengue cases were detected in four of the five communes for which diagnostic serologic analysis was performed. The rate of progress was faster in communes that were added in stages to the program but the reason for this finding was unclear. At the completion of the formal project, sustainability funds were set up to provide each commune with the financial means to ensure that community-based dengue control activities continued.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-150b561d4dd47ec0ef54f8c210978655",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:7f854005708c76ed73506efdc08d2c6a",
+      "default:extract:f4e28fef8aa865eee644a274e121f8ce"
+    ],
+    "create_time": 1768935394,
+    "update_time": 1768935476,
+    "_id": "chunk-150b561d4dd47ec0ef54f8c210978655"
+  },
+  "chunk-3fc823099d0a6aa43191157d05a6250a": {
+    "tokens": 37,
+    "content": "This paper describes two key steps in the qualitative research design process, discuss challenges that often emerge when pursuing these steps, and provides guidelines for addressing them: sampling and data collection and management.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-3fc823099d0a6aa43191157d05a6250a",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:dda025ff20da93014115b52adb22d809",
+      "default:extract:235602205e85ea7aef3f92bf1525621d"
+    ],
+    "create_time": 1768935496,
+    "update_time": 1768935528,
+    "_id": "chunk-3fc823099d0a6aa43191157d05a6250a"
+  },
+  "chunk-91d90edfe796b3337e22aba76624bfd4": {
+    "tokens": 41,
+    "content": "Better methods for quantifying dengue endemicity—equivalent to parasite prevalence surveys and endemicity mapping used for malaria—would help target resources, monitor progress, and advocate for investment in d Dengue prevention.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-91d90edfe796b3337e22aba76624bfd4",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:76d37932dd2566e21b042e73d85ba551",
+      "default:extract:be24d6d3fdf3433ac9d3def21543c10b"
+    ],
+    "create_time": 1768935545,
+    "update_time": 1768935598,
+    "_id": "chunk-91d90edfe796b3337e22aba76624bfd4"
+  },
+  "chunk-18dc28b186b69b4dc32fd45ae507f576": {
+    "tokens": 48,
+    "content": "The results of the case-control study did not support the hypothesis that children using untreated bed nets during the day are less likely to be hospitalized with DHF, and the prevalence of bed net use among children in Vietnam was found to be high.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-18dc28b186b69b4dc32fd45ae507f576",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:216eab44b0ada4a773c3150b9978ffc8",
+      "default:extract:9f9c0beb6d20a12ae1631dc1b9524179"
+    ],
+    "create_time": 1768935614,
+    "update_time": 1768935662,
+    "_id": "chunk-18dc28b186b69b4dc32fd45ae507f576"
+  },
+  "chunk-f8f8704987d6b587388b0e5aace9ebef": {
+    "tokens": 59,
+    "content": "A new community-based mosquito control that resulted in the elimination of Aedes aegypti in 40 of 46 communes in northern and central Vietnam was reported, to evaluate whether or not these programs were still being maintained 7 years and 4.5 years after formal project activities had ceased.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-f8f8704987d6b587388b0e5aace9ebef",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:49971576f21b16758429b1dbffacea19",
+      "default:extract:cf0560f2516f8a0e3da1a9742550af31"
+    ],
+    "create_time": 1768935680,
+    "update_time": 1768935728,
+    "_id": "chunk-f8f8704987d6b587388b0e5aace9ebef"
+  },
+  "chunk-8f00f059d4b0cec6970495ae9915f012": {
+    "tokens": 36,
+    "content": "Variable dengue attack rates made the clinical and serological comparison of control and untreated communes problematic, but these data indicate that clinical surveillance by itself is inadequate to monitor d Dengue transmission.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-8f00f059d4b0cec6970495ae9915f012",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:b1eb6c6c42cad4bf6602e820638d64ed",
+      "default:extract:703753e5df2e144bb208d423e4a8ad50"
+    ],
+    "create_time": 1768935763,
+    "update_time": 1768935801,
+    "_id": "chunk-8f00f059d4b0cec6970495ae9915f012"
+  },
+  "chunk-af8370e6f9fc8c5574122728d7b5006f": {
+    "tokens": 224,
+    "content": "White spot disease, caused by the parasitic ciliate Ichthyophthirius multifiliis, is a significant threat to the freshwater fish farming industry worldwide, resulting in massive mortality and economic losses. Eliminating the free-swimming theronts from the culture environment is considered crucial for the control of I. multifiliis infection. It is well-documented that planktonic ciliates are valuable food resources for macro-zooplankton in aquatic ecosystems. In this study, we developed a fluorescence labeling method for alive theronts and found that cyclopoid copepods Thermocyclops taihokuensis, Mesocyclops spp., Macrocyclops sp., and Paracyclopina sp. present predation on the theronts in co-culture experiments. Laboratory challenge tests further confirmed that the presence of zooplankton in the culture water body significantly reduced the infection of I. multifiliis in goldfish (p < 0.01). Results from this study revealed that cyclopoid copepods have the potential to be used as biological control agents against white spot disease in aquaculture.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-af8370e6f9fc8c5574122728d7b5006f",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:c1b05315e2538f8153ba6c55ad929420",
+      "default:extract:dd86577cc005928f9e2c971e11bb462d"
+    ],
+    "create_time": 1768935820,
+    "update_time": 1768935880,
+    "_id": "chunk-af8370e6f9fc8c5574122728d7b5006f"
+  },
+  "chunk-4a14c114d2071ce1f1b2720e241751ff": {
+    "tokens": 16,
+    "content": "This study demonstrates that there is an abundance of local Mesocyclops spp.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-4a14c114d2071ce1f1b2720e241751ff",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:0ac30171c6be43e51a9a277818896143",
+      "default:extract:38e6576813c3db0400b2b7004aa04b1f"
+    ],
+    "create_time": 1768935915,
+    "update_time": 1768935942,
+    "_id": "chunk-4a14c114d2071ce1f1b2720e241751ff"
+  },
+  "chunk-ae4a9d25675889bda3f33444944f8774": {
+    "tokens": 37,
+    "content": "The status of vaccine development is described and it is emphasised that the only alternative that the authors have today to control the disease is through control of its vector Aedes aegypti.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-ae4a9d25675889bda3f33444944f8774",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:f127a76b7bd4ab67b5a797f382b2a522",
+      "default:extract:6fd13b4256629c7d5b78aff087d60a20"
+    ],
+    "create_time": 1768935977,
+    "update_time": 1768936006,
+    "_id": "chunk-ae4a9d25675889bda3f33444944f8774"
+  },
+  "chunk-4c6fa496f303accae9be7d0ff7aeaa8b": {
+    "tokens": 29,
+    "content": "Findings suggest that this mosquito control strategy is sustainable in Vietnam and applicable where the major sources of A aegypti are large water storage containers.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-4c6fa496f303accae9be7d0ff7aeaa8b",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:287aa7ce286cc9db2cd834db756a9a13",
+      "default:extract:c4fc0a5c82b387f92ca0ca63579596a7"
+    ],
+    "create_time": 1768936023,
+    "update_time": 1768936060,
+    "_id": "chunk-4c6fa496f303accae9be7d0ff7aeaa8b"
+  },
+  "chunk-8f67b4135b81382ee1dfd5329983fe84": {
+    "tokens": 54,
+    "content": "In northern Vietnam, copepods of the genus Mesocyclops were used for biological control of Aedes aegypti, the principal vector of dengue viruses, by inoculation into wells, large cement tanks, ceramic jars, and other domestic containers that served as Ae.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-8f67b4135b81382ee1dfd5329983fe84",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:f46ee12884b0bc1e926d943741d8bb24",
+      "default:extract:8318d8ace17072d345cd5ca85322d641"
+    ],
+    "create_time": 1768936081,
+    "update_time": 1768936149,
+    "_id": "chunk-8f67b4135b81382ee1dfd5329983fe84"
+  },
+  "chunk-2e8cd66fff17acf6faadb72107c15d0a": {
+    "tokens": 28,
+    "content": "Larval collection from used tires may be suitable to assess rapidly the current distribution of dengue mosquitoes for estimating health risks and implementing vector control measures.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-2e8cd66fff17acf6faadb72107c15d0a",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:34d920314c9a05926ccafeba25eef70e",
+      "default:extract:2780c04302b081d6932fd08fee38b049"
+    ],
+    "create_time": 1768936166,
+    "update_time": 1768936205,
+    "_id": "chunk-2e8cd66fff17acf6faadb72107c15d0a"
+  },
+  "chunk-f02cc0d5c15c87c4dce3279a62ef6ff2": {
+    "tokens": 383,
+    "content": "Pyrethroid resistance is envisioned to be a major problem for the vector control program since, at present, there are no suitable chemical substitutes for pyrethroids. Cross-resistance to knockdown agents, which are mainly used in mosquito coils and related products as spatial repellents, is the most serious concern. Since cross-resistance is a global phenomenon, we have started to monitor the distribution of mosquito resistance to pyrethroids. The first pilot study was carried out in Vietnam. We periodically drove along the national road from the north end to the Mekong Delta in Vietnam and collected mosquito larvae from used tires. Simplified susceptibility tests were performed using the fourth instar larvae of Aedes aegypti, Aedes albopictus, and Culex quinquefasciatus. Compared with the other species, Ae. aegypti demonstrated the most prominent reduction in susceptibility. For Ae. aegypti, significant increases in the susceptibility indices with a decrease in the latitude of collection points were observed, indicating that the susceptibility of Ae. aegypti against d-allethrin was lower in the southern part, including mountainous areas, as compared to that in the northern part of Vietnam. There was a significant correlation between the susceptibility indices in Ae. aegypti and the sum of annual pyrethroid use for malaria control (1998–2002). This might explain that the use of pyrethroids as residual treatment inside houses and pyrethroid-impregnated bed nets for malaria control is attributable to low pyrethroid susceptibility in Ae. aegypti. Such insecticide treatment appeared to have been intensively administered in the interior and along the periphery of human habitation areas where, incidentally, the breeding and resting sites of Ae. aegypti are located. This might account for the strong selection pressure toward Ae. aegypti and not Ae. albopictus.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-f02cc0d5c15c87c4dce3279a62ef6ff2",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:55d6a59bbe7ab04e3a95a54adddc8919",
+      "default:extract:bfdd5f013298e2d935d584ded7f3a1c0"
+    ],
+    "create_time": 1768936223,
+    "update_time": 1768936309,
+    "_id": "chunk-f02cc0d5c15c87c4dce3279a62ef6ff2"
+  },
+  "chunk-4c492d94e46e6cf3d9b06c416def7bb1": {
+    "tokens": 36,
+    "content": "To examine the spatial and temporal patterns of the recent expansion of dengue transmission area in Brazil (2001–2012) with the aim to identify pathways and constraints to dengue diffusion.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-4c492d94e46e6cf3d9b06c416def7bb1",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:416d1b18f287eea905756dbfce841527",
+      "default:extract:42ef3bc56b22fe46e003bb78689c4611"
+    ],
+    "create_time": 1768936330,
+    "update_time": 1768936370,
+    "_id": "chunk-4c492d94e46e6cf3d9b06c416def7bb1"
+  },
+  "chunk-2060aef1d7efe9243e29ae313566ff31": {
+    "tokens": 28,
+    "content": "The evidence on effectiveness of peridomestic space spraying of insecticides in reducing wild Aedes populations and interrupting dengue transmission is reviewed.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-2060aef1d7efe9243e29ae313566ff31",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:767c509a74b12c0b5023f82eea81f8d3",
+      "default:extract:b07013a7a391d35309df5de91448dc58"
+    ],
+    "create_time": 1768936390,
+    "update_time": 1768936433,
+    "_id": "chunk-2060aef1d7efe9243e29ae313566ff31"
+  },
+  "chunk-cecc1574e3d38e1c2b8f29466bffcf9d": {
+    "tokens": 31,
+    "content": "If done properly, say the authors,Aedes aegypti suppression is a practical method to control urban dengue, yellow fever, and chikungunya viruses.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-cecc1574e3d38e1c2b8f29466bffcf9d",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:8313e6f2d3a9d7e1c3743317521d8644",
+      "default:extract:cc2443468554735478e298d0da474375"
+    ],
+    "create_time": 1768936452,
+    "update_time": 1768936505,
+    "_id": "chunk-cecc1574e3d38e1c2b8f29466bffcf9d"
+  },
+  "chunk-60377a72fdc3717965e736959245d13b": {
+    "tokens": 332,
+    "content": "Dengue is a systemic viral infection transmitted between humans by Aedes mosquitoes. For some patients, dengue is a life-threatening illness. There are currently no licensed vaccines or specific therapeutics, and substantial vector control efforts have not stopped its rapid emergence and global spread. The contemporary worldwide distribution of the risk of dengue virus infection and its public health burden are poorly known. Here we undertake an exhaustive assembly of known records of dengue occurrence worldwide, and use a formal modelling framework to map the global distribution of dengue risk. We then pair the resulting risk map with detailed longitudinal information from dengue cohort studies and population surfaces to infer the public health burden of dengue in 2010. We predict dengue to be ubiquitous throughout the tropics, with local spatial variations in risk influenced strongly by rainfall, temperature and the degree of urbanization. Using cartographic approaches, we estimate there to be 390 million (95% credible interval 284–528) dengue infections per year, of which 96 million (67–136) manifest apparently (any level of disease severity). This infection total is more than three times the dengue burden estimate of the World Health Organization. Stratification of our estimates by country allows comparison with national dengue reporting, after taking into account the probability of an apparent infection being formally reported. The most notable differences are discussed. These new risk maps and infection estimates provide novel insights into the global, regional and national public health burden imposed by dengue. We anticipate that they will provide a starting point for a wider discussion about the global impact of this disease and will help to guide improvements in disease control strategies using vaccine, drug and vector control methods, and in their economic evaluation.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-60377a72fdc3717965e736959245d13b",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:9a0f132bbca88e0ce6ab9829dabd90a0",
+      "default:extract:94328c80aad6771cd9f03c2d4dbc9da9"
+    ],
+    "create_time": 1768936524,
+    "update_time": 1768936582,
+    "_id": "chunk-60377a72fdc3717965e736959245d13b"
+  },
+  "chunk-871ad0c828540b878a1549b5f21bcafc": {
+    "tokens": 45,
+    "content": "In the early years of the 21st century the authors are collectively failing to meet the threat posed by dengue as the disease spreads unabated and almost 40% of the worlds population now live at risk of contracting it.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-871ad0c828540b878a1549b5f21bcafc",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:c5d30e2b4d0fe1ddc3a60d333563c478",
+      "default:extract:fab84de421db494c1e0329d39ebf3b91"
+    ],
+    "create_time": 1768936602,
+    "update_time": 1768936633,
+    "_id": "chunk-871ad0c828540b878a1549b5f21bcafc"
+  },
+  "chunk-d10ecedf5a47ee11598a143f76b0f400": {
+    "tokens": 20,
+    "content": "M. longisetus has been selected for field trials in rural villages in Ceará to control Ae.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-d10ecedf5a47ee11598a143f76b0f400",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:811069b531a6b1354ce14eeb5dc5ae67",
+      "default:extract:021659bc52feb8eddd668f54544336f1"
+    ],
+    "create_time": 1768936700,
+    "update_time": 1768936736,
+    "_id": "chunk-d10ecedf5a47ee11598a143f76b0f400"
+  },
+  "chunk-defa4dbd529a4663ae47a157c6019fd5": {
+    "tokens": 72,
+    "content": "In a survey of containers infested with Aedes aegypti (L.) conducted during September and October 1979 in a substandard residential area of New Orleans, LA, infestation indices were as follows: House--35, Breteau (foci)--85, Receptacle--69, Block--100, and Larval Density--169.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-defa4dbd529a4663ae47a157c6019fd5",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:192f6677883bf3f9a7fc0acc1cd8e77b",
+      "default:extract:3445766258bb4f3f8f6978c55489181d"
+    ],
+    "create_time": 1768936800,
+    "update_time": 1768936862,
+    "_id": "chunk-defa4dbd529a4663ae47a157c6019fd5"
+  },
+  "chunk-034ac30d08da304503f5a8c31d4755fb": {
+    "tokens": 19,
+    "content": "It is concluded that household water storage container availability is a major risk factor for infestation with Ae.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-034ac30d08da304503f5a8c31d4755fb",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:1a9d230d1593f2e987a760a7f8670638",
+      "default:extract:870a919a3ddac4efd33402bd9b75c043"
+    ],
+    "create_time": 1768936902,
+    "update_time": 1768936933,
+    "_id": "chunk-034ac30d08da304503f5a8c31d4755fb"
+  },
+  "chunk-2d650633543735b086887c85b50b0bb0": {
+    "tokens": 24,
+    "content": "How the use of community health volunteers helped DF/DHF prevention practices within the community and made an essential contribution to Ae.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-2d650633543735b086887c85b50b0bb0",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:359b244224f9400f046d1e124fd06501",
+      "default:extract:cdb06cc30ca56e373066676536599703"
+    ],
+    "create_time": 1768937075,
+    "update_time": 1768937112,
+    "_id": "chunk-2d650633543735b086887c85b50b0bb0"
+  },
+  "chunk-155e703201f0d545bdedc2599eaf52a4": {
+    "tokens": 44,
+    "content": "This study demonstrates that this community-based program for dengue control using local predacious copepods of the genus Mesocyclops is broadly acceptable and achievable at community level but vigilance is required post-project to prevent reinfestation.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-155e703201f0d545bdedc2599eaf52a4",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:f047dd7f88e6273ba166c6dc0dc23a26",
+      "default:extract:0a3c6d9546210c055f313318c5221372"
+    ],
+    "create_time": 1768937151,
+    "update_time": 1768937207,
+    "_id": "chunk-155e703201f0d545bdedc2599eaf52a4"
+  }
+}

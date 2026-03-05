@@ -1,0 +1,2284 @@
+{
+  "chunk-97107d438f9f6fb6338f2e1ee3562995": {
+    "tokens": 413,
+    "content": "Differentiation of the fish-borne trematodes belonging to the Opisthorchiidae, Heterophyidae and Lecithodendriidae is important from a clinical and epidemiological perspective, yet it is impossible to do using conventional coprological techniques, as the eggs are morphologically similar. Epidemiological investigation therefore currently relies on morphological examination of adult worms following expulsion chemotherapy. A PCR test capable of amplifying a segment of the internal transcribed spacer region of ribosomal DNA for the opisthorchiid and heterophyid flukes eggs taken directly from faeces was developed and evaluated in a rural community in central Thailand. The lowest quantity of DNA that could be amplified from individual adults of Opisthorchis viverrini, Clonorchis sinensis and Haplorchis taichui was estimated at 0.6 pg, 0.8 pg and 3 pg, respectively. The PCR was capable of detecting mixed infection with the aforementioned species of flukes under experimental conditions. A total of 11.6% of individuals in rural communities in Sanamchaikaet district, central Thailand, were positive for ‘Opisthorchis-like’ eggs in their faeces using conventional parasitological detection techniques. In comparison to microscopy, the PCR yielded a sensitivity and specificity of 71.0% and 76.7%, respectively. Analysis of the microscopy-positive PCR products revealed 64% and 23% of individuals to be infected with O. viverrini and C. sinensis, respectively. The remaining 13% (three individuals) were identified as eggs of Didymozoidae, presumably being passed mechanically in the faeces following the ingestion of infected fishes. An immediate finding of this study is the identification and first report of a C. sinensis–endemic community in central Thailand. This extends the known range of this liver fluke in Southeast Asia. The PCR developed herein provides an important tool for the specific identification of liver and intestinal fluke species for future epidemiological surveys.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-97107d438f9f6fb6338f2e1ee3562995",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:41e96acb68aa1eaa2a86167b90f87da3",
+      "default:extract:692cb922de62c93de785ad7c5b55886d"
+    ],
+    "create_time": 1768502692,
+    "update_time": 1768502786,
+    "_id": "chunk-97107d438f9f6fb6338f2e1ee3562995"
+  },
+  "chunk-c33d09b8957ec6de1ecb70a00240f29b": {
+    "tokens": 418,
+    "content": "Schistosoma japonicum is endemic in the Philippines, China and Indonesia, and infects more than 40 mammalian host species, all of which can act as reservoirs of infection. In China, water buffaloes have been shown to be major reservoirs of human infection. However, in the Philippines, carabao have not been considered important reservoir hosts for S. japonicum due to the low prevalence and infection intensities reported, the only exception being a qPCR-based study indicating 51% of carabao were S. japonicum-positive. However, the low prevalence found for the same animals when using conventional copro-parasitological techniques means that there is still confusion about the role of carabao in the transmission of schistosomiasis japonicum. To address this inconsistency, and to shed light on the potential role of carabao in the transmission of S. japonicum in the Philippines, we undertook a pilot survey, collecting fecal samples from animals in Western Samar Province and we used a combination of molecular and copro-parasitological techniques to determine the prevalence and intensity of S. japonicum. We found a high prevalence of S. japonicum in the carabao using a validated real-time PCR (qPCR) and a copro-parasitological tool, the formalin-ethyl acetate sedimentation (FEA-SD) technique. A much lower prevalence of S. japonicum was recorded for the same fecal samples using conventional PCR, the Kato-Katz technique and miracidial hatching. These results suggest that, due to their low diagnostic sensitivity, traditional copro-parasitological techniques underestimate infection in carabao. The use of FEA-SD and qPCR provides a more accurate diagnosis. Based on these findings, the role of bovines in the transmission of S. japonicum appears to be more important in the Philippines than previously recognized, and this may have significant implications for the future control of schistosomiasis there, particularly as, in contrast with previous surveys, we found an unprecedented high prevalence of S. japonicum in humans.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-c33d09b8957ec6de1ecb70a00240f29b",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:b3b3bff6d2eafbebd2bb195fdd47fe5b",
+      "default:extract:58edb021909ee56d71e71c4abf4493ea"
+    ],
+    "create_time": 1768504033,
+    "update_time": 1768504105,
+    "_id": "chunk-c33d09b8957ec6de1ecb70a00240f29b"
+  },
+  "chunk-ab8696e0621fb10013bbe66408ec389f": {
+    "tokens": 186,
+    "content": "Worldwide schistosomiasis continues to be a serious public health problem. Over the past five decades, China has made remarkable progress in reducing Schistosoma japonicum infections in humans to a relatively low level. Endemic regions are currently circumscribed in certain core areas where re-infection and repeated chemotherapy are frequent. At present, selective chemotherapy with praziquantel is one of the main strategies in China's National Schistosomiasis Control Program, and thus diagnosis of infected individuals is a key step for such control. In this paper we review the current status of our knowledge about diagnostic tools for schistosomiasis japonica. A simple, affordable, sensitive, and specific assay for field diagnosis of schistosomiasis japonica is not yet available, and this poses great barriers towards full control of schistosomiasis. Hence, a search for a diagnostic approach, which delivers these characteristics, is essential and should be given high priority.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-ab8696e0621fb10013bbe66408ec389f",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:e2c64f01e1689caab666cd713a7236a1",
+      "default:extract:7e314b176a9dd2e0113d3b211c1f2960"
+    ],
+    "create_time": 1768504872,
+    "update_time": 1768504917,
+    "_id": "chunk-ab8696e0621fb10013bbe66408ec389f"
+  },
+  "chunk-a3a03183cae841deff711afecb137bad": {
+    "tokens": 11,
+    "content": "Cats, dogs, and pigs may be reservoir hosts.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-a3a03183cae841deff711afecb137bad",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:0fc72ab2a02f3d28daa4a6fea702ebcc",
+      "default:extract:0eb65b2e5f8f3b79ccf7f9ae0cfc4c54"
+    ],
+    "create_time": 1768505783,
+    "update_time": 1768505792,
+    "_id": "chunk-a3a03183cae841deff711afecb137bad"
+  },
+  "chunk-0f16d7b93cdaec3ff0b234ee22d42546": {
+    "tokens": 1054,
+    "content": "OBJECTIVES\nTo determine the most effective diagnostic strategy for the investigation of microscopic and macroscopic haematuria in adults.\n\n\nDATA SOURCES\nElectronic databases from inception to October 2003, updated in August 2004.\n\n\nREVIEW METHODS\nA systematic review was undertaken according to published guidelines. Decision analytic modelling was undertaken, based on the findings of the review, expert opinion and additional information from the literature, to assess the relative cost-effectiveness of plausible alternative tests that are part of diagnostic algorithms for haematuria.\n\n\nRESULTS\nA total of 118 studies met the inclusion criteria. No studies that evaluated the effectiveness of diagnostic algorithms for haematuria or the effectiveness of screening for haematuria or investigating its underlying cause were identified. Eighteen out of 19 identified studies evaluated dipstick tests and data from these suggested that these are moderately useful in establishing the presence of, but cannot be used to rule out, haematuria. Six studies using haematuria as a test for the presence of a disease indicated that the detection of microhaematuria cannot alone be considered a useful test either to rule in or rule out the presence of a significant underlying pathology (urinary calculi or bladder cancer). Forty-eight of 80 studies addressed methods to localise the source of bleeding (renal or lower urinary tract). The methods and thresholds described in these studies varied greatly, precluding any estimate of a 'best performance' threshold that could be applied across patient groups. However, studies of red blood cell morphology that used a cut-off value of 80% dysmorphic cells for glomerular disease reported consistently high specificities (potentially useful in ruling in a renal cause for haematuria). The reported sensitivities were generally low. Twenty-eight studies included data on the accuracy of laboratory tests (tumour markers, cytology) for the diagnosis of bladder cancer. The majority of tumour marker studies evaluated nuclear matrix protein 22 or bladder tumour antigen. The sensitivity and specificity ranges suggested that neither of these would be useful either for diagnosing bladder cancer or for ruling out patients for further investigation (cystoscopy). However, the evidence remains sparse and the diagnostic accuracy estimates varied widely between studies. Fifteen studies evaluating urine cytology as a test for urinary tract malignancies were heterogeneous and poorly reported. The calculated specificity values were generally high, suggesting some possible utility in confirming malignancy. However, the evidence suggests that urine cytology has no application in ruling out malignancy or excluding patients from further investigation. Fifteen studies evaluated imaging techniques [computed tomography (CT), intravenous urography (IVU) or ultrasound scanning (US)] to detect the underlying cause of haematuria. The target condition and the reference standard varied greatly between these studies. The diagnostic accuracy data for several individual studies appeared promising but meaningful comparison of the available imaging technologies was impossible. Eight studies met the inclusion criteria but addressed different parts of the diagnostic chain (e.g. screening programmes, laboratory investigations, full urological work-up). No single study addressed the complete diagnostic process. The review also highlighted a number of methodological limitations of these studies, including their lack of generalisability to the UK context. Separate decision analytic models were therefore developed to progress estimation of the optimal strategy for the diagnostic management of haematuria. The economic model for the detection of microhaematuria found that immediate microscopy following a positive dipstick test would improve diagnostic efficiency as it eliminates the high number of false positives produced by dipstick testing. Strategies that use routine microscopy may be associated with high numbers of false results, but evidence was lacking regarding the accuracy of routine microscopy and estimates were adopted for the model. The model for imaging the upper urinary tract showed that US detects more tumours than IVU at one-third of the cost, and is also associated with fewer false results. For any cause of haematuria, CT was shown to have a mean incremental cost-effectiveness ratio of pounds sterling 9939 in comparison with the next best option, US. When US is followed up with CT for negative results with persistent haematuria, it dominates the initial use of CT alone, with a saving of pounds sterling 235,000 for the evaluation of 1000 patients. The model for investigation of the lower urinary tract showed that for low-risk patients the use of immediate cystoscopy could be avoided if cystoscopy were used for follow-up patients with a negative initial test using tumour markers and/or cytology, resulting in a saving of pounds sterling 483,000 for the evaluation of 1000 patients. The clinical and economic impact on delayed detection of both upper and lower urinary tract tumours through the use of follow-up testing should be evaluated in future studies.\n\n\nCONCLUSIONS\nThere are insufficient data currently available to derive an evidence-based algorithm of the diagnostic pathway for haematuria. A hypothetical algorithm based on the opinion and practice of clinical experts in the review team, other published algorithms and the results of economic modelling is presented in this report. This algorithm is presented, for comparative purposes, alongside current US and UK guidelines. The ideas contained in these algorithms and the specific questions outlined should form the basis of future research. Quality assessment of the diagnostic accuracy studies included in this review highlighted several areas of deficiency.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-0f16d7b93cdaec3ff0b234ee22d42546",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:ff7433ee10a2b41fe67619ab4d86fd37",
+      "default:extract:9eb72b7599c00538e91494f76ed3eaa0"
+    ],
+    "create_time": 1768506018,
+    "update_time": 1768506096,
+    "_id": "chunk-0f16d7b93cdaec3ff0b234ee22d42546"
+  },
+  "chunk-66b9c03397d1767f2c8fe38e229f4281": {
+    "tokens": 416,
+    "content": "Infectious bursal disease (IBD) is an acute and highly contagious immunosuppressive disease caused by the infectious bursal disease virus (IBDV), which seriously threatens the healthy development of the poultry industry. Since its spread to China in the early 1990s, the very virulent IBDV (vvIBDV) characterized by high lethality, has been the focus of prevention and control. However, the novel variant IBDV (nVarIBDV), which has been widely prevalent in China since 2017, has brought a new threat to the poultry industry. In this study, the prevalence of IBDV in the important poultry-raising areas of China from 2019 to 2020 was detected. Of these, 45.1% (101/224) of the samples and 61.9% (26/42) of the chicken flocks were shown to be positive for IBDV. For 50 IBDVs, the sequences of the hypervariable region of the VP2 gene in segment A and of the B-marker of the VP1 gene in segment B were analyzed. The results revealed the coexistence of a number of different IBDV genotypes, including A2dB1 (nVar, 26/50, 52.0%), A3B3 (HLJ0504-like, 15/50, 30.0%), A1B1 (classical, 1/50, 2.0%), and A8B1 (attenuated, 1/50, 2.0%). This indicated that the newly emerging nVarIBDV of A2dB1 and the persistently circulating HLJ0504-like vvIBDV of A3B3 are the two important epidemic strains. Furthermore, we established that segment reassortment has occurred among these circulating strains. This study is the first to reveal the novel epidemic characteristics of IBDV since the report of the emerging nVarIBDV of A2dB1 in China.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-66b9c03397d1767f2c8fe38e229f4281",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:37efcbb188fe4d4b5f5825f62a24a11c",
+      "default:extract:cb14f155402019e1a64c692afe86ab40"
+    ],
+    "create_time": 1768506150,
+    "update_time": 1768506206,
+    "_id": "chunk-66b9c03397d1767f2c8fe38e229f4281"
+  },
+  "chunk-150b561d4dd47ec0ef54f8c210978655": {
+    "tokens": 350,
+    "content": "We previously reported a new community-based mosquito control strategy that resulted in elimination of Aedes aegypti (Linn.) in 40 of 46 communes in northern and central Vietnam, and with annual recurrent total costs (direct and indirect) of only $0.28–$0.89 international dollars per person. This control strategy was extended to four provinces in southern Vietnam in Long An and Hau Giang (2004–2007) and to Long An, Ben Tre, and Vinh Long (2005–2010). In a total of 14 communes with 124,743 residents, the mean ± SD of adult female Ae. aegypti was reduced from 0.93 ± 0.62 to 0.06 ± 0.09, and the reduction of immature Ae. aegypti averaged 98.8%. By the final survey, no adults could be collected in 6 of 14 communes, and one commune, Binh Thanh, also had no immature forms. Although the community-based programs also involved community education and clean-up campaigns, the prevalence of Mesocyclops in large water storage containers > 50 liters increased from 12.77 ± 8.39 to 75.69 ± 9.17% over periods of 15–45 months. At the conclusion of the study, no confirmed dengue cases were detected in four of the five communes for which diagnostic serologic analysis was performed. The rate of progress was faster in communes that were added in stages to the program but the reason for this finding was unclear. At the completion of the formal project, sustainability funds were set up to provide each commune with the financial means to ensure that community-based dengue control activities continued.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-150b561d4dd47ec0ef54f8c210978655",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:7f854005708c76ed73506efdc08d2c6a",
+      "default:extract:71848565dde12af293a78e242a0048fc"
+    ],
+    "create_time": 1768507504,
+    "update_time": 1768507555,
+    "_id": "chunk-150b561d4dd47ec0ef54f8c210978655"
+  },
+  "chunk-af8370e6f9fc8c5574122728d7b5006f": {
+    "tokens": 224,
+    "content": "White spot disease, caused by the parasitic ciliate Ichthyophthirius multifiliis, is a significant threat to the freshwater fish farming industry worldwide, resulting in massive mortality and economic losses. Eliminating the free-swimming theronts from the culture environment is considered crucial for the control of I. multifiliis infection. It is well-documented that planktonic ciliates are valuable food resources for macro-zooplankton in aquatic ecosystems. In this study, we developed a fluorescence labeling method for alive theronts and found that cyclopoid copepods Thermocyclops taihokuensis, Mesocyclops spp., Macrocyclops sp., and Paracyclopina sp. present predation on the theronts in co-culture experiments. Laboratory challenge tests further confirmed that the presence of zooplankton in the culture water body significantly reduced the infection of I. multifiliis in goldfish (p < 0.01). Results from this study revealed that cyclopoid copepods have the potential to be used as biological control agents against white spot disease in aquaculture.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-af8370e6f9fc8c5574122728d7b5006f",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:c1b05315e2538f8153ba6c55ad929420",
+      "default:extract:47376aa49add6e275278f3d006faefd0"
+    ],
+    "create_time": 1768507769,
+    "update_time": 1768507837,
+    "_id": "chunk-af8370e6f9fc8c5574122728d7b5006f"
+  },
+  "chunk-f02cc0d5c15c87c4dce3279a62ef6ff2": {
+    "tokens": 383,
+    "content": "Pyrethroid resistance is envisioned to be a major problem for the vector control program since, at present, there are no suitable chemical substitutes for pyrethroids. Cross-resistance to knockdown agents, which are mainly used in mosquito coils and related products as spatial repellents, is the most serious concern. Since cross-resistance is a global phenomenon, we have started to monitor the distribution of mosquito resistance to pyrethroids. The first pilot study was carried out in Vietnam. We periodically drove along the national road from the north end to the Mekong Delta in Vietnam and collected mosquito larvae from used tires. Simplified susceptibility tests were performed using the fourth instar larvae of Aedes aegypti, Aedes albopictus, and Culex quinquefasciatus. Compared with the other species, Ae. aegypti demonstrated the most prominent reduction in susceptibility. For Ae. aegypti, significant increases in the susceptibility indices with a decrease in the latitude of collection points were observed, indicating that the susceptibility of Ae. aegypti against d-allethrin was lower in the southern part, including mountainous areas, as compared to that in the northern part of Vietnam. There was a significant correlation between the susceptibility indices in Ae. aegypti and the sum of annual pyrethroid use for malaria control (1998–2002). This might explain that the use of pyrethroids as residual treatment inside houses and pyrethroid-impregnated bed nets for malaria control is attributable to low pyrethroid susceptibility in Ae. aegypti. Such insecticide treatment appeared to have been intensively administered in the interior and along the periphery of human habitation areas where, incidentally, the breeding and resting sites of Ae. aegypti are located. This might account for the strong selection pressure toward Ae. aegypti and not Ae. albopictus.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-f02cc0d5c15c87c4dce3279a62ef6ff2",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:55d6a59bbe7ab04e3a95a54adddc8919",
+      "default:extract:2d8cfffe1977f672411ea9ef390f6905"
+    ],
+    "create_time": 1768508260,
+    "update_time": 1768508330,
+    "_id": "chunk-f02cc0d5c15c87c4dce3279a62ef6ff2"
+  },
+  "chunk-fb64e8269ca7a83eae32849920a5e03b": {
+    "tokens": 448,
+    "content": "Background With a national program initiated recently to reduce transmission of Schistosoma japonicum in the People's Republic of China (P.R. China), there is an urgent need for accessible, quality-assured diagnostics for case detection, surveillance, and program monitoring of chemotherapy efficacy and other control interventions in areas of low endemicity. We compared the performance of nine immunodiagnostic tests developed in P.R. China for detection of antibodies against S. japonicum and established their priority for further assessment in field settings. Methodology/Principal Findings Using the Kato-Katz technique as the reference standard, 240 well-characterized archived serum specimens (100 positive and 140 negative) were evaluated in nine immunological tests developed in P.R. China. The enzyme-linked immunoelectrotransfer blot assay (EITB), which uses an adult worm extract of S. japonicum, supplied by the Center of Disease Control and Prevention, USA, was also evaluated. The sensitivity and specificity of each test were determined and the reproducibility of each test was assessed by evaluating operator-to-operator and run-to-run variation. In addition the simplicity of use for the end-user was evaluated. All tests showed good sensitivities ranging from 92.0% (95% confidence interval (CI): 86.7–97.3%) to 98.0% (95% CI: 95.3–100.0%). The test specificities varied from 70.0% (95% CI: 62.4–77.6%) to 97.1% (95% CI: 94.4–99.9%). All tests showed excellent reproducibility with a discordant rate in the range of 0–10.0% for operator-to-operator variation and run-to-run variation. All tests, except one magnetic particle-based enzyme-linked immunosorbent assay, were found to be easy to use, especially the dot immunogold filtration assays. Conclusions/Significance Most evaluated tests had acceptable performance characteristics and could make an impact on the schistosomiasis control programs in P.R. China. Three tests with the highest sensitivity, specificity and greatest ease of use, were selected for further evaluation in field settings.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-fb64e8269ca7a83eae32849920a5e03b",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:d80a4df4d986c74a27c6f28309b4f567",
+      "default:extract:e19545af9aae0300c3c40ab4cc5aabf5"
+    ],
+    "create_time": 1768514978,
+    "update_time": 1768515024,
+    "_id": "chunk-fb64e8269ca7a83eae32849920a5e03b"
+  },
+  "chunk-f0d92923951ea02d5bee6d00bab160af": {
+    "tokens": 272,
+    "content": "Schistosomiasis control seems to be different in countries were low parasitic burden and asymptomatic clinical patients are the features of majority of cases. Immunological methods must substitute the traditional coprologic techniques used for some decades in the Control Program. Circumoval Precipitin Test (COPT), intradermal test and ELISA with soluble egg antigen (SEA) are evaluated for using as tools for seroepidemiologic studies. COPT and ELISA were performed after treatment to known their utility when impact of chemotherapy must be assessed. One hundred sixty five persons were followed up 3, 6, 9 and 12 months after treatment. The mean sensitivity of COPT studied by age groups was 95.6% which is very important considering that 88.4% of the studied population excreted less than 100 eggs/gr of feces, while sensitivity of intradermal test was 58.2%. Children showed the highest reactivity to COPT. When treatment is effective, COPT reactivity progressively diminish until become negative one year later. In the non cure group, the COPT reactivity diminished but never below 20%. ELISA-SEA did not modify one year after treatment. Effort should be made to isolate fractions of eggs of Schistosoma mansoni whose antibodies disappear after treatment.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-f0d92923951ea02d5bee6d00bab160af",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:3f684a9e771606fbf8f4e957ae320bdc",
+      "default:extract:0e5d253640c7c9e950a39a3050c9988e"
+    ],
+    "create_time": 1768515051,
+    "update_time": 1768515105,
+    "_id": "chunk-f0d92923951ea02d5bee6d00bab160af"
+  },
+  "chunk-a197e3ca4d2489f92b9e283070c072f4": {
+    "tokens": 1200,
+    "content": "The diagnosis of intestinal schistosomiasis has historically relied, and continues to rely, upon stool examination using the modified Kato technique.1 Efforts to replace the Kato-Katz method by determination of circulating antigens go back half a century,2 but success has been elusive despite Gold and others3 showing (in experimental animals) that antigen concentrations and worm burdens are indeed correlated. The antigen they worked on is found in both blood and urine, just as the one targeted by the point-of-care circulating cathodic antigen (POC-CCA) assay for the diagnosis of Schistosoma mansoni infection. This commercial detection system, already successfully investigated in the field by several research groups, has now been evaluated in a large-scale trial covering five African countries.4 Interestingly, long before monoclonal antibodies and the polymerase chain reaction (PCR) had made diagnosis sufficiently sensitive BMJ (Editorial)5 supported the use of measuring antigens secreted in the urine. Although, at first it was only possible to detect blood-borne antigens in massively infected animals, Phillips and Draper6 showed the presence of circulating antigens also in human sera by the addition of citric acid followed by double counter-current immunoelectrophoresis in a hypertonic buffered gel to ensure breakup of any antigen-antibody complexes. Nonetheless, in one of the quirks of science, and contrary to the suggestion by the BMJ editorial, a wild goose chase seeking new and different circulating antigens ensued, eventually veering off toward immunopathology rather than staying the course. This “swerve” in scientific focus guaranteed continuation of the Kato-Katz approach, which still reigns supreme in spite of missing many light infections. It should, however, be pointed out that this test is useful in areas deemed moderately and highly endemic according to current World Health Organization (WHO) guidelines,7 its limits only becoming apparent when the intensity of disease is low, e.g., in well-controlled areas.8 Although schistosomiasis control has come to rely almost exclusively on mass drug administration (MDA) with the drug used (praziquantel) being comparatively cheap, a tool to maximize cost effectiveness and health impact would still be useful. \n \nUnperturbed by the waning interest in the diagnostic aspects of circulating antigens, Professor Andre Deelder in Leiden, the Netherlands, and his co-workers did not leave the diagnostic trail. They continued the line of research on the anodic (CAA) and the cathodic antigen (CCA) as markers for infection,9 that began where Gold and others3 left off. After many years of false starts, a promising assay based on nitrocellulose strips was advanced for the testing of urine samples mixed with monoclonal antibodies specific for CCA and tagged with colloidal carbon.10 This approach, commercialized as the POC-CCA assay, is not only significantly more sensitive than Kato-Katz, but also rapid, specific, standardized, and easy to read. \n \nThe sensitivity of POC-CCA and other tests in use (Kato-Katz as well as DNA-based diagnostics such as PCR) cannot be directly compared, as the former assay is not limited to the sample provided but reflects the worm load in the subject as a whole. It also follows that the POC-CCA provides the better measure of infection. Still, there is room for improvement such as, for example, a return to the Phillips and Draper6 immunocomplex breakup experiments that could ratchet up sensitivity one more notch. This is not just of academic interest as the detection of even extremely light infections, perhaps just one worm pair, will be needed for certification of eradication, something that WHO might be asked to provide for the People's Republic of China (PR China) within this decade. Rather than purely supersensitive antigen detection, however, realistic accreditation will probably rest more upon a combination of antigen and antibody detection in subjects in former endemic areas, coupled with snail diagnostics in diverse testing ranges based on spatial statistics. Moreover, the POC-CCA assay has the sensitivity and the standardized approach needed for realignment of the three WHO levels of prevalence to be founded on more reliable cut-off values than they are at present. This can be done already today and represents no small advance. \n \nSensitive detection is needed to progress from schistosomiasis control to elimination. PR China has been unusually successful in controlling schistosomiasis and contemplates elimination of the disease by 2020.11 However, compliance is becoming a major problem as people are becoming increasingly less inclined to provide fecal samples12; this could be counteracted by changing from fecal to urine sampling as the latter would be more acceptable than both blood samples and fecal sampling. The success of the Chinese control program owes much to its reliance on snail control together with MDA, whereas the approach in sub-Saharan Africa is open-ended as transmission control is not part of the present strategy and therefore runs an even greater risk of compliance failure. \n \nAlthough time and money do not constitute scientific variables, they naturally play an important role. According to Speich and others,13 a single Kato-Katz thick smear requires about 20 min per sample and the cost, including salaries, estimated at USD 1.73 is almost identical to that given for the POC-CCA assay.4 Published assessments of this kind are rare but the costs cited are backed up by those involved in field surveys, which removes the argument that a commercial test cannot cost more than 1 USD. \n \nThere is much to be gained by switching from Kato-Katz to POC-CCA; however, this would also mean complete transformation of control activities. Advocacy explaining why control programs should change will be needed: WHO has an important role to play here as well as in directing additional studies to ensure sufficient evidence is collected before changes are instituted. To make the conversion complete, the POC-CCA assay should be",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-9eff0ecff1e524619f8c636522c22046",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:9fcdec7013049988c00307e5f288d0a6",
+      "default:extract:6a5953fc458b63144aca2559302d591a"
+    ],
+    "create_time": 1768515129,
+    "update_time": 1768515268,
+    "_id": "chunk-a197e3ca4d2489f92b9e283070c072f4"
+  },
+  "chunk-9336f8ff47d41cf54524beadc73b8228": {
+    "tokens": 145,
+    "content": ", which removes the argument that a commercial test cannot cost more than 1 USD. \n \nThere is much to be gained by switching from Kato-Katz to POC-CCA; however, this would also mean complete transformation of control activities. Advocacy explaining why control programs should change will be needed: WHO has an important role to play here as well as in directing additional studies to ensure sufficient evidence is collected before changes are instituted. To make the conversion complete, the POC-CCA assay should be adapted also for S. haematobium and S. japonicum, the former because mixed infections are commonplace in Africa, the latter because of the prerequisite for improved diagnostics in PR China when the elimination phase is embarked on.",
+    "chunk_order_index": 1,
+    "full_doc_id": "doc-9eff0ecff1e524619f8c636522c22046",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:39cfbbf43fa47eebbd8a21701a3eb304",
+      "default:extract:a784ade222e763beb4769c354abc5e69"
+    ],
+    "create_time": 1768515129,
+    "update_time": 1768515168,
+    "_id": "chunk-9336f8ff47d41cf54524beadc73b8228"
+  },
+  "chunk-8bc80f287a3901a36f7a4f11f3595795": {
+    "tokens": 32,
+    "content": "Although the number of human infections decreased, human prevalence increased from 4.9% in 1995 to 5.1% in 2004.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-8bc80f287a3901a36f7a4f11f3595795",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:5c2559c321bc5b79b28b7fa3b01f88af",
+      "default:extract:8f4a52e2c9b12e0bb1d8d209afecce5c"
+    ],
+    "create_time": 1768515284,
+    "update_time": 1768515304,
+    "_id": "chunk-8bc80f287a3901a36f7a4f11f3595795"
+  },
+  "chunk-2080ebaf27fa02a0282964a7c0f555bb": {
+    "tokens": 410,
+    "content": "Background Schistosomiasis japonica is prevalent in Asian countries and it remains a major public health problem in China. The major endemic foci are the marsh and lake regions of southern China, particularly the Dongting Lake region bordering Hunan and Hubei provinces, and the Poyang Lake region in Jiangxi province. Domestic ruminants, especially bovines, have long been considered to play a major role in the transmission of Schistosoma japonicum to humans. Methods and Findings A miracidial hatching technique was used to investigate the prevalence of S. japonicum infections in domestic ruminants and field feces collected from two towns located to the south and east of Dongting Lake, Hunan province, between 2005 and 2010. The overall prevalence of infection was not significantly reduced from 4.93% in 2005 to 3.64% in 2008, after which it was maintained at this level. Bovines comprised 23.5–58.2% of the total infected ruminants, while goats comprised 41.8–76.5%. Infection rates in cattle and goats were significantly higher than those found in buffalo in most study years. The prevalence in buffalo younger than three years was significantly higher than that in those aged over three years. All the positive field samples of feces were derived from bovines in Nandashan. In Matang Town, 61.22% of the positive field feces were from bovines, while the rest were from goats. The positive rates for field feces were approximately the same in April and November/October. Conclusions The present study found that bovines and goats are major sources of S. japonicum infection in the Dongting lake region and there was age-related resistance in buffalo. Both bovines and goats should be treated equally when controlling S. japonicum infections in the Dongting lake region. It is essential to conduct an additional mass treatment in late March or early April, in addition to the original treatment scheme.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-2080ebaf27fa02a0282964a7c0f555bb",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:d0d4ffde584eb19d3b9039d08d252a08",
+      "default:extract:88342a7e96eaa058e2827de919e2feaf"
+    ],
+    "create_time": 1768515319,
+    "update_time": 1768515394,
+    "_id": "chunk-2080ebaf27fa02a0282964a7c0f555bb"
+  },
+  "chunk-13eb735a93b91be4933bcef865387615": {
+    "tokens": 487,
+    "content": "BackgroundInfections with fish-borne zoonotic trematodes (FZT) including the minute intestinal fluke, Haplorchis pumilio, are highly prevalent in Southeast Asia. However, little is known about the infection dynamics and clinical symptoms in the final hosts which include a range of animal species and man. We aimed to generate such information using an experimental model with H. pumilio in foxes.MethodEight commercially bred foxes were each orally infected with 2000 H. pumilio metacercariae. Another three foxes served as uninfected controls. Faecal examination for eggs was performed twice weekly. The body weight was measured, standard haematological and biochemical analysis were performed regularly. All foxes were euthanized at day 56 post infection (p.i.). Adult worms were quantified and location in the small intestine noted.ResultsAnorexia was observed in all infected foxes starting day 12 p.i. and lasting for approximately a week. A weight loss was noticed in the infected group in weeks 3–6 p.i. Five of eight infected foxes excreted H. pumilio eggs day 9 p.i. onwards, the remaining three started on day 13 p.i. Mean (± SD) faecal egg counts showed an initial peak at day 16–20 with a maximum of 1443 ± 1176 eggs per gram of faeces (epg), where after a stable egg output around 4–500 epg was seen. Worm burdens ranged between 116–2070 adult flukes with a mean (± SD) worm recovery of 948 ± 666. The majority of worms were found in the lower part of the jejunum. Total white blood cell and lymphocyte counts were significant lower in the infected group from first week p.i. onwards and throughout the study period. A significantly lower level of eosinophils was found in week 2 p.i. and transient anaemia was seen in week 2 and 4 p.i.ConclusionThis study showed a short prepatency period, an initial peak in egg excretion, establishment of infection in all animals with predilection site in the lower jejunum and a marked but transient clinical effect of the infection. The findings on egg output and prepatency should be taken into consideration when control programs targeting dogs and other reservoir hosts are to be established.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-13eb735a93b91be4933bcef865387615",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:7873ecfb4a369fea32acf77ffb0ddb5a",
+      "default:extract:1723bc50bbbc9d88e97705bee5db33ea"
+    ],
+    "create_time": 1768515405,
+    "update_time": 1768515475,
+    "_id": "chunk-13eb735a93b91be4933bcef865387615"
+  },
+  "chunk-acad4a812e7cbf80eff3b268dbc2646a": {
+    "tokens": 345,
+    "content": "Stool examination is believed to be the most reliable method for detecting Clonorchis sinensis (CS) eggs. However, it has limited value for diagnosing clonorchiasis when the biliary tract is obstructed or when there is a light infection. We evaluated the infection states of CS in patients with biliary tract diseases using a bile sample. From January 2001 to August 2003, 238 patients who had undergone endoscopic biliary drainage were prospectively included in the study. The patients' bile samples were obtained directly from the nasobiliary drainage tube and then analyzed to detect CS eggs. The overall CS egg positive rate was 28.2% (35.4% in males, 19.4% in females). The egg positive rate was similar in all age groups examined: 26.7% in 30-39 years, 25.0% in 40-49 years, 24.4% in 50-59 years, 30.2% in 60-69 years, 35.3% in 70-79 years, and 25.0% in 80 years of age and over. There were no significant differences in the egg positive rate between the disease groups: 32.6% in bile duct cancer, 38.5% in gallbladder cancer, and 26.4% in gallstone diseases. Our results show that the CS infection rate was very high, regardless of the age, gender, and type of diseases of the patients. Although the study population was limited to patients with biliary tract diseases, it is assumed that clonorchiasis is still an endemic disease in Ulsan, Korea.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-acad4a812e7cbf80eff3b268dbc2646a",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:b2faa243931528109690bb4144f4f663",
+      "default:extract:47ce04ac847a4c526dee6f11848cf638"
+    ],
+    "create_time": 1768515493,
+    "update_time": 1768515551,
+    "_id": "chunk-acad4a812e7cbf80eff3b268dbc2646a"
+  },
+  "chunk-4c492d94e46e6cf3d9b06c416def7bb1": {
+    "tokens": 36,
+    "content": "To examine the spatial and temporal patterns of the recent expansion of dengue transmission area in Brazil (2001–2012) with the aim to identify pathways and constraints to dengue diffusion.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-4c492d94e46e6cf3d9b06c416def7bb1",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:416d1b18f287eea905756dbfce841527",
+      "default:extract:b7f1919fcd3f518febc4f2ee5aa90805"
+    ],
+    "create_time": 1768532535,
+    "update_time": 1768532561,
+    "_id": "chunk-4c492d94e46e6cf3d9b06c416def7bb1"
+  },
+  "chunk-cecc1574e3d38e1c2b8f29466bffcf9d": {
+    "tokens": 31,
+    "content": "If done properly, say the authors,Aedes aegypti suppression is a practical method to control urban dengue, yellow fever, and chikungunya viruses.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-cecc1574e3d38e1c2b8f29466bffcf9d",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:8313e6f2d3a9d7e1c3743317521d8644",
+      "default:extract:33d7de9c232cbc57409a881a0984a42a"
+    ],
+    "create_time": 1768532568,
+    "update_time": 1768532593,
+    "_id": "chunk-cecc1574e3d38e1c2b8f29466bffcf9d"
+  },
+  "chunk-60377a72fdc3717965e736959245d13b": {
+    "tokens": 332,
+    "content": "Dengue is a systemic viral infection transmitted between humans by Aedes mosquitoes. For some patients, dengue is a life-threatening illness. There are currently no licensed vaccines or specific therapeutics, and substantial vector control efforts have not stopped its rapid emergence and global spread. The contemporary worldwide distribution of the risk of dengue virus infection and its public health burden are poorly known. Here we undertake an exhaustive assembly of known records of dengue occurrence worldwide, and use a formal modelling framework to map the global distribution of dengue risk. We then pair the resulting risk map with detailed longitudinal information from dengue cohort studies and population surfaces to infer the public health burden of dengue in 2010. We predict dengue to be ubiquitous throughout the tropics, with local spatial variations in risk influenced strongly by rainfall, temperature and the degree of urbanization. Using cartographic approaches, we estimate there to be 390 million (95% credible interval 284–528) dengue infections per year, of which 96 million (67–136) manifest apparently (any level of disease severity). This infection total is more than three times the dengue burden estimate of the World Health Organization. Stratification of our estimates by country allows comparison with national dengue reporting, after taking into account the probability of an apparent infection being formally reported. The most notable differences are discussed. These new risk maps and infection estimates provide novel insights into the global, regional and national public health burden imposed by dengue. We anticipate that they will provide a starting point for a wider discussion about the global impact of this disease and will help to guide improvements in disease control strategies using vaccine, drug and vector control methods, and in their economic evaluation.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-60377a72fdc3717965e736959245d13b",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:9a0f132bbca88e0ce6ab9829dabd90a0",
+      "default:extract:baffa447d6aebff70dff692cb25b81bf"
+    ],
+    "create_time": 1768532601,
+    "update_time": 1768532650,
+    "_id": "chunk-60377a72fdc3717965e736959245d13b"
+  },
+  "chunk-c5a9c7f6c8d5a025aaa946f21e20c24f": {
+    "tokens": 207,
+    "content": "We document that three human-infectious trematodes and their introduced first intermediate host snail (Melanoides tuberculata) are widespread throughout southern California. We surveyed 41 fishing localities, 19 of which harbored snails infected with zoonotic trematodes. Two of the parasites, Haplorchis pumilio and Centrocestus formosanus, are fishborne intestinal trematodes recognized as being important human pathogens in other areas of the world; the third, Philophthalmus gralli, can infect the human eye. An additional five species detected infecting M. tuberculata are likely of little direct threat to people; however, they may be recently introduced to the Americas, highlighting the risk that additional pathogenic trematodes transmitted by the snail in its native range could be introduced to the United States. The current, possible human-infection risk in California clarifies the need to consider the introduced snail and its parasites from a public health perspective anywhere in the United States the snail has been introduced.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-c5a9c7f6c8d5a025aaa946f21e20c24f",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:c0829645960b68293a9f7dd6da1c92ab",
+      "default:extract:efd025311efea9dd7efabe87d2764b54"
+    ],
+    "create_time": 1768534831,
+    "update_time": 1768534866,
+    "_id": "chunk-c5a9c7f6c8d5a025aaa946f21e20c24f"
+  },
+  "chunk-29d1f2eac0bfc83851ea893795371da5": {
+    "tokens": 56,
+    "content": "DBL-technique was chosen as most suitable because the eggs were easily detected and quantified and no toxic chemicals or special equipment were required in comparison with FE-techniques that needs ether solution and thus fume cupboards which are often unavailable in local veterinary centres in Vietnam and other developing countries.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-29d1f2eac0bfc83851ea893795371da5",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:23160ba3dca393f1603556174c092857",
+      "default:extract:beb108e17096aa586d7a7e6eab832415"
+    ],
+    "create_time": 1768538337,
+    "update_time": 1768538359,
+    "_id": "chunk-29d1f2eac0bfc83851ea893795371da5"
+  },
+  "chunk-cfc57ba2c40c97d764eb89e189e00909": {
+    "tokens": 71,
+    "content": "During autumn 2000 an extensive cross-sectional survey of the prevalence of Schistosomiasis japonicum was conducted among about 4000 villagers within 20 villages in the Anning River Valley located in the southwestern Sichuan Province, and two procedures were used to assess infection status, the Kato-Katz thick smear procedure and a miracidia hatch test.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-cfc57ba2c40c97d764eb89e189e00909",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:c558e6e540f0010d5358e559ae05dd55",
+      "default:extract:92ac0e04f3031cab72274c523e1fa3e2"
+    ],
+    "create_time": 1768538401,
+    "update_time": 1768538424,
+    "_id": "chunk-cfc57ba2c40c97d764eb89e189e00909"
+  },
+  "chunk-012d2a1f54a9109b525d7616d0bdf665": {
+    "tokens": 28,
+    "content": "PCR may be a valuable and sensitive diagnostic tool, particularly for low-intensity O. viverrini and H. taichui infections.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-012d2a1f54a9109b525d7616d0bdf665",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:186493b399da8bd7bf8e77840a094c70",
+      "default:extract:e508f15ab76c4f5cc93d8137788c5635"
+    ],
+    "create_time": 1768538441,
+    "update_time": 1768538460,
+    "_id": "chunk-012d2a1f54a9109b525d7616d0bdf665"
+  },
+  "chunk-8934b8f0f1a6ea64c03497182e856f1b": {
+    "tokens": 53,
+    "content": "A retrospective review of 1107 consecutive cases of schistosomiasis from Africa diagnosed by microscopy or serology presenting to the Hospital for Tropical Diseases, London, UK, finds urine dipstick, full blood count and serology were all insufficient screening tools used alone.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-8934b8f0f1a6ea64c03497182e856f1b",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:bc67764ef36832844e6bef36be31d2ea",
+      "default:extract:69e81339a126475eb267f840c2a9f5df"
+    ],
+    "create_time": 1768538508,
+    "update_time": 1768538534,
+    "_id": "chunk-8934b8f0f1a6ea64c03497182e856f1b"
+  },
+  "chunk-6637a4ff732a42270c95a322eb3e4fc6": {
+    "tokens": 65,
+    "content": "Immunodiagnostic techniques have a high sensitivity, are easy to perform and are an excellent epidemiological tool for the screening of target populations in schistosome-endemic areas and are also useful for the surveillance of cure after chemotherapy, and for periodic control of transmission of the infection after it has been eliminated in an area.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-6637a4ff732a42270c95a322eb3e4fc6",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:9f687bae6c2d6cdddeed80f547412309",
+      "default:extract:3ff7bb5fda015c111dfc7bddc7483df4"
+    ],
+    "create_time": 1768538542,
+    "update_time": 1768538575,
+    "_id": "chunk-6637a4ff732a42270c95a322eb3e4fc6"
+  },
+  "chunk-0249202b2e04fa514eaaf4e2c303acea": {
+    "tokens": 31,
+    "content": "PCR-positive tests identified several cases judged parasite negative by the parasitological method, indicating the new test's advantage in the diagnosis of individuals with light infections.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-0249202b2e04fa514eaaf4e2c303acea",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:5d64386a8d72dcd669f9e37fcaab784f",
+      "default:extract:f83703dbead382a7ea1d5521eadd2f10"
+    ],
+    "create_time": 1768538579,
+    "update_time": 1768538598,
+    "_id": "chunk-0249202b2e04fa514eaaf4e2c303acea"
+  },
+  "chunk-ad77c043b59272c028c58fbd6263f39a": {
+    "tokens": 48,
+    "content": "The quantitative faecal egg count by Stoll's dilution technique showed a strikingly close positive correlation with the number of worms recovered, indicating a strong linear association between eggs per gram of faeces (epg) and worm burden.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-ad77c043b59272c028c58fbd6263f39a",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:a0ff393f5da42b95aa4d66a282a737da",
+      "default:extract:e7fa5a4ea0fcd6a743d80b4be4267aa0"
+    ],
+    "create_time": 1768538623,
+    "update_time": 1768538644,
+    "_id": "chunk-ad77c043b59272c028c58fbd6263f39a"
+  },
+  "chunk-3b705a5fd7926bdff4ad166343047ed4": {
+    "tokens": 44,
+    "content": "The LAMP assay was proved to be 100 times more sensitive than a conventional polymerase chain reaction for detection of C. sinensis in fish, which has important implications for the effective control of human clonorchiasis.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-3b705a5fd7926bdff4ad166343047ed4",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:3b6a9db01f359d36565a9046f8bd7e71",
+      "default:extract:1c9189c93a80f64524c6bfad907554be"
+    ],
+    "create_time": 1768538662,
+    "update_time": 1768538684,
+    "_id": "chunk-3b705a5fd7926bdff4ad166343047ed4"
+  },
+  "chunk-18e589c37865ab506d25c271a1ebeb47": {
+    "tokens": 51,
+    "content": "The results suggest that the PCR method described here is specific to O. viverrini with potential application in fish quarantining and no cross-reaction with other trematodes commonly found in fish including the closely related species, Clonorchis sinensis.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-18e589c37865ab506d25c271a1ebeb47",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:a833ec2a034aab3dce2d5017fb850472",
+      "default:extract:e65af436a4326d65f69d1877dc1d4500"
+    ],
+    "create_time": 1768538691,
+    "update_time": 1768538714,
+    "_id": "chunk-18e589c37865ab506d25c271a1ebeb47"
+  },
+  "chunk-741c138905578052bbea5e72d3ce9cf7": {
+    "tokens": 56,
+    "content": "Both the ELISA and immunoprecipitation data suggest that an infection of the hamster hepatobiliary system by a parasite that does not normally invade the host tissue can stimulate both systemic and local antibody synthesis and that the latter includes both IgG and IgA antibody isotypes.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-741c138905578052bbea5e72d3ce9cf7",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:d3a0aa94aa52852975a895c501ca1ae9",
+      "default:extract:5f4d0606b3daae47b1610b8cfed297a4"
+    ],
+    "create_time": 1768538721,
+    "update_time": 1768538803,
+    "_id": "chunk-741c138905578052bbea5e72d3ce9cf7"
+  },
+  "chunk-04e148a1039e18d7262fc9c5d047f8ab": {
+    "tokens": 54,
+    "content": "Polymerase chain reaction (PCR)-based diagnostics could solve the dilemma of underestimating the true burden of disease when the faecal egg excretion among infected individuals approaches zero, but more experience is needed and costs must be brought down to permit large-scale use.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-04e148a1039e18d7262fc9c5d047f8ab",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:623c00f7d27ede025042840feb9ce8fb",
+      "default:extract:49925ebd9de25e84dfb768a3dd1ce4a1"
+    ],
+    "create_time": 1768538811,
+    "update_time": 1768538840,
+    "_id": "chunk-04e148a1039e18d7262fc9c5d047f8ab"
+  },
+  "chunk-3d9595b06856e474a44aa9b2a3ed95a7": {
+    "tokens": 52,
+    "content": "The PCR-RFLP profiles might be useful for diagnosing mixed O. Taichui infections in endemic areas, and for detecting metacercariae of O. viverrini and H. taichui in epidemiological surveys of infections in fish hosts.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-3d9595b06856e474a44aa9b2a3ed95a7",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:12491d0409c44c8612df16a077d22dfa",
+      "default:extract:1708e93e102505955dd6a86669590e8e"
+    ],
+    "create_time": 1768538844,
+    "update_time": 1768538873,
+    "_id": "chunk-3d9595b06856e474a44aa9b2a3ed95a7"
+  },
+  "chunk-d8aa5349e9d9a7250967a911875a6063": {
+    "tokens": 33,
+    "content": "Education of farmers to avoid feeding raw fish and to perform regular anthelmintic treatment of dogs, cats and pigs is needed in integrated FZT control programs.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-d8aa5349e9d9a7250967a911875a6063",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:19e18d49db3331d945d929097b4346c7",
+      "default:extract:2959a228c2333ca642da765d743c4b60"
+    ],
+    "create_time": 1768538886,
+    "update_time": 1768538925,
+    "_id": "chunk-d8aa5349e9d9a7250967a911875a6063"
+  },
+  "chunk-242cd5f8872ef5ebae9f67588eafd60b": {
+    "tokens": 51,
+    "content": "The results suggest that the recombinant GST expressed in E. coli should be an effective diagnostic reagent for detection of antibody against S. japonicum in buffaloes, and can be considered as a candidate protein for immunological diagnosis of bovine schistosomiasis.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-242cd5f8872ef5ebae9f67588eafd60b",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:c78ee10fe1b25df513b51b40e9446e3b",
+      "default:extract:e883dfb126e65493a7908a38fcd23305"
+    ],
+    "create_time": 1768538932,
+    "update_time": 1768538967,
+    "_id": "chunk-242cd5f8872ef5ebae9f67588eafd60b"
+  },
+  "chunk-2267b7d403708ba84d848c3e6ebdc424": {
+    "tokens": 41,
+    "content": "The findings from this study indicated the established iELISA is a useful method for diagnosing S. japonicum infection in cattle and could be used in serological surveys to map out the prevalence of this disease.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-2267b7d403708ba84d848c3e6ebdc424",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:cfd26e379dc0943d0c6e68309bd85179",
+      "default:extract:4d4969e692a35cc42aff5e6d8772ff68"
+    ],
+    "create_time": 1768538982,
+    "update_time": 1768539022,
+    "_id": "chunk-2267b7d403708ba84d848c3e6ebdc424"
+  },
+  "chunk-213dd01df1213177a022c154bb9c179e": {
+    "tokens": 34,
+    "content": "Findings indicate that the recombinant FBPA of S. japonicum should be an useful diagnostic tool for the detection of antibodies against S. Japonicum in water buffaloes.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-213dd01df1213177a022c154bb9c179e",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:77bce02d2b4cef56321bd7e4b9419151",
+      "default:extract:831aef44602ee68e6cff2f4cae2c65b7"
+    ],
+    "create_time": 1768539029,
+    "update_time": 1768539054,
+    "_id": "chunk-213dd01df1213177a022c154bb9c179e"
+  },
+  "chunk-167783cb970adf7cf334810fd2a8092f": {
+    "tokens": 30,
+    "content": "The results demonstrated that the IgY-IMB-ELISA is a sensitive and specific assay for detection of human schistosomiasis japonica.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-167783cb970adf7cf334810fd2a8092f",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:7be0f85d5e99477050398f22204a4e69",
+      "default:extract:12b3008f0bf5c3b34aaa6e26b6b213bb"
+    ],
+    "create_time": 1768539066,
+    "update_time": 1768539076,
+    "_id": "chunk-167783cb970adf7cf334810fd2a8092f"
+  },
+  "chunk-4d3bc18d8e54a218be10807e3843a0a2": {
+    "tokens": 52,
+    "content": "It was pointed out that a seroepidemiological approach in the identification of target individuals for treatment or re-treatment may be realistic and practical, which emphasized that the immunodiagnostic approach for public health use could ignore individual identification of the real infections.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-4d3bc18d8e54a218be10807e3843a0a2",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:47ccc4666dff81fe9029769f34cd1513",
+      "default:extract:826f9831d0152d144406c8c667d1b727"
+    ],
+    "create_time": 1768539080,
+    "update_time": 1768539093,
+    "_id": "chunk-4d3bc18d8e54a218be10807e3843a0a2"
+  },
+  "chunk-c4f0a5936dcb5c74c221d4f619d8f45a": {
+    "tokens": 23,
+    "content": "The results showed that the ELISA is sufficiently sensitive and specific for the diagnosis of O. viverrini infection.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-c4f0a5936dcb5c74c221d4f619d8f45a",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:9077feb82688e9ccdda22224d25aa02c",
+      "default:extract:1a2d323b4679fdf027b6895092fd8fd4"
+    ],
+    "create_time": 1768539097,
+    "update_time": 1768539118,
+    "_id": "chunk-c4f0a5936dcb5c74c221d4f619d8f45a"
+  },
+  "chunk-d16ae02f8a44fc592d3dcd4065f0701f": {
+    "tokens": 46,
+    "content": "It is demonstrated that CsTP21.1 is a trematode–nematode pan-specific antigen that is valuable in the development of a universal immunodiagnostic kit for human trematodes and nematode infections.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-d16ae02f8a44fc592d3dcd4065f0701f",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:cecfb6d5e18fc139037f7358a79dfe57",
+      "default:extract:8f70d8d1c8ae29954ef0646835a0f7c1"
+    ],
+    "create_time": 1768539121,
+    "update_time": 1768539136,
+    "_id": "chunk-d16ae02f8a44fc592d3dcd4065f0701f"
+  },
+  "chunk-794b1d58cb9a774ddce4478b53693842": {
+    "tokens": 42,
+    "content": "Overall, rCsCatL-propeptide is a valuable candidate for specific IgG4 detection in sera from clonorchiasis patients by the method of ELISA for its few cross-reaction and acceptable sensitivity.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-794b1d58cb9a774ddce4478b53693842",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:ebe6ad899be886e6a74a01489e08cb56",
+      "default:extract:95a47281ce2b7c4c469ccad0caff19e5"
+    ],
+    "create_time": 1768539144,
+    "update_time": 1768539172,
+    "_id": "chunk-794b1d58cb9a774ddce4478b53693842"
+  },
+  "chunk-db410740acd4c96d2a55cda957a5c3b1": {
+    "tokens": 61,
+    "content": "The observed weak cross-reactivity of immune sera from mice infected with Schistosoma mansoni, Schistsosoma mekongi, and Fasciola gigantica in Western blots of rOvESP indicates that the diagnostic quality of this protein might be compromised if infections by other trematodes are present.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-db410740acd4c96d2a55cda957a5c3b1",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:d1c0baee43ca7cb689c13b28bfc21263",
+      "default:extract:5546f14a3848f9f747d8643bc00b89c9"
+    ],
+    "create_time": 1768539183,
+    "update_time": 1768539213,
+    "_id": "chunk-db410740acd4c96d2a55cda957a5c3b1"
+  },
+  "chunk-45a11ad2880b7620ce20fe29f1134147": {
+    "tokens": 71,
+    "content": "A total of 75 sera from 17 patients with pulmonary aspergillosis and 58 controls were investigated by ELISA for IgG antibodies against different antigen fractions of Aspergillus fumigatus, and antibodies against fraction VIII with an approximate molecular weight of 70,000 appeared to be of high diagnostic significance for pulmonary as pergillotic disease.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-45a11ad2880b7620ce20fe29f1134147",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:b7d7af29c52ea5fd750112bb19d35b9c",
+      "default:extract:944a493832f4de1a58d7363da6a57fc5"
+    ],
+    "create_time": 1768539226,
+    "update_time": 1768539263,
+    "_id": "chunk-45a11ad2880b7620ce20fe29f1134147"
+  },
+  "chunk-89f546be997c645dad9cafdf67d93b0e": {
+    "tokens": 32,
+    "content": "Sustainable control programs which include mass chemotherapy with praziquantel and education for prevention of re-infection may reduce its morbidity and eliminate its infections in endemic areas.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-89f546be997c645dad9cafdf67d93b0e",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:e025211d4c7b821a56722cb5547595e0",
+      "default:extract:4d81e351478a901e93d2c7a524e03c6a"
+    ],
+    "create_time": 1768539268,
+    "update_time": 1768539288,
+    "_id": "chunk-89f546be997c645dad9cafdf67d93b0e"
+  },
+  "chunk-4f9c114fc3d1c11b46a430c5a032db4a": {
+    "tokens": 42,
+    "content": "O. viverrini specific DNA probe was constructed and PCR based detection with high specificity for amplification of the repeated sequences is performed to detect the presence of eggs' DNA in stool samples in comparison with classical methods.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-4f9c114fc3d1c11b46a430c5a032db4a",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:83f89e15b62c758b4b2f9609f41325bc",
+      "default:extract:79c50d4eee2c1fd4d8d13e1970f1002c"
+    ],
+    "create_time": 1768539295,
+    "update_time": 1768539319,
+    "_id": "chunk-4f9c114fc3d1c11b46a430c5a032db4a"
+  },
+  "chunk-e8b42fd47496d3efb4bab267564a345d": {
+    "tokens": 57,
+    "content": "DIGFA holds considerable promise for rapid and accurate diagnosis of S. japonicum, as it does not require any specific instruments and can be applied with ease, and is useful not only for screening and sero-epidemiological surveys in the field, but also in clinical settings.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-e8b42fd47496d3efb4bab267564a345d",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:6055384fc923dcf7b66f97b4ff0ba213",
+      "default:extract:e14361280aab61a23ee1ce44773e9753"
+    ],
+    "create_time": 1768539329,
+    "update_time": 1768539352,
+    "_id": "chunk-e8b42fd47496d3efb4bab267564a345d"
+  },
+  "chunk-97e6cdb4d02fc715d7dc1ee3e9c2a50e": {
+    "tokens": 56,
+    "content": "The results support the notion that the DDIA using S. japonicum SEA antigens can safely be implemented for the diagnosis of schistosomiasis mekongi, but care is needed in the interpretation of results obtained from areas that are co-endemic for O. viverrini.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-97e6cdb4d02fc715d7dc1ee3e9c2a50e",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:e9416dfea493d939035d0f59bea109ca",
+      "default:extract:7a57383dd98fca677d6eb5f9ea5188ba"
+    ],
+    "create_time": 1768539377,
+    "update_time": 1768539394,
+    "_id": "chunk-97e6cdb4d02fc715d7dc1ee3e9c2a50e"
+  },
+  "chunk-672eae254cb0547aa2c85fafcd22f7ed": {
+    "tokens": 53,
+    "content": "Clonorchis sinensis ELISA may be more useful than the intradermal test; however, because of its low specificity, it may not be used independently for the diagnosis of C. sinensis infestation or a prevalence survey in a high-risk group.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-672eae254cb0547aa2c85fafcd22f7ed",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:c11573ee762a64888b25be14234b176a",
+      "default:extract:f922a9027ef8abb3b1d18f8bb2ab6d93"
+    ],
+    "create_time": 1768539406,
+    "update_time": 1768539428,
+    "_id": "chunk-672eae254cb0547aa2c85fafcd22f7ed"
+  },
+  "chunk-de1dfa85f35198065a93de9b311c60b4": {
+    "tokens": 44,
+    "content": "A simple, cheap, sensitive and specific assay for routine diagnosis of schistosome infection is not yet available and the advantages and disadvantages of parasitological microscopy, circulating-antigen detection and antibody-detection methods are considered.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-de1dfa85f35198065a93de9b311c60b4",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:bf2222f8a43206a955de7b23dc17ab99",
+      "default:extract:ed900a54e72b136b129b314819868a75"
+    ],
+    "create_time": 1768539437,
+    "update_time": 1768539482,
+    "_id": "chunk-de1dfa85f35198065a93de9b311c60b4"
+  },
+  "chunk-d74bdf51589a721125f34efbec1c60b8": {
+    "tokens": 49,
+    "content": "The results indicate fairly poor performance characteristics of the anti-egg antigen IgG-ELISA for the detection of active infection with S. japonicum in the authors' community based sample and are in contrast with other reports based on more selected populations.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-d74bdf51589a721125f34efbec1c60b8",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:3c692b86cba0e3ccc2f622a0a01b5e90",
+      "default:extract:37c553d62a45afe993fad59c8d376dd4"
+    ],
+    "create_time": 1768539493,
+    "update_time": 1768539516,
+    "_id": "chunk-d74bdf51589a721125f34efbec1c60b8"
+  },
+  "chunk-a240600eef5258b3daf148adf8e8087a": {
+    "tokens": 50,
+    "content": "It is disturbing that despite treatment and control programs in place for decades, all countries of the Lower Mekong Basin are still highly endemic with O. viverrini and/or C. sinensis as well as alarmingly high levels of CCA incidence.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-a240600eef5258b3daf148adf8e8087a",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:595fad337f8db9641a156b80ccadd9e6",
+      "default:extract:a4006cf93f5e51b609f1b3b0f4d6c18c"
+    ],
+    "create_time": 1768539528,
+    "update_time": 1768539550,
+    "_id": "chunk-a240600eef5258b3daf148adf8e8087a"
+  },
+  "chunk-85aeceedda26a4121170818356b6da95": {
+    "tokens": 50,
+    "content": "The prevalence of fish-borne trematodes in humans and their molecular identification was investigated in the Rang Dong commune of Nam Dinh province, Vietnam, between January 2009 and December 2010 and it was revealed that they are distinct groups.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-85aeceedda26a4121170818356b6da95",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:1cca6a7a9efc9d4f826c721e353cb9a0",
+      "default:extract:df8b6a93e6873a4a82d8fe45011907b2"
+    ],
+    "create_time": 1768539571,
+    "update_time": 1768539592,
+    "_id": "chunk-85aeceedda26a4121170818356b6da95"
+  },
+  "chunk-30162a1defec7ca71236fd24fbcef8a3": {
+    "tokens": 38,
+    "content": "High concordant results between diagnoses by PCR, FECT, and worm burden indicated that PCR is suitable for an early diagnosis, evaluation of drug efficacy, and also re-infection post-treatment.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-30162a1defec7ca71236fd24fbcef8a3",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:f4ac68666a60cc4cd2cb92b0df790ad6",
+      "default:extract:06fca376fb4123e456e2215a5adb7b46"
+    ],
+    "create_time": 1768539612,
+    "update_time": 1768539637,
+    "_id": "chunk-30162a1defec7ca71236fd24fbcef8a3"
+  },
+  "chunk-879b5135aa54452de1963b365453a951": {
+    "tokens": 46,
+    "content": "The small liver fluke found in this study were identified as Opisthorchis viverrini by the morphological features of adult worms, and this identification was confirmed by partial COI sequencing of the metacercariae.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-879b5135aa54452de1963b365453a951",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:eae005a44bd8a152eebd2ab7394d8a3d",
+      "default:extract:1b93b06df059bdbf173937a1596b113b"
+    ],
+    "create_time": 1768539645,
+    "update_time": 1768539675,
+    "_id": "chunk-879b5135aa54452de1963b365453a951"
+  },
+  "chunk-5cef9c26c71a9aaa6d5d31b93abccf82": {
+    "tokens": 44,
+    "content": "The newest addition in MEGA5 is a collection of maximum likelihood (ML) analyses for inferring evolutionary trees, selecting best-fit substitution models, inferring ancestral states and sequences, and estimating evolutionary rates site-by-site.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-5cef9c26c71a9aaa6d5d31b93abccf82",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:da9e34da68a2148a537b38e260976269",
+      "default:extract:0dd5bcd0136900e13ef6fbde887c9ab7"
+    ],
+    "create_time": 1768540201,
+    "update_time": 1768540246,
+    "_id": "chunk-5cef9c26c71a9aaa6d5d31b93abccf82"
+  },
+  "chunk-214b3468d37dada8fb86170176092c52": {
+    "tokens": 59,
+    "content": "The nucleotide sequences of the large open reading frame from segment A of three European strains of infectious bursal disease virus (IBDV) have been determined using cDNA clones and a region in the centre of the segment, corresponding to the N terminal of VP4, was found to be completely conserved.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-214b3468d37dada8fb86170176092c52",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:95d7bf6bedf617ba6edd177404495e8f",
+      "default:extract:8cc0700e970b8f3b37cf92dbe7c47828"
+    ],
+    "create_time": 1768540263,
+    "update_time": 1768540285,
+    "_id": "chunk-214b3468d37dada8fb86170176092c52"
+  },
+  "chunk-a24535c690694ea0dca88b58ffad8df3": {
+    "tokens": 54,
+    "content": "The molecular and pathogenicity data indicate that a single amino acid mutation from Histidine (H) to Glutamine (Q) or Asparagine (N) at position 253 in VP2 will markedly increase the virulence of an attenuated IBDV.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-a24535c690694ea0dca88b58ffad8df3",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:a32f9db4a32651a91ea0bffafdaee397",
+      "default:extract:6264230e0d58e7643b86aba6491d44e0"
+    ],
+    "create_time": 1768540294,
+    "update_time": 1768540322,
+    "_id": "chunk-a24535c690694ea0dca88b58ffad8df3"
+  },
+  "chunk-38be32350c477ea008cc1ed65bb00200": {
+    "tokens": 47,
+    "content": "Part of genomic segment A of five recent European 'very virulent' (VV) isolates of infectious bursal disease virus, encoding the major, conformational, protective epitope, have been reverse-transcribed, amplified and cloned.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-38be32350c477ea008cc1ed65bb00200",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:0b2c9c32bd17db2b8ddc4736cd288637",
+      "default:extract:366c5d2ac9b1e11813bbdf88d2666669"
+    ],
+    "create_time": 1768540330,
+    "update_time": 1768540359,
+    "_id": "chunk-38be32350c477ea008cc1ed65bb00200"
+  },
+  "chunk-4c6fa496f303accae9be7d0ff7aeaa8b": {
+    "tokens": 29,
+    "content": "Findings suggest that this mosquito control strategy is sustainable in Vietnam and applicable where the major sources of A aegypti are large water storage containers.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-4c6fa496f303accae9be7d0ff7aeaa8b",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:287aa7ce286cc9db2cd834db756a9a13",
+      "default:extract:1cd2c97659ae0661f3b8ccf90748fff9"
+    ],
+    "create_time": 1768540739,
+    "update_time": 1768540753,
+    "_id": "chunk-4c6fa496f303accae9be7d0ff7aeaa8b"
+  },
+  "chunk-3991fe2061a752f9eb776d3fcc681c33": {
+    "tokens": 32,
+    "content": "None of the copro-diagnostic techniques evaluated were found applicable in their current form for detection of small trematode eggs in faeces from dogs in Vietnam.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-3991fe2061a752f9eb776d3fcc681c33",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:0da4fd2ad13b282e3cfce652404f2b23",
+      "default:extract:d5220668ad80e0d678347ef562a7bfdb"
+    ],
+    "create_time": 1768542030,
+    "update_time": 1768542048,
+    "_id": "chunk-3991fe2061a752f9eb776d3fcc681c33"
+  },
+  "chunk-2ff3100b16229e55507c0da581d4f787": {
+    "tokens": 42,
+    "content": "The loop-mediated isothermal amplification (LAMP) method has great potential for differential diagnosis in endemic areas with mixed O. viverrini and intestinal fluke infections and is potentially applicable for point-of-care diagnosis.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-2ff3100b16229e55507c0da581d4f787",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:3029a98add68b43ff43125f9319972b7",
+      "default:extract:ca9cc5edddccd71aecc4e30a3935f735"
+    ],
+    "create_time": 1768542055,
+    "update_time": 1768542074,
+    "_id": "chunk-2ff3100b16229e55507c0da581d4f787"
+  },
+  "chunk-f4ca9c4f44e888a9a6574f84b313e13f": {
+    "tokens": 62,
+    "content": "With the advantages of simplicity, rapidity, sensitivity, and cost effectiveness, mito-OvLAMP is a good tool for molecular detection and epidemiology studies in regions or countries where O. viverrini is endemic, which can lead to more effective control of opisthorchiasis and trematodiasis.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-f4ca9c4f44e888a9a6574f84b313e13f",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:9d85898eb3166114c4c3028f96991d2a",
+      "default:extract:e625b22a204cce4b43b9b3d0a2b273bb"
+    ],
+    "create_time": 1768542095,
+    "update_time": 1768542122,
+    "_id": "chunk-f4ca9c4f44e888a9a6574f84b313e13f"
+  },
+  "chunk-c78377889913eff94530c611f28f2464": {
+    "tokens": 43,
+    "content": "This coproantigen capture ELISA is highly sensitive for the detection of CsAg in rat feces, and with further development, should be useful for mass screening of human subjects in clonorchiasis-endemic areas.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-c78377889913eff94530c611f28f2464",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:6911c24784255f6b2a2a412a2cd03c94",
+      "default:extract:5c3aeaa8617c6dcadda9127ff3399678"
+    ],
+    "create_time": 1768542131,
+    "update_time": 1768542149,
+    "_id": "chunk-c78377889913eff94530c611f28f2464"
+  },
+  "chunk-6227d854559ab8d6412ebf0a9615a949": {
+    "tokens": 60,
+    "content": "The results indicate that O. viverrini and several species of heterophyid and lecithodendriid flukes are endemic in these two riverside localities, and suggest that the intensity of infection and the relative proportion of fluke species vary by locality along the Mekong River basin.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-6227d854559ab8d6412ebf0a9615a949",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:cda90393a163cb2bc8815ccc35666d01",
+      "default:extract:54d63a38474c233356801460cb17f4c6"
+    ],
+    "create_time": 1768542162,
+    "update_time": 1768542197,
+    "_id": "chunk-6227d854559ab8d6412ebf0a9615a949"
+  },
+  "chunk-321a4a387b4cf241e6e1a90deec4b9c1": {
+    "tokens": 33,
+    "content": "It is suggested that due to the relative insensitivity of both parasitology and antigen detection, antibody detection methods could find increasing use in situations of low infection intensity.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-321a4a387b4cf241e6e1a90deec4b9c1",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:4d0f25886edcd8da1339f5d009eccc11",
+      "default:extract:a7bfdb38bb9f8898b98296e1ec1edcc1"
+    ],
+    "create_time": 1768542217,
+    "update_time": 1768542241,
+    "_id": "chunk-321a4a387b4cf241e6e1a90deec4b9c1"
+  },
+  "chunk-574cfb1f85240b99afc02b339e81d451": {
+    "tokens": 47,
+    "content": "The high prevalence recorded both in fish and in definitive host suggests a widespread and massive presence of the parasite in the area and the possible role of some cyprinids species as intermediate hosts, in order to check their safety for human consumption.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-574cfb1f85240b99afc02b339e81d451",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:f038c4186407f1ce6a0b6e5b6c656ef2",
+      "default:extract:7c4bc37d68cd7d5094e7598d4a44e4b0"
+    ],
+    "create_time": 1768542246,
+    "update_time": 1768542271,
+    "_id": "chunk-574cfb1f85240b99afc02b339e81d451"
+  },
+  "chunk-f701e379db1fb2ab414a1a215aa2e208": {
+    "tokens": 56,
+    "content": "Evidence from northeast Thailand is examined showing that dedicated health outreach campaigns do help to reduce prevalence of opisthorchiasis over time, and integrative, inter-disciplinary and international research must incorporate the complex dynamics of parasite ecology, human behavior, socio-economics, and public health awareness.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-f701e379db1fb2ab414a1a215aa2e208",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:554cf782bb08e786039439a91142ff79",
+      "default:extract:bf69d3aa936244366506c4ed4d6ea341"
+    ],
+    "create_time": 1768542276,
+    "update_time": 1768542292,
+    "_id": "chunk-f701e379db1fb2ab414a1a215aa2e208"
+  },
+  "chunk-902f25199a26ad8f7763d7d79a7578d9": {
+    "tokens": 52,
+    "content": "A sandwich enzyme-linked immunosorbent assay (ELISA) was developed for detecting Opisthorchis viverrini antigen in faecal extracts of four groups of individuals and found sensitivity of the assay was 31% while specificity was 100%.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-902f25199a26ad8f7763d7d79a7578d9",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:992dfa0732bf4c4f991208eabfd47899",
+      "default:extract:64115d6f42544911f244e1f7a0ed9d6f"
+    ],
+    "create_time": 1768542297,
+    "update_time": 1768542337,
+    "_id": "chunk-902f25199a26ad8f7763d7d79a7578d9"
+  },
+  "chunk-4611f9c03ca9b96a38336cdb5c97b72b": {
+    "tokens": 56,
+    "content": "Monoclonal antibody-based enzyme-linked immunosorbent assay and DNA hybridization techniques were developed and evaluated for their potential in the detection of Opisthorchis viverrini infection in humans and their sensitivity was comparable with that of the classical parasitological technic.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-4611f9c03ca9b96a38336cdb5c97b72b",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:9ddca3c4ebaf606a4ce1b598d51cbe2b",
+      "default:extract:8629fe32cf85c0b24619b2fcb4d912c0"
+    ],
+    "create_time": 1768542356,
+    "update_time": 1768542380,
+    "_id": "chunk-4611f9c03ca9b96a38336cdb5c97b72b"
+  },
+  "chunk-3a22ba0ee5554efe28c7b429f270119f": {
+    "tokens": 51,
+    "content": "The type of information that is required to strengthen the argument for mass therapy is outlined, which raises the question whether any form of mass anthelmintic chemotherapy is an efficient use of scare health resources in view of the competing demands for scarce public funds.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-3a22ba0ee5554efe28c7b429f270119f",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:65779e3d1420662e09c85e2a8d9334bb",
+      "default:extract:0feafce12a7b0d88dc3b99ba7f1932e5"
+    ],
+    "create_time": 1768542392,
+    "update_time": 1768542418,
+    "_id": "chunk-3a22ba0ee5554efe28c7b429f270119f"
+  },
+  "chunk-cde80247d12e5d3d91def48f97c1b439": {
+    "tokens": 39,
+    "content": "It is argued that high-profile regional and international institutions can play an important role in the global governance of One Health by encouraging individual countries to devise appropriate tailored solutions that are workable within their own context.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-cde80247d12e5d3d91def48f97c1b439",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:e353c348d75ba36e48648846657653cc",
+      "default:extract:cbe4bf0f8779a285e66069acd37e8901"
+    ],
+    "create_time": 1768542424,
+    "update_time": 1768542445,
+    "_id": "chunk-cde80247d12e5d3d91def48f97c1b439"
+  },
+  "chunk-52a9c5f1506ae9dbf3a1f1866bd28763": {
+    "tokens": 58,
+    "content": "The mitochondrial cytochrome c oxidase subunit I (CO I) gene and the second internal transcribed spacer region (ITS II) gene of Opisthorchis viverrini were compared and identical Amino acid sequence deduced from the nucleotide sequences of these genes was identical.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-52a9c5f1506ae9dbf3a1f1866bd28763",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:7a4638d0a18860f73284a7a99f60f699",
+      "default:extract:e4505d87b2546ee1812ed24cc912ceb8"
+    ],
+    "create_time": 1768542456,
+    "update_time": 1768542496,
+    "_id": "chunk-52a9c5f1506ae9dbf3a1f1866bd28763"
+  },
+  "chunk-73c7f0c924eada8686a75bb4a92f7f4f": {
+    "tokens": 55,
+    "content": "The multiplex PCR approach described here proved to be a species-specific, sensitive and fast tool for accurate diagnosis of clonorchiasis and/or opisthorchiasis, permitting the detection of their metacercariae in infected fishes or adult/eggs from patients in endemic areas.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-73c7f0c924eada8686a75bb4a92f7f4f",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:869bf596c25fdefdc8ed183c174e9fea",
+      "default:extract:5422acef57f9f0d0319b2d4bad7d09ac"
+    ],
+    "create_time": 1768542512,
+    "update_time": 1768542582,
+    "_id": "chunk-73c7f0c924eada8686a75bb4a92f7f4f"
+  },
+  "chunk-f5e1f2dee82e2dc7f5380db27c0f1785": {
+    "tokens": 55,
+    "content": "Adult specimens of the opisthorchiid liver fluke species Opisthorchis felineus and Metorchis bilis could be identified for the first time by molecular biological methods using species specific primers (OF and MB primers) in the polymerase chain reaction (PCR).",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-f5e1f2dee82e2dc7f5380db27c0f1785",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:592eeb1f9f3cc8686a068b37f0882aea",
+      "default:extract:ba5862d9a812db0947b7e7ebbfd62185"
+    ],
+    "create_time": 1768542597,
+    "update_time": 1768542615,
+    "_id": "chunk-f5e1f2dee82e2dc7f5380db27c0f1785"
+  },
+  "chunk-8d75398e966dd76ff6a58656562d2c1a": {
+    "tokens": 39,
+    "content": "In the first month of infection, the PCR method was more sensitive than using the egg-count method in all infected groups especially in the light infections and was also successfully used in monitoring a therapeutic study.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-8d75398e966dd76ff6a58656562d2c1a",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:eccfd0d008060c540ef2530929865c39",
+      "default:extract:b0e046eb75a0da6b521d682ef0615020"
+    ],
+    "create_time": 1768542634,
+    "update_time": 1768542665,
+    "_id": "chunk-8d75398e966dd76ff6a58656562d2c1a"
+  },
+  "chunk-2bf098bc854474022cb038b7b5f5356f": {
+    "tokens": 51,
+    "content": "If validated in other ecological settings in China the questionnaire could be adopted by the national schistosomiasis control programme and found to be nearly as good at predicting individual infection as the 3 variables 'yes/no' model, which is very simple to use.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-2bf098bc854474022cb038b7b5f5356f",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:6d881eacc08ba3eb4412eefaca36fa8f",
+      "default:extract:4874ffa2089de96cb4e376ac5f869ad8"
+    ],
+    "create_time": 1768542686,
+    "update_time": 1768542707,
+    "_id": "chunk-2bf098bc854474022cb038b7b5f5356f"
+  },
+  "chunk-52c7d758a4d4a5daadf2e5a9de45e90d": {
+    "tokens": 37,
+    "content": "Results indicate that Opisthorchis is associated with moderate to severe liver fluke worm burden and the severity of biliary tract disease within individuals in a considerable proportion of infected individuals.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-52c7d758a4d4a5daadf2e5a9de45e90d",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:4d67fe761918d98ceeb141a201e3ce25",
+      "default:extract:ec98071e6cbfcf25a861015341408bed"
+    ],
+    "create_time": 1768542712,
+    "update_time": 1768542736,
+    "_id": "chunk-52c7d758a4d4a5daadf2e5a9de45e90d"
+  },
+  "chunk-8c1f01da684cea121e00156b38084b37": {
+    "tokens": 33,
+    "content": "The KK method proved to be most sensitive in six groups with different egg counts, and in cases of extremely light infection FE was found to be more sensitive than KK.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-8c1f01da684cea121e00156b38084b37",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:ea6792c120a3871d0abdd984e66af658",
+      "default:extract:69dcf72e65bf07eab9f2061ca67e3198"
+    ],
+    "create_time": 1768542740,
+    "update_time": 1768542760,
+    "_id": "chunk-8c1f01da684cea121e00156b38084b37"
+  },
+  "chunk-6615ef70c6201f6336a9a253a7bf6756": {
+    "tokens": 169,
+    "content": "ABSTRACT A modified quick-Kato technique and the Stoll dilution method for the diagnosis of Opisthorchis viverrini infection were compared from the standpoints of both replicability and sensitivity. One Stoll dilution preparation and two modified quick-Kato smears were prepared from single stool specimens collected from 221 persons in a village in north-eastern Thailand. Stool examinations were made in duplicate for each technique by two examiners, and the averages of the raw egg counts were used to estimate the intensity of infection. Statistical analyses revealed that the modified quick-Kato technique was slightly more sensitive, and thus would detect more positives, but was lacking in replicability and hence less suitable for measurement of individual intensity of infection. We therefore recommend the Stoll dilution technique for field surveys and measurement of individual intensity of 0. viverrini infection.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-6615ef70c6201f6336a9a253a7bf6756",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:04a607cd2ca888abe2ade86921d18d05",
+      "default:extract:04a5005689890f90c5af0bbaf6008287"
+    ],
+    "create_time": 1768542767,
+    "update_time": 1768542795,
+    "_id": "chunk-6615ef70c6201f6336a9a253a7bf6756"
+  },
+  "chunk-26266f9f4f85bfd7deefa3f08d5859c6": {
+    "tokens": 43,
+    "content": "This work aimed to review how zoonotic diseases result from natural pathogen ecology, and how other circumstances, such as animal production, extraction of natural resources, and antimicrobial application change the dynamics of disease exposure to human beings.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-26266f9f4f85bfd7deefa3f08d5859c6",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:bc79eff9befd51bde4c2ea51aaf7e368",
+      "default:extract:c6befb99b019113110c74e956d2a2c36"
+    ],
+    "create_time": 1768542809,
+    "update_time": 1768542832,
+    "_id": "chunk-26266f9f4f85bfd7deefa3f08d5859c6"
+  },
+  "chunk-38bffee3ddc748320c0cbfa9f30bb3ec": {
+    "tokens": 38,
+    "content": "How a change in human food habits have caused and increased the transmission of O. felineus is shown, which has probably been circulating in the EU yet in a silent form for many years.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-38bffee3ddc748320c0cbfa9f30bb3ec",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:e82fedcd55d3e9c59cfb6f0dd36dbf4d",
+      "default:extract:f4535a406d66d4c2d03dd1f885e47354"
+    ],
+    "create_time": 1768542845,
+    "update_time": 1768542859,
+    "_id": "chunk-38bffee3ddc748320c0cbfa9f30bb3ec"
+  },
+  "chunk-238c2e1b073d66f94b56266ab745be34": {
+    "tokens": 62,
+    "content": "Compared a real-time polymerase chain reaction for stool samples with conventional diagnostic methods in a study of 1,727 persons from Anhui Province, China,Seroprevalence determined by using an indirect hemagglutination assay (IHA) was much higher than the prevalence in stool-based tests.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-238c2e1b073d66f94b56266ab745be34",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:42229bb3c4742ec8299f2ba49d961cc2",
+      "default:extract:7db06270d37ac680fc5aa4006f6f9ba7"
+    ],
+    "create_time": 1768542870,
+    "update_time": 1768542920,
+    "_id": "chunk-238c2e1b073d66f94b56266ab745be34"
+  },
+  "chunk-9c16494a7ac3bbc4464e0d0259e38ec6": {
+    "tokens": 37,
+    "content": "Clonorchis sinensis ESA was found to be a better serodiagnostic antigen than CA for ELISA, and there is a need to improve the present conventional ELISA.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-9c16494a7ac3bbc4464e0d0259e38ec6",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:52c6bc65b9f081bc94955adf1799b269",
+      "default:extract:1492b559ff8f1eedcb04661bdc4d6dfa"
+    ],
+    "create_time": 1768542936,
+    "update_time": 1768542961,
+    "_id": "chunk-9c16494a7ac3bbc4464e0d0259e38ec6"
+  },
+  "chunk-b242c81237407e520d835a20e3cc5dc4": {
+    "tokens": 79,
+    "content": "Immunoblotting and radioimmunoprecipitation analyses showed that the 89-kD protein which was previously shown to be a predominant metabolic product of O. viverrini reacted with sera from both groups of patients, however, an antigen with a molecular weight of 16 kD, apparently a predominant somatic component, appeared to be specific for O.viverRini.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-b242c81237407e520d835a20e3cc5dc4",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:501398ebb56645c2f9516d2ca65f20e9",
+      "default:extract:03c93779c7e149d8cc0a46d4bedb28a1"
+    ],
+    "create_time": 1768542965,
+    "update_time": 1768543007,
+    "_id": "chunk-b242c81237407e520d835a20e3cc5dc4"
+  },
+  "chunk-6b71e8e83ad910c83b7bde8736799d8e": {
+    "tokens": 28,
+    "content": "The opinion piece presented here highlights diagnostic dilemmas in helminthology related to the stage of control achieved and sets out some research needs.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-6b71e8e83ad910c83b7bde8736799d8e",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:efb8cfea449b4dd9ea221559fddf8157",
+      "default:extract:8bb7e7f3ed40cb1202ee818d9510e6a4"
+    ],
+    "create_time": 1768543012,
+    "update_time": 1768543024,
+    "_id": "chunk-6b71e8e83ad910c83b7bde8736799d8e"
+  },
+  "chunk-5b81d6f2dc280c4a251fe3d7c991c9d6": {
+    "tokens": 62,
+    "content": "PCR-restriction fragment length polymorphism was used to identify the exact species of each metacercaria, using the 28S ribosomal RNA gene as the genetic marker and MboII as the restriction enzyme, and may be an effective tool for epidemiological studies of HIFs in endemic areas.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-5b81d6f2dc280c4a251fe3d7c991c9d6",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:46841bc291bdf3d30d298ddc3735574b",
+      "default:extract:393b8083394fd723ea20e3b2a23c5519"
+    ],
+    "create_time": 1768543053,
+    "update_time": 1768543073,
+    "_id": "chunk-5b81d6f2dc280c4a251fe3d7c991c9d6"
+  },
+  "chunk-b11119067a2d2bb4bacfe766355b9408": {
+    "tokens": 59,
+    "content": "The results confirm that the prevalence of S. japonicum infection in a community is generally considerably \"underestimated\" and provides a benchmark for the proper application of the Kato-Katz technique and the rational evaluation of the epidemic situation, as well as a scientific basis for constructing a mathematic diagnostic model.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-b11119067a2d2bb4bacfe766355b9408",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:dbe4d26d5e981210f4a0e1c7b1f590d2",
+      "default:extract:b2b51314d2318b641f9e9faed826e658"
+    ],
+    "create_time": 1768543088,
+    "update_time": 1768543121,
+    "_id": "chunk-b11119067a2d2bb4bacfe766355b9408"
+  },
+  "chunk-db9c5e541d976adda7f977a0e6632e65": {
+    "tokens": 53,
+    "content": "Children were cured less often and had slower abatement of symptomatology after treatment than adults, and levels of IgA antibody to soluble egg antigen and IgM antibody to keyhole limpet hemocyanin declined between 12 and 24 months after treatment.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-db9c5e541d976adda7f977a0e6632e65",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:53cd0835d8f0a2c6cda93b2d233c7e85",
+      "default:extract:ac81150ea850ceec21dab03df7ff62f6"
+    ],
+    "create_time": 1768543129,
+    "update_time": 1768543168,
+    "_id": "chunk-db9c5e541d976adda7f977a0e6632e65"
+  },
+  "chunk-ddfc63f65c50dee723137fd22953298f": {
+    "tokens": 34,
+    "content": "Eggs of these flukes are morphologically similar and problematic in identification, however, the differentiation between opisthorchid and lecithodendrid eggs is possible.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-ddfc63f65c50dee723137fd22953298f",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:dedcf2d3b55b336339c97080c96b1723",
+      "default:extract:e9b55841f85aa0cc6233feab9fbd8eed"
+    ],
+    "create_time": 1768543178,
+    "update_time": 1768543203,
+    "_id": "chunk-ddfc63f65c50dee723137fd22953298f"
+  },
+  "chunk-fe1dcb64ac7b7d66a76a6ee4e711f995": {
+    "tokens": 28,
+    "content": "The real-time PCR used in this study appears to be a powerful tool for both the detection and quantification of C. sinensis infections.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-fe1dcb64ac7b7d66a76a6ee4e711f995",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:eb4d8caf35da9c9e3da1afa96ae4d5e6",
+      "default:extract:32ce7ff36750d1ab0b2b734f8e1f60d4"
+    ],
+    "create_time": 1768543216,
+    "update_time": 1768543232,
+    "_id": "chunk-fe1dcb64ac7b7d66a76a6ee4e711f995"
+  },
+  "chunk-a6500245b9c6a3adbab9eff0d466b840": {
+    "tokens": 39,
+    "content": "Fecal real-time PCR provides a potential tool for the diagnosis of clonorchiosis before eggs can be detected by conventional methods, and may be used to estimate the worm burden in the host.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-a6500245b9c6a3adbab9eff0d466b840",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:7f9449caf597ea28d9b521210fdfa3f1",
+      "default:extract:382b975c3bc4c570e299d7db8b71cc37"
+    ],
+    "create_time": 1768543250,
+    "update_time": 1768543279,
+    "_id": "chunk-a6500245b9c6a3adbab9eff0d466b840"
+  },
+  "chunk-e78ffab293d85b4ebff1564e0a3f2c3c": {
+    "tokens": 43,
+    "content": "A recently developed PCR test for the detection of Opisthorchis viverrini in human faecal samples was evaluated using two parasitological methods as references and the previously reported PCR sensitivity was not supported.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-e78ffab293d85b4ebff1564e0a3f2c3c",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:6157a424dc8ab7f461dff45d65ca3bd2",
+      "default:extract:31645109722af88a338e72f45b74dc18"
+    ],
+    "create_time": 1768543284,
+    "update_time": 1768543303,
+    "_id": "chunk-e78ffab293d85b4ebff1564e0a3f2c3c"
+  },
+  "chunk-eba29f70e52c3514cfb16d8cf1c63f59": {
+    "tokens": 57,
+    "content": "It is revealed that the diagnostic performance of IHA is better than that of ELISA, however, taking into account their unsatisfactory diagnostic value in areas with low infection intensity, a search for a better diagnostic test that can be applied in field situations in China should be given high priority.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-eba29f70e52c3514cfb16d8cf1c63f59",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:39eceb18c35eb1e804bf53b70824ed8e",
+      "default:extract:4193be85ad552ad09348b5ac0fab6e14"
+    ],
+    "create_time": 1768543326,
+    "update_time": 1768543347,
+    "_id": "chunk-eba29f70e52c3514cfb16d8cf1c63f59"
+  },
+  "chunk-5de9a9ca2de0925c1a3c20cd63a2ec57": {
+    "tokens": 43,
+    "content": "A meta-analysis of diagnostic ability that compared ELISA with IHA for the diagnosis of schistosomiasis japonica found that both IHA and ELISA can be used to rule in or rule out the diagnosis.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-5de9a9ca2de0925c1a3c20cd63a2ec57",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:a5ad7e254c05ef1b2e14b46802d1aa83",
+      "default:extract:a2dac84115551382a4cfe58dffeb8438"
+    ],
+    "create_time": 1768543351,
+    "update_time": 1768543389,
+    "_id": "chunk-5de9a9ca2de0925c1a3c20cd63a2ec57"
+  },
+  "chunk-efb7dcbe9b74cd6f06fe06b4ed4b8da2": {
+    "tokens": 38,
+    "content": "To keep the sensitivity of PST above 90%, 1:05 should be the maximum dilution, that is, the optimum pool size should not be greater than 6.5 gallons.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-efb7dcbe9b74cd6f06fe06b4ed4b8da2",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:d0ef2846f0885adf56ea939195d7f78c",
+      "default:extract:1397c91d83d9f69c3d5c0728318a7066"
+    ],
+    "create_time": 1768543401,
+    "update_time": 1768543430,
+    "_id": "chunk-efb7dcbe9b74cd6f06fe06b4ed4b8da2"
+  },
+  "chunk-9deec6a368ba35e4d8ab94790e23b431": {
+    "tokens": 30,
+    "content": "The feasibility of using a pooling strategy to increase capacity and conserve resources during surge testing and periods of enhanced influenza surveillance when the prevalence is low is demonstrated.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-9deec6a368ba35e4d8ab94790e23b431",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:5e3c54520e95f6cece6514060e291e85",
+      "default:extract:35943f49b2c9328d8cbe393000b3ccba"
+    ],
+    "create_time": 1768543436,
+    "update_time": 1768543459,
+    "_id": "chunk-9deec6a368ba35e4d8ab94790e23b431"
+  },
+  "chunk-c71b2b7d263cbd0f9713a997f17fdccd": {
+    "tokens": 45,
+    "content": "A nested polymerase chain reaction (PCR) method for the specific and reliable detection of C. sinensis will be useful for the quarantine of fishery products and evaluation of transmission status of clonorchiasis in the endemic areas.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-c71b2b7d263cbd0f9713a997f17fdccd",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:ab1ac558cc2f9fc6db4a9fb3f29e2e91",
+      "default:extract:c1cf42e51e98e56c842f1eb045529c51"
+    ],
+    "create_time": 1768543469,
+    "update_time": 1768543489,
+    "_id": "chunk-c71b2b7d263cbd0f9713a997f17fdccd"
+  },
+  "chunk-756a1dc033c87aa1df4886cc248f2102": {
+    "tokens": 58,
+    "content": "A PCR-based method for detection of Opisthorchis viverrini in experimentally infected hamsters is successfully developed and was more sensitive than the previous method using a DNA probe as a diagnostic tool, with no amplification occurring when samples contained small intestinal flukes or other parasitic eggs.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-756a1dc033c87aa1df4886cc248f2102",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:6a7d3156be4e3dcbd331a9a298260a91",
+      "default:extract:bf370dcef2a2cdb42b01711fe0dbffac"
+    ],
+    "create_time": 1768543497,
+    "update_time": 1768543515,
+    "_id": "chunk-756a1dc033c87aa1df4886cc248f2102"
+  },
+  "chunk-27cb4a5bb97ef3dfcbc5e83b0f45a8c4": {
+    "tokens": 42,
+    "content": "Serological diagnosis of clonorchiasis was not satisfactory in lightly infected cases because of low levels of specific IgG antibody, and seven and 13 months after treatment, the Igg antibody levels were lowered significantly.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-27cb4a5bb97ef3dfcbc5e83b0f45a8c4",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:c58b2ee7cc1f7b8a5c664e03b744f0aa",
+      "default:extract:2cc474b105eb6c10567c82df94a314f4"
+    ],
+    "create_time": 1768543521,
+    "update_time": 1768543575,
+    "_id": "chunk-27cb4a5bb97ef3dfcbc5e83b0f45a8c4"
+  },
+  "chunk-04ce53de96c9ce916467a7ca9f36d228": {
+    "tokens": 42,
+    "content": "The observed day-to-day variation in individual egg counts is highly aggregated (variance higher than the mean) and suggestive of a negative binomial distribution and there also exists clustering of eggs within parts of the stool.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-04ce53de96c9ce916467a7ca9f36d228",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:1c6319a2091fdde066d97a5947b1aed4",
+      "default:extract:917036b0b8cca11d3799db731653fb80"
+    ],
+    "create_time": 1768543605,
+    "update_time": 1768543628,
+    "_id": "chunk-04ce53de96c9ce916467a7ca9f36d228"
+  },
+  "chunk-fd6f47c15d875994d5ea11165b04ac73": {
+    "tokens": 22,
+    "content": "A search for a good diagnostic test that can be applied in field situations in China should be given high priority.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-fd6f47c15d875994d5ea11165b04ac73",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:e4918a9fc5d952ad94a9c69a726c38f3",
+      "default:extract:d53d2d9f4660dac9a15123e1f19ffb16"
+    ],
+    "create_time": 1768543636,
+    "update_time": 1768543654,
+    "_id": "chunk-fd6f47c15d875994d5ea11165b04ac73"
+  },
+  "chunk-0024b8ddacb751e7c5dc5f8d0ea108eb": {
+    "tokens": 309,
+    "content": "The presence of the schistosome circulating anodic antigen (CAA) in serum of patients infected with Schistosoma japonicum from The Philippines has been investigated using an enzyme-linked immunosorbent assay (ELISA). Serum samples were tested from 48 patients who excreted S. japonicum eggs, 9 individuals with a negative stool examination, and 20 controls with both a negative stool and a negative circumoval precipitin test. No false positive result was detected for the unequivocally negative controls. CAA could be demonstrated in 72.9% of the egg-excreting patients. A positive correlation between parasite burden (eggs per gram of faeces) and antigen level (CAA titre) was found (Spearman's rho = 0.48, P < 0.001, n = 48). Four of 18 sera from the egg-negative individuals were positive in the ELISA. In view of the fact that anti-worm antibodies were also detected in these 4 sera, those reactions suggest active infection not detected by stool examination. In serum from patients treated with praziquantel, a significant drop in CAA titre was seen within 5 d after treatment (Wilcoxon's chi T = -2.23, P = 0.0258, n = 21). In conclusion, the detection of CAA by ELISA in S. japonicum infection can give valuable information in both individual diagnosis and therapeutic drug monitoring, as well as in epidemiological studies or disease control programmes.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-0024b8ddacb751e7c5dc5f8d0ea108eb",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:98a4b882af4103f9444c4b46623fb357",
+      "default:extract:ed3283ef0a7d6cf9f51dda29cb7041fb"
+    ],
+    "create_time": 1768543665,
+    "update_time": 1768543728,
+    "_id": "chunk-0024b8ddacb751e7c5dc5f8d0ea108eb"
+  },
+  "chunk-bf15a731bb0c2f9e6459d16f803c76e1": {
+    "tokens": 56,
+    "content": "The parasite Clonorchis sinensis was determined to utilize a large amount of external glucose to carry its energy metabolism, and PGK, a glycolytic enzyme found in many parasites, has been identified as one of the candidate molecules distinguished from human counterparts for vaccine and drug developments.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-bf15a731bb0c2f9e6459d16f803c76e1",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:6b374392225ef3889296bdd6d751219f",
+      "default:extract:3e32a54e232165dee81ebc77a77a3366"
+    ],
+    "create_time": 1768543761,
+    "update_time": 1768543782,
+    "_id": "chunk-bf15a731bb0c2f9e6459d16f803c76e1"
+  },
+  "chunk-266a1bec2edd1b8ae9f19cb689b9eeae": {
+    "tokens": 49,
+    "content": "It is proposed that the recombinant Cs26GST is a potent serodiagnostic antigen for detecting C. sinensis-specific IgG and IgE antibodies, and that it be best used as an antigenic cocktail in combination with other antigens.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-266a1bec2edd1b8ae9f19cb689b9eeae",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:381a6213cc7cf429db1a7ca782ebb9ac",
+      "default:extract:78890c1c88fbb010c3d88581ce46ae49"
+    ],
+    "create_time": 1768543787,
+    "update_time": 1768543812,
+    "_id": "chunk-266a1bec2edd1b8ae9f19cb689b9eeae"
+  },
+  "chunk-0fb7b6058a75fb52450283f2bfbbb406": {
+    "tokens": 51,
+    "content": "The recombinant CsLPAP showed slightly higher sensitivity and specificity than the crude worm antigen by enzyme-linked immunosorbent assay (ELISA), a result which suggested that the recombinant antigen might be valuable in the serodiagnosis of human clonorchiasis.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-0fb7b6058a75fb52450283f2bfbbb406",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:7a79a6a38021981a36dabb9c7dbdb4d3",
+      "default:extract:f1598ecae55f028e21785adc86974f2d"
+    ],
+    "create_time": 1768543819,
+    "update_time": 1768543838,
+    "_id": "chunk-0fb7b6058a75fb52450283f2bfbbb406"
+  },
+  "chunk-28cc119818cb1eb25c7d4da79213927c": {
+    "tokens": 32,
+    "content": "It is proposed that multiple antigen mixes should be further studied to develop rapid serodiagnostic test kits for theserodiagnosis of human clonorchiasis.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-28cc119818cb1eb25c7d4da79213927c",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:7c23f6c7bf6e84fab39a918347df2376",
+      "default:extract:cf07d552d5e6f62225192fc913d512a0"
+    ],
+    "create_time": 1768543844,
+    "update_time": 1768543869,
+    "_id": "chunk-28cc119818cb1eb25c7d4da79213927c"
+  },
+  "chunk-f216879d0e44c8d03b9d04323edd5fbe": {
+    "tokens": 62,
+    "content": "Using serum specimens could increase patient and community compliance compared to the conventional parasitological survey which uses stool samples for the detection of O. viverrini ova, without treatment and subsequent salt purgation, this conventional method shows a low sensitivity and is also unpleasant to both the sample donors and the laboratory technicians.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-f216879d0e44c8d03b9d04323edd5fbe",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:4e62d7b5f55ef5012750b307ffbc6022",
+      "default:extract:3a9df4f347604a1816a056722f4330d3"
+    ],
+    "create_time": 1768543891,
+    "update_time": 1768543917,
+    "_id": "chunk-f216879d0e44c8d03b9d04323edd5fbe"
+  },
+  "chunk-c1aaa2470e7464a09774dbb42c1287e6": {
+    "tokens": 67,
+    "content": "A TaqMan-based real-time PCR assay for the detection of Clonorchis sinensis DNA in gallbladder bile and stone samples from patients with cholecystolithiasis contributes to a greater understanding of stone pathogenesis and benefits patients with CholecyStolithiasis by facilitating effective diagnosis, treatment, and relapse prevention.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-c1aaa2470e7464a09774dbb42c1287e6",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:8a4b97f30a6e580e143b1425de0a0c4f",
+      "default:extract:c0bb9626753d8d24cc44c6e62901b22b"
+    ],
+    "create_time": 1768543945,
+    "update_time": 1768544005,
+    "_id": "chunk-c1aaa2470e7464a09774dbb42c1287e6"
+  },
+  "chunk-d6ae8a72ad367bbc353ce113b7956148": {
+    "tokens": 34,
+    "content": "CDIFA is a specific, sensitive, and reliable test that can be used for rapid screening for schistosomiasis by health workers in field settings and in the laboratory.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-d6ae8a72ad367bbc353ce113b7956148",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:88519c7f5171aeae09d3e4cdba9912ca",
+      "default:extract:1a9bd97fa328865b71bdba548d5c51f1"
+    ],
+    "create_time": 1768544034,
+    "update_time": 1768544055,
+    "_id": "chunk-d6ae8a72ad367bbc353ce113b7956148"
+  },
+  "chunk-e469ec2af24bbc690574902269eceff1": {
+    "tokens": 47,
+    "content": "The results suggest that the Danish Bilharziasis Laboratory technique is valid for the detection of infection with S. japonicum in animals, and that sensitivity estimates are excellent when faecal samples are collected on at least three different days.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-e469ec2af24bbc690574902269eceff1",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:34053f95cf358956656a342292550137",
+      "default:extract:7ae008002f4341749c958e7eb8d6cc8f"
+    ],
+    "create_time": 1768544085,
+    "update_time": 1768544113,
+    "_id": "chunk-e469ec2af24bbc690574902269eceff1"
+  },
+  "chunk-28ab4980ebe707c8dec2df7bbc3b467d": {
+    "tokens": 43,
+    "content": "The present study suggests that schistosomiasis transmission might vary significantly within Chinese farm districts and successful control should rely on prior transmission index determinations on major potential contributors rather than routine data of prevalence and intensity of infection.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-28ab4980ebe707c8dec2df7bbc3b467d",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:e2235b9c2ca3ab7287e672f7ef3a6cbe",
+      "default:extract:8dd2db5ec196594a94bc99d152491ba2"
+    ],
+    "create_time": 1768544160,
+    "update_time": 1768544190,
+    "_id": "chunk-28ab4980ebe707c8dec2df7bbc3b467d"
+  },
+  "chunk-b5b7e73380988eeb174ca3b789fd0d66": {
+    "tokens": 36,
+    "content": "Results showed that copro-DNA diagnosis was useful for the differential diagnosis of O. viverrini and H. taichui infection, which could not be discriminated by microscopy.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-b5b7e73380988eeb174ca3b789fd0d66",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:185dc4685f5f64a8fde8546cc392ad9c",
+      "default:extract:a96327b8754a0a78833019bff3b6a40d"
+    ],
+    "create_time": 1768544197,
+    "update_time": 1768544214,
+    "_id": "chunk-b5b7e73380988eeb174ca3b789fd0d66"
+  },
+  "chunk-5176eb820492c017bae55bd3d9afdaaf": {
+    "tokens": 38,
+    "content": "The sensitivity of PCR makes it a promising tool for schistosomiasis diagnostics and screening, although egg shedding variability and stool sample size present challenges for any detection method in low-transmission areas.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-5176eb820492c017bae55bd3d9afdaaf",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:f2359544fca9d0535649b569985fa500",
+      "default:extract:83d98e14234757fefd2ebff7e59d60d4"
+    ],
+    "create_time": 1768544220,
+    "update_time": 1768544242,
+    "_id": "chunk-5176eb820492c017bae55bd3d9afdaaf"
+  },
+  "chunk-80b97f9e924421f7263d201cc76d061b": {
+    "tokens": 45,
+    "content": "It is demonstrated that LAMP was effective for early diagnosis of, and evaluation of therapy effectiveness for, S. japonicum infection and was more sensitive than conventional PCR for clinical diagnosis of schistosomiasis cases in endemic areas.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-80b97f9e924421f7263d201cc76d061b",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:b3322c7b136c4e0917bbfa61fc873eea",
+      "default:extract:1904b95874d4a13f5c63d0bfbacfba63"
+    ],
+    "create_time": 1768544258,
+    "update_time": 1768544326,
+    "_id": "chunk-80b97f9e924421f7263d201cc76d061b"
+  },
+  "chunk-a39b82deb8ec634e1ebee4a2a6faefeb": {
+    "tokens": 44,
+    "content": "This review focuses on the issue of multiparasitism, with a special emphasis on its characteristics, its extent in eastern Asia and its significance for infectious disease control, and lists a set of research needs for future investigations.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-a39b82deb8ec634e1ebee4a2a6faefeb",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:0efd42b79f2a9bfe581126f0922a4e33",
+      "default:extract:4c9dc148346faa91d960e4dcbee99811"
+    ],
+    "create_time": 1768544365,
+    "update_time": 1768544386,
+    "_id": "chunk-a39b82deb8ec634e1ebee4a2a6faefeb"
+  },
+  "chunk-63a84e2aacf05868ad446ec5033e575c": {
+    "tokens": 40,
+    "content": "The Kato-Katz technique, hatching test and indirect hemagglutination assay were compared for their ability to detect human Schistosoma japonicum infection in two endemic villages in rural China.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-63a84e2aacf05868ad446ec5033e575c",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:7427e26ae42f98773b5bfc8a43ae304c",
+      "default:extract:a9e22c0db1aa54f63cec62a4a7ef357e"
+    ],
+    "create_time": 1768544399,
+    "update_time": 1768544428,
+    "_id": "chunk-63a84e2aacf05868ad446ec5033e575c"
+  },
+  "chunk-1c01c42b70e06dd04531af550345bc7d": {
+    "tokens": 40,
+    "content": "Three techniques for estimating the intensity of Opisthorchis viverrini infection in individuals from a Northeast That community are compared and it is concluded that all three measurements are useful for epidemiological studies.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-1c01c42b70e06dd04531af550345bc7d",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:a9baf635c5bc51424d45e6eb19c021c5",
+      "default:extract:26f2d6007b1a8d070fb78a5c94fbc887"
+    ],
+    "create_time": 1768544435,
+    "update_time": 1768544450,
+    "_id": "chunk-1c01c42b70e06dd04531af550345bc7d"
+  },
+  "chunk-4e38bf3bf822086eb0e754ae3929ef24": {
+    "tokens": 33,
+    "content": "Six hundred and eighty-one residents from 16 provinces in northeast Thailand who had previously been found positive for Opisthorchis viverrini and Taenia spp.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-4e38bf3bf822086eb0e754ae3929ef24",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:455cf74700d23680471e3106adec0d1a",
+      "default:extract:c6569eeae4d084906a62691fe5be00d2"
+    ],
+    "create_time": 1768544455,
+    "update_time": 1768544509,
+    "_id": "chunk-4e38bf3bf822086eb0e754ae3929ef24"
+  },
+  "chunk-2eeaa3f96c5a6e0b0b9e3c585764f59a": {
+    "tokens": 325,
+    "content": "Journal Article Density-dependent fecundity of Opisthorchis viverrini in humans, based on faecal recovery of flukes Get access Roger J. Ramsay, Roger J. Ramsay aDepartment of Parasitology, University of Queensland, Brisbane, Australia Search for other works by this author on: Oxford Academic PubMed Google Scholar Paiboon Sithithaworn, Paiboon Sithithaworn bFaculty of Medicine, University of Khan Kaen, Thailand Search for other works by this author on: Oxford Academic PubMed Google Scholar Paul Prociv, Paul Prociv aDepartment of Parasitology, University of Queensland, Brisbane, Australia Search for other works by this author on: Oxford Academic PubMed Google Scholar Douglas E. Moorhouse, Douglas E. Moorhouse aDepartment of Parasitology, University of Queensland, Brisbane, Australia Search for other works by this author on: Oxford Academic PubMed Google Scholar Chingchai Methaphat Chingchai Methaphat bFaculty of Medicine, University of Khan Kaen, Thailand Search for other works by this author on: Oxford Academic PubMed Google Scholar Transactions of The Royal Society of Tropical Medicine and Hygiene, Volume 83, Issue 2, March-April 1989, Pages 241–242, https://doi.org/10.1016/0035-9203(89)90662-7 Published: 01 March 1989 Article history Received: 24 May 1988 Revision received: 14 October 1988 Accepted: 25 October 1988 Published: 01 March 1989",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-2eeaa3f96c5a6e0b0b9e3c585764f59a",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:4a9764160811d0650bf8384b3394580d",
+      "default:extract:28d65a3bc9cb3c9d461551745c6a60a1"
+    ],
+    "create_time": 1768544525,
+    "update_time": 1768544566,
+    "_id": "chunk-2eeaa3f96c5a6e0b0b9e3c585764f59a"
+  },
+  "chunk-12418866e7efdfc1aa9ada51674dfa7e": {
+    "tokens": 48,
+    "content": "It is demonstrated that microscopic-based techniques dramatically underestimate the prevalence of S. japonicum infection in water buffaloes in the Philippines and warrant reexamination of the role of bovines in transmission of S-Japonicum to humans in the country.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-12418866e7efdfc1aa9ada51674dfa7e",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:9479137e529fabbb01b06bf5ed64d83d",
+      "default:extract:428abc2415bbf45954b8cd3a260e4a6b"
+    ],
+    "create_time": 1768544593,
+    "update_time": 1768544641,
+    "_id": "chunk-12418866e7efdfc1aa9ada51674dfa7e"
+  },
+  "chunk-f2104b8e0d21de2e0132de3ac641c068": {
+    "tokens": 42,
+    "content": "Both genotypes were widely distributed throughout Tanzania, and had conserved putative virulence marker amino acids at positions 222(A), 242(I), 256(I, 294(I) and 299(S).",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-f2104b8e0d21de2e0132de3ac641c068",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:01f134fa38a49f767145ae673c7b4d03",
+      "default:extract:4100665983483fcbb4de94ff10c7b777"
+    ],
+    "create_time": 1768545098,
+    "update_time": 1768545118,
+    "_id": "chunk-f2104b8e0d21de2e0132de3ac641c068"
+  },
+  "chunk-35ef2ee23e38be71b0f44770136eb019": {
+    "tokens": 66,
+    "content": "Investigations demonstrated that the codon for amino acid at position 284 had already reverted to the wild-type phenotype (T284A) 3 days after inoculation, and reverse transcription-polymerase chain reaction coupled with restriction enzyme analysis revealed that both point mutations in BD-3tc had reverted 14 daysAfter inoculation.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-35ef2ee23e38be71b0f44770136eb019",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:b678a354c9904c131e34238dca1540cc",
+      "default:extract:94cee2397fdbc3647498ed7babe5c360"
+    ],
+    "create_time": 1768545128,
+    "update_time": 1768545171,
+    "_id": "chunk-35ef2ee23e38be71b0f44770136eb019"
+  },
+  "chunk-551c0afcc16ec507cfd622e3dd25b94d": {
+    "tokens": 31,
+    "content": "The unusually high sequence diversity of vvIBDV may be an indication of a West-African origin of this virus, from where it spread to other continents.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-551c0afcc16ec507cfd622e3dd25b94d",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:014a316f4e31623d0ba55550f40eda1a",
+      "default:extract:a17e079817e77dc702195c6fcc2a4cf1"
+    ],
+    "create_time": 1768545187,
+    "update_time": 1768545215,
+    "_id": "chunk-551c0afcc16ec507cfd622e3dd25b94d"
+  },
+  "chunk-06715645156ee2e6385d32dab857c8aa": {
+    "tokens": 52,
+    "content": "Strain Cu-1wt, responsible for severe IBD outbreaks in Germany 13 years earlier, showed some relatedness to these strains, but also significant differences at the genomic level, even though this strain has also features of the vv IBDV strains.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-06715645156ee2e6385d32dab857c8aa",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:d56fc241355a2edb44b1439bdaa2ce34",
+      "default:extract:bf53654e31b6ef4d36005e3308b10a0e"
+    ],
+    "create_time": 1768545222,
+    "update_time": 1768545247,
+    "_id": "chunk-06715645156ee2e6385d32dab857c8aa"
+  },
+  "chunk-1eb6c5b8d57b5442b02f683448b87f8b": {
+    "tokens": 45,
+    "content": "In this review, some of the recent advances in the understanding of the structure, morphogenesis and molecular biology of the virus as well as in development of new diagnostic approaches and new strategies for vaccination against IBD are briefly summarized.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-1eb6c5b8d57b5442b02f683448b87f8b",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:0ac797f8842cc037536f8b5ea77574f2",
+      "default:extract:387a67471aa71dc5e2fca9d4ce4fe773"
+    ],
+    "create_time": 1768545253,
+    "update_time": 1768545276,
+    "_id": "chunk-1eb6c5b8d57b5442b02f683448b87f8b"
+  },
+  "chunk-f2be54d0de85f52c65a2ac2f0b33cdf7": {
+    "tokens": 52,
+    "content": "Overall the results indicate that the current Australian IBDV situation resembles that seen in the USA, with the existence of classical and variant I BDV strains, but neither the classical nor the variant strains found in Australia are closely related to those prevalent in theUSA.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-f2be54d0de85f52c65a2ac2f0b33cdf7",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:a67a9713f09e62aa2164684ad9b083d1",
+      "default:extract:ee08be2336bc1c6202840b1ead70c604"
+    ],
+    "create_time": 1768545288,
+    "update_time": 1768545356,
+    "_id": "chunk-f2be54d0de85f52c65a2ac2f0b33cdf7"
+  },
+  "chunk-3bd2462ffd61bc9c835e45ba219e87ca": {
+    "tokens": 50,
+    "content": "Results show that the virulence and pathogenic-phenotype markers of IBDV reside in VP2, one of the chimeric viruses containing VP2 sequences of the virulent strain, suggesting that VP2 contains the determinants for cell tropism.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-3bd2462ffd61bc9c835e45ba219e87ca",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:22feaefd010de7e56f87dabbdb76ce1f",
+      "default:extract:c10e0a732d1a43dd13ee5615d3295355"
+    ],
+    "create_time": 1768545374,
+    "update_time": 1768545400,
+    "_id": "chunk-3bd2462ffd61bc9c835e45ba219e87ca"
+  },
+  "chunk-aa7404c5d6fd55b502ef5a756385cb02": {
+    "tokens": 47,
+    "content": "The majority of viruses investigated were related to vvIBDV strains but, among these, 11 strains presented antigenically and genetically modified characteristics and originated, in major part, from the area where viruses have been circulating for a long time.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-aa7404c5d6fd55b502ef5a756385cb02",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:b129c76f3daa9aeea0d4ea0fd47f3881",
+      "default:extract:7b9312130c5f89a91b8f509a1d1e4f7b"
+    ],
+    "create_time": 1768545416,
+    "update_time": 1768545439,
+    "_id": "chunk-aa7404c5d6fd55b502ef5a756385cb02"
+  },
+  "chunk-8e6a0c54d176872c8e2cb5eb5bad7b83": {
+    "tokens": 19,
+    "content": "The study indicated newly developed infectious bursal disease vaccine was found to be safe and immunogenic.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-8e6a0c54d176872c8e2cb5eb5bad7b83",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:bf2e35fb4d2ac6f6b3ce3ba1af9213bb",
+      "default:extract:c9dc62838b39280a589bb0b11d9854f7"
+    ],
+    "create_time": 1768545447,
+    "update_time": 1768545475,
+    "_id": "chunk-8e6a0c54d176872c8e2cb5eb5bad7b83"
+  },
+  "chunk-c6e53de7a54e4357e1d8e18f10e13a45": {
+    "tokens": 36,
+    "content": "This paper probably is the first to report the occurrence of infectious bursal disease in Ethiopia as the country has been known to be free from Infectious Bursal Disease (IBD).",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-c6e53de7a54e4357e1d8e18f10e13a45",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:24330b13b699e1d4197ac2059839f8ba",
+      "default:extract:c65efa9effaa580c76bca932e1cf4f37"
+    ],
+    "create_time": 1768545495,
+    "update_time": 1768545521,
+    "_id": "chunk-c6e53de7a54e4357e1d8e18f10e13a45"
+  },
+  "chunk-a8186003e4a2f1c5c45a7ce78924b931": {
+    "tokens": 78,
+    "content": "In classical, variant, vaccine or vv IBDV strains, negative reactions with NMab3 were associated with changes in the Proline-Glycine pair at amino-acid (aa) positions 222–223 (hydrophilic peak A), and negative reactivities with NMabs 6 and 8 with aa changes from positions 318 to 324 (hydrophic peak B).",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-a8186003e4a2f1c5c45a7ce78924b931",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:d130404f4aa525d803cd1d5a81a453e8",
+      "default:extract:32eb7b477d74bd160512377363259182"
+    ],
+    "create_time": 1768545529,
+    "update_time": 1768545558,
+    "_id": "chunk-a8186003e4a2f1c5c45a7ce78924b931"
+  },
+  "chunk-e320eb60ba2a394cbd6f20782fd720f2": {
+    "tokens": 35,
+    "content": "The results indicated that mutation of other viral proteins, including VP1, VP3, VP4, and VP5, was not required for CEF adaptation of the virus.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-e320eb60ba2a394cbd6f20782fd720f2",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:446b45529b9f89532b7f52d3904dfb8e",
+      "default:extract:f474a4f520c9fd0b5808345be1e4d512"
+    ],
+    "create_time": 1768545567,
+    "update_time": 1768545602,
+    "_id": "chunk-e320eb60ba2a394cbd6f20782fd720f2"
+  },
+  "chunk-4599272ede6e40aa9f9d1a217de66bd9": {
+    "tokens": 53,
+    "content": "Two types of strains of serotype I of infectious bursal disease virus have been described, on the basis of their ability or inability to infect chicken embryonic cells in culture, but both types infect B lymphocytes in the bursa of Fabricius of young chickens.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-4599272ede6e40aa9f9d1a217de66bd9",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:028f9cbee7a59868bd88c35610db41d3",
+      "default:extract:3283bf9141fbd3d4a4ac658e500d9c21"
+    ],
+    "create_time": 1768545608,
+    "update_time": 1768545639,
+    "_id": "chunk-4599272ede6e40aa9f9d1a217de66bd9"
+  },
+  "chunk-06cfb4b99aa7cb6702274020018749bc": {
+    "tokens": 53,
+    "content": "Three Croatian field infectious bursal disease viruses, designated Cro-Ig/02, Cro-Po/00, and Cro-Pa/98 were characterized and shared all characteristic amino acid residues with attenuated and classical virulence strains, so it was classified with those.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-06cfb4b99aa7cb6702274020018749bc",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:94a2f790a0049944ca19ec7d5b14cc02",
+      "default:extract:592f2ed7ef735725debccf51bed43d95"
+    ],
+    "create_time": 1768545654,
+    "update_time": 1768545705,
+    "_id": "chunk-06cfb4b99aa7cb6702274020018749bc"
+  },
+  "chunk-4e4c2f487ef3e789b171a61ce4d40045": {
+    "tokens": 35,
+    "content": "Five samples contained vaccine-related viruses, while two field strains showed the best match to Del A (United States) and IBDV strains SP_04_02 (Spain).",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-4e4c2f487ef3e789b171a61ce4d40045",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:e3a0eb83cc52582b55aeaa1a16f6231b",
+      "default:extract:6fe5a870574ff8071edf888e1dabbfa6"
+    ],
+    "create_time": 1768545723,
+    "update_time": 1768545744,
+    "_id": "chunk-4e4c2f487ef3e789b171a61ce4d40045"
+  },
+  "chunk-9f18b93b402af8ecc9cef1daa680ca6b": {
+    "tokens": 46,
+    "content": "Statistically significant antigenic differences were detected among serotype I infectious bursal disease viruses (IBDV) using the virus-neutralization test using hyperimmune guinea pig antisera against heterologous and homologous IBDV strains.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-9f18b93b402af8ecc9cef1daa680ca6b",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:4036f9d2f84044ee2ad43caac4ff4ab8",
+      "default:extract:75a8e95741ba048891c5b789e8db6d9b"
+    ],
+    "create_time": 1768545787,
+    "update_time": 1768545811,
+    "_id": "chunk-9f18b93b402af8ecc9cef1daa680ca6b"
+  },
+  "chunk-ea2da04d00d4221324c4629f8e1a325e": {
+    "tokens": 56,
+    "content": "This report describes, for the first time, the rescue of vvIBDV from its cloned cDNA and found that the very virulent phenotype was not solely determined by this protein, since mosaic virus containing VP2 of vwIBDVs induced neither morbidity nor mortality in young chickens.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-ea2da04d00d4221324c4629f8e1a325e",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:6cdc9637a1cc928461a86943b614701d",
+      "default:extract:e207f0dda230800bc21af01f7f1a7e75"
+    ],
+    "create_time": 1768545829,
+    "update_time": 1768545855,
+    "_id": "chunk-ea2da04d00d4221324c4629f8e1a325e"
+  },
+  "chunk-69cd5b1f9531427bf1a18d450a0d777d": {
+    "tokens": 56,
+    "content": "Dual evidence from natural and rescued strains identified that the cell tropism of vvIBDV to CEF cells was determined by the combined VP2 mutations Q253H and A284T, but not by single mutation, which were mainly responsible for the virulence of IBDV.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-69cd5b1f9531427bf1a18d450a0d777d",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:33e3d56c53d050a832a4f1752c15b371",
+      "default:extract:8f3227ea6c89516910053bb7f2dc76fa"
+    ],
+    "create_time": 1768545884,
+    "update_time": 1768545909,
+    "_id": "chunk-69cd5b1f9531427bf1a18d450a0d777d"
+  },
+  "chunk-c8e2acc4aa0c45fe99be141430849f21": {
+    "tokens": 276,
+    "content": "Reverse genetics technology offers the possibility to study the influence of particular amino acids of infectious bursal disease virus (IBDV) on adaptation to tissue culture. Genomic segments A and B of the very virulent (vv) IBDV field strain UK661 were completely cloned and sequenced, and the strain was rescued from full-length cDNA copies of both segments (UK661rev). Using site-directed mutagenesis, alteration of a single amino acid in the segment A-encoded VP2 (A284T) resulted in a limited capacity of UK661 to replicate in tissue culture. Additional alteration of a second amino acid (Q253H) increased replication efficiency in tissue culture. The second mutant (UK661-Q253H-A284T) was used to infect chickens and results were compared with UK661 and UK661rev. Whereas UK661 and UK661rev induced 100% morbidity and 50–80% mortality, UK661-Q253H-A284T proved to be strikingly attenuated, producing neither morbidity nor mortality. Moreover, UK661-Q253H-A284T-infected animals were protected from challenge infection. Thus, alteration of two specific amino acids in the VP2 region of IBDV resulted in tissue culture adaptation and attenuation in chickens of vvIBDV. The data demonstrate that VP2 plays a decisive role in pathogenicity of IBDV.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-c8e2acc4aa0c45fe99be141430849f21",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:97dfb7c02c315a8e229c199a2dd92ef1",
+      "default:extract:698bc9b843a6ee602fcc3b0033f6f18b"
+    ],
+    "create_time": 1768545924,
+    "update_time": 1768545977,
+    "_id": "chunk-c8e2acc4aa0c45fe99be141430849f21"
+  },
+  "chunk-404043f51a6576291e3e3c075f163003": {
+    "tokens": 50,
+    "content": "Real-time RT-PCR, targeting different regions of the IBDV genome, including VP1, VP2, and VP4 genes, in conjunction with melting-curve analysis is being investigated as a promising tool for molecular diagnosis of I BDV infection.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-404043f51a6576291e3e3c075f163003",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:c702becda00adf73a42d2de312284024",
+      "default:extract:3ee785a13f418aa7d6783bb18f0a2456"
+    ],
+    "create_time": 1768546000,
+    "update_time": 1768546028,
+    "_id": "chunk-404043f51a6576291e3e3c075f163003"
+  },
+  "chunk-34781ce6d4dc2de83a1b66929df0a299": {
+    "tokens": 57,
+    "content": "This laboratory has used a two-probe assay to identify single-nucleotide mutations among IBDV strains and these assays are accurate, reliable and inexpensive compared with conventional RT-PCR because they do not require RFLP or other labor-intensive post-RT- PCR assays to distinguish viral strains.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-34781ce6d4dc2de83a1b66929df0a299",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:45beb2a85da674d99370887b583608e9",
+      "default:extract:fce267b0c6b9e13683b292fd24c1cb1a"
+    ],
+    "create_time": 1768546046,
+    "update_time": 1768546072,
+    "_id": "chunk-34781ce6d4dc2de83a1b66929df0a299"
+  },
+  "chunk-6cd1108f1e79a8b6b9042081360f8b73": {
+    "tokens": 72,
+    "content": "Quasispecies of infectious bursal disease virus (IBDV) vaccine and wild-type strains were identified using real-time RT-PCR at a region of the viral genome known for sequence variability and it is possible that the genetic differences observed are translated into antigenic changes in this VP2 epitope and contribute to antigenic diversity in the quasispe species cloud.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-6cd1108f1e79a8b6b9042081360f8b73",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:a196a3b0a2ee7ec811db804ab73ef099",
+      "default:extract:dce7f21e2d5de70c3d549247918b5cfb"
+    ],
+    "create_time": 1768546097,
+    "update_time": 1768546162,
+    "_id": "chunk-6cd1108f1e79a8b6b9042081360f8b73"
+  },
+  "chunk-9089d650ae8e2a5eeaa48428ac790da9": {
+    "tokens": 50,
+    "content": "A simple funnel trap which inverts on entry to and exit from the water, was evaluated with respect to sampling the aquatic fauna of wells in and around Fortaleza, Brazil and the variability was such that a precise estimate of absolute abundance could not be made.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-9089d650ae8e2a5eeaa48428ac790da9",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:b8b530621727568cf2ab82b685f36dad",
+      "default:extract:a68559758b768c65efc73185967d46bf"
+    ],
+    "create_time": 1768546535,
+    "update_time": 1768546559,
+    "_id": "chunk-9089d650ae8e2a5eeaa48428ac790da9"
+  },
+  "chunk-c84b46b3aab74e9ac67c29d261c5a8f0": {
+    "tokens": 45,
+    "content": "Estimates of container populations were more accurate for III/IV instars than pupae, and the relationship between immature abundance and emergent adult populations remains to be defined, when conversion factors were applied to field net sampling data.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-c84b46b3aab74e9ac67c29d261c5a8f0",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:f259b6c0b56359f8c1470b6505374483",
+      "default:extract:8b2ae94b5b028f1e3647d85541ca30f8"
+    ],
+    "create_time": 1768546567,
+    "update_time": 1768546595,
+    "_id": "chunk-c84b46b3aab74e9ac67c29d261c5a8f0"
+  },
+  "chunk-3fc823099d0a6aa43191157d05a6250a": {
+    "tokens": 37,
+    "content": "This paper describes two key steps in the qualitative research design process, discuss challenges that often emerge when pursuing these steps, and provides guidelines for addressing them: sampling and data collection and management.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-3fc823099d0a6aa43191157d05a6250a",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:dda025ff20da93014115b52adb22d809",
+      "default:extract:e431b01d39545280113752ac601ee47b"
+    ],
+    "create_time": 1768546601,
+    "update_time": 1768546624,
+    "_id": "chunk-3fc823099d0a6aa43191157d05a6250a"
+  },
+  "chunk-91d90edfe796b3337e22aba76624bfd4": {
+    "tokens": 41,
+    "content": "Better methods for quantifying dengue endemicity—equivalent to parasite prevalence surveys and endemicity mapping used for malaria—would help target resources, monitor progress, and advocate for investment in d Dengue prevention.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-91d90edfe796b3337e22aba76624bfd4",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:76d37932dd2566e21b042e73d85ba551",
+      "default:extract:5be630f7755048cf2e1675eb7711daa8"
+    ],
+    "create_time": 1768546636,
+    "update_time": 1768546667,
+    "_id": "chunk-91d90edfe796b3337e22aba76624bfd4"
+  },
+  "chunk-18dc28b186b69b4dc32fd45ae507f576": {
+    "tokens": 48,
+    "content": "The results of the case-control study did not support the hypothesis that children using untreated bed nets during the day are less likely to be hospitalized with DHF, and the prevalence of bed net use among children in Vietnam was found to be high.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-18dc28b186b69b4dc32fd45ae507f576",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:216eab44b0ada4a773c3150b9978ffc8",
+      "default:extract:f42cd43f0760d3190df0007d234b8ac2"
+    ],
+    "create_time": 1768546677,
+    "update_time": 1768546725,
+    "_id": "chunk-18dc28b186b69b4dc32fd45ae507f576"
+  },
+  "chunk-f8f8704987d6b587388b0e5aace9ebef": {
+    "tokens": 59,
+    "content": "A new community-based mosquito control that resulted in the elimination of Aedes aegypti in 40 of 46 communes in northern and central Vietnam was reported, to evaluate whether or not these programs were still being maintained 7 years and 4.5 years after formal project activities had ceased.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-f8f8704987d6b587388b0e5aace9ebef",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:49971576f21b16758429b1dbffacea19",
+      "default:extract:aebae9c53d95072e124043e56d441479"
+    ],
+    "create_time": 1768546746,
+    "update_time": 1768546783,
+    "_id": "chunk-f8f8704987d6b587388b0e5aace9ebef"
+  },
+  "chunk-8f00f059d4b0cec6970495ae9915f012": {
+    "tokens": 36,
+    "content": "Variable dengue attack rates made the clinical and serological comparison of control and untreated communes problematic, but these data indicate that clinical surveillance by itself is inadequate to monitor d Dengue transmission.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-8f00f059d4b0cec6970495ae9915f012",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:b1eb6c6c42cad4bf6602e820638d64ed",
+      "default:extract:6805fd58d398f97cbe9fbcbf15712486"
+    ],
+    "create_time": 1768546794,
+    "update_time": 1768546816,
+    "_id": "chunk-8f00f059d4b0cec6970495ae9915f012"
+  },
+  "chunk-4a14c114d2071ce1f1b2720e241751ff": {
+    "tokens": 16,
+    "content": "This study demonstrates that there is an abundance of local Mesocyclops spp.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-4a14c114d2071ce1f1b2720e241751ff",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:0ac30171c6be43e51a9a277818896143",
+      "default:extract:135c7154d306d2a0656fab8ac6424ba2"
+    ],
+    "create_time": 1768546823,
+    "update_time": 1768546841,
+    "_id": "chunk-4a14c114d2071ce1f1b2720e241751ff"
+  },
+  "chunk-ae4a9d25675889bda3f33444944f8774": {
+    "tokens": 37,
+    "content": "The status of vaccine development is described and it is emphasised that the only alternative that the authors have today to control the disease is through control of its vector Aedes aegypti.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-ae4a9d25675889bda3f33444944f8774",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:f127a76b7bd4ab67b5a797f382b2a522",
+      "default:extract:862682961613903aef598832e7b6d0bb"
+    ],
+    "create_time": 1768546901,
+    "update_time": 1768546925,
+    "_id": "chunk-ae4a9d25675889bda3f33444944f8774"
+  },
+  "chunk-8f67b4135b81382ee1dfd5329983fe84": {
+    "tokens": 54,
+    "content": "In northern Vietnam, copepods of the genus Mesocyclops were used for biological control of Aedes aegypti, the principal vector of dengue viruses, by inoculation into wells, large cement tanks, ceramic jars, and other domestic containers that served as Ae.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-8f67b4135b81382ee1dfd5329983fe84",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:f46ee12884b0bc1e926d943741d8bb24",
+      "default:extract:84857b74ae65f8da69760456dd85316e"
+    ],
+    "create_time": 1768546940,
+    "update_time": 1768547000,
+    "_id": "chunk-8f67b4135b81382ee1dfd5329983fe84"
+  },
+  "chunk-2e8cd66fff17acf6faadb72107c15d0a": {
+    "tokens": 28,
+    "content": "Larval collection from used tires may be suitable to assess rapidly the current distribution of dengue mosquitoes for estimating health risks and implementing vector control measures.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-2e8cd66fff17acf6faadb72107c15d0a",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:34d920314c9a05926ccafeba25eef70e",
+      "default:extract:f1ab57a3894e6f9be5b3314d03e38219"
+    ],
+    "create_time": 1768547036,
+    "update_time": 1768547058,
+    "_id": "chunk-2e8cd66fff17acf6faadb72107c15d0a"
+  },
+  "chunk-2060aef1d7efe9243e29ae313566ff31": {
+    "tokens": 28,
+    "content": "The evidence on effectiveness of peridomestic space spraying of insecticides in reducing wild Aedes populations and interrupting dengue transmission is reviewed.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-2060aef1d7efe9243e29ae313566ff31",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:767c509a74b12c0b5023f82eea81f8d3",
+      "default:extract:cf72efbb0db2add53676c19cb2769cd8"
+    ],
+    "create_time": 1768547064,
+    "update_time": 1768547087,
+    "_id": "chunk-2060aef1d7efe9243e29ae313566ff31"
+  },
+  "chunk-09f7b30a7a44fb488c4648dd1aaa96dc": {
+    "tokens": 1200,
+    "content": "Dengue is the most rapidly advancing vector-borne disease with an estimated 50 million dengue infections occurring annually (1, 2). As a result of major demographic changes, rapid urbanization on a massive scale, global travel and environmental change, the world – particularly the tropical world – faces enormous challenges from emerging infectious diseases. Dengue epitomizes these challenges. In the early years of the 21st century, we are collectively failing to meet the threat posed by dengue as the disease spreads unabated and almost 40% of the world's population now live at risk of contracting it. Because of the rapidly increasing public health importance of dengue, the 2002 World Health Assembly Resolution (WHA55.17) urged greater commitment among Member States and WHO to dengue control; of particular significance is the 2005 Revision of the International Health Regulations (WHA58.3), which includes dengue fever as an example of a disease that may constitute an international public health emergency. Countries or areas at risk of dengue transmission, 2006. Average annual number of DF/DHF cases reported to WHO and of countries reporting dengue. Dengue was incorporated in 1999 into the portfolio of the Special Programme for Research and Training in Tropical Diseases (TDR/WHO), leading to new and disease-endemic country (DEC) led research initiatives. Dengue vaccine discovery/development was taken up by the Initiative for Vaccine Research (IVR), another WHO-based department. New partners appeared on the scene: the Pediatric Dengue Vaccine Initiative (PDVI) and the Innovative Vector Control Consortium (IVCC), both financed by the Bill and Melinda Gates Foundation, and the Rockefeller Foundation. DENCO and DENFRAME, international consortia supported by the European Commission, were created to study dengue pathogenesis, clinical management and discovery of new diagnostics, and vector control. Concurrently, a TDR/PDVI international laboratory network is evaluating available and new dengue diagnostics, whereas TDR-supported multicentre studies on targeted vector interventions are exploring ways for more cost-effective vector control strategies (TDR 2005; Focks & Alexander 2006). IVR works with PDVI on standardized tools for vaccine evaluation. Industry has a renewed interest in product development in the areas of dengue vaccines, drugs, diagnostics and insecticide formulations for vector control. The Aedes genome has been sequenced and laboratory experiments with genetically transformed vectors are under way. Ecosystem-based interventions against the dengue vector are being analysed by TDR/IDRC- (International Development Research Centre, Canada) coordinated multicountry studies and clinical/pathophysiological studies are being conducted in Vietnam, Malaysia, Philippines and Thailand with support from the Wellcome Trust, UK, and the Armed Forces Research Institute of Medical Science (AFRIMS), Bangkok. These are examples of major research initiatives which are complemented by internally or externally financed studies and training activities in many dengue-endemic countries. At the same time, an Asian–Pacific Dengue Partnership is evolving; Mekong Delta countries are receiving support for dengue activities from the Asian Development Bank and the WHO Regional Office for the Western Pacific; and a new Strategy for Integrated Dengue Management in the American Region is being promoted. Guidelines for planning social mobilization and communication (Parks & Lloyd 2004) and clinical management (Kalayanarooj & Nimmannitya 2004; WHO 2006a), as well as dengue CD ROMs (Wellcome/TDR 2005; WHO 2006b) and other training materials have been published. Dengue Net, a web-based information system, has been established by WHO. Internationally renowned training courses are the biennial course in Cuba (10th anniversary in 2007) and the clinical management course in the Bangkok Children's Hospital. It was against this background that the Dengue Scientific Working Group of 60 experts from 20 countries including WHO staff from four Regions and headquarters met in Geneva in October 2006 to review existing knowledge on dengue and to establish priorities for future dengue research aimed at improving dengue treatment, prevention and control. The goal of the Scientific Working Group was to outline a research agenda by identifying potentially fruitful directions as well as key bottlenecks and making detailed and specific research recommendations. The SWG wanted to identify areas of research that could lead to tangible benefits for people in disease-endemic countries in the coming years as well as outline a strategic vision for applied and basic research from which benefits would be felt in the medium to long term. It was noted that there is currently no specific clinically useful diagnostic test, no drugs, no available vaccine, and that we have failed to widely or effectively implement existing vector control and clinical management measures that we know would help to reduce the disease transmission and case fatality rate. Yet, there has never been a more optimistic time to be involved in dengue and dengue research, and interest in the disease has attracted a new generation of talented and committed clinicians and scientists. Modern science, from clinical medicine to basic research on pathophysiology, drug and vaccine discovery, through to the social and behavioural sciences and vector biology and control, offers a unique opportunity to make a tangible and substantial impact on dengue over the next decade. But, in order to achieve what is possible, the dengue research community needs to: push for much greater implementation of existing knowledge to reduce severe morbidity and case fatality, extend basic and clinical research to understand the underlying pathophysiology, aid diagnostic and drug discovery and further improve clinical outcome, speed up the development of vaccine candidates including moving as quickly as possible to efficacy trials, and gather the evidence for implementing best practices for controlling the major vectors. All of this is possible in the next 10 years. But to achieve it, dengue control needs a much stronger voice within dengue-endemic countries and within the global public health community to persuade society, funding agencies and policy-makers of the importance of the disease. We are at a critical epidemiological juncture",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-14bf2b3ff318572b8bb68009996f252d",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:06b3d8e08e30bbe57f612d20465bfa2b",
+      "default:extract:0bb6d7351a470ab12fc76b7b80b81f59"
+    ],
+    "create_time": 1768547097,
+    "update_time": 1768547194,
+    "_id": "chunk-09f7b30a7a44fb488c4648dd1aaa96dc"
+  },
+  "chunk-a1d9f22d4827e48764fcb87e87f98a6e": {
+    "tokens": 1200,
+    "content": "drug discovery and further improve clinical outcome, speed up the development of vaccine candidates including moving as quickly as possible to efficacy trials, and gather the evidence for implementing best practices for controlling the major vectors. All of this is possible in the next 10 years. But to achieve it, dengue control needs a much stronger voice within dengue-endemic countries and within the global public health community to persuade society, funding agencies and policy-makers of the importance of the disease. We are at a critical epidemiological juncture in infectious, particularly viral, emerging diseases at the start of the 21st century, and in many ways dengue serves as a model for how we might meet that challenge. The lessons learned from dengue will have implications for a number of other diseases and our approach to their control. The implementation of the best of existing knowledge and practice supplemented by future research applied in an integrated, holistic fashion can be expected to significantly change the lives of individuals living in dengue-endemic countries in the coming years. The priority dengue research areas are organized along four major research streams which will provide evidence and information for policy-makers and control programmes and lead to more cost-effective strategies which will reverse the epidemiological trend. We need an efficient outpatient system; clinical and laboratory indicators of early dengue, plasma leakage and shock need to be identified as well as effective and safe methods of managing severe haemorrhage, dengue in pregnancy, and patients with co-morbidity. These indicators and methods must be validated in order to scale up improved and standardized treatment guidelines. We propose research in new methods and guidelines for triage and outpatient care of dengue patients, plus validations of their feasibility and results at different levels; the validity, role and accessibility of available and new diagnostics for dengue; the predictive value of prognostic markers (host/viral early warning signs) of disease severity, and validation procedures for early recognition and treatment of plasma leakage and shock; standardized approaches to determining clinical signs of shock in children and adults, including the role and techniques of measuring blood pressure in shock patients, and of diagnosing severe dengue through ultrasound, other non-invasive technology, and laboratory markers (albumin, cholesterol); alternative ways for effective and safe management of haemorrhage, infected pregnant women, co-morbidities such as obesity, diabetes mellitus, hypertension and chronic heart diseases, and of severe dengue using oral re-hydration therapy; the causes of dengue deaths (including treatment failures) in order to learn from negative outcomes. Implementation of training programmes in case management can lead to an immediate reduction of case fatality, as has been shown in many countries. However, training has to be standardized and adapted to the prevailing local health care system. A review of dengue morbidity and mortality targeted at resolving the major problems in case management could include reorganization and reallocation of resources. The process and impact of existing/future training programmes to determine how best we can implement improved dengue case management in different health care systems and achieve greatest impact should be investigated. A better understanding of dengue pathogenesis will be the foundation for rational future clinical interventions. In particular, we require further research of the molecular and pathophysiological changes underlying endothelial permeability in plasma leakage syndrome; dengue virus diversity (which may account for heterogeneity in virus biology including virulence and epidemic potential); mechanisms of antibody-mediated enhancement and protection (the immune response to dengue viruses may paradoxically pre-dispose individuals to severe disease); mechanisms of virus entry and cellular/tissue tropism; T and B cell responses and their relation to immunopathology in primary and secondary infections. Although powerful vector control tools are available, in practice, their effectiveness has been compromised by issues of delivery, coverage and acceptability. We need to evaluate the efficacy of new vector control tools and strategies in different contexts; the effectiveness, cost, community acceptance and feasibility of combinations of new and/or existing tools, including integrated vector management and ecosystems interventions, with a range of partners in different contexts; optimal scaling-up of pilot projects to state or national level in order to identify and disseminate best practices. Disease and vector surveillance are fundamental to effective programme management. To improve decision-making, surveillance systems must be strengthened by developing and validating reliable risk indicators and making use of information technology. Studies should address improved methods such as pupal demographic surveys and their application in operational contexts as indicators of risk for outbreak and for informing targeted intervention; development and use of early warning and response systems; triggers (factors and information) of effective responses to incipient epidemics; the contribution of information technology (e.g., GIS, bioinformatics, Dengue Net, mathematical models) to decision-making. Vaccines offer the greatest hope for dengue prevention and there are several candidates in clinical development. The challenge has been to identify vaccine components and immunization strategies that are suitably safe, but broadly immunogenic. The identification of immune correlates of protection should accelerate successful vaccine development and regulatory approval. Research should focus on discovery and pre-clinical research of vaccines, new vaccine candidates, adjuvants, and vaccination strategies; correlates of protective immunity for use as an endpoint in vaccine trials; immune responses in vaccine trials and natural infections; development of further field sites, including sites free of non-dengue flaviviruses, and the prospects for Phase 3 and 4 vaccine evaluation; future vaccine use and coverage through vaccine implementation research. Anti-dengue drugs may have prophylactic (e.g. outbreak prevention) and therapeutic (e.g. prevention of severe disease) uses, with an ensuing impact on disease incidence and severity. Anti-viral drug discovery for dengue has accelerated in recent years along with our knowledge of 'drugable' targets in the virus. Hence, we need further elucidation of the structure of viral encoded proteins to aid rational drug, diagnostics and vaccine design; new (including natural) products or existing licensed drugs with good safety profiles and to foster drug discovery efforts. There is a contradiction between the high priority afforded at political level to dengue and the low allocation",
+    "chunk_order_index": 1,
+    "full_doc_id": "doc-14bf2b3ff318572b8bb68009996f252d",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:c86abc4556e7e41064446750ac39fd05",
+      "default:extract:e4bd11f26630a76acbd48048dd5d670b"
+    ],
+    "create_time": 1768547097,
+    "update_time": 1768547167,
+    "_id": "chunk-a1d9f22d4827e48764fcb87e87f98a6e"
+  },
+  "chunk-32039222e39636a5625940ae62b86fb0": {
+    "tokens": 428,
+    "content": ", with an ensuing impact on disease incidence and severity. Anti-viral drug discovery for dengue has accelerated in recent years along with our knowledge of 'drugable' targets in the virus. Hence, we need further elucidation of the structure of viral encoded proteins to aid rational drug, diagnostics and vaccine design; new (including natural) products or existing licensed drugs with good safety profiles and to foster drug discovery efforts. There is a contradiction between the high priority afforded at political level to dengue and the low allocation of resources to dengue prevention and control. Health policy research in the areas listed below will facilitate a redress of this imbalance: issues and events that will, through adequate dissemination of information [including of burden of disease (DALYS) and costs of illness], elevate dengue to a high priority at national and international levels; case studies of national programmes to identify factors leading to success or failure of dengue prevention and control programmes in order to develop a set of best practices; decision-making that results in a declaration of state of emergency to allow more timely and effective political response, identification of the data triggers used in this process; the burden of dengue in less studied regions, particularly Africa, and its role as a contributor to 'fevers of unknown origin'. The Scientific Working Group hopes this research agenda will help provide a strategic plan for how we might collectively achieve the aims of reducing dengue morbidity and mortality and its negative socio-economic impact. Donors and the research community are encouraged to take part in this major programme and to contribute through timely information to the database. WHO/TDR is establishing for keeping track of research activities and relevant findings. The Scientific Working Group was organized by the UNICEF/UNDP/World Bank/WHO Special Programme for Research and Training in Tropical Diseases (TDR) in Geneva from 2 to 4 October 2006; it was sponsored by TDR/WHO, the Initiative for Vaccine Research (IVR/WHO), the Pediatric Dengue Vaccine Initiative (PDVI) and the Wellcome Trust and was followed by a meeting about updating the global dengue guidelines organized by the Department of Neglected Tropical Diseases (NTD/WHO).",
+    "chunk_order_index": 2,
+    "full_doc_id": "doc-14bf2b3ff318572b8bb68009996f252d",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:ecc1eced61314bc49687db2fe0881d21",
+      "default:extract:d625e2a38f2f4602a873a5a737ffd25b"
+    ],
+    "create_time": 1768547097,
+    "update_time": 1768547191,
+    "_id": "chunk-32039222e39636a5625940ae62b86fb0"
+  },
+  "chunk-d10ecedf5a47ee11598a143f76b0f400": {
+    "tokens": 20,
+    "content": "M. longisetus has been selected for field trials in rural villages in Ceará to control Ae.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-d10ecedf5a47ee11598a143f76b0f400",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:811069b531a6b1354ce14eeb5dc5ae67",
+      "default:extract:963e52321efe13b0971484cd6a21ba67"
+    ],
+    "create_time": 1768547239,
+    "update_time": 1768547259,
+    "_id": "chunk-d10ecedf5a47ee11598a143f76b0f400"
+  },
+  "chunk-defa4dbd529a4663ae47a157c6019fd5": {
+    "tokens": 72,
+    "content": "In a survey of containers infested with Aedes aegypti (L.) conducted during September and October 1979 in a substandard residential area of New Orleans, LA, infestation indices were as follows: House--35, Breteau (foci)--85, Receptacle--69, Block--100, and Larval Density--169.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-defa4dbd529a4663ae47a157c6019fd5",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:192f6677883bf3f9a7fc0acc1cd8e77b",
+      "default:extract:2e8074fd1c12f2ec993d9f3bfaf324d3"
+    ],
+    "create_time": 1768547279,
+    "update_time": 1768547315,
+    "_id": "chunk-defa4dbd529a4663ae47a157c6019fd5"
+  },
+  "chunk-034ac30d08da304503f5a8c31d4755fb": {
+    "tokens": 19,
+    "content": "It is concluded that household water storage container availability is a major risk factor for infestation with Ae.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-034ac30d08da304503f5a8c31d4755fb",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:1a9d230d1593f2e987a760a7f8670638",
+      "default:extract:fbb70a1b477674af441b5f8b3c51d441"
+    ],
+    "create_time": 1768547328,
+    "update_time": 1768547349,
+    "_id": "chunk-034ac30d08da304503f5a8c31d4755fb"
+  },
+  "chunk-2d650633543735b086887c85b50b0bb0": {
+    "tokens": 24,
+    "content": "How the use of community health volunteers helped DF/DHF prevention practices within the community and made an essential contribution to Ae.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-2d650633543735b086887c85b50b0bb0",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:359b244224f9400f046d1e124fd06501",
+      "default:extract:4d5cf5c2e74aee9e2e60062b137e603c"
+    ],
+    "create_time": 1768547444,
+    "update_time": 1768547468,
+    "_id": "chunk-2d650633543735b086887c85b50b0bb0"
+  },
+  "chunk-155e703201f0d545bdedc2599eaf52a4": {
+    "tokens": 44,
+    "content": "This study demonstrates that this community-based program for dengue control using local predacious copepods of the genus Mesocyclops is broadly acceptable and achievable at community level but vigilance is required post-project to prevent reinfestation.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-155e703201f0d545bdedc2599eaf52a4",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:f047dd7f88e6273ba166c6dc0dc23a26",
+      "default:extract:c02815c4f5ec3cb6901b7fa3a5ed886c"
+    ],
+    "create_time": 1768547505,
+    "update_time": 1768547533,
+    "_id": "chunk-155e703201f0d545bdedc2599eaf52a4"
+  }
+}

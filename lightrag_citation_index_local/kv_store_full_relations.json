@@ -1,0 +1,630 @@
+{
+  "doc-9089d650ae8e2a5eeaa48428ac790da9": {
+    "relation_pairs": [
+      [
+        "Fortaleza",
+        "Wells"
+      ],
+      [
+        "Fortaleza",
+        "Funnel Trap"
+      ],
+      [
+        "Aquatic Fauna",
+        "Funnel Trap"
+      ]
+    ],
+    "count": 3,
+    "create_time": 1768935310,
+    "update_time": 1768935310,
+    "_id": "doc-9089d650ae8e2a5eeaa48428ac790da9"
+  },
+  "doc-c84b46b3aab74e9ac67c29d261c5a8f0": {
+    "relation_pairs": [
+      [
+        "III/IV Instars",
+        "Pupae"
+      ],
+      [
+        "Emergent Adult Populations",
+        "Pupae"
+      ],
+      [
+        "Conversion Factors",
+        "Field Net Sampling Data"
+      ],
+      [
+        "Container Populations",
+        "III/IV Instars"
+      ]
+    ],
+    "count": 4,
+    "create_time": 1768935380,
+    "update_time": 1768935380,
+    "_id": "doc-c84b46b3aab74e9ac67c29d261c5a8f0"
+  },
+  "doc-150b561d4dd47ec0ef54f8c210978655": {
+    "relation_pairs": [
+      [
+        "Hau Giang Province",
+        "Long An Province"
+      ],
+      [
+        "Binh Thanh Commune",
+        "Mesocyclops"
+      ],
+      [
+        "Ben Tre Province",
+        "Vinh Long Province"
+      ],
+      [
+        "Community-Based Control Strategy",
+        "Sustainability Funds"
+      ],
+      [
+        "Aedes aegypti",
+        "Dengue Cases"
+      ],
+      [
+        "Aedes aegypti",
+        "Community-Based Control Strategy"
+      ],
+      [
+        "Community-Based Control Strategy",
+        "Northern and Central Vietnam"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1768935480,
+    "update_time": 1768935480,
+    "_id": "doc-150b561d4dd47ec0ef54f8c210978655"
+  },
+  "doc-3fc823099d0a6aa43191157d05a6250a": {
+    "relation_pairs": [
+      [
+        "Paper",
+        "Sampling"
+      ],
+      [
+        "Data Collection and Management",
+        "Paper"
+      ]
+    ],
+    "count": 2,
+    "create_time": 1768935531,
+    "update_time": 1768935531,
+    "_id": "doc-3fc823099d0a6aa43191157d05a6250a"
+  },
+  "doc-91d90edfe796b3337e22aba76624bfd4": {
+    "relation_pairs": [
+      [
+        "D Dengue Prevention",
+        "Parasite Prevalence Surveys"
+      ],
+      [
+        "Dengue",
+        "Endemicity Mapping"
+      ],
+      [
+        "Dengue",
+        "Malaria"
+      ],
+      [
+        "Endemicity Mapping",
+        "Malaria"
+      ],
+      [
+        "Malaria",
+        "Parasite Prevalence Surveys"
+      ]
+    ],
+    "count": 5,
+    "create_time": 1768935601,
+    "update_time": 1768935601,
+    "_id": "doc-91d90edfe796b3337e22aba76624bfd4"
+  },
+  "doc-18dc28b186b69b4dc32fd45ae507f576": {
+    "relation_pairs": [
+      [
+        "DHF (Dengue Hemorrhagic Fever)",
+        "Untreated Bed Nets"
+      ],
+      [
+        "Case-Control Study",
+        "DHF (Dengue Hemorrhagic Fever)"
+      ],
+      [
+        "Children",
+        "Vietnam"
+      ],
+      [
+        "Case-Control Study",
+        "Untreated Bed Nets"
+      ],
+      [
+        "Case-Control Study",
+        "Children"
+      ]
+    ],
+    "count": 5,
+    "create_time": 1768935666,
+    "update_time": 1768935666,
+    "_id": "doc-18dc28b186b69b4dc32fd45ae507f576"
+  },
+  "doc-f8f8704987d6b587388b0e5aace9ebef": {
+    "relation_pairs": [
+      [
+        "Community-Based Mosquito Control Program",
+        "Vietnam"
+      ],
+      [
+        "Aedes aegypti",
+        "Community-Based Mosquito Control Program"
+      ],
+      [
+        "Aedes aegypti Elimination",
+        "Community-Based Mosquito Control Program"
+      ],
+      [
+        "Aedes aegypti",
+        "Vietnam"
+      ],
+      [
+        "Aedes aegypti",
+        "Vietnam Government"
+      ]
+    ],
+    "count": 5,
+    "create_time": 1768935731,
+    "update_time": 1768935731,
+    "_id": "doc-f8f8704987d6b587388b0e5aace9ebef"
+  },
+  "doc-8f00f059d4b0cec6970495ae9915f012": {
+    "relation_pairs": [
+      [
+        "Clinical Surveillance",
+        "Dengue Transmission"
+      ],
+      [
+        "Control Communes",
+        "Untreated Communes"
+      ]
+    ],
+    "count": 2,
+    "create_time": 1768935804,
+    "update_time": 1768935804,
+    "_id": "doc-8f00f059d4b0cec6970495ae9915f012"
+  },
+  "doc-af8370e6f9fc8c5574122728d7b5006f": {
+    "relation_pairs": [
+      [
+        "Cyclopoid Copepods",
+        "Theronts"
+      ],
+      [
+        "Goldfish",
+        "White Spot Disease"
+      ],
+      [
+        "White Spot Disease",
+        "Zooplankton"
+      ],
+      [
+        "Ichthyophthirius Multifiliis",
+        "White Spot Disease"
+      ],
+      [
+        "Theronts",
+        "Zooplankton"
+      ]
+    ],
+    "count": 5,
+    "create_time": 1768935883,
+    "update_time": 1768935883,
+    "_id": "doc-af8370e6f9fc8c5574122728d7b5006f"
+  },
+  "doc-4a14c114d2071ce1f1b2720e241751ff": {
+    "relation_pairs": [
+      [
+        "Mesocyclops spp.",
+        "This Study"
+      ],
+      [
+        "Study",
+        "This"
+      ]
+    ],
+    "count": 2,
+    "create_time": 1768935945,
+    "update_time": 1768935945,
+    "_id": "doc-4a14c114d2071ce1f1b2720e241751ff"
+  },
+  "doc-ae4a9d25675889bda3f33444944f8774": {
+    "relation_pairs": [
+      [
+        "Authors",
+        "Vaccine Development"
+      ],
+      [
+        "Aedes aegypti",
+        "Vaccine Development"
+      ]
+    ],
+    "count": 2,
+    "create_time": 1768936009,
+    "update_time": 1768936009,
+    "_id": "doc-ae4a9d25675889bda3f33444944f8774"
+  },
+  "doc-4c6fa496f303accae9be7d0ff7aeaa8b": {
+    "relation_pairs": [
+      [
+        "Aedes aegypti",
+        "Vietnam"
+      ],
+      [
+        "Aedes aegypti",
+        "Mosquito Control Strategy"
+      ],
+      [
+        "Mosquito Control Strategy",
+        "Water Storage Containers"
+      ]
+    ],
+    "count": 3,
+    "create_time": 1768936063,
+    "update_time": 1768936063,
+    "_id": "doc-4c6fa496f303accae9be7d0ff7aeaa8b"
+  },
+  "doc-8f67b4135b81382ee1dfd5329983fe84": {
+    "relation_pairs": [
+      [
+        "ceramic jars",
+        "copepods"
+      ],
+      [
+        "copepods",
+        "northern Vietnam"
+      ],
+      [
+        "copepods",
+        "large cement tanks"
+      ],
+      [
+        "copepods",
+        "inoculation"
+      ],
+      [
+        "Mesocyclops",
+        "copepods"
+      ],
+      [
+        "Aedes aegypti",
+        "copepods"
+      ],
+      [
+        "copepods",
+        "wells"
+      ],
+      [
+        "Aedes aegypti",
+        "dengue viruses"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1768936152,
+    "update_time": 1768936152,
+    "_id": "doc-8f67b4135b81382ee1dfd5329983fe84"
+  },
+  "doc-2e8cd66fff17acf6faadb72107c15d0a": {
+    "relation_pairs": [
+      [
+        "Dengue Mosquitoes",
+        "Larval Collection"
+      ],
+      [
+        "Dengue Mosquitoes",
+        "Larval Collection from Used Tires"
+      ],
+      [
+        "Dengue Mosquitoes",
+        "Vector Control Measures"
+      ]
+    ],
+    "count": 3,
+    "create_time": 1768936208,
+    "update_time": 1768936208,
+    "_id": "doc-2e8cd66fff17acf6faadb72107c15d0a"
+  },
+  "doc-f02cc0d5c15c87c4dce3279a62ef6ff2": {
+    "relation_pairs": [
+      [
+        "Mekong Delta",
+        "Vietnam"
+      ],
+      [
+        "Aedes Aegypti",
+        "D-Alethrin"
+      ],
+      [
+        "Malaria Control",
+        "Pyrethroids"
+      ],
+      [
+        "Noah Carter's Record-Breaking 100m Sprint",
+        "Tokyo"
+      ],
+      [
+        "Aedes Aegypti",
+        "Vector Control Program"
+      ],
+      [
+        "Cross-Resistance",
+        "Mosquito Coils"
+      ],
+      [
+        "Aedes Aegypti",
+        "Pyrethroids"
+      ],
+      [
+        "Pyrethroid Resistance",
+        "Vector Control Program"
+      ],
+      [
+        "Noah Carter's Record-Breaking 100m Sprint",
+        "World Athletics Federation"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1768936313,
+    "update_time": 1768936313,
+    "_id": "doc-f02cc0d5c15c87c4dce3279a62ef6ff2"
+  },
+  "doc-4c492d94e46e6cf3d9b06c416def7bb1": {
+    "relation_pairs": [
+      [
+        "2001-2012 Period",
+        "Dengue Transmission Area"
+      ],
+      [
+        "Brazil",
+        "Dengue Fever"
+      ],
+      [
+        "Brazil",
+        "Dengue Transmission Area"
+      ]
+    ],
+    "count": 3,
+    "create_time": 1768936373,
+    "update_time": 1768936373,
+    "_id": "doc-4c492d94e46e6cf3d9b06c416def7bb1"
+  },
+  "doc-2060aef1d7efe9243e29ae313566ff31": {
+    "relation_pairs": [
+      [
+        "Aedes",
+        "Peridomestic Space Spraying"
+      ],
+      [
+        "Aedes",
+        "Evidence"
+      ],
+      [
+        "Insecticides",
+        "Peridomestic Space Spraying"
+      ],
+      [
+        "Aedes",
+        "Dengue"
+      ]
+    ],
+    "count": 4,
+    "create_time": 1768936436,
+    "update_time": 1768936436,
+    "_id": "doc-2060aef1d7efe9243e29ae313566ff31"
+  },
+  "doc-cecc1574e3d38e1c2b8f29466bffcf9d": {
+    "relation_pairs": [
+      [
+        "Aedes aegypti suppression",
+        "Dengue Virus"
+      ],
+      [
+        "Aedes aegypti suppression",
+        "Disease Control"
+      ],
+      [
+        "Aedes aegypti suppression",
+        "Authors"
+      ],
+      [
+        "Aedes aegypti",
+        "Yellow Fever"
+      ],
+      [
+        "Aedes aegypti suppression",
+        "Yellow Fever Virus"
+      ],
+      [
+        "Aedes aegypti",
+        "Chikungunya Virus"
+      ],
+      [
+        "Aedes aegypti suppression",
+        "Chikungunya Virus"
+      ],
+      [
+        "Aedes aegypti",
+        "Urban Dengue"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1768936508,
+    "update_time": 1768936508,
+    "_id": "doc-cecc1574e3d38e1c2b8f29466bffcf9d"
+  },
+  "doc-60377a72fdc3717965e736959245d13b": {
+    "relation_pairs": [
+      [
+        "Dengue",
+        "World Health Organization"
+      ],
+      [
+        "Aedes Mosquitoes",
+        "Rainfall Temperature Urbanization"
+      ],
+      [
+        "Aedes Mosquitoes",
+        "Dengue"
+      ],
+      [
+        "Infection Estimates",
+        "Risk Maps"
+      ],
+      [
+        "Dengue Cohort Studies",
+        "Population Surfaces"
+      ],
+      [
+        "Disease Control",
+        "Public Health Impact"
+      ],
+      [
+        "Dengue Cohort Studies",
+        "World Health Organization"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1768936585,
+    "update_time": 1768936585,
+    "_id": "doc-60377a72fdc3717965e736959245d13b"
+  },
+  "doc-871ad0c828540b878a1549b5f21bcafc": {
+    "relation_pairs": [
+      [
+        "Authors",
+        "Disease (Dengue)"
+      ]
+    ],
+    "count": 1,
+    "create_time": 1768936636,
+    "update_time": 1768936636,
+    "_id": "doc-871ad0c828540b878a1549b5f21bcafc"
+  },
+  "doc-d10ecedf5a47ee11598a143f76b0f400": {
+    "relation_pairs": [
+      [
+        "M. longisetus",
+        "Rural Villages in Ceará"
+      ],
+      [
+        "Ae",
+        "M. longisetus"
+      ]
+    ],
+    "count": 2,
+    "create_time": 1768936739,
+    "update_time": 1768936739,
+    "_id": "doc-d10ecedf5a47ee11598a143f76b0f400"
+  },
+  "doc-defa4dbd529a4663ae47a157c6019fd5": {
+    "relation_pairs": [
+      [
+        "Aedes aegypti (L.)",
+        "Container Infestation"
+      ],
+      [
+        "Aedes aegypti (L.)",
+        "New Orleans, LA"
+      ],
+      [
+        "Aedes aegypti (L.)",
+        "Block"
+      ],
+      [
+        "Aedes aegypti (L.)",
+        "House"
+      ],
+      [
+        "Aedes aegypti (L.)",
+        "Larval Density"
+      ],
+      [
+        "Aedes aegypti (L.)",
+        "Receptacle"
+      ],
+      [
+        "Aedes aegypti (L.)",
+        "Survey"
+      ],
+      [
+        "Aedes aegypti (L.)",
+        "Breteau (foci)"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1768936865,
+    "update_time": 1768936865,
+    "_id": "doc-defa4dbd529a4663ae47a157c6019fd5"
+  },
+  "doc-034ac30d08da304503f5a8c31d4755fb": {
+    "relation_pairs": [
+      [
+        "Ae",
+        "Household Water Storage Container Availability"
+      ]
+    ],
+    "count": 1,
+    "create_time": 1768936937,
+    "update_time": 1768936937,
+    "_id": "doc-034ac30d08da304503f5a8c31d4755fb"
+  },
+  "doc-2d650633543735b086887c85b50b0bb0": {
+    "relation_pairs": [
+      [
+        "Community Health Volunteers",
+        "DF/DHF Prevention Practices"
+      ],
+      [
+        "Ae",
+        "Community Health Volunteers"
+      ],
+      [
+        "Ae",
+        "DF/DHF Prevention Practices"
+      ]
+    ],
+    "count": 3,
+    "create_time": 1768937115,
+    "update_time": 1768937115,
+    "_id": "doc-2d650633543735b086887c85b50b0bb0"
+  },
+  "doc-155e703201f0d545bdedc2599eaf52a4": {
+    "relation_pairs": [
+      [
+        "Mesocyclops",
+        "Study"
+      ],
+      [
+        "Community-Based Program",
+        "Mesocyclops"
+      ],
+      [
+        "Community-Based Program",
+        "Study"
+      ],
+      [
+        "Community-Based Program",
+        "Post-Project Vigilance"
+      ],
+      [
+        "Dengue Control",
+        "Study"
+      ]
+    ],
+    "count": 5,
+    "create_time": 1768937210,
+    "update_time": 1768937210,
+    "_id": "doc-155e703201f0d545bdedc2599eaf52a4"
+  }
+}

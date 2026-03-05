@@ -9,6 +9,7 @@ dependencies = [
     "docling>=2.48.0",
     "duckdb>=1.3.2",
     "fastapi>=0.118.0",
+    "google-generativeai>=0.8.6",
     "jupyter>=1.1.1",
     "jwt>=1.4.0",
     "lightrag-hku[api]>=1.4.9.1",

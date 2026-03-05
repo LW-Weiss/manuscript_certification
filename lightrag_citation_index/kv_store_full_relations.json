@@ -1,0 +1,9382 @@
+{
+  "doc-97107d438f9f6fb6338f2e1ee3562995": {
+    "relation_pairs": [
+      [
+        "Individuals",
+        "Opisthorchis Viverrini"
+      ],
+      [
+        "PCR Specificity",
+        "PCR Test"
+      ],
+      [
+        "Didymozoidae Eggs",
+        "Infected Fishes"
+      ],
+      [
+        "Liver Fluke Species",
+        "PCR Test"
+      ],
+      [
+        "Clonorchis Sinensis",
+        "DNA Amplification Quantity"
+      ],
+      [
+        "DNA Amplification Quantity",
+        "Haplorchis Taichui"
+      ],
+      [
+        "PCR Test",
+        "Rural Community In Central Thailand"
+      ],
+      [
+        "PCR Sensitivity",
+        "PCR Test"
+      ],
+      [
+        "Clonorchis Sinensis",
+        "Individuals"
+      ],
+      [
+        "Adult Worms",
+        "Epidemiological Investigation"
+      ],
+      [
+        "'Opisthorchis-Like' Eggs",
+        "Individuals"
+      ],
+      [
+        "Clonorchis Sinensis",
+        "Southeast Asia"
+      ],
+      [
+        "Fish-Borne Trematodes",
+        "Heterophyidae"
+      ],
+      [
+        "Epidemiological Surveys",
+        "PCR Test"
+      ],
+      [
+        "Heterophyid Flukes",
+        "PCR Test"
+      ],
+      [
+        "Epidemiological Perspective",
+        "Fish-Borne Trematodes"
+      ],
+      [
+        "Opisthorchiid Flukes",
+        "Opisthorchis Viverrini"
+      ],
+      [
+        "C. Sinensis-Endemic Community",
+        "Rural Community In Central Thailand"
+      ],
+      [
+        "Clonorchis Sinensis",
+        "Microscopy-Positive PCR Products"
+      ],
+      [
+        "Didymozoidae Eggs",
+        "Individuals"
+      ],
+      [
+        "Internal Transcribed Spacer Region",
+        "PCR Test"
+      ],
+      [
+        "DNA Amplification Quantity",
+        "Opisthorchis Viverrini"
+      ],
+      [
+        "C. Sinensis-Endemic Community",
+        "Study"
+      ],
+      [
+        "'Opisthorchis-Like' Eggs",
+        "Sanamchaikaet District"
+      ],
+      [
+        "Clonorchis Sinensis",
+        "Liver Fluke Species"
+      ],
+      [
+        "Microscopy",
+        "PCR Test"
+      ],
+      [
+        "Mixed Infection",
+        "PCR Test"
+      ],
+      [
+        "Didymozoidae Eggs",
+        "Microscopy-Positive PCR Products"
+      ],
+      [
+        "Liver Fluke Species",
+        "Opisthorchis Viverrini"
+      ],
+      [
+        "Conventional Parasitological Detection Techniques",
+        "Trematode Eggs"
+      ],
+      [
+        "Fish-Borne Trematodes",
+        "Lecithodendriidae"
+      ],
+      [
+        "Opisthorchiid Flukes",
+        "PCR Test"
+      ],
+      [
+        "Internal Transcribed Spacer Region",
+        "Ribosomal DNA"
+      ],
+      [
+        "Fish-Borne Trematodes",
+        "Opisthorchiidae"
+      ],
+      [
+        "Clinical Perspective",
+        "Fish-Borne Trematodes"
+      ],
+      [
+        "C. Sinensis-Endemic Community",
+        "Clonorchis Sinensis"
+      ],
+      [
+        "Haplorchis Taichui",
+        "Heterophyid Flukes"
+      ],
+      [
+        "Individuals",
+        "Sanamchaikaet District"
+      ],
+      [
+        "Adult Worms",
+        "Expulsion Chemotherapy"
+      ],
+      [
+        "'Opisthorchis-Like' Eggs",
+        "Conventional Parasitological Detection Techniques"
+      ],
+      [
+        "Intestinal Fluke Species",
+        "PCR Test"
+      ],
+      [
+        "Clonorchis Sinensis",
+        "Opisthorchiid Flukes"
+      ],
+      [
+        "Haplorchis Taichui",
+        "Intestinal Fluke Species"
+      ],
+      [
+        "Faeces",
+        "PCR Test"
+      ],
+      [
+        "Microscopy-Positive PCR Products",
+        "Opisthorchis Viverrini"
+      ]
+    ],
+    "count": 45,
+    "create_time": 1768502801,
+    "update_time": 1768502801,
+    "_id": "doc-97107d438f9f6fb6338f2e1ee3562995"
+  },
+  "doc-c33d09b8957ec6de1ecb70a00240f29b": {
+    "relation_pairs": [
+      [
+        "Bovines",
+        "Schistosomiasis Control"
+      ],
+      [
+        "Carabao",
+        "Schistosoma Japonicum"
+      ],
+      [
+        "Indonesia",
+        "Schistosoma Japonicum"
+      ],
+      [
+        "Pilot Survey",
+        "Schistosomiasis Japonicum Transmission"
+      ],
+      [
+        "Mammalian Host Species",
+        "Reservoirs Of Infection"
+      ],
+      [
+        "Conventional Copro-Parasitological Techniques",
+        "Diagnostic Sensitivity"
+      ],
+      [
+        "Fecal Samples",
+        "Pilot Survey"
+      ],
+      [
+        "Schistosoma Japonicum",
+        "Water Buffaloes"
+      ],
+      [
+        "Prevalence",
+        "qPCR-Based Study"
+      ],
+      [
+        "Bovines",
+        "Schistosomiasis Japonicum Transmission"
+      ],
+      [
+        "Diagnostic Sensitivity",
+        "Formalin-Ethyl Acetate Sedimentation (FEA-SD) Technique"
+      ],
+      [
+        "Mammalian Host Species",
+        "Schistosoma Japonicum"
+      ],
+      [
+        "Prevalence",
+        "Validated Real-Time PCR (qPCR)"
+      ],
+      [
+        "Carabao",
+        "Schistosomiasis Japonicum Transmission"
+      ],
+      [
+        "Philippines",
+        "Schistosoma Japonicum"
+      ],
+      [
+        "Infection Intensity",
+        "Molecular Techniques"
+      ],
+      [
+        "High Prevalence of S. Japonicum in Humans",
+        "Philippines"
+      ],
+      [
+        "Philippines",
+        "Schistosomiasis Control"
+      ],
+      [
+        "Reservoirs Of Infection",
+        "Schistosoma Japonicum"
+      ],
+      [
+        "Human Infection",
+        "Water Buffaloes"
+      ],
+      [
+        "Conventional PCR",
+        "Prevalence"
+      ],
+      [
+        "Kato-Katz Technique",
+        "Prevalence"
+      ],
+      [
+        "Diagnostic Sensitivity",
+        "Validated Real-Time PCR (qPCR)"
+      ],
+      [
+        "Conventional Copro-Parasitological Techniques",
+        "Infection Intensity"
+      ],
+      [
+        "Carabao",
+        "Formalin-Ethyl Acetate Sedimentation (FEA-SD) Technique"
+      ],
+      [
+        "Schistosoma Japonicum",
+        "Validated Real-Time PCR (qPCR)"
+      ],
+      [
+        "High Prevalence of Schistosoma Japonicum in Humans",
+        "Philippines"
+      ],
+      [
+        "Fecal Samples",
+        "Western Samar Province"
+      ],
+      [
+        "China",
+        "Schistosoma Japonicum"
+      ],
+      [
+        "Carabao",
+        "Infection Intensity"
+      ],
+      [
+        "Conventional Copro-Parasitological Techniques",
+        "Pilot Survey"
+      ],
+      [
+        "Formalin-Ethyl Acetate Sedimentation (FEA-SD) Technique",
+        "Prevalence"
+      ],
+      [
+        "Carabao",
+        "Reservoirs Of Infection"
+      ],
+      [
+        "Carabao",
+        "Conventional Copro-Parasitological Techniques"
+      ],
+      [
+        "Carabao",
+        "Validated Real-Time PCR (qPCR)"
+      ],
+      [
+        "Schistosoma Japonicum",
+        "Schistosomiasis"
+      ],
+      [
+        "Carabao",
+        "Pilot Survey"
+      ],
+      [
+        "Conventional Copro-Parasitological Techniques",
+        "Prevalence"
+      ],
+      [
+        "Carabao",
+        "Prevalence"
+      ],
+      [
+        "Formalin-Ethyl Acetate Sedimentation (FEA-SD) Technique",
+        "Schistosoma Japonicum"
+      ],
+      [
+        "Pilot Survey",
+        "Western Samar Province"
+      ],
+      [
+        "Bovines",
+        "Schistosoma Japonicum"
+      ],
+      [
+        "Molecular Techniques",
+        "Pilot Survey"
+      ],
+      [
+        "Miracidial Hatching",
+        "Prevalence"
+      ],
+      [
+        "Molecular Techniques",
+        "Prevalence"
+      ]
+    ],
+    "count": 45,
+    "create_time": 1768504116,
+    "update_time": 1768504116,
+    "_id": "doc-c33d09b8957ec6de1ecb70a00240f29b"
+  },
+  "doc-ab8696e0621fb10013bbe66408ec389f": {
+    "relation_pairs": [
+      [
+        "Endemic Regions",
+        "Re-infection"
+      ],
+      [
+        "Public Health Problem",
+        "Schistosomiasis"
+      ],
+      [
+        "Diagnostic Tools for Schistosomiasis Japonica",
+        "Schistosomiasis Japonica"
+      ],
+      [
+        "Full Control of Schistosomiasis",
+        "Ideal Diagnostic Approach"
+      ],
+      [
+        "China",
+        "Schistosoma Japonicum Infections"
+      ],
+      [
+        "Field Diagnosis",
+        "Ideal Diagnostic Approach"
+      ],
+      [
+        "Diagnostic Tools for Schistosomiasis Japonica",
+        "Ideal Diagnostic Approach"
+      ],
+      [
+        "Praziquantel",
+        "Selective Chemotherapy"
+      ],
+      [
+        "China's National Schistosomiasis Control Program",
+        "Diagnosis of Infected Individuals"
+      ],
+      [
+        "Endemic Regions",
+        "Repeated Chemotherapy"
+      ],
+      [
+        "Ideal Diagnostic Approach",
+        "Schistosomiasis Japonica"
+      ],
+      [
+        "China's National Schistosomiasis Control Program",
+        "Selective Chemotherapy"
+      ]
+    ],
+    "count": 12,
+    "create_time": 1768504921,
+    "update_time": 1768504921,
+    "_id": "doc-ab8696e0621fb10013bbe66408ec389f"
+  },
+  "doc-a3a03183cae841deff711afecb137bad": {
+    "relation_pairs": [
+      [
+        "Pigs",
+        "Reservoir Hosts"
+      ],
+      [
+        "Dogs",
+        "Reservoir Hosts"
+      ],
+      [
+        "Cats",
+        "Reservoir Hosts"
+      ]
+    ],
+    "count": 3,
+    "create_time": 1768505795,
+    "update_time": 1768505795,
+    "_id": "doc-a3a03183cae841deff711afecb137bad"
+  },
+  "doc-0f16d7b93cdaec3ff0b234ee22d42546": {
+    "relation_pairs": [
+      [
+        "Cystoscopy",
+        "Lower Urinary Tract"
+      ],
+      [
+        "Haematuria",
+        "Screening For Haematuria"
+      ],
+      [
+        "Economic Model",
+        "Ultrasound Scanning (US)"
+      ],
+      [
+        "Diagnostic Algorithms",
+        "Quality Assessment"
+      ],
+      [
+        "Study",
+        "Systematic Review"
+      ],
+      [
+        "Expert Opinion",
+        "Hypothetical Algorithm"
+      ],
+      [
+        "Adults",
+        "Haematuria"
+      ],
+      [
+        "Future Research",
+        "Lower Urinary Tract"
+      ],
+      [
+        "Glomerular Disease",
+        "Renal Cause"
+      ],
+      [
+        "Nuclear Matrix Protein 22 (NMP22)",
+        "Tumour Markers"
+      ],
+      [
+        "Haematuria",
+        "Systematic Review"
+      ],
+      [
+        "Economic Model",
+        "Intravenous Urography (IVU)"
+      ],
+      [
+        "Economic Model",
+        "Hypothetical Algorithm"
+      ],
+      [
+        "Current US and UK Guidelines",
+        "Hypothetical Algorithm"
+      ],
+      [
+        "Dipstick Tests",
+        "Haematuria"
+      ],
+      [
+        "Future Research",
+        "Hypothetical Algorithm"
+      ],
+      [
+        "Bladder Tumour Antigen (BTA)",
+        "Tumour Markers"
+      ],
+      [
+        "Decision Analytic Modelling",
+        "Expert Opinion"
+      ],
+      [
+        "Economic Model",
+        "Microscopy"
+      ],
+      [
+        "Decision Analytic Modelling",
+        "Systematic Review"
+      ],
+      [
+        "Computed Tomography (CT)",
+        "Cost-Effectiveness Ratio"
+      ],
+      [
+        "Laboratory Tests",
+        "Tumour Markers"
+      ],
+      [
+        "Haematuria",
+        "Imaging Techniques"
+      ],
+      [
+        "Diagnostic Algorithms",
+        "Hypothetical Algorithm"
+      ],
+      [
+        "Computed Tomography (CT)",
+        "Ultrasound Scanning (US)"
+      ],
+      [
+        "Optimal Strategy for Diagnostic Management",
+        "Systematic Review"
+      ],
+      [
+        "Hypothetical Algorithm",
+        "Review Team"
+      ],
+      [
+        "Economic Model",
+        "Optimal Strategy for Diagnostic Management"
+      ],
+      [
+        "Bladder Cancer",
+        "Haematuria"
+      ],
+      [
+        "Quality Assessment",
+        "Study"
+      ],
+      [
+        "Haematuria",
+        "Renal Cause"
+      ],
+      [
+        "Haematuria",
+        "Optimal Strategy for Diagnostic Management"
+      ],
+      [
+        "Bladder Cancer",
+        "Tumour Markers"
+      ],
+      [
+        "Computed Tomography (CT)",
+        "Imaging Techniques"
+      ],
+      [
+        "Inclusion Criteria",
+        "Study"
+      ],
+      [
+        "Economic Model",
+        "Upper Urinary Tract"
+      ],
+      [
+        "Cost Saving",
+        "Economic Model"
+      ],
+      [
+        "Future Research",
+        "Upper Urinary Tract"
+      ],
+      [
+        "Published Guidelines",
+        "Systematic Review"
+      ],
+      [
+        "Imaging Techniques",
+        "Ultrasound Scanning (US)"
+      ],
+      [
+        "Haematuria",
+        "Urinary Calculi"
+      ],
+      [
+        "Imaging Techniques",
+        "Intravenous Urography (IVU)"
+      ],
+      [
+        "Cost Saving",
+        "Cystoscopy"
+      ],
+      [
+        "Decision Analytic Modelling",
+        "Literature"
+      ],
+      [
+        "Decision Analytic Modelling",
+        "Diagnostic Algorithms"
+      ],
+      [
+        "Glomerular Disease",
+        "Red Blood Cell Morphology"
+      ],
+      [
+        "Urinary Tract Malignancies",
+        "Urine Cytology"
+      ],
+      [
+        "Electronic Databases",
+        "Systematic Review"
+      ],
+      [
+        "Cytology",
+        "Laboratory Tests"
+      ],
+      [
+        "Cost Saving",
+        "Ultrasound Scanning (US)"
+      ],
+      [
+        "Economic Model",
+        "Lower Urinary Tract"
+      ],
+      [
+        "Glomerular Disease",
+        "Haematuria"
+      ]
+    ],
+    "count": 52,
+    "create_time": 1768506111,
+    "update_time": 1768506111,
+    "_id": "doc-0f16d7b93cdaec3ff0b234ee22d42546"
+  },
+  "doc-66b9c03397d1767f2c8fe38e229f4281": {
+    "relation_pairs": [
+      [
+        "IBDV Prevalence Data",
+        "This Study"
+      ],
+      [
+        "China",
+        "Very Virulent IBDV"
+      ],
+      [
+        "Infectious Bursal Disease",
+        "Infectious Bursal Disease Virus"
+      ],
+      [
+        "IBDV Genotype A1B1",
+        "Infectious Bursal Disease Virus"
+      ],
+      [
+        "Infectious Bursal Disease Virus",
+        "Segment Reassortment"
+      ],
+      [
+        "This Study",
+        "VP1 Gene B-Marker"
+      ],
+      [
+        "Infectious Bursal Disease Virus",
+        "Novel Variant IBDV"
+      ],
+      [
+        "Novel Variant IBDV",
+        "Poultry Industry"
+      ],
+      [
+        "Infectious Bursal Disease Virus",
+        "This Study"
+      ],
+      [
+        "Infectious Bursal Disease Virus",
+        "Very Virulent IBDV"
+      ],
+      [
+        "Infectious Bursal Disease Virus",
+        "VP1 Gene B-Marker"
+      ],
+      [
+        "IBDV Genotype A3B3",
+        "Very Virulent IBDV"
+      ],
+      [
+        "IBDV Genotype A8B1",
+        "Infectious Bursal Disease Virus"
+      ],
+      [
+        "IBDV Genotype A2dB1",
+        "Infectious Bursal Disease Virus"
+      ],
+      [
+        "China",
+        "Infectious Bursal Disease Virus"
+      ],
+      [
+        "Infectious Bursal Disease",
+        "Poultry Industry"
+      ],
+      [
+        "This Study",
+        "VP2 Gene Hypervariable Region"
+      ],
+      [
+        "IBDV Genotype A2dB1",
+        "Novel Variant IBDV"
+      ],
+      [
+        "China",
+        "Novel Variant IBDV"
+      ],
+      [
+        "IBDV Genotype A2dB1",
+        "IBDV Genotype A3B3"
+      ],
+      [
+        "IBDV Genotype A3B3",
+        "Infectious Bursal Disease Virus"
+      ],
+      [
+        "Novel Epidemic Characteristics",
+        "This Study"
+      ],
+      [
+        "Infectious Bursal Disease Virus",
+        "VP2 Gene Hypervariable Region"
+      ]
+    ],
+    "count": 23,
+    "create_time": 1768506212,
+    "update_time": 1768506212,
+    "_id": "doc-66b9c03397d1767f2c8fe38e229f4281"
+  },
+  "doc-150b561d4dd47ec0ef54f8c210978655": {
+    "relation_pairs": [
+      [
+        "Community-Based Mosquito Control Strategy",
+        "Southern Vietnam"
+      ],
+      [
+        "Community-Based Mosquito Control Strategy",
+        "Hau Giang Province"
+      ],
+      [
+        "Adult Female Ae. Aegypti",
+        "Final Survey"
+      ],
+      [
+        "Ben Tre Province",
+        "Community-Based Mosquito Control Strategy"
+      ],
+      [
+        "Clean-Up Campaigns",
+        "Community-Based Mosquito Control Strategy"
+      ],
+      [
+        "Community-Based Mosquito Control Strategy",
+        "Vinh Long Province"
+      ],
+      [
+        "Community-Based Mosquito Control Strategy",
+        "Northern Vietnam"
+      ],
+      [
+        "Communes",
+        "Community-Based Dengue Control Activities"
+      ],
+      [
+        "Communes",
+        "Community-Based Mosquito Control Strategy"
+      ],
+      [
+        "Binh Thanh Commune",
+        "Immature Ae. Aegypti"
+      ],
+      [
+        "Adult Female Ae. Aegypti",
+        "Community-Based Mosquito Control Strategy"
+      ],
+      [
+        "Dengue Cases",
+        "Diagnostic Serologic Analysis"
+      ],
+      [
+        "Community-Based Mosquito Control Strategy",
+        "Long An Province"
+      ],
+      [
+        "Community-Based Dengue Control Activities",
+        "Sustainability Funds"
+      ],
+      [
+        "Community-Based Mosquito Control Strategy",
+        "Immature Ae. Aegypti"
+      ],
+      [
+        "Communes",
+        "Residents (14 Communes)"
+      ],
+      [
+        "Communes",
+        "Rate Of Progress"
+      ],
+      [
+        "Community Education",
+        "Community-Based Mosquito Control Strategy"
+      ],
+      [
+        "Community-Based Mosquito Control Strategy",
+        "Mesocyclops"
+      ],
+      [
+        "Community-Based Mosquito Control Strategy",
+        "Formal Project"
+      ],
+      [
+        "Central Vietnam",
+        "Community-Based Mosquito Control Strategy"
+      ],
+      [
+        "Community-Based Mosquito Control Strategy",
+        "Dengue Cases"
+      ],
+      [
+        "Large Water Storage Containers",
+        "Mesocyclops"
+      ],
+      [
+        "Aedes Aegypti (Linn.)",
+        "Community-Based Mosquito Control Strategy"
+      ],
+      [
+        "Formal Project",
+        "Sustainability Funds"
+      ]
+    ],
+    "count": 25,
+    "create_time": 1768507568,
+    "update_time": 1768507568,
+    "_id": "doc-150b561d4dd47ec0ef54f8c210978655"
+  },
+  "doc-af8370e6f9fc8c5574122728d7b5006f": {
+    "relation_pairs": [
+      [
+        "Cyclopoid Copepods",
+        "Mesocyclops Spp."
+      ],
+      [
+        "Paracyclopina Sp.",
+        "Theronts"
+      ],
+      [
+        "Thermocyclops Taihokuensis",
+        "Theronts"
+      ],
+      [
+        "Culture Water Body",
+        "Zooplankton"
+      ],
+      [
+        "Co-Culture Experiments",
+        "The Study"
+      ],
+      [
+        "Fluorescence Labeling Method",
+        "Theronts"
+      ],
+      [
+        "Ichthyophthirius Multifiliis Infection",
+        "Laboratory Challenge Tests"
+      ],
+      [
+        "Mesocyclops Spp.",
+        "Theronts"
+      ],
+      [
+        "Ichthyophthirius Multifiliis Infection",
+        "Theronts"
+      ],
+      [
+        "Macro-Zooplankton",
+        "Planktonic Ciliates"
+      ],
+      [
+        "Fluorescence Labeling Method",
+        "The Study"
+      ],
+      [
+        "Laboratory Challenge Tests",
+        "The Study"
+      ],
+      [
+        "Cyclopoid Copepods",
+        "White Spot Disease"
+      ],
+      [
+        "Ichthyophthirius Multifiliis",
+        "White Spot Disease"
+      ],
+      [
+        "Economic Losses",
+        "White Spot Disease"
+      ],
+      [
+        "Culture Environment",
+        "Theronts"
+      ],
+      [
+        "Goldfish",
+        "Ichthyophthirius Multifiliis Infection"
+      ],
+      [
+        "Biological Control Agents",
+        "Cyclopoid Copepods"
+      ],
+      [
+        "Massive Mortality",
+        "White Spot Disease"
+      ],
+      [
+        "Aquaculture",
+        "Cyclopoid Copepods"
+      ],
+      [
+        "Freshwater Fish Farming Industry",
+        "White Spot Disease"
+      ],
+      [
+        "Biological Control Agents",
+        "White Spot Disease"
+      ],
+      [
+        "Ichthyophthirius Multifiliis",
+        "Theronts"
+      ],
+      [
+        "Cyclopoid Copepods",
+        "Thermocyclops Taihokuensis"
+      ],
+      [
+        "Goldfish",
+        "Zooplankton"
+      ],
+      [
+        "Ichthyophthirius Multifiliis Infection",
+        "Zooplankton"
+      ],
+      [
+        "Macrocyclops Sp.",
+        "Theronts"
+      ],
+      [
+        "Cyclopoid Copepods",
+        "Paracyclopina Sp."
+      ],
+      [
+        "Cyclopoid Copepods",
+        "Macrocyclops Sp."
+      ]
+    ],
+    "count": 29,
+    "create_time": 1768507843,
+    "update_time": 1768507843,
+    "_id": "doc-af8370e6f9fc8c5574122728d7b5006f"
+  },
+  "doc-f02cc0d5c15c87c4dce3279a62ef6ff2": {
+    "relation_pairs": [
+      [
+        "Aedes Albopictus",
+        "Selection Pressure"
+      ],
+      [
+        "Aedes Aegypti",
+        "Selection Pressure"
+      ],
+      [
+        "Northern Part Of Vietnam",
+        "Southern Part Of Vietnam"
+      ],
+      [
+        "Annual Pyrethroid Use For Malaria Control (1998-2002)",
+        "Susceptibility Indices"
+      ],
+      [
+        "Aedes Aegypti",
+        "Southern Part Of Vietnam"
+      ],
+      [
+        "Aedes Aegypti",
+        "Low Pyrethroid Susceptibility In Aedes Aegypti"
+      ],
+      [
+        "Mountainous Areas",
+        "Southern Part Of Vietnam"
+      ],
+      [
+        "Aedes Aegypti",
+        "Susceptibility Indices"
+      ],
+      [
+        "Mosquito Larvae",
+        "Used Tires"
+      ],
+      [
+        "Culex Quinquefasciatus",
+        "Susceptibility Tests"
+      ],
+      [
+        "Chemical Substitutes",
+        "Vector Control Program"
+      ],
+      [
+        "Chemical Substitutes",
+        "Pyrethroids"
+      ],
+      [
+        "Pyrethroids",
+        "Vector Control Program"
+      ],
+      [
+        "Insecticide Treatment",
+        "Pyrethroid-Impregnated Bed Nets"
+      ],
+      [
+        "Breeding And Resting Sites",
+        "Human Habitation Areas"
+      ],
+      [
+        "Knockdown Agents",
+        "Spatial Repellents"
+      ],
+      [
+        "Knockdown Agents",
+        "Mosquito Coils"
+      ],
+      [
+        "Human Habitation Areas",
+        "Pyrethroid-Impregnated Bed Nets"
+      ],
+      [
+        "Cross-Resistance",
+        "Knockdown Agents"
+      ],
+      [
+        "Malaria Control",
+        "Pyrethroids"
+      ],
+      [
+        "Pilot Study",
+        "Vietnam"
+      ],
+      [
+        "Fourth Instar Larvae",
+        "Susceptibility Tests"
+      ],
+      [
+        "Latitude",
+        "Susceptibility Indices"
+      ],
+      [
+        "Annual Pyrethroid Use For Malaria Control (1998-2002)",
+        "Pyrethroid-Impregnated Bed Nets"
+      ],
+      [
+        "Pilot Study",
+        "Pyrethroid Resistance"
+      ],
+      [
+        "Aedes Aegypti",
+        "Susceptibility Tests"
+      ],
+      [
+        "Insecticide Treatment",
+        "Residual Treatment Inside Houses"
+      ],
+      [
+        "Aedes Aegypti",
+        "D-Allethrin"
+      ],
+      [
+        "Pyrethroid Resistance",
+        "Vector Control Program"
+      ],
+      [
+        "Low Pyrethroid Susceptibility In Aedes Aegypti",
+        "Pyrethroid-Impregnated Bed Nets"
+      ],
+      [
+        "Aedes Aegypti",
+        "Breeding And Resting Sites"
+      ],
+      [
+        "Human Habitation Areas",
+        "Residual Treatment Inside Houses"
+      ],
+      [
+        "Aedes Albopictus",
+        "Susceptibility Tests"
+      ],
+      [
+        "Annual Pyrethroid Use For Malaria Control (1998-2002)",
+        "Residual Treatment Inside Houses"
+      ],
+      [
+        "Aedes Aegypti",
+        "Annual Pyrethroid Use For Malaria Control (1998-2002)"
+      ],
+      [
+        "Aedes Aegypti",
+        "Northern Part Of Vietnam"
+      ],
+      [
+        "Low Pyrethroid Susceptibility In Aedes Aegypti",
+        "Residual Treatment Inside Houses"
+      ]
+    ],
+    "count": 37,
+    "create_time": 1768508338,
+    "update_time": 1768508338,
+    "_id": "doc-f02cc0d5c15c87c4dce3279a62ef6ff2"
+  },
+  "doc-fb64e8269ca7a83eae32849920a5e03b": {
+    "relation_pairs": [
+      [
+        "Immunodiagnostic Tests",
+        "People's Republic Of China"
+      ],
+      [
+        "Case Detection",
+        "Immunodiagnostic Tests"
+      ],
+      [
+        "Immunodiagnostic Tests",
+        "National Program"
+      ],
+      [
+        "Control Interventions",
+        "Program Monitoring"
+      ],
+      [
+        "Adult Worm Extract Of S. Japonicum",
+        "Center Of Disease Control And Prevention, USA"
+      ],
+      [
+        "Immunodiagnostic Tests",
+        "Kato-Katz Technique"
+      ],
+      [
+        "Archived Serum Specimens",
+        "Immunodiagnostic Tests"
+      ],
+      [
+        "Immunodiagnostic Tests",
+        "Low Endemicity Areas"
+      ],
+      [
+        "Immunodiagnostic Tests",
+        "Schistosomiasis Control Programs"
+      ],
+      [
+        "National Program",
+        "People's Republic Of China"
+      ],
+      [
+        "Test Specificity",
+        "Three Selected Tests"
+      ],
+      [
+        "Test Sensitivity",
+        "Three Selected Tests"
+      ],
+      [
+        "Enzyme-Linked Immunoelectrotransfer Blot Assay (EITB)",
+        "Immunodiagnostic Tests"
+      ],
+      [
+        "Simplicity Of Use",
+        "Three Selected Tests"
+      ],
+      [
+        "Immunodiagnostic Tests",
+        "Simplicity Of Use"
+      ],
+      [
+        "Immunodiagnostic Tests",
+        "Surveillance"
+      ],
+      [
+        "Immunodiagnostic Tests",
+        "Test Sensitivity"
+      ],
+      [
+        "Dot Immunogold Filtration Assays",
+        "Simplicity Of Use"
+      ],
+      [
+        "Field Settings",
+        "Three Selected Tests"
+      ],
+      [
+        "National Program",
+        "Schistosoma Japonicum"
+      ],
+      [
+        "Immunodiagnostic Tests",
+        "Test Specificity"
+      ],
+      [
+        "Antibodies Against S. Japonicum",
+        "Immunodiagnostic Tests"
+      ],
+      [
+        "People's Republic Of China",
+        "Schistosomiasis Control Programs"
+      ],
+      [
+        "Immunodiagnostic Tests",
+        "Program Monitoring"
+      ],
+      [
+        "Immunodiagnostic Tests",
+        "Test Reproducibility"
+      ],
+      [
+        "Adult Worm Extract Of S. Japonicum",
+        "Enzyme-Linked Immunoelectrotransfer Blot Assay (EITB)"
+      ],
+      [
+        "Chemotherapy Efficacy",
+        "Program Monitoring"
+      ],
+      [
+        "Magnetic Particle-Based Enzyme-Linked Immunosorbent Assay",
+        "Simplicity Of Use"
+      ]
+    ],
+    "count": 28,
+    "create_time": 1768515037,
+    "update_time": 1768515037,
+    "_id": "doc-fb64e8269ca7a83eae32849920a5e03b"
+  },
+  "doc-f0d92923951ea02d5bee6d00bab160af": {
+    "relation_pairs": [
+      [
+        "Intradermal Test",
+        "Seroepidemiologic Studies"
+      ],
+      [
+        "165 Persons",
+        "Treatment"
+      ],
+      [
+        "Circumoval Precipitin Test (COPT)",
+        "Seroepidemiologic Studies"
+      ],
+      [
+        "Antibodies",
+        "Eggs of Schistosoma Mansoni"
+      ],
+      [
+        "Children",
+        "Circumoval Precipitin Test (COPT)"
+      ],
+      [
+        "Circumoval Precipitin Test (COPT)",
+        "Treatment"
+      ],
+      [
+        "Eggs of Schistosoma Mansoni",
+        "Research Effort"
+      ],
+      [
+        "ELISA",
+        "Seroepidemiologic Studies"
+      ],
+      [
+        "Chemotherapy",
+        "Treatment"
+      ],
+      [
+        "ELISA",
+        "Treatment"
+      ],
+      [
+        "Coprologic Techniques",
+        "Immunological Methods"
+      ],
+      [
+        "Antibodies",
+        "Treatment"
+      ],
+      [
+        "100 Eggs Per Gram Of Feces",
+        "Low Parasitic Burden"
+      ],
+      [
+        "Low Parasitic Burden",
+        "Schistosomiasis"
+      ],
+      [
+        "Circumoval Precipitin Test (COPT)",
+        "Non Cure Group"
+      ],
+      [
+        "ELISA",
+        "Soluble Egg Antigen (SEA)"
+      ],
+      [
+        "Circumoval Precipitin Test (COPT)",
+        "Immunological Methods"
+      ],
+      [
+        "Chemotherapy",
+        "Schistosomiasis"
+      ],
+      [
+        "Immunological Methods",
+        "Intradermal Test"
+      ],
+      [
+        "ELISA",
+        "Immunological Methods"
+      ],
+      [
+        "Asymptomatic Clinical Patients",
+        "Schistosomiasis"
+      ],
+      [
+        "Age Groups",
+        "Circumoval Precipitin Test (COPT)"
+      ],
+      [
+        "Control Program",
+        "Immunological Methods"
+      ],
+      [
+        "Control Program",
+        "Schistosomiasis"
+      ],
+      [
+        "Control Program",
+        "Coprologic Techniques"
+      ]
+    ],
+    "count": 25,
+    "create_time": 1768515110,
+    "update_time": 1768515110,
+    "_id": "doc-f0d92923951ea02d5bee6d00bab160af"
+  },
+  "doc-9eff0ecff1e524619f8c636522c22046": {
+    "relation_pairs": [
+      [
+        "Citric Acid",
+        "Phillips And Draper"
+      ],
+      [
+        "Africa",
+        "Mixed Infections"
+      ],
+      [
+        "Antigen-Antibody Complexes",
+        "Hypertonic Buffered Gel"
+      ],
+      [
+        "Schistosomiasis Elimination",
+        "Sensitive Detection"
+      ],
+      [
+        "Anodic Antigen (CAA)",
+        "Professor Andre Deelder"
+      ],
+      [
+        "POC-CCA Assay",
+        "WHO Levels Of Prevalence"
+      ],
+      [
+        "Additional Studies",
+        "WHO"
+      ],
+      [
+        "Antibody Detection",
+        "Eradication Certification"
+      ],
+      [
+        "Highly Endemic Areas",
+        "Kato-Katz Method"
+      ],
+      [
+        "Human Sera",
+        "Phillips And Draper"
+      ],
+      [
+        "Antigen Concentrations",
+        "Worm Burdens"
+      ],
+      [
+        "Leiden",
+        "Professor Andre Deelder"
+      ],
+      [
+        "Schistosomiasis Control",
+        "World Health Organization (WHO)"
+      ],
+      [
+        "Kato-Katz Method",
+        "POC-CCA Assay"
+      ],
+      [
+        "Polymerase Chain Reaction (PCR)",
+        "Schistosomiasis Control"
+      ],
+      [
+        "POC-CCA Assay",
+        "Worm Load"
+      ],
+      [
+        "POC-CCA Assay",
+        "Urine Samples"
+      ],
+      [
+        "Elimination Phase",
+        "Improved Diagnostics"
+      ],
+      [
+        "Monoclonal Antibodies",
+        "Schistosomiasis Control"
+      ],
+      [
+        "People's Republic Of China (PR China)",
+        "Schistosomiasis Elimination"
+      ],
+      [
+        "Kato-Katz Method",
+        "USD 1.73"
+      ],
+      [
+        "Experimental Animals",
+        "Gold And Others"
+      ],
+      [
+        "Sub-Saharan Africa",
+        "Transmission Control"
+      ],
+      [
+        "Snail Diagnostics",
+        "Spatial Statistics"
+      ],
+      [
+        "Antigen Detection",
+        "Eradication Certification"
+      ],
+      [
+        "Antigens Secreted In Urine",
+        "BMJ"
+      ],
+      [
+        "Compliance",
+        "Fecal Samples"
+      ],
+      [
+        "Field Surveys",
+        "POC-CCA Assay"
+      ],
+      [
+        "POC-CCA Assay",
+        "Schistosomiasis Control"
+      ],
+      [
+        "Chinese Control Program",
+        "Mass Drug Administration (MDA)"
+      ],
+      [
+        "Nitrocellulose Strips",
+        "POC-CCA Assay"
+      ],
+      [
+        "Mass Drug Administration (MDA)",
+        "Praziquantel"
+      ],
+      [
+        "Cathodic Antigen (CCA)",
+        "POC-CCA Assay"
+      ],
+      [
+        "POC-CCA Assay",
+        "USD 1.73"
+      ],
+      [
+        "Health Impact",
+        "Schistosomiasis Control"
+      ],
+      [
+        "People's Republic Of China (PR China)",
+        "Schistosomiasis Control"
+      ],
+      [
+        "Kato-Katz",
+        "POC-CCA"
+      ],
+      [
+        "Kato-Katz Method",
+        "Light Infections"
+      ],
+      [
+        "Compliance",
+        "Sub-Saharan Africa"
+      ],
+      [
+        "Mixed Infections",
+        "S. Haematobium"
+      ],
+      [
+        "Kato-Katz Method",
+        "Well-Controlled Areas"
+      ],
+      [
+        "Schistosomiasis Control",
+        "Sub-Saharan Africa"
+      ],
+      [
+        "Highly Endemic Areas",
+        "WHO Guidelines"
+      ],
+      [
+        "Eradication Certification",
+        "World Health Organization (WHO)"
+      ],
+      [
+        "DNA-Based Diagnostics",
+        "Polymerase Chain Reaction (PCR)"
+      ],
+      [
+        "POC-CCA Assay",
+        "Phillips And Draper"
+      ],
+      [
+        "Intestinal Schistosomiasis",
+        "Stool Examination"
+      ],
+      [
+        "POC-CCA Assay",
+        "Schistosoma Mansoni Infection"
+      ],
+      [
+        "Chinese Control Program",
+        "Snail Control"
+      ],
+      [
+        "Additional Studies",
+        "Sufficient Evidence"
+      ],
+      [
+        "Monoclonal Antibodies",
+        "Schistosomiasis Diagnosis"
+      ],
+      [
+        "Cathodic Antigen (CCA)",
+        "Professor Andre Deelder"
+      ],
+      [
+        "Kato-Katz Method",
+        "Speich And Others"
+      ],
+      [
+        "Elimination Phase",
+        "PR China"
+      ],
+      [
+        "Colloidal Carbon",
+        "Monoclonal Antibodies"
+      ],
+      [
+        "Control Activities",
+        "POC-CCA"
+      ],
+      [
+        "POC-CCA",
+        "S. Japonicum"
+      ],
+      [
+        "Five African Countries",
+        "POC-CCA Assay"
+      ],
+      [
+        "Circulating Antigens",
+        "Human Sera"
+      ],
+      [
+        "Kato-Katz Method",
+        "Moderately Endemic Areas"
+      ],
+      [
+        "Circulating Antigens",
+        "Kato-Katz Method"
+      ],
+      [
+        "Control Programs",
+        "Sufficient Evidence"
+      ],
+      [
+        "Compliance",
+        "Urine Sampling"
+      ],
+      [
+        "Moderately Endemic Areas",
+        "WHO Guidelines"
+      ],
+      [
+        "Mass Drug Administration (MDA)",
+        "Schistosomiasis Control"
+      ],
+      [
+        "Eradication Certification",
+        "Snail Diagnostics"
+      ],
+      [
+        "Additional Studies",
+        "World Health Organization (WHO)"
+      ],
+      [
+        "Fecal Samples",
+        "Urine Sampling"
+      ],
+      [
+        "Intestinal Schistosomiasis",
+        "Kato-Katz Method"
+      ],
+      [
+        "Double Counter-Current Immunoelectrophoresis",
+        "Phillips And Draper"
+      ],
+      [
+        "Kato-Katz Method",
+        "Stool Examination"
+      ],
+      [
+        "POC-CCA",
+        "S. Haematobium"
+      ],
+      [
+        "Circulating Antigens",
+        "Urine Samples"
+      ],
+      [
+        "Cathodic Antigen (CCA)",
+        "Monoclonal Antibodies"
+      ],
+      [
+        "Double Counter-Current Immunoelectrophoresis",
+        "Hypertonic Buffered Gel"
+      ],
+      [
+        "Polymerase Chain Reaction (PCR)",
+        "Schistosomiasis Diagnosis"
+      ],
+      [
+        "Control Programs",
+        "WHO"
+      ],
+      [
+        "Cost Effectiveness",
+        "Schistosomiasis Control"
+      ],
+      [
+        "Improved Diagnostics",
+        "PR China"
+      ],
+      [
+        "1 USD",
+        "Commercial Test"
+      ],
+      [
+        "Advocacy",
+        "World Health Organization (WHO)"
+      ],
+      [
+        "Professor Andre Deelder",
+        "The Netherlands"
+      ],
+      [
+        "Blood Samples",
+        "Urine Sampling"
+      ],
+      [
+        "Circulating Antigens",
+        "Gold And Others"
+      ],
+      [
+        "Improved Diagnostics",
+        "POC-CCA"
+      ]
+    ],
+    "count": 85,
+    "create_time": 1768515280,
+    "update_time": 1768515280,
+    "_id": "doc-9eff0ecff1e524619f8c636522c22046"
+  },
+  "doc-8bc80f287a3901a36f7a4f11f3595795": {
+    "relation_pairs": [
+      [
+        "1995",
+        "4.9% Human Prevalence"
+      ],
+      [
+        "4.9% Human Prevalence",
+        "Human Prevalence"
+      ],
+      [
+        "2004",
+        "5.1% Human Prevalence"
+      ],
+      [
+        "5.1% Human Prevalence",
+        "Human Prevalence"
+      ],
+      [
+        "Human Infections",
+        "Human Prevalence"
+      ]
+    ],
+    "count": 5,
+    "create_time": 1768515306,
+    "update_time": 1768515306,
+    "_id": "doc-8bc80f287a3901a36f7a4f11f3595795"
+  },
+  "doc-2080ebaf27fa02a0282964a7c0f555bb": {
+    "relation_pairs": [
+      [
+        "Dongting Lake Region",
+        "Hunan Province"
+      ],
+      [
+        "2005",
+        "The Study"
+      ],
+      [
+        "Buffalo",
+        "Cattle"
+      ],
+      [
+        "Miracidial Hatching Technique",
+        "The Study"
+      ],
+      [
+        "2008",
+        "Prevalence Data"
+      ],
+      [
+        "Marsh And Lake Regions Of Southern China",
+        "Poyang Lake Region"
+      ],
+      [
+        "Dongting Lake Region",
+        "Marsh And Lake Regions Of Southern China"
+      ],
+      [
+        "Mass Treatment",
+        "S. Japonicum Infections"
+      ],
+      [
+        "April",
+        "Field Feces"
+      ],
+      [
+        "Marsh And Lake Regions Of Southern China",
+        "Schistosomiasis Japonica"
+      ],
+      [
+        "Bovines",
+        "Domestic Ruminants"
+      ],
+      [
+        "Goats",
+        "S. Japonicum Infections"
+      ],
+      [
+        "Goats",
+        "Matang Town"
+      ],
+      [
+        "Domestic Ruminants",
+        "Schistosoma Japonicum"
+      ],
+      [
+        "Domestic Ruminants",
+        "Goats"
+      ],
+      [
+        "Age-Related Resistance",
+        "Buffalo"
+      ],
+      [
+        "Mass Treatment",
+        "Original Treatment Scheme"
+      ],
+      [
+        "Buffalo",
+        "Goats"
+      ],
+      [
+        "Bovines",
+        "Nandashan"
+      ],
+      [
+        "Late March Or Early April",
+        "Mass Treatment"
+      ],
+      [
+        "Field Feces",
+        "The Study"
+      ],
+      [
+        "S. Japonicum Infections",
+        "The Study"
+      ],
+      [
+        "2010",
+        "The Study"
+      ],
+      [
+        "Field Feces",
+        "November/October"
+      ],
+      [
+        "2005",
+        "Prevalence Data"
+      ],
+      [
+        "China",
+        "Schistosomiasis Japonica"
+      ],
+      [
+        "Asian Countries",
+        "Schistosomiasis Japonica"
+      ],
+      [
+        "Bovines",
+        "Matang Town"
+      ],
+      [
+        "Humans",
+        "Schistosoma Japonicum"
+      ],
+      [
+        "Bovines",
+        "S. Japonicum Infections"
+      ],
+      [
+        "Domestic Ruminants",
+        "The Study"
+      ],
+      [
+        "Dongting Lake Region",
+        "Hubei Province"
+      ],
+      [
+        "Jiangxi Province",
+        "Poyang Lake Region"
+      ]
+    ],
+    "count": 33,
+    "create_time": 1768515398,
+    "update_time": 1768515398,
+    "_id": "doc-2080ebaf27fa02a0282964a7c0f555bb"
+  },
+  "doc-13eb735a93b91be4933bcef865387615": {
+    "relation_pairs": [
+      [
+        "Foxes",
+        "Standard Haematological And Biochemical Analysis"
+      ],
+      [
+        "Adult Worms",
+        "Small Intestine"
+      ],
+      [
+        "Anorexia",
+        "Foxes"
+      ],
+      [
+        "Foxes",
+        "Lymphocyte Counts"
+      ],
+      [
+        "Control Programs",
+        "Prepatency Period"
+      ],
+      [
+        "Experimental Model",
+        "Haplorchis Pumilio"
+      ],
+      [
+        "Adult Worms",
+        "Worm Burdens"
+      ],
+      [
+        "Foxes",
+        "H. Pumilio Eggs"
+      ],
+      [
+        "Experimental Model",
+        "Foxes"
+      ],
+      [
+        "Foxes",
+        "Weight Loss"
+      ],
+      [
+        "Foxes",
+        "H. Pumilio Metacercariae"
+      ],
+      [
+        "Egg Excretion",
+        "Experimental Model"
+      ],
+      [
+        "Clinical Effect Of The Infection",
+        "Experimental Model"
+      ],
+      [
+        "Experimental Model",
+        "Infection Establishment"
+      ],
+      [
+        "Body Weight Measurement",
+        "Foxes"
+      ],
+      [
+        "Foxes",
+        "Transient Anaemia"
+      ],
+      [
+        "Control Programs",
+        "Dogs"
+      ],
+      [
+        "Final Hosts",
+        "Man"
+      ],
+      [
+        "Foxes",
+        "Total White Blood Cell Count"
+      ],
+      [
+        "Faecal Examination",
+        "Foxes"
+      ],
+      [
+        "Adult Worms",
+        "Jejunum"
+      ],
+      [
+        "Eosinophils Level",
+        "Foxes"
+      ],
+      [
+        "Fish-Borne Zoonotic Trematodes (FZT)",
+        "Southeast Asia"
+      ],
+      [
+        "Fish-Borne Zoonotic Trematodes (FZT)",
+        "Haplorchis Pumilio"
+      ],
+      [
+        "Control Programs",
+        "Faecal Egg Counts (EPG)"
+      ],
+      [
+        "Faecal Egg Counts (EPG)",
+        "H. Pumilio Eggs"
+      ],
+      [
+        "Experimental Model",
+        "Prepatency Period"
+      ],
+      [
+        "Dogs",
+        "Reservoir Hosts"
+      ],
+      [
+        "Final Hosts",
+        "Haplorchis Pumilio"
+      ],
+      [
+        "Control Programs",
+        "Reservoir Hosts"
+      ],
+      [
+        "Day 56 Post Infection",
+        "Foxes"
+      ],
+      [
+        "Final Hosts",
+        "Fish-Borne Zoonotic Trematodes (FZT)"
+      ],
+      [
+        "Foxes",
+        "Uninfected Controls"
+      ]
+    ],
+    "count": 33,
+    "create_time": 1768515481,
+    "update_time": 1768515481,
+    "_id": "doc-13eb735a93b91be4933bcef865387615"
+  },
+  "doc-acad4a812e7cbf80eff3b268dbc2646a": {
+    "relation_pairs": [
+      [
+        "Bile Sample",
+        "Clonorchis Sinensis Eggs"
+      ],
+      [
+        "Bile Sample",
+        "Clonorchis Sinensis"
+      ],
+      [
+        "Clonorchis Sinensis Egg Positive Rate",
+        "Gender"
+      ],
+      [
+        "Clonorchis Sinensis",
+        "Clonorchis Sinensis Infection Rate"
+      ],
+      [
+        "Biliary Tract Obstruction",
+        "Stool Examination"
+      ],
+      [
+        "Clonorchis Sinensis",
+        "Clonorchis Sinensis Eggs"
+      ],
+      [
+        "Clonorchiasis",
+        "Ulsan"
+      ],
+      [
+        "Clonorchis Sinensis Eggs",
+        "Stool Examination"
+      ],
+      [
+        "Age Groups",
+        "Clonorchis Sinensis Egg Positive Rate"
+      ],
+      [
+        "Clonorchis Sinensis",
+        "Patients with Biliary Tract Diseases"
+      ],
+      [
+        "Clonorchis Sinensis Egg Positive Rate",
+        "Patients with Biliary Tract Diseases"
+      ],
+      [
+        "Endoscopic Biliary Drainage",
+        "Patients with Biliary Tract Diseases"
+      ],
+      [
+        "Patients with Biliary Tract Diseases",
+        "Study Period"
+      ],
+      [
+        "Clonorchis Sinensis Infection Rate",
+        "Patients with Biliary Tract Diseases"
+      ],
+      [
+        "Korea",
+        "Ulsan"
+      ],
+      [
+        "Clonorchiasis",
+        "Clonorchis Sinensis"
+      ],
+      [
+        "Clonorchis Sinensis Egg Positive Rate",
+        "Gallbladder Cancer"
+      ],
+      [
+        "Light Infection",
+        "Stool Examination"
+      ],
+      [
+        "Bile Sample",
+        "Nasobiliary Drainage Tube"
+      ],
+      [
+        "Bile Duct Cancer",
+        "Clonorchis Sinensis Egg Positive Rate"
+      ],
+      [
+        "Clonorchis Sinensis Eggs",
+        "Patients with Biliary Tract Diseases"
+      ],
+      [
+        "Clonorchis Sinensis",
+        "Clonorchis Sinensis Egg Positive Rate"
+      ],
+      [
+        "Clonorchis Sinensis Egg Positive Rate",
+        "Gallstone Diseases"
+      ],
+      [
+        "Clonorchiasis",
+        "Stool Examination"
+      ]
+    ],
+    "count": 24,
+    "create_time": 1768515556,
+    "update_time": 1768515556,
+    "_id": "doc-acad4a812e7cbf80eff3b268dbc2646a"
+  },
+  "doc-4c492d94e46e6cf3d9b06c416def7bb1": {
+    "relation_pairs": [
+      [
+        "Dengue Diffusion",
+        "Pathways"
+      ],
+      [
+        "Dengue Transmission Area Expansion",
+        "Spatial And Temporal Patterns"
+      ],
+      [
+        "Brazil",
+        "Dengue Transmission Area Expansion"
+      ],
+      [
+        "Constraints",
+        "Dengue Diffusion"
+      ],
+      [
+        "Dengue",
+        "Dengue Transmission Area Expansion"
+      ],
+      [
+        "Dengue Diffusion",
+        "Dengue Transmission Area Expansion"
+      ],
+      [
+        "100m Sprint Record",
+        "World Athletics Championship"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1768532565,
+    "update_time": 1768532565,
+    "_id": "doc-4c492d94e46e6cf3d9b06c416def7bb1"
+  },
+  "doc-cecc1574e3d38e1c2b8f29466bffcf9d": {
+    "relation_pairs": [
+      [
+        "Aedes Aegypti Suppression",
+        "Chikungunya Virus"
+      ],
+      [
+        "Aedes Aegypti",
+        "Aedes Aegypti Suppression"
+      ],
+      [
+        "Aedes Aegypti Suppression",
+        "Authors"
+      ],
+      [
+        "Aedes Aegypti Suppression",
+        "Yellow Fever Virus"
+      ],
+      [
+        "100m Sprint Record",
+        "World Athletics Championship"
+      ],
+      [
+        "Aedes Aegypti Suppression",
+        "Dengue Virus"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1768532598,
+    "update_time": 1768532598,
+    "_id": "doc-cecc1574e3d38e1c2b8f29466bffcf9d"
+  },
+  "doc-60377a72fdc3717965e736959245d13b": {
+    "relation_pairs": [
+      [
+        "390 Million Dengue Infections Per Year",
+        "Dengue Infection Estimates"
+      ],
+      [
+        "Dengue Infection Estimates",
+        "Global Impact of Dengue"
+      ],
+      [
+        "Dengue Risk Map",
+        "Disease Control Strategies"
+      ],
+      [
+        "Dengue Infection Estimates",
+        "Economic Evaluation"
+      ],
+      [
+        "Dengue",
+        "Licensed Vaccines"
+      ],
+      [
+        "Dengue",
+        "Vector Control Efforts"
+      ],
+      [
+        "Dengue Risk",
+        "Urbanization"
+      ],
+      [
+        "Dengue Occurrence Records",
+        "The Study"
+      ],
+      [
+        "Public Health Burden of Dengue",
+        "The Study"
+      ],
+      [
+        "Dengue Risk Map",
+        "Formal Modelling Framework"
+      ],
+      [
+        "Dengue Infection Estimates",
+        "Disease Control Strategies"
+      ],
+      [
+        "Aedes Mosquitoes",
+        "Dengue"
+      ],
+      [
+        "Disease Control Strategies",
+        "Licensed Vaccines"
+      ],
+      [
+        "Dengue",
+        "Specific Therapeutics"
+      ],
+      [
+        "Dengue Virus Infection",
+        "Public Health Burden of Dengue"
+      ],
+      [
+        "Disease Control Strategies",
+        "Vector Control Efforts"
+      ],
+      [
+        "Dengue",
+        "Tropics"
+      ],
+      [
+        "Dengue Risk",
+        "Rainfall"
+      ],
+      [
+        "Dengue Cohort Studies",
+        "Dengue Risk Map"
+      ],
+      [
+        "Formal Modelling Framework",
+        "The Study"
+      ],
+      [
+        "Disease Control Strategies",
+        "Specific Therapeutics"
+      ],
+      [
+        "Dengue Risk Map",
+        "Public Health Burden of Dengue"
+      ],
+      [
+        "Dengue Virus Infection",
+        "Global Distribution of Dengue Risk"
+      ],
+      [
+        "Dengue Risk Map",
+        "Population Surfaces"
+      ],
+      [
+        "Dengue Infection Estimates",
+        "World Health Organization (WHO)"
+      ],
+      [
+        "Dengue Risk",
+        "Temperature"
+      ],
+      [
+        "390 Million Dengue Infections Per Year",
+        "96 Million Apparent Infections"
+      ],
+      [
+        "Dengue Risk Map",
+        "Global Impact of Dengue"
+      ],
+      [
+        "Dengue Infection Estimates",
+        "National Dengue Reporting"
+      ],
+      [
+        "Dengue Infection Estimates",
+        "Public Health Burden of Dengue"
+      ],
+      [
+        "Dengue Risk Map",
+        "Economic Evaluation"
+      ]
+    ],
+    "count": 31,
+    "create_time": 1768532657,
+    "update_time": 1768532657,
+    "_id": "doc-60377a72fdc3717965e736959245d13b"
+  },
+  "doc-c5a9c7f6c8d5a025aaa946f21e20c24f": {
+    "relation_pairs": [
+      [
+        "Melanoides Tuberculata",
+        "Public Health Perspective"
+      ],
+      [
+        "Philophthalmus Gralli",
+        "Zoonotic Trematodes"
+      ],
+      [
+        "Additional Trematode Species",
+        "Melanoides Tuberculata"
+      ],
+      [
+        "Fishing Localities",
+        "Zoonotic Trematodes"
+      ],
+      [
+        "Melanoides Tuberculata",
+        "Pathogenic Trematodes"
+      ],
+      [
+        "Pathogenic Trematodes",
+        "United States"
+      ],
+      [
+        "Haplorchis Pumilio",
+        "Human Pathogens"
+      ],
+      [
+        "Melanoides Tuberculata",
+        "Southern California"
+      ],
+      [
+        "Current Human-Infection Risk In California",
+        "Public Health Perspective"
+      ],
+      [
+        "Centrocestus Formosanus",
+        "Zoonotic Trematodes"
+      ],
+      [
+        "Additional Trematode Species",
+        "The Americas"
+      ],
+      [
+        "Additional Trematode Species",
+        "People"
+      ],
+      [
+        "Melanoides Tuberculata",
+        "United States"
+      ],
+      [
+        "Human Eye",
+        "Philophthalmus Gralli"
+      ],
+      [
+        "Human-Infectious Trematodes",
+        "Southern California"
+      ],
+      [
+        "Haplorchis Pumilio",
+        "Zoonotic Trematodes"
+      ],
+      [
+        "Centrocestus Formosanus",
+        "Human Pathogens"
+      ],
+      [
+        "Parasites Of Melanoides Tuberculata",
+        "Public Health Perspective"
+      ],
+      [
+        "Human-Infectious Trematodes",
+        "Melanoides Tuberculata"
+      ]
+    ],
+    "count": 19,
+    "create_time": 1768534875,
+    "update_time": 1768534875,
+    "_id": "doc-c5a9c7f6c8d5a025aaa946f21e20c24f"
+  },
+  "doc-29d1f2eac0bfc83851ea893795371da5": {
+    "relation_pairs": [
+      [
+        "DBL-Technique",
+        "Eggs"
+      ],
+      [
+        "DBL-Technique",
+        "Toxic Chemicals"
+      ],
+      [
+        "Fume Cupboards",
+        "Local Veterinary Centres"
+      ],
+      [
+        "DBL-Technique",
+        "FE-Techniques"
+      ],
+      [
+        "Developing Countries",
+        "Vietnam"
+      ],
+      [
+        "Ether Solution",
+        "FE-Techniques"
+      ],
+      [
+        "Developing Countries",
+        "Local Veterinary Centres"
+      ],
+      [
+        "DBL-Technique",
+        "Special Equipment"
+      ],
+      [
+        "Local Veterinary Centres",
+        "Vietnam"
+      ],
+      [
+        "FE-Techniques",
+        "Fume Cupboards"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1768538365,
+    "update_time": 1768538365,
+    "_id": "doc-29d1f2eac0bfc83851ea893795371da5"
+  },
+  "doc-cfc57ba2c40c97d764eb89e189e00909": {
+    "relation_pairs": [
+      [
+        "Cross-Sectional Survey",
+        "Miracidia Hatch Test"
+      ],
+      [
+        "Anning River Valley",
+        "Sichuan Province"
+      ],
+      [
+        "Cross-Sectional Survey",
+        "Kato-Katz Thick Smear Procedure"
+      ],
+      [
+        "20 Villages",
+        "Cross-Sectional Survey"
+      ],
+      [
+        "4000 Villagers",
+        "Cross-Sectional Survey"
+      ],
+      [
+        "Cross-Sectional Survey",
+        "Schistosomiasis Japonicum"
+      ],
+      [
+        "20 Villages",
+        "Anning River Valley"
+      ],
+      [
+        "Autumn 2000",
+        "Cross-Sectional Survey"
+      ],
+      [
+        "Infection Status",
+        "Miracidia Hatch Test"
+      ],
+      [
+        "100m Sprint Record",
+        "World Athletics Championship"
+      ],
+      [
+        "Infection Status",
+        "Kato-Katz Thick Smear Procedure"
+      ]
+    ],
+    "count": 11,
+    "create_time": 1768538429,
+    "update_time": 1768538429,
+    "_id": "doc-cfc57ba2c40c97d764eb89e189e00909"
+  },
+  "doc-012d2a1f54a9109b525d7616d0bdf665": {
+    "relation_pairs": [
+      [
+        "O. Viverrini Infection",
+        "PCR"
+      ],
+      [
+        "H. Taichui Infection",
+        "Low-Intensity"
+      ],
+      [
+        "Low-Intensity",
+        "O. Viverrini Infection"
+      ],
+      [
+        "H. Taichui Infection",
+        "PCR"
+      ]
+    ],
+    "count": 4,
+    "create_time": 1768538461,
+    "update_time": 1768538461,
+    "_id": "doc-012d2a1f54a9109b525d7616d0bdf665"
+  },
+  "doc-8934b8f0f1a6ea64c03497182e856f1b": {
+    "relation_pairs": [
+      [
+        "Schistosomiasis",
+        "Serology"
+      ],
+      [
+        "Full Blood Count",
+        "Insufficient Screening Tools"
+      ],
+      [
+        "Insufficient Screening Tools",
+        "Retrospective Review"
+      ],
+      [
+        "Africa",
+        "Schistosomiasis"
+      ],
+      [
+        "Hospital For Tropical Diseases",
+        "Schistosomiasis"
+      ],
+      [
+        "Microscopy",
+        "Schistosomiasis"
+      ],
+      [
+        "Insufficient Screening Tools",
+        "Urine Dipstick"
+      ],
+      [
+        "Hospital For Tropical Diseases",
+        "London"
+      ],
+      [
+        "Insufficient Screening Tools",
+        "Serology"
+      ],
+      [
+        "London",
+        "UK"
+      ],
+      [
+        "Retrospective Review",
+        "Schistosomiasis"
+      ]
+    ],
+    "count": 11,
+    "create_time": 1768538539,
+    "update_time": 1768538539,
+    "_id": "doc-8934b8f0f1a6ea64c03497182e856f1b"
+  },
+  "doc-6637a4ff732a42270c95a322eb3e4fc6": {
+    "relation_pairs": [
+      [
+        "Schistosome-Endemic Areas",
+        "Target Populations"
+      ],
+      [
+        "Immunodiagnostic Techniques",
+        "Target Populations"
+      ],
+      [
+        "Infection Transmission",
+        "Schistosome-Endemic Areas"
+      ],
+      [
+        "Chemotherapy",
+        "Immunodiagnostic Techniques"
+      ],
+      [
+        "Immunodiagnostic Techniques",
+        "Infection Transmission"
+      ],
+      [
+        "100m Sprint Record",
+        "World Athletics Championship"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1768538577,
+    "update_time": 1768538577,
+    "_id": "doc-6637a4ff732a42270c95a322eb3e4fc6"
+  },
+  "doc-0249202b2e04fa514eaaf4e2c303acea": {
+    "relation_pairs": [
+      [
+        "Light Infections",
+        "PCR-Positive Tests"
+      ],
+      [
+        "PCR-Positive Tests",
+        "Parasitological Method"
+      ],
+      [
+        "Diagnosis",
+        "PCR-Positive Tests"
+      ]
+    ],
+    "count": 3,
+    "create_time": 1768538599,
+    "update_time": 1768538599,
+    "_id": "doc-0249202b2e04fa514eaaf4e2c303acea"
+  },
+  "doc-ad77c043b59272c028c58fbd6263f39a": {
+    "relation_pairs": [
+      [
+        "Eggs Per Gram Of Faeces (epg)",
+        "Worm Burden"
+      ],
+      [
+        "Eggs Per Gram Of Faeces (epg)",
+        "Quantitative Faecal Egg Count"
+      ],
+      [
+        "100m Sprint Record",
+        "Noah Carter"
+      ],
+      [
+        "Quantitative Faecal Egg Count",
+        "Stoll's Dilution Technique"
+      ],
+      [
+        "Number Of Worms Recovered",
+        "Quantitative Faecal Egg Count"
+      ],
+      [
+        "Carbon-Fiber Spikes",
+        "Noah Carter"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1768538645,
+    "update_time": 1768538645,
+    "_id": "doc-ad77c043b59272c028c58fbd6263f39a"
+  },
+  "doc-3b705a5fd7926bdff4ad166343047ed4": {
+    "relation_pairs": [
+      [
+        "C. Sinensis",
+        "Polymerase Chain Reaction"
+      ],
+      [
+        "C. Sinensis",
+        "LAMP Assay"
+      ],
+      [
+        "C. Sinensis",
+        "Fish"
+      ],
+      [
+        "Human Clonorchiasis",
+        "LAMP Assay"
+      ],
+      [
+        "LAMP Assay",
+        "Polymerase Chain Reaction"
+      ]
+    ],
+    "count": 5,
+    "create_time": 1768538685,
+    "update_time": 1768538685,
+    "_id": "doc-3b705a5fd7926bdff4ad166343047ed4"
+  },
+  "doc-18e589c37865ab506d25c271a1ebeb47": {
+    "relation_pairs": [
+      [
+        "O. viverrini",
+        "PCR Method"
+      ],
+      [
+        "Fish Quarantining",
+        "PCR Method"
+      ],
+      [
+        "Clonorchis Sinensis",
+        "O. viverrini"
+      ],
+      [
+        "PCR Method",
+        "Trematodes"
+      ],
+      [
+        "Fish",
+        "Trematodes"
+      ],
+      [
+        "Clonorchis Sinensis",
+        "PCR Method"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1768538716,
+    "update_time": 1768538716,
+    "_id": "doc-18e589c37865ab506d25c271a1ebeb47"
+  },
+  "doc-741c138905578052bbea5e72d3ce9cf7": {
+    "relation_pairs": [
+      [
+        "Federal Reserve Policy Announcement",
+        "Investor Confidence"
+      ],
+      [
+        "Hepatobiliary System",
+        "Infection"
+      ],
+      [
+        "Crude Oil",
+        "Supply Constraints"
+      ],
+      [
+        "Global Tech Index",
+        "Market Selloff"
+      ],
+      [
+        "Infection",
+        "Local Antibody Synthesis"
+      ],
+      [
+        "Oil Prices",
+        "Omega Energy"
+      ],
+      [
+        "Crude Oil",
+        "Price of Crude Oil"
+      ],
+      [
+        "Global Tech Index",
+        "Nexon Technologies"
+      ],
+      [
+        "IgG Antibody Isotypes",
+        "Local Antibody Synthesis"
+      ],
+      [
+        "Investor Concerns",
+        "Market Selloff"
+      ],
+      [
+        "Stock Markets",
+        "Tech Giants"
+      ],
+      [
+        "ELISA",
+        "Infection"
+      ],
+      [
+        "Omega Energy",
+        "Stock Markets"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Market Stability"
+      ],
+      [
+        "Analysts",
+        "Market Selloff"
+      ],
+      [
+        "Crude Oil",
+        "Strong Demand"
+      ],
+      [
+        "Commodity Markets",
+        "Mixed Sentiment"
+      ],
+      [
+        "Immunoprecipitation Data",
+        "Infection"
+      ],
+      [
+        "Interest Rates",
+        "Investor Concerns"
+      ],
+      [
+        "Host Tissue",
+        "Parasite"
+      ],
+      [
+        "Rate Hikes",
+        "Speculation"
+      ],
+      [
+        "Hamster",
+        "Hepatobiliary System"
+      ],
+      [
+        "Infection",
+        "Systemic Antibody Synthesis"
+      ],
+      [
+        "Hepatobiliary System",
+        "Parasite"
+      ],
+      [
+        "Market Selloff",
+        "Stock Markets"
+      ],
+      [
+        "Gold Futures",
+        "Price of Gold"
+      ],
+      [
+        "Nexon Technologies",
+        "Quarterly Earnings"
+      ],
+      [
+        "IgA Antibody Isotypes",
+        "Local Antibody Synthesis"
+      ],
+      [
+        "Infection",
+        "Parasite"
+      ],
+      [
+        "Investor Concerns",
+        "Regulatory Uncertainty"
+      ],
+      [
+        "Gold",
+        "Safe-Haven Assets"
+      ],
+      [
+        "Federal Reserve",
+        "Financial Experts"
+      ],
+      [
+        "Gold Futures",
+        "Market Selloff"
+      ],
+      [
+        "Investors",
+        "Safe-Haven Assets"
+      ]
+    ],
+    "count": 34,
+    "create_time": 1768538809,
+    "update_time": 1768538809,
+    "_id": "doc-741c138905578052bbea5e72d3ce9cf7"
+  },
+  "doc-04e148a1039e18d7262fc9c5d047f8ab": {
+    "relation_pairs": [
+      [
+        "Dilemma of Underestimating Disease Burden",
+        "PCR-Based Diagnostics"
+      ],
+      [
+        "Costs",
+        "Large-Scale Use"
+      ],
+      [
+        "Experience",
+        "PCR-Based Diagnostics"
+      ],
+      [
+        "Experience",
+        "Large-Scale Use"
+      ],
+      [
+        "100m Sprint Record",
+        "Noah Carter"
+      ],
+      [
+        "Dilemma of Underestimating Disease Burden",
+        "True Burden of Disease"
+      ],
+      [
+        "Carbon-Fiber Spikes",
+        "Noah Carter"
+      ],
+      [
+        "Faecal Egg Excretion",
+        "Infected Individuals"
+      ],
+      [
+        "Costs",
+        "PCR-Based Diagnostics"
+      ],
+      [
+        "Dilemma of Underestimating Disease Burden",
+        "Faecal Egg Excretion"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1768538842,
+    "update_time": 1768538842,
+    "_id": "doc-04e148a1039e18d7262fc9c5d047f8ab"
+  },
+  "doc-3d9595b06856e474a44aa9b2a3ed95a7": {
+    "relation_pairs": [
+      [
+        "Fish Hosts",
+        "Metacercariae Of O. Viverrini"
+      ],
+      [
+        "Mixed O. Taichui Infections",
+        "PCR-RFLP Profiles"
+      ],
+      [
+        "Endemic Areas",
+        "Mixed O. Taichui Infections"
+      ],
+      [
+        "Epidemiological Surveys",
+        "H. Taichui"
+      ],
+      [
+        "Metacercariae Of O. Viverrini",
+        "PCR-RFLP Profiles"
+      ],
+      [
+        "H. Taichui",
+        "PCR-RFLP Profiles"
+      ],
+      [
+        "Epidemiological Surveys",
+        "Metacercariae Of O. Viverrini"
+      ],
+      [
+        "Metacercariae Of O. Viverrini",
+        "O. Viverrini"
+      ],
+      [
+        "Epidemiological Surveys",
+        "Infections In Fish Hosts"
+      ],
+      [
+        "Fish Hosts",
+        "H. Taichui"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1768538879,
+    "update_time": 1768538879,
+    "_id": "doc-3d9595b06856e474a44aa9b2a3ed95a7"
+  },
+  "doc-d8aa5349e9d9a7250967a911875a6063": {
+    "relation_pairs": [
+      [
+        "Anthelmintic Treatment",
+        "Cats"
+      ],
+      [
+        "Anthelmintic Treatment",
+        "Farmers"
+      ],
+      [
+        "Anthelmintic Treatment",
+        "Dogs"
+      ],
+      [
+        "Farmers",
+        "Integrated FZT Control Programs"
+      ],
+      [
+        "Farmers",
+        "Raw Fish"
+      ],
+      [
+        "Anthelmintic Treatment",
+        "Pigs"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1768538928,
+    "update_time": 1768538928,
+    "_id": "doc-d8aa5349e9d9a7250967a911875a6063"
+  },
+  "doc-242cd5f8872ef5ebae9f67588eafd60b": {
+    "relation_pairs": [
+      [
+        "Immunological Diagnosis",
+        "Recombinant GST"
+      ],
+      [
+        "Bovine Schistosomiasis",
+        "Recombinant GST"
+      ],
+      [
+        "E. Coli",
+        "Recombinant GST"
+      ],
+      [
+        "Bovine Schistosomiasis",
+        "Immunological Diagnosis"
+      ],
+      [
+        "Antibody Against S. Japonicum",
+        "Recombinant GST"
+      ],
+      [
+        "Antibody Against S. Japonicum",
+        "Buffaloes"
+      ],
+      [
+        "Antibody Against S. Japonicum",
+        "S. Japonicum"
+      ],
+      [
+        "Bovine Schistosomiasis",
+        "Buffaloes"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1768538970,
+    "update_time": 1768538970,
+    "_id": "doc-242cd5f8872ef5ebae9f67588eafd60b"
+  },
+  "doc-2267b7d403708ba84d848c3e6ebdc424": {
+    "relation_pairs": [
+      [
+        "Federal Reserve Policy Announcement",
+        "Investor Confidence"
+      ],
+      [
+        "Crude Oil",
+        "Supply Constraints"
+      ],
+      [
+        "Disease Prevalence",
+        "Serological Surveys"
+      ],
+      [
+        "Oil Prices",
+        "Omega Energy"
+      ],
+      [
+        "Investor Concerns",
+        "Market Selloff"
+      ],
+      [
+        "Stock Markets",
+        "Tech Giants"
+      ],
+      [
+        "S. Japonicum Infection",
+        "iELISA"
+      ],
+      [
+        "Global Tech Index",
+        "Tech Giants"
+      ],
+      [
+        "Federal Reserve",
+        "Rate Hikes"
+      ],
+      [
+        "Commodity Markets",
+        "Crude Oil"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Market Stability"
+      ],
+      [
+        "Analysts",
+        "Market Selloff"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Rate Hikes"
+      ],
+      [
+        "Crude Oil",
+        "Strong Demand"
+      ],
+      [
+        "Interest Rates",
+        "Investor Concerns"
+      ],
+      [
+        "This Study",
+        "iELISA"
+      ],
+      [
+        "Market Selloff",
+        "Stock Markets"
+      ],
+      [
+        "Nexon Technologies",
+        "Quarterly Earnings"
+      ],
+      [
+        "Cattle",
+        "S. Japonicum Infection"
+      ],
+      [
+        "Commodity Markets",
+        "Gold"
+      ],
+      [
+        "Cattle",
+        "iELISA"
+      ],
+      [
+        "Serological Surveys",
+        "iELISA"
+      ],
+      [
+        "Disease Prevalence",
+        "S. Japonicum Infection"
+      ],
+      [
+        "Investor Concerns",
+        "Regulatory Uncertainty"
+      ],
+      [
+        "Gold",
+        "Safe-Haven Assets"
+      ],
+      [
+        "Federal Reserve",
+        "Financial Experts"
+      ]
+    ],
+    "count": 26,
+    "create_time": 1768539027,
+    "update_time": 1768539027,
+    "_id": "doc-2267b7d403708ba84d848c3e6ebdc424"
+  },
+  "doc-213dd01df1213177a022c154bb9c179e": {
+    "relation_pairs": [
+      [
+        "Antibodies",
+        "Antibody Detection"
+      ],
+      [
+        "Antibody Detection",
+        "Recombinant FBPA of S. Japonicum"
+      ],
+      [
+        "Antibody Detection",
+        "Water Buffaloes"
+      ],
+      [
+        "Antibodies",
+        "S. Japonicum"
+      ]
+    ],
+    "count": 4,
+    "create_time": 1768539056,
+    "update_time": 1768539056,
+    "_id": "doc-213dd01df1213177a022c154bb9c179e"
+  },
+  "doc-167783cb970adf7cf334810fd2a8092f": {
+    "relation_pairs": [
+      [
+        "Human Schistosomiasis Japonica",
+        "IgY-IMB-ELISA"
+      ]
+    ],
+    "count": 1,
+    "create_time": 1768539077,
+    "update_time": 1768539077,
+    "_id": "doc-167783cb970adf7cf334810fd2a8092f"
+  },
+  "doc-4d3bc18d8e54a218be10807e3843a0a2": {
+    "relation_pairs": [
+      [
+        "Immunodiagnostic Approach",
+        "Public Health Use"
+      ],
+      [
+        "Target Individuals",
+        "Treatment"
+      ],
+      [
+        "Re-treatment",
+        "Target Individuals"
+      ],
+      [
+        "Immunodiagnostic Approach",
+        "Individual Identification Of Real Infections"
+      ],
+      [
+        "Seroepidemiological Approach",
+        "Target Individuals"
+      ]
+    ],
+    "count": 5,
+    "create_time": 1768539095,
+    "update_time": 1768539095,
+    "_id": "doc-4d3bc18d8e54a218be10807e3843a0a2"
+  },
+  "doc-c4f0a5936dcb5c74c221d4f619d8f45a": {
+    "relation_pairs": [
+      [
+        "Diagnosis",
+        "ELISA"
+      ],
+      [
+        "Diagnosis",
+        "O. Viverrini Infection"
+      ]
+    ],
+    "count": 2,
+    "create_time": 1768539119,
+    "update_time": 1768539119,
+    "_id": "doc-c4f0a5936dcb5c74c221d4f619d8f45a"
+  },
+  "doc-d16ae02f8a44fc592d3dcd4065f0701f": {
+    "relation_pairs": [
+      [
+        "Nematode Infections",
+        "Universal Immunodiagnostic Kit"
+      ],
+      [
+        "Human Trematodes",
+        "Universal Immunodiagnostic Kit"
+      ],
+      [
+        "CsTP21.1",
+        "Universal Immunodiagnostic Kit"
+      ],
+      [
+        "100m Sprint Record",
+        "World Athletics Championship"
+      ]
+    ],
+    "count": 4,
+    "create_time": 1768539140,
+    "update_time": 1768539140,
+    "_id": "doc-d16ae02f8a44fc592d3dcd4065f0701f"
+  },
+  "doc-794b1d58cb9a774ddce4478b53693842": {
+    "relation_pairs": [
+      [
+        "100m Sprint",
+        "100m Sprint Record"
+      ],
+      [
+        "100m Sprint",
+        "Noah Carter"
+      ],
+      [
+        "IgG4",
+        "Sera"
+      ],
+      [
+        "Clonorchiasis Patients",
+        "Sera"
+      ],
+      [
+        "100m Sprint Record",
+        "Noah Carter"
+      ],
+      [
+        "ELISA",
+        "RCsCatL-Propeptide"
+      ],
+      [
+        "Cross-Reaction",
+        "RCsCatL-Propeptide"
+      ],
+      [
+        "IgG4",
+        "RCsCatL-Propeptide"
+      ],
+      [
+        "Carbon-Fiber Spikes",
+        "Noah Carter"
+      ],
+      [
+        "RCsCatL-Propeptide",
+        "Sensitivity"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1768539174,
+    "update_time": 1768539174,
+    "_id": "doc-794b1d58cb9a774ddce4478b53693842"
+  },
+  "doc-db410740acd4c96d2a55cda957a5c3b1": {
+    "relation_pairs": [
+      [
+        "Diagnostic Quality",
+        "Weak Cross-Reactivity"
+      ],
+      [
+        "Immune Sera",
+        "Mice"
+      ],
+      [
+        "Immune Sera",
+        "ROvESP"
+      ],
+      [
+        "Schistosoma Mansoni",
+        "Trematodes"
+      ],
+      [
+        "ROvESP",
+        "Western Blots"
+      ],
+      [
+        "Diagnostic Quality",
+        "Trematodes"
+      ],
+      [
+        "Fasciola Gigantica",
+        "Trematodes"
+      ],
+      [
+        "Schistosoma Mekongi",
+        "Trematodes"
+      ],
+      [
+        "Mice",
+        "Schistosoma Mekongi"
+      ],
+      [
+        "Diagnostic Quality",
+        "ROvESP"
+      ],
+      [
+        "Fasciola Gigantica",
+        "Mice"
+      ],
+      [
+        "Mice",
+        "Schistosoma Mansoni"
+      ]
+    ],
+    "count": 12,
+    "create_time": 1768539216,
+    "update_time": 1768539216,
+    "_id": "doc-db410740acd4c96d2a55cda957a5c3b1"
+  },
+  "doc-45a11ad2880b7620ce20fe29f1134147": {
+    "relation_pairs": [
+      [
+        "Patients",
+        "Pulmonary Aspergillosis"
+      ],
+      [
+        "Antigen Fractions of Aspergillus Fumigatus",
+        "IgG Antibodies"
+      ],
+      [
+        "Patients",
+        "Sera"
+      ],
+      [
+        "Antigen Fractions of Aspergillus Fumigatus",
+        "Fraction VIII"
+      ],
+      [
+        "ELISA",
+        "Sera"
+      ],
+      [
+        "Fraction VIII",
+        "Molecular Weight Of 70,000"
+      ],
+      [
+        "ELISA",
+        "IgG Antibodies"
+      ],
+      [
+        "Antigen Fractions of Aspergillus Fumigatus",
+        "Aspergillus Fumigatus"
+      ],
+      [
+        "Controls",
+        "Sera"
+      ],
+      [
+        "Diagnostic Significance",
+        "Pulmonary Aspergillosis"
+      ],
+      [
+        "Diagnostic Significance",
+        "Fraction VIII"
+      ],
+      [
+        "100m Sprint Record",
+        "World Athletics Championship"
+      ]
+    ],
+    "count": 12,
+    "create_time": 1768539265,
+    "update_time": 1768539265,
+    "_id": "doc-45a11ad2880b7620ce20fe29f1134147"
+  },
+  "doc-89f546be997c645dad9cafdf67d93b0e": {
+    "relation_pairs": [
+      [
+        "Mass Chemotherapy",
+        "Praziquantel"
+      ],
+      [
+        "Mass Chemotherapy",
+        "Sustainable Control Programs"
+      ],
+      [
+        "Morbidity",
+        "Sustainable Control Programs"
+      ],
+      [
+        "Infections",
+        "Sustainable Control Programs"
+      ],
+      [
+        "Education for Prevention of Re-infection",
+        "Sustainable Control Programs"
+      ],
+      [
+        "Endemic Areas",
+        "Sustainable Control Programs"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1768539290,
+    "update_time": 1768539290,
+    "_id": "doc-89f546be997c645dad9cafdf67d93b0e"
+  },
+  "doc-4f9c114fc3d1c11b46a430c5a032db4a": {
+    "relation_pairs": [
+      [
+        "Eggs' DNA",
+        "PCR Based Detection"
+      ],
+      [
+        "PCR Based Detection",
+        "Repeated Sequences"
+      ],
+      [
+        "O. Viverrini",
+        "O. Viverrini Specific DNA Probe"
+      ],
+      [
+        "O. Viverrini Specific DNA Probe",
+        "PCR Based Detection"
+      ],
+      [
+        "Classical Methods",
+        "PCR Based Detection"
+      ],
+      [
+        "Eggs' DNA",
+        "Stool Samples"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1768539321,
+    "update_time": 1768539321,
+    "_id": "doc-4f9c114fc3d1c11b46a430c5a032db4a"
+  },
+  "doc-e8b42fd47496d3efb4bab267564a345d": {
+    "relation_pairs": [
+      [
+        "Field",
+        "Sero-Epidemiological Surveys"
+      ],
+      [
+        "Clinical Settings",
+        "DIGFA"
+      ],
+      [
+        "DIGFA",
+        "Screening"
+      ],
+      [
+        "Field",
+        "Screening"
+      ],
+      [
+        "100m Sprint Record",
+        "Noah Carter"
+      ],
+      [
+        "DIGFA",
+        "S. japonicum"
+      ],
+      [
+        "DIGFA",
+        "Specific Instruments"
+      ],
+      [
+        "Carbon-Fiber Spikes",
+        "Noah Carter"
+      ],
+      [
+        "DIGFA",
+        "Sero-Epidemiological Surveys"
+      ],
+      [
+        "DIGFA",
+        "Diagnosis"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1768539355,
+    "update_time": 1768539355,
+    "_id": "doc-e8b42fd47496d3efb4bab267564a345d"
+  },
+  "doc-97e6cdb4d02fc715d7dc1ee3e9c2a50e": {
+    "relation_pairs": [
+      [
+        "DDIA",
+        "Schistosomiasis Mekongi"
+      ],
+      [
+        "DDIA",
+        "S. Japonicum SEA Antigens"
+      ],
+      [
+        "Co-Endemic Areas For O. Viverrini",
+        "O. Viverrini"
+      ],
+      [
+        "Co-Endemic Areas For O. Viverrini",
+        "DDIA"
+      ]
+    ],
+    "count": 4,
+    "create_time": 1768539398,
+    "update_time": 1768539398,
+    "_id": "doc-97e6cdb4d02fc715d7dc1ee3e9c2a50e"
+  },
+  "doc-672eae254cb0547aa2c85fafcd22f7ed": {
+    "relation_pairs": [
+      [
+        "Clonorchis Sinensis ELISA",
+        "Low Specificity"
+      ],
+      [
+        "Clonorchis Sinensis ELISA",
+        "Prevalence Survey"
+      ],
+      [
+        "Clonorchis Sinensis ELISA",
+        "Diagnosis"
+      ],
+      [
+        "High-Risk Group",
+        "Prevalence Survey"
+      ],
+      [
+        "C. Sinensis Infestation",
+        "Clonorchis Sinensis ELISA"
+      ],
+      [
+        "Clonorchis Sinensis ELISA",
+        "Intradermal Test"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1768539430,
+    "update_time": 1768539430,
+    "_id": "doc-672eae254cb0547aa2c85fafcd22f7ed"
+  },
+  "doc-de1dfa85f35198065a93de9b311c60b4": {
+    "relation_pairs": [
+      [
+        "Federal Reserve Policy Announcement",
+        "Investor Confidence"
+      ],
+      [
+        "Crude Oil",
+        "Supply Constraints"
+      ],
+      [
+        "Omega Energy",
+        "Rising Oil Prices"
+      ],
+      [
+        "Assay",
+        "Schistosome Infection"
+      ],
+      [
+        "Gold Futures",
+        "Investors"
+      ],
+      [
+        "Antibody-Detection Methods",
+        "Schistosome Infection"
+      ],
+      [
+        "Commodity Markets",
+        "Crude Oil"
+      ],
+      [
+        "Analysts",
+        "Market Selloff"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Market Stability"
+      ],
+      [
+        "Commodity Markets",
+        "Gold Futures"
+      ],
+      [
+        "Crude Oil",
+        "Strong Demand"
+      ],
+      [
+        "Gold Futures",
+        "Safe-Haven Assets"
+      ],
+      [
+        "Federal Reserve",
+        "Potential Rate Hikes"
+      ],
+      [
+        "Investor Concerns",
+        "Rising Interest Rates"
+      ],
+      [
+        "Market Selloff",
+        "Stock Markets"
+      ],
+      [
+        "Nexon Technologies",
+        "Quarterly Earnings"
+      ],
+      [
+        "Circulating-Antigen Detection",
+        "Schistosome Infection"
+      ],
+      [
+        "Market Selloff",
+        "Tech Giants"
+      ],
+      [
+        "Investor Concerns",
+        "Regulatory Uncertainty"
+      ],
+      [
+        "Federal Reserve",
+        "Financial Experts"
+      ],
+      [
+        "Parasitological Microscopy",
+        "Schistosome Infection"
+      ]
+    ],
+    "count": 21,
+    "create_time": 1768539486,
+    "update_time": 1768539486,
+    "_id": "doc-de1dfa85f35198065a93de9b311c60b4"
+  },
+  "doc-d74bdf51589a721125f34efbec1c60b8": {
+    "relation_pairs": [
+      [
+        "Other Reports",
+        "Selected Populations"
+      ],
+      [
+        "Active Infection",
+        "S. Japonicum"
+      ],
+      [
+        "Active Infection",
+        "Anti-Egg Antigen IgG-ELISA"
+      ],
+      [
+        "Authors' Community Based Sample",
+        "Poor Performance Characteristics"
+      ],
+      [
+        "Anti-Egg Antigen IgG-ELISA",
+        "Poor Performance Characteristics"
+      ],
+      [
+        "100m Sprint Record",
+        "Noah Carter"
+      ],
+      [
+        "Other Reports",
+        "Poor Performance Characteristics"
+      ],
+      [
+        "Carbon-Fiber Spikes",
+        "Noah Carter"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1768539518,
+    "update_time": 1768539518,
+    "_id": "doc-d74bdf51589a721125f34efbec1c60b8"
+  },
+  "doc-a240600eef5258b3daf148adf8e8087a": {
+    "relation_pairs": [
+      [
+        "Lower Mekong Basin",
+        "O. viverrini"
+      ],
+      [
+        "C. sinensis",
+        "Treatment and Control Programs"
+      ],
+      [
+        "CCA Incidence",
+        "Lower Mekong Basin"
+      ],
+      [
+        "Lower Mekong Basin",
+        "Treatment and Control Programs"
+      ],
+      [
+        "O. viverrini",
+        "Treatment and Control Programs"
+      ],
+      [
+        "Carbon-Fiber Spikes",
+        "Noah Carter"
+      ],
+      [
+        "C. sinensis",
+        "Lower Mekong Basin"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1768539552,
+    "update_time": 1768539552,
+    "_id": "doc-a240600eef5258b3daf148adf8e8087a"
+  },
+  "doc-85aeceedda26a4121170818356b6da95": {
+    "relation_pairs": [
+      [
+        "Nam Dinh Province",
+        "Rang Dong Commune"
+      ],
+      [
+        "Humans",
+        "The Investigation"
+      ],
+      [
+        "Fish-Borne Trematodes",
+        "The Investigation"
+      ],
+      [
+        "Distinct Groups",
+        "The Investigation"
+      ],
+      [
+        "Distinct Groups",
+        "Fish-Borne Trematodes"
+      ],
+      [
+        "Rang Dong Commune",
+        "The Investigation"
+      ],
+      [
+        "Nam Dinh Province",
+        "Vietnam"
+      ],
+      [
+        "Molecular Identification",
+        "The Investigation"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1768539595,
+    "update_time": 1768539595,
+    "_id": "doc-85aeceedda26a4121170818356b6da95"
+  },
+  "doc-30162a1defec7ca71236fd24fbcef8a3": {
+    "relation_pairs": [
+      [
+        "Drug Efficacy Evaluation",
+        "PCR"
+      ],
+      [
+        "Concordant Results",
+        "PCR"
+      ],
+      [
+        "Early Diagnosis",
+        "PCR"
+      ],
+      [
+        "PCR",
+        "Re-infection Post-treatment"
+      ],
+      [
+        "Concordant Results",
+        "Worm Burden"
+      ],
+      [
+        "Concordant Results",
+        "FECT"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1768539640,
+    "update_time": 1768539640,
+    "_id": "doc-30162a1defec7ca71236fd24fbcef8a3"
+  },
+  "doc-879b5135aa54452de1963b365453a951": {
+    "relation_pairs": [
+      [
+        "COI Sequencing",
+        "Metacercariae"
+      ],
+      [
+        "Opisthorchis Viverrini",
+        "Small Liver Fluke"
+      ],
+      [
+        "Adult Worms",
+        "Morphological Features of Adult Worms"
+      ],
+      [
+        "Morphological Features of Adult Worms",
+        "Opisthorchis Viverrini"
+      ],
+      [
+        "Small Liver Fluke",
+        "Study"
+      ],
+      [
+        "COI Sequencing",
+        "Opisthorchis Viverrini"
+      ],
+      [
+        "100m Sprint Record",
+        "World Athletics Championship"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1768539678,
+    "update_time": 1768539678,
+    "_id": "doc-879b5135aa54452de1963b365453a951"
+  },
+  "doc-5cef9c26c71a9aaa6d5d31b93abccf82": {
+    "relation_pairs": [
+      [
+        "Federal Reserve",
+        "Federal Reserve Policy Announcement"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Investor Confidence"
+      ],
+      [
+        "Oil Prices",
+        "Supply Constraints"
+      ],
+      [
+        "Crude Oil",
+        "Oil Prices"
+      ],
+      [
+        "Global Tech Index",
+        "Market Selloff"
+      ],
+      [
+        "Oil Prices",
+        "Omega Energy"
+      ],
+      [
+        "Best-Fit Substitution Models",
+        "Maximum Likelihood Analyses"
+      ],
+      [
+        "Investor Concerns",
+        "Market Selloff"
+      ],
+      [
+        "Ancestral States And Sequences",
+        "Maximum Likelihood Analyses"
+      ],
+      [
+        "Market Selloff",
+        "Midday Trading"
+      ],
+      [
+        "Federal Reserve",
+        "Rate Hikes"
+      ],
+      [
+        "MEGA5",
+        "Maximum Likelihood Analyses"
+      ],
+      [
+        "Commodity Markets",
+        "Crude Oil"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Market Stability"
+      ],
+      [
+        "Commodity Markets",
+        "Gold Futures"
+      ],
+      [
+        "Analysts",
+        "Market Selloff"
+      ],
+      [
+        "Oil Prices",
+        "Strong Demand"
+      ],
+      [
+        "Gold Futures",
+        "Safe-Haven Assets"
+      ],
+      [
+        "Investor Concerns",
+        "Rising Interest Rates"
+      ],
+      [
+        "Market Selloff",
+        "Stock Markets"
+      ],
+      [
+        "Nexon Technologies",
+        "Quarterly Earnings"
+      ],
+      [
+        "Market Selloff",
+        "Nexon Technologies"
+      ],
+      [
+        "Evolutionary Trees",
+        "Maximum Likelihood Analyses"
+      ],
+      [
+        "Evolutionary Rates Site-By-Site",
+        "Maximum Likelihood Analyses"
+      ],
+      [
+        "Market Selloff",
+        "Tech Giants"
+      ],
+      [
+        "Investor Concerns",
+        "Regulatory Uncertainty"
+      ],
+      [
+        "Federal Reserve",
+        "Financial Experts"
+      ]
+    ],
+    "count": 27,
+    "create_time": 1768540257,
+    "update_time": 1768540257,
+    "_id": "doc-5cef9c26c71a9aaa6d5d31b93abccf82"
+  },
+  "doc-214b3468d37dada8fb86170176092c52": {
+    "relation_pairs": [
+      [
+        "Large Open Reading Frame",
+        "Nucleotide Sequences"
+      ],
+      [
+        "CDNA Clones",
+        "Nucleotide Sequences"
+      ],
+      [
+        "European Strains",
+        "Segment A"
+      ],
+      [
+        "European Strains",
+        "Infectious Bursal Disease Virus"
+      ],
+      [
+        "N Terminal Of VP4",
+        "VP4"
+      ],
+      [
+        "Region In The Centre Of The Segment",
+        "Segment A"
+      ],
+      [
+        "Large Open Reading Frame",
+        "Segment A"
+      ],
+      [
+        "N Terminal Of VP4",
+        "Region In The Centre Of The Segment"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1768540291,
+    "update_time": 1768540291,
+    "_id": "doc-214b3468d37dada8fb86170176092c52"
+  },
+  "doc-a24535c690694ea0dca88b58ffad8df3": {
+    "relation_pairs": [
+      [
+        "Amino Acid Mutation",
+        "Histidine"
+      ],
+      [
+        "Amino Acid Mutation",
+        "Position 253"
+      ],
+      [
+        "Amino Acid Mutation",
+        "Asparagine"
+      ],
+      [
+        "Attenuated IBDV",
+        "Virulence"
+      ],
+      [
+        "Position 253",
+        "VP2"
+      ],
+      [
+        "Amino Acid Mutation",
+        "Glutamine"
+      ],
+      [
+        "Amino Acid Mutation",
+        "Virulence"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1768540325,
+    "update_time": 1768540325,
+    "_id": "doc-a24535c690694ea0dca88b58ffad8df3"
+  },
+  "doc-38be32350c477ea008cc1ed65bb00200": {
+    "relation_pairs": [
+      [
+        "Genomic Segment A",
+        "Major Conformational Protective Epitope"
+      ],
+      [
+        "Cloning",
+        "Genomic Segment A"
+      ],
+      [
+        "Tokyo",
+        "World Athletics Championship"
+      ],
+      [
+        "European Very Virulent (VV) Isolates",
+        "Genomic Segment A"
+      ],
+      [
+        "Genomic Segment A",
+        "Reverse Transcription"
+      ],
+      [
+        "Amplification",
+        "Genomic Segment A"
+      ],
+      [
+        "European Very Virulent (VV) Isolates",
+        "Infectious Bursal Disease Virus"
+      ],
+      [
+        "Carbon-Fiber Spikes",
+        "Noah Carter"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1768540362,
+    "update_time": 1768540362,
+    "_id": "doc-38be32350c477ea008cc1ed65bb00200"
+  },
+  "doc-4c6fa496f303accae9be7d0ff7aeaa8b": {
+    "relation_pairs": [
+      [
+        "Large Water Storage Containers",
+        "Mosquito Control Strategy"
+      ],
+      [
+        "Mosquito Control Strategy",
+        "Vietnam"
+      ],
+      [
+        "A Aegypti",
+        "Large Water Storage Containers"
+      ]
+    ],
+    "count": 3,
+    "create_time": 1768540755,
+    "update_time": 1768540755,
+    "_id": "doc-4c6fa496f303accae9be7d0ff7aeaa8b"
+  },
+  "doc-3991fe2061a752f9eb776d3fcc681c33": {
+    "relation_pairs": [
+      [
+        "Faeces",
+        "Small Trematode Eggs"
+      ],
+      [
+        "Copro-Diagnostic Techniques",
+        "Small Trematode Eggs"
+      ],
+      [
+        "Dogs",
+        "Faeces"
+      ],
+      [
+        "Dogs",
+        "Vietnam"
+      ]
+    ],
+    "count": 4,
+    "create_time": 1768542051,
+    "update_time": 1768542051,
+    "_id": "doc-3991fe2061a752f9eb776d3fcc681c33"
+  },
+  "doc-2ff3100b16229e55507c0da581d4f787": {
+    "relation_pairs": [
+      [
+        "LAMP Method",
+        "Point-Of-Care Diagnosis"
+      ],
+      [
+        "Differential Diagnosis",
+        "Endemic Areas"
+      ],
+      [
+        "Differential Diagnosis",
+        "LAMP Method"
+      ],
+      [
+        "Endemic Areas",
+        "Intestinal Fluke Infections"
+      ],
+      [
+        "Differential Diagnosis",
+        "O. Viverrini"
+      ],
+      [
+        "Endemic Areas",
+        "O. Viverrini"
+      ],
+      [
+        "Differential Diagnosis",
+        "Intestinal Fluke Infections"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1768542078,
+    "update_time": 1768542078,
+    "_id": "doc-2ff3100b16229e55507c0da581d4f787"
+  },
+  "doc-f4ca9c4f44e888a9a6574f84b313e13f": {
+    "relation_pairs": [
+      [
+        "Epidemiology Studies",
+        "Mito-OvLAMP"
+      ],
+      [
+        "Mito-OvLAMP",
+        "Molecular Detection"
+      ],
+      [
+        "100m Sprint Record",
+        "Carbon-Fiber Spikes"
+      ],
+      [
+        "Mito-OvLAMP",
+        "Opisthorchiasis"
+      ],
+      [
+        "Mito-OvLAMP",
+        "Trematodiasis"
+      ],
+      [
+        "O. Viverrini",
+        "Trematodiasis"
+      ],
+      [
+        "O. Viverrini",
+        "Opisthorchiasis"
+      ],
+      [
+        "O. Viverrini",
+        "Regions Or Countries"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1768542126,
+    "update_time": 1768542126,
+    "_id": "doc-f4ca9c4f44e888a9a6574f84b313e13f"
+  },
+  "doc-c78377889913eff94530c611f28f2464": {
+    "relation_pairs": [
+      [
+        "Coproantigen Capture ELISA",
+        "Mass Screening"
+      ],
+      [
+        "CsAg",
+        "Rat Feces"
+      ],
+      [
+        "Clonorchiasis-Endemic Areas",
+        "Mass Screening"
+      ],
+      [
+        "Human Subjects",
+        "Mass Screening"
+      ],
+      [
+        "Coproantigen Capture ELISA",
+        "CsAg"
+      ]
+    ],
+    "count": 5,
+    "create_time": 1768542155,
+    "update_time": 1768542155,
+    "_id": "doc-c78377889913eff94530c611f28f2464"
+  },
+  "doc-6227d854559ab8d6412ebf0a9615a949": {
+    "relation_pairs": [
+      [
+        "Lecithodendriid Flukes",
+        "Research Results"
+      ],
+      [
+        "O. Viverrini",
+        "Research Results"
+      ],
+      [
+        "Intensity Of Infection",
+        "Riverside Localities"
+      ],
+      [
+        "Carbon-Fiber Spikes",
+        "Noah Carter"
+      ],
+      [
+        "Mekong River Basin",
+        "Riverside Localities"
+      ],
+      [
+        "Relative Proportion Of Fluke Species",
+        "Research Results"
+      ],
+      [
+        "O. Viverrini",
+        "Riverside Localities"
+      ],
+      [
+        "Intensity Of Infection",
+        "Research Results"
+      ],
+      [
+        "Heterophyid Flukes",
+        "Riverside Localities"
+      ],
+      [
+        "100m Sprint Record",
+        "World Athletics Championship"
+      ],
+      [
+        "Lecithodendriid Flukes",
+        "Riverside Localities"
+      ],
+      [
+        "Relative Proportion Of Fluke Species",
+        "Riverside Localities"
+      ],
+      [
+        "Heterophyid Flukes",
+        "Research Results"
+      ]
+    ],
+    "count": 13,
+    "create_time": 1768542202,
+    "update_time": 1768542202,
+    "_id": "doc-6227d854559ab8d6412ebf0a9615a949"
+  },
+  "doc-321a4a387b4cf241e6e1a90deec4b9c1": {
+    "relation_pairs": [
+      [
+        "Antibody Detection Methods",
+        "Low Infection Intensity"
+      ],
+      [
+        "Antigen Detection",
+        "Relative Insensitivity"
+      ],
+      [
+        "Antibody Detection Methods",
+        "Relative Insensitivity"
+      ],
+      [
+        "Parasitology",
+        "Relative Insensitivity"
+      ]
+    ],
+    "count": 4,
+    "create_time": 1768542242,
+    "update_time": 1768542242,
+    "_id": "doc-321a4a387b4cf241e6e1a90deec4b9c1"
+  },
+  "doc-574cfb1f85240b99afc02b339e81d451": {
+    "relation_pairs": [
+      [
+        "Parasite",
+        "The Area"
+      ],
+      [
+        "Definitive Host",
+        "High Prevalence"
+      ],
+      [
+        "Fish",
+        "High Prevalence"
+      ],
+      [
+        "High Prevalence",
+        "Parasite"
+      ],
+      [
+        "Cyprinids Species",
+        "Intermediate Hosts"
+      ],
+      [
+        "Cyprinids Species",
+        "Human Consumption"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1768542273,
+    "update_time": 1768542273,
+    "_id": "doc-574cfb1f85240b99afc02b339e81d451"
+  },
+  "doc-f701e379db1fb2ab414a1a215aa2e208": {
+    "relation_pairs": [
+      [
+        "Integrative, Inter-disciplinary And International Research",
+        "Parasite Ecology"
+      ],
+      [
+        "Integrative, Inter-disciplinary And International Research",
+        "Socio-economics"
+      ],
+      [
+        "Health Outreach Campaigns",
+        "Northeast Thailand"
+      ],
+      [
+        "Health Outreach Campaigns",
+        "Opisthorchiasis"
+      ],
+      [
+        "Integrative, Inter-disciplinary And International Research",
+        "Public Health Awareness"
+      ],
+      [
+        "Human Behavior",
+        "Integrative, Inter-disciplinary And International Research"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1768542294,
+    "update_time": 1768542294,
+    "_id": "doc-f701e379db1fb2ab414a1a215aa2e208"
+  },
+  "doc-902f25199a26ad8f7763d7d79a7578d9": {
+    "relation_pairs": [
+      [
+        "Market Selloff",
+        "Regulatory Uncertainty"
+      ],
+      [
+        "Nexon Technologies",
+        "Quarterly Earnings"
+      ],
+      [
+        "Commodity Markets",
+        "Crude Oil"
+      ],
+      [
+        "Oil Prices",
+        "Supply Constraints"
+      ],
+      [
+        "Federal Reserve",
+        "Financial Experts"
+      ],
+      [
+        "Oil Prices",
+        "Strong Demand"
+      ],
+      [
+        "Sandwich Enzyme-Linked Immunosorbent Assay (ELISA)",
+        "Sensitivity"
+      ],
+      [
+        "Market Selloff",
+        "Stock Markets"
+      ],
+      [
+        "Faecal Extracts",
+        "Groups of Individuals"
+      ],
+      [
+        "Crude Oil",
+        "Oil Prices"
+      ],
+      [
+        "Federal Reserve",
+        "Interest Rates"
+      ],
+      [
+        "Commodity Markets",
+        "Gold Futures"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Investor Confidence"
+      ],
+      [
+        "Interest Rates",
+        "Market Selloff"
+      ],
+      [
+        "Faecal Extracts",
+        "Opisthorchis Viverrini Antigen"
+      ],
+      [
+        "Sandwich Enzyme-Linked Immunosorbent Assay (ELISA)",
+        "Specificity"
+      ],
+      [
+        "Market Selloff",
+        "Tech Giants"
+      ],
+      [
+        "Analysts",
+        "Market Selloff"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Market Stability"
+      ],
+      [
+        "Opisthorchis Viverrini Antigen",
+        "Sandwich Enzyme-Linked Immunosorbent Assay (ELISA)"
+      ],
+      [
+        "Oil Prices",
+        "Omega Energy"
+      ]
+    ],
+    "count": 21,
+    "create_time": 1768542340,
+    "update_time": 1768542340,
+    "_id": "doc-902f25199a26ad8f7763d7d79a7578d9"
+  },
+  "doc-4611f9c03ca9b96a38336cdb5c97b72b": {
+    "relation_pairs": [
+      [
+        "Noah Carter",
+        "World Athletics Championship"
+      ],
+      [
+        "Classical Parasitological Technic",
+        "Monoclonal Antibody-Based Enzyme-Linked Immunosorbent Assay"
+      ],
+      [
+        "Classical Parasitological Technic",
+        "DNA Hybridization Techniques"
+      ],
+      [
+        "Carbon-Fiber Spikes",
+        "Noah Carter"
+      ],
+      [
+        "Monoclonal Antibody-Based Enzyme-Linked Immunosorbent Assay",
+        "Opisthorchis Viverrini Infection"
+      ],
+      [
+        "DNA Hybridization Techniques",
+        "Opisthorchis Viverrini Infection"
+      ],
+      [
+        "Tokyo",
+        "World Athletics Championship"
+      ],
+      [
+        "Humans",
+        "Opisthorchis Viverrini Infection"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1768542382,
+    "update_time": 1768542382,
+    "_id": "doc-4611f9c03ca9b96a38336cdb5c97b72b"
+  },
+  "doc-3a22ba0ee5554efe28c7b429f270119f": {
+    "relation_pairs": [
+      [
+        "Mass Anthelmintic Chemotherapy",
+        "Mass Therapy"
+      ],
+      [
+        "Competing Demands",
+        "Mass Anthelmintic Chemotherapy"
+      ],
+      [
+        "Mass Anthelmintic Chemotherapy",
+        "Scarce Health Resources"
+      ],
+      [
+        "Competing Demands",
+        "Scarce Public Funds"
+      ],
+      [
+        "Information",
+        "Mass Therapy"
+      ]
+    ],
+    "count": 5,
+    "create_time": 1768542420,
+    "update_time": 1768542420,
+    "_id": "doc-3a22ba0ee5554efe28c7b429f270119f"
+  },
+  "doc-cde80247d12e5d3d91def48f97c1b439": {
+    "relation_pairs": [
+      [
+        "Individual Countries",
+        "Tailored Solutions"
+      ],
+      [
+        "High-Profile Regional And International Institutions",
+        "Individual Countries"
+      ],
+      [
+        "Global Governance Of One Health",
+        "One Health"
+      ],
+      [
+        "100m Sprint Record",
+        "World Athletics Championship"
+      ],
+      [
+        "Global Governance Of One Health",
+        "High-Profile Regional And International Institutions"
+      ]
+    ],
+    "count": 5,
+    "create_time": 1768542450,
+    "update_time": 1768542450,
+    "_id": "doc-cde80247d12e5d3d91def48f97c1b439"
+  },
+  "doc-52a9c5f1506ae9dbf3a1f1866bd28763": {
+    "relation_pairs": [
+      [
+        "100m Sprint Record",
+        "Carbon-Fiber Spikes"
+      ],
+      [
+        "Mitochondrial Cytochrome C Oxidase Subunit I (CO I) Gene",
+        "Second Internal Transcribed Spacer Region (ITS II) Gene"
+      ],
+      [
+        "Amino Acid Sequence",
+        "Nucleotide Sequences"
+      ],
+      [
+        "Mitochondrial Cytochrome C Oxidase Subunit I (CO I) Gene",
+        "Opisthorchis Viverrini"
+      ],
+      [
+        "Opisthorchis Viverrini",
+        "Second Internal Transcribed Spacer Region (ITS II) Gene"
+      ]
+    ],
+    "count": 5,
+    "create_time": 1768542498,
+    "update_time": 1768542498,
+    "_id": "doc-52a9c5f1506ae9dbf3a1f1866bd28763"
+  },
+  "doc-73c7f0c924eada8686a75bb4a92f7f4f": {
+    "relation_pairs": [
+      [
+        "Nexon Technologies",
+        "Quarterly Earnings"
+      ],
+      [
+        "Federal Reserve",
+        "Rate Hikes"
+      ],
+      [
+        "Crude Oil",
+        "Strong Demand"
+      ],
+      [
+        "Adult Parasites",
+        "Clonorchiasis"
+      ],
+      [
+        "Gold Futures",
+        "Market Selloff"
+      ],
+      [
+        "Clonorchiasis",
+        "Metacercariae"
+      ],
+      [
+        "Clonorchiasis",
+        "Parasite Eggs"
+      ],
+      [
+        "Federal Reserve",
+        "Financial Experts"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Market Selloff"
+      ],
+      [
+        "Investor Concerns",
+        "Rising Interest Rates"
+      ],
+      [
+        "Clonorchiasis",
+        "Multiplex PCR Approach"
+      ],
+      [
+        "Global Tech Index",
+        "Market Selloff"
+      ],
+      [
+        "Metacercariae",
+        "Opisthorchiasis"
+      ],
+      [
+        "Metacercariae",
+        "Multiplex PCR Approach"
+      ],
+      [
+        "Investor Concerns",
+        "Regulatory Uncertainty"
+      ],
+      [
+        "Market Selloff",
+        "Stock Markets"
+      ],
+      [
+        "Commodity Markets",
+        "Mixed Sentiment"
+      ],
+      [
+        "Adult Parasites",
+        "Patients"
+      ],
+      [
+        "Opisthorchiasis",
+        "Parasite Eggs"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Investor Confidence"
+      ],
+      [
+        "Infected Fishes",
+        "Metacercariae"
+      ],
+      [
+        "Investor Concerns",
+        "Market Selloff"
+      ],
+      [
+        "Market Selloff",
+        "Tech Giants"
+      ],
+      [
+        "Analysts",
+        "Market Selloff"
+      ],
+      [
+        "Multiplex PCR Approach",
+        "Opisthorchiasis"
+      ],
+      [
+        "Multiplex PCR Approach",
+        "Parasite Eggs"
+      ],
+      [
+        "Endemic Areas",
+        "Patients"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Market Stability"
+      ],
+      [
+        "Crude Oil",
+        "Supply Constraints"
+      ],
+      [
+        "Adult Parasites",
+        "Opisthorchiasis"
+      ],
+      [
+        "Global Tech Index",
+        "Nexon Technologies"
+      ],
+      [
+        "Oil Prices",
+        "Omega Energy"
+      ],
+      [
+        "Parasite Eggs",
+        "Patients"
+      ],
+      [
+        "Adult Parasites",
+        "Multiplex PCR Approach"
+      ],
+      [
+        "Gold Futures",
+        "Safe-Haven Assets"
+      ]
+    ],
+    "count": 35,
+    "create_time": 1768542588,
+    "update_time": 1768542588,
+    "_id": "doc-73c7f0c924eada8686a75bb4a92f7f4f"
+  },
+  "doc-f5e1f2dee82e2dc7f5380db27c0f1785": {
+    "relation_pairs": [
+      [
+        "Molecular Biological Methods",
+        "Polymerase Chain Reaction"
+      ],
+      [
+        "Metorchis Bilis",
+        "Molecular Biological Methods"
+      ],
+      [
+        "Polymerase Chain Reaction",
+        "Species Specific Primers"
+      ],
+      [
+        "OF Primers",
+        "Opisthorchis Felineus"
+      ],
+      [
+        "OF Primers",
+        "Species Specific Primers"
+      ],
+      [
+        "MB Primers",
+        "Metorchis Bilis"
+      ],
+      [
+        "Molecular Biological Methods",
+        "Opisthorchis Felineus"
+      ],
+      [
+        "MB Primers",
+        "Species Specific Primers"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1768542617,
+    "update_time": 1768542617,
+    "_id": "doc-f5e1f2dee82e2dc7f5380db27c0f1785"
+  },
+  "doc-8d75398e966dd76ff6a58656562d2c1a": {
+    "relation_pairs": [
+      [
+        "Light Infections",
+        "PCR Method"
+      ],
+      [
+        "First Month Of Infection",
+        "PCR Method"
+      ],
+      [
+        "Infected Groups",
+        "PCR Method"
+      ],
+      [
+        "Egg-Count Method",
+        "PCR Method"
+      ],
+      [
+        "PCR Method",
+        "Therapeutic Study"
+      ]
+    ],
+    "count": 5,
+    "create_time": 1768542667,
+    "update_time": 1768542667,
+    "_id": "doc-8d75398e966dd76ff6a58656562d2c1a"
+  },
+  "doc-2bf098bc854474022cb038b7b5f5356f": {
+    "relation_pairs": [
+      [
+        "China",
+        "Ecological Settings"
+      ],
+      [
+        "Ecological Settings",
+        "The Questionnaire"
+      ],
+      [
+        "National Schistosomiasis Control Programme",
+        "The Questionnaire"
+      ],
+      [
+        "3 Variables 'Yes/No' Model",
+        "The Questionnaire"
+      ],
+      [
+        "Individual Infection",
+        "The Questionnaire"
+      ],
+      [
+        "3 Variables 'Yes/No' Model",
+        "Individual Infection"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1768542709,
+    "update_time": 1768542709,
+    "_id": "doc-2bf098bc854474022cb038b7b5f5356f"
+  },
+  "doc-52c7d758a4d4a5daadf2e5a9de45e90d": {
+    "relation_pairs": [
+      [
+        "Biliary Tract Disease",
+        "Opisthorchis"
+      ],
+      [
+        "Infected Individuals",
+        "Liver Fluke Worm Burden"
+      ],
+      [
+        "Liver Fluke Worm Burden",
+        "Opisthorchis"
+      ],
+      [
+        "Biliary Tract Disease",
+        "Infected Individuals"
+      ]
+    ],
+    "count": 4,
+    "create_time": 1768542738,
+    "update_time": 1768542738,
+    "_id": "doc-52c7d758a4d4a5daadf2e5a9de45e90d"
+  },
+  "doc-8c1f01da684cea121e00156b38084b37": {
+    "relation_pairs": [
+      [
+        "Egg Counts",
+        "Six Groups"
+      ],
+      [
+        "KK Method",
+        "Six Groups"
+      ],
+      [
+        "FE Method",
+        "KK Method"
+      ],
+      [
+        "Extremely Light Infection",
+        "KK Method"
+      ],
+      [
+        "Extremely Light Infection",
+        "FE Method"
+      ]
+    ],
+    "count": 5,
+    "create_time": 1768542762,
+    "update_time": 1768542762,
+    "_id": "doc-8c1f01da684cea121e00156b38084b37"
+  },
+  "doc-6615ef70c6201f6336a9a253a7bf6756": {
+    "relation_pairs": [
+      [
+        "Intensity Of Infection",
+        "Raw Egg Counts"
+      ],
+      [
+        "Field Surveys",
+        "Stoll Dilution Method"
+      ],
+      [
+        "Intensity Of Infection",
+        "Stoll Dilution Method"
+      ],
+      [
+        "Modified Quick-Kato Technique",
+        "Replicability"
+      ],
+      [
+        "Intensity Of Infection",
+        "Modified Quick-Kato Technique"
+      ],
+      [
+        "Examiners",
+        "Stool Examinations"
+      ],
+      [
+        "Study Participants",
+        "Village In North-Eastern Thailand"
+      ],
+      [
+        "Modified Quick-Kato Technique",
+        "Opisthorchis Viverrini Infection"
+      ],
+      [
+        "Stool Specimens",
+        "Study Participants"
+      ],
+      [
+        "Modified Quick-Kato Technique",
+        "Stool Examinations"
+      ],
+      [
+        "Opisthorchis Viverrini Infection",
+        "Stoll Dilution Method"
+      ],
+      [
+        "Modified Quick-Kato Technique",
+        "Stoll Dilution Method"
+      ],
+      [
+        "Modified Quick-Kato Technique",
+        "Sensitivity"
+      ],
+      [
+        "Stoll Dilution Method",
+        "Stool Examinations"
+      ]
+    ],
+    "count": 14,
+    "create_time": 1768542802,
+    "update_time": 1768542802,
+    "_id": "doc-6615ef70c6201f6336a9a253a7bf6756"
+  },
+  "doc-26266f9f4f85bfd7deefa3f08d5859c6": {
+    "relation_pairs": [
+      [
+        "Disease Exposure To Human Beings",
+        "Human Beings"
+      ],
+      [
+        "Disease Exposure To Human Beings",
+        "Extraction Of Natural Resources"
+      ],
+      [
+        "This Work",
+        "Zoonotic Diseases"
+      ],
+      [
+        "Animal Production",
+        "Disease Exposure To Human Beings"
+      ],
+      [
+        "Antimicrobial Application",
+        "Disease Exposure To Human Beings"
+      ],
+      [
+        "Natural Pathogen Ecology",
+        "Zoonotic Diseases"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1768542834,
+    "update_time": 1768542834,
+    "_id": "doc-26266f9f4f85bfd7deefa3f08d5859c6"
+  },
+  "doc-38bffee3ddc748320c0cbfa9f30bb3ec": {
+    "relation_pairs": [
+      [
+        "Human Food Habits",
+        "O. Felineus"
+      ],
+      [
+        "EU",
+        "O. Felineus"
+      ]
+    ],
+    "count": 2,
+    "create_time": 1768542860,
+    "update_time": 1768542860,
+    "_id": "doc-38bffee3ddc748320c0cbfa9f30bb3ec"
+  },
+  "doc-238c2e1b073d66f94b56266ab745be34": {
+    "relation_pairs": [
+      [
+        "Nexon Technologies",
+        "Quarterly Earnings"
+      ],
+      [
+        "Stock Markets",
+        "Tech Giants"
+      ],
+      [
+        "Market Selloff",
+        "Regulatory Uncertainty"
+      ],
+      [
+        "1,727 Persons",
+        "Anhui Province"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Financial Experts"
+      ],
+      [
+        "Crude Oil Prices",
+        "Supply Constraints"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Overall Market Stability"
+      ],
+      [
+        "Anhui Province",
+        "China"
+      ],
+      [
+        "Real-time Polymerase Chain Reaction",
+        "Stool Samples"
+      ],
+      [
+        "2.1%",
+        "Omega Energy"
+      ],
+      [
+        "Crude Oil Prices",
+        "Strong Demand"
+      ],
+      [
+        "1,727 Persons",
+        "Study"
+      ],
+      [
+        "Federal Reserve",
+        "Potential Rate Hikes"
+      ],
+      [
+        "Market Selloff",
+        "Stock Markets"
+      ],
+      [
+        "1.5%",
+        "Gold Futures"
+      ],
+      [
+        "$2,080 Per Ounce",
+        "Gold Futures"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Investor Confidence"
+      ],
+      [
+        "$87.60 Per Barrel",
+        "Crude Oil Prices"
+      ],
+      [
+        "3.4%",
+        "Global Tech Index"
+      ],
+      [
+        "Market Selloff",
+        "Rising Interest Rates"
+      ],
+      [
+        "Indirect Hemagglutination Assay (IHA)",
+        "Seroprevalence"
+      ],
+      [
+        "Prevalence In Stool-Based Tests",
+        "Seroprevalence"
+      ],
+      [
+        "Omega Energy",
+        "Rising Oil Prices"
+      ],
+      [
+        "Real-time Polymerase Chain Reaction",
+        "Study"
+      ],
+      [
+        "7.8%",
+        "Nexon Technologies"
+      ],
+      [
+        "Gold Futures",
+        "Safe-Haven Assets"
+      ],
+      [
+        "Conventional Diagnostic Methods",
+        "Study"
+      ]
+    ],
+    "count": 27,
+    "create_time": 1768542924,
+    "update_time": 1768542924,
+    "_id": "doc-238c2e1b073d66f94b56266ab745be34"
+  },
+  "doc-9c16494a7ac3bbc4464e0d0259e38ec6": {
+    "relation_pairs": [
+      [
+        "CA",
+        "ELISA"
+      ],
+      [
+        "Conventional ELISA",
+        "ELISA"
+      ],
+      [
+        "Clonorchis Sinensis ESA",
+        "ELISA"
+      ],
+      [
+        "Conventional ELISA",
+        "Improvement Need"
+      ],
+      [
+        "100m Sprint Record",
+        "World Athletics Championship"
+      ],
+      [
+        "CA",
+        "Clonorchis Sinensis ESA"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1768542962,
+    "update_time": 1768542962,
+    "_id": "doc-9c16494a7ac3bbc4464e0d0259e38ec6"
+  },
+  "doc-b242c81237407e520d835a20e3cc5dc4": {
+    "relation_pairs": [
+      [
+        "89-kD Protein",
+        "Immunoblotting"
+      ],
+      [
+        "Noah Carter",
+        "World Athletics Championship"
+      ],
+      [
+        "Carbon-Fiber Spikes",
+        "Noah Carter"
+      ],
+      [
+        "100m Sprint Record",
+        "Noah Carter"
+      ],
+      [
+        "89-kD Protein",
+        "Patient Sera"
+      ],
+      [
+        "89-kD Protein",
+        "O. Viverrini"
+      ],
+      [
+        "Tokyo",
+        "World Athletics Championship"
+      ],
+      [
+        "16 kD Antigen",
+        "O. Viverrini"
+      ],
+      [
+        "89-kD Protein",
+        "Radioimmunoprecipitation"
+      ],
+      [
+        "Patient Groups",
+        "Patient Sera"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1768543009,
+    "update_time": 1768543009,
+    "_id": "doc-b242c81237407e520d835a20e3cc5dc4"
+  },
+  "doc-6b71e8e83ad910c83b7bde8736799d8e": {
+    "relation_pairs": [
+      [
+        "Diagnostic Dilemmas",
+        "Helminthology"
+      ],
+      [
+        "Diagnostic Dilemmas",
+        "Stage Of Control"
+      ],
+      [
+        "Opinion Piece",
+        "Research Needs"
+      ],
+      [
+        "Diagnostic Dilemmas",
+        "Opinion Piece"
+      ]
+    ],
+    "count": 4,
+    "create_time": 1768543025,
+    "update_time": 1768543025,
+    "_id": "doc-6b71e8e83ad910c83b7bde8736799d8e"
+  },
+  "doc-5b81d6f2dc280c4a251fe3d7c991c9d6": {
+    "relation_pairs": [
+      [
+        "Endemic Areas",
+        "HIFs"
+      ],
+      [
+        "Metacercaria",
+        "PCR-Restriction Fragment Length Polymorphism"
+      ],
+      [
+        "100m Sprint Record",
+        "Carbon-Fiber Spikes"
+      ],
+      [
+        "28S Ribosomal RNA Gene",
+        "PCR-Restriction Fragment Length Polymorphism"
+      ],
+      [
+        "Epidemiological Studies",
+        "PCR-Restriction Fragment Length Polymorphism"
+      ],
+      [
+        "MboII",
+        "PCR-Restriction Fragment Length Polymorphism"
+      ],
+      [
+        "100m Sprint Record",
+        "World Athletics Championship"
+      ],
+      [
+        "Endemic Areas",
+        "Epidemiological Studies"
+      ],
+      [
+        "Epidemiological Studies",
+        "HIFs"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1768543076,
+    "update_time": 1768543076,
+    "_id": "doc-5b81d6f2dc280c4a251fe3d7c991c9d6"
+  },
+  "doc-b11119067a2d2bb4bacfe766355b9408": {
+    "relation_pairs": [
+      [
+        "Results",
+        "Scientific Basis"
+      ],
+      [
+        "Kato-Katz Technique",
+        "Results"
+      ],
+      [
+        "Kato-Katz Technique",
+        "S. Japonicum Infection"
+      ],
+      [
+        "Community",
+        "S. Japonicum Infection"
+      ],
+      [
+        "Prevalence Underestimation",
+        "Results"
+      ],
+      [
+        "Mathematic Diagnostic Model",
+        "Scientific Basis"
+      ],
+      [
+        "100m Sprint Record",
+        "World Athletics Championship"
+      ],
+      [
+        "Prevalence Underestimation",
+        "S. Japonicum Infection"
+      ],
+      [
+        "Epidemic Situation",
+        "Results"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1768543126,
+    "update_time": 1768543126,
+    "_id": "doc-b11119067a2d2bb4bacfe766355b9408"
+  },
+  "doc-db9c5e541d976adda7f977a0e6632e65": {
+    "relation_pairs": [
+      [
+        "Adults",
+        "Children"
+      ],
+      [
+        "IgA Antibody",
+        "Soluble Egg Antigen"
+      ],
+      [
+        "24 Months After Treatment",
+        "Decline In Antibody Levels"
+      ],
+      [
+        "Decline In Antibody Levels",
+        "IgM Antibody"
+      ],
+      [
+        "IgM Antibody",
+        "Keyhole Limpet Hemocyanin"
+      ],
+      [
+        "Decline In Antibody Levels",
+        "IgA Antibody"
+      ],
+      [
+        "12 Months After Treatment",
+        "Decline In Antibody Levels"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1768543170,
+    "update_time": 1768543170,
+    "_id": "doc-db9c5e541d976adda7f977a0e6632e65"
+  },
+  "doc-ddfc63f65c50dee723137fd22953298f": {
+    "relation_pairs": [
+      [
+        "Fluke Eggs",
+        "Opisthorchid Eggs"
+      ],
+      [
+        "Fluke Eggs",
+        "Morphological Similarity"
+      ],
+      [
+        "Fluke Eggs",
+        "Flukes"
+      ],
+      [
+        "Fluke Eggs",
+        "Lecithodendrid Eggs"
+      ],
+      [
+        "Fluke Eggs",
+        "Identification"
+      ],
+      [
+        "Lecithodendrid Eggs",
+        "Opisthorchid Eggs"
+      ],
+      [
+        "Identification",
+        "Morphological Similarity"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1768543206,
+    "update_time": 1768543206,
+    "_id": "doc-ddfc63f65c50dee723137fd22953298f"
+  },
+  "doc-fe1dcb64ac7b7d66a76a6ee4e711f995": {
+    "relation_pairs": [
+      [
+        "C. Sinensis Infections",
+        "Real-Time PCR"
+      ],
+      [
+        "C. Sinensis",
+        "C. Sinensis Infections"
+      ],
+      [
+        "Real-Time PCR",
+        "This Study"
+      ]
+    ],
+    "count": 3,
+    "create_time": 1768543233,
+    "update_time": 1768543233,
+    "_id": "doc-fe1dcb64ac7b7d66a76a6ee4e711f995"
+  },
+  "doc-a6500245b9c6a3adbab9eff0d466b840": {
+    "relation_pairs": [
+      [
+        "Noah Carter",
+        "World Athletics Championship"
+      ],
+      [
+        "Conventional Methods",
+        "Eggs"
+      ],
+      [
+        "Fecal Real-Time PCR",
+        "Worm Burden"
+      ],
+      [
+        "Tokyo",
+        "World Athletics Championship"
+      ],
+      [
+        "Host",
+        "Worm Burden"
+      ],
+      [
+        "Conventional Methods",
+        "Fecal Real-Time PCR"
+      ],
+      [
+        "Clonorchiosis",
+        "Fecal Real-Time PCR"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1768543281,
+    "update_time": 1768543281,
+    "_id": "doc-a6500245b9c6a3adbab9eff0d466b840"
+  },
+  "doc-e78ffab293d85b4ebff1564e0a3f2c3c": {
+    "relation_pairs": [
+      [
+        "PCR Test",
+        "Parasitological Methods"
+      ],
+      [
+        "Human Faecal Samples",
+        "Opisthorchis Viverrini"
+      ],
+      [
+        "PCR Sensitivity",
+        "PCR Test"
+      ],
+      [
+        "Opisthorchis Viverrini",
+        "PCR Test"
+      ]
+    ],
+    "count": 4,
+    "create_time": 1768543305,
+    "update_time": 1768543305,
+    "_id": "doc-e78ffab293d85b4ebff1564e0a3f2c3c"
+  },
+  "doc-eba29f70e52c3514cfb16d8cf1c63f59": {
+    "relation_pairs": [
+      [
+        "IHA",
+        "Low Infection Intensity Areas"
+      ],
+      [
+        "Better Diagnostic Test",
+        "Low Infection Intensity Areas"
+      ],
+      [
+        "ELISA",
+        "Low Infection Intensity Areas"
+      ],
+      [
+        "Better Diagnostic Test",
+        "China"
+      ],
+      [
+        "Better Diagnostic Test",
+        "Field Situations"
+      ],
+      [
+        "ELISA",
+        "IHA"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1768543349,
+    "update_time": 1768543349,
+    "_id": "doc-eba29f70e52c3514cfb16d8cf1c63f59"
+  },
+  "doc-5de9a9ca2de0925c1a3c20cd63a2ec57": {
+    "relation_pairs": [
+      [
+        "ELISA",
+        "Meta-Analysis"
+      ],
+      [
+        "Diagnosis",
+        "ELISA"
+      ],
+      [
+        "Diagnosis",
+        "IHA"
+      ],
+      [
+        "IHA",
+        "Meta-Analysis"
+      ],
+      [
+        "Diagnostic Ability",
+        "ELISA"
+      ],
+      [
+        "Diagnosis",
+        "Schistosomiasis Japonica"
+      ],
+      [
+        "Diagnostic Ability",
+        "IHA"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1768543395,
+    "update_time": 1768543395,
+    "_id": "doc-5de9a9ca2de0925c1a3c20cd63a2ec57"
+  },
+  "doc-efb7dcbe9b74cd6f06fe06b4ed4b8da2": {
+    "relation_pairs": [
+      [
+        "Maximum Dilution",
+        "PST Sensitivity"
+      ],
+      [
+        "Maximum Dilution",
+        "Optimum Pool Size"
+      ],
+      [
+        "1:05 Dilution Ratio",
+        "Maximum Dilution"
+      ],
+      [
+        "90% Sensitivity Threshold",
+        "PST Sensitivity"
+      ],
+      [
+        "6.5 Gallons Pool Size Limit",
+        "Optimum Pool Size"
+      ]
+    ],
+    "count": 5,
+    "create_time": 1768543432,
+    "update_time": 1768543432,
+    "_id": "doc-efb7dcbe9b74cd6f06fe06b4ed4b8da2"
+  },
+  "doc-9deec6a368ba35e4d8ab94790e23b431": {
+    "relation_pairs": [
+      [
+        "Feasibility",
+        "Pooling Strategy"
+      ],
+      [
+        "Capacity",
+        "Pooling Strategy"
+      ],
+      [
+        "Pooling Strategy",
+        "Resources"
+      ],
+      [
+        "Carbon-Fiber Spikes",
+        "Noah Carter"
+      ],
+      [
+        "Low Prevalence",
+        "Pooling Strategy"
+      ],
+      [
+        "Tokyo",
+        "World Athletics Championship"
+      ],
+      [
+        "Enhanced Influenza Surveillance",
+        "Pooling Strategy"
+      ],
+      [
+        "Pooling Strategy",
+        "Surge Testing"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1768543462,
+    "update_time": 1768543462,
+    "_id": "doc-9deec6a368ba35e4d8ab94790e23b431"
+  },
+  "doc-c71b2b7d263cbd0f9713a997f17fdccd": {
+    "relation_pairs": [
+      [
+        "Clonorchiasis",
+        "Transmission Status Of Clonorchiasis"
+      ],
+      [
+        "C. Sinensis",
+        "Nested PCR Method"
+      ],
+      [
+        "Endemic Areas",
+        "Transmission Status Of Clonorchiasis"
+      ],
+      [
+        "Nested PCR Method",
+        "Transmission Status Of Clonorchiasis"
+      ],
+      [
+        "Nested PCR Method",
+        "Quarantine Of Fishery Products"
+      ],
+      [
+        "Fishery Products",
+        "Quarantine Of Fishery Products"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1768543491,
+    "update_time": 1768543491,
+    "_id": "doc-c71b2b7d263cbd0f9713a997f17fdccd"
+  },
+  "doc-756a1dc033c87aa1df4886cc248f2102": {
+    "relation_pairs": [
+      [
+        "Other Parasitic Eggs",
+        "PCR-Based Method"
+      ],
+      [
+        "PCR-Based Method",
+        "Small Intestinal Flukes"
+      ],
+      [
+        "DNA Probe Method",
+        "PCR-Based Method"
+      ],
+      [
+        "Hamsters",
+        "PCR-Based Method"
+      ],
+      [
+        "Opisthorchis Viverrini",
+        "PCR-Based Method"
+      ]
+    ],
+    "count": 5,
+    "create_time": 1768543517,
+    "update_time": 1768543517,
+    "_id": "doc-756a1dc033c87aa1df4886cc248f2102"
+  },
+  "doc-27cb4a5bb97ef3dfcbc5e83b0f45a8c4": {
+    "relation_pairs": [
+      [
+        "Nexon Technologies",
+        "Quarterly Earnings"
+      ],
+      [
+        "Stock Markets",
+        "Tech Giants"
+      ],
+      [
+        "Crude Oil",
+        "Strong Demand"
+      ],
+      [
+        "7.8% Decline",
+        "Nexon Technologies"
+      ],
+      [
+        "2080 Dollars Per Ounce",
+        "Gold Futures"
+      ],
+      [
+        "Gold Futures",
+        "Market Selloff"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Overall Market Stability"
+      ],
+      [
+        "Serological Diagnosis",
+        "Specific IgG Antibody"
+      ],
+      [
+        "IgG Antibody Levels",
+        "Treatment"
+      ],
+      [
+        "Federal Reserve",
+        "Financial Experts"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Market Selloff"
+      ],
+      [
+        "2.1% Gain",
+        "Omega Energy"
+      ],
+      [
+        "1.5% Rise",
+        "Gold Futures"
+      ],
+      [
+        "Investor Concerns",
+        "Rising Interest Rates"
+      ],
+      [
+        "Global Tech Index",
+        "Market Selloff"
+      ],
+      [
+        "IgG Antibody Levels",
+        "Seven Months After Treatment"
+      ],
+      [
+        "Federal Reserve",
+        "Potential Rate Hikes"
+      ],
+      [
+        "Investor Concerns",
+        "Regulatory Uncertainty"
+      ],
+      [
+        "Market Selloff",
+        "Stock Markets"
+      ],
+      [
+        "Commodity Markets",
+        "Mixed Sentiment"
+      ],
+      [
+        "7.8% Decline",
+        "Quarterly Earnings"
+      ],
+      [
+        "Lightly Infected Cases",
+        "Serological Diagnosis"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Investor Confidence"
+      ],
+      [
+        "Investor Concerns",
+        "Market Selloff"
+      ],
+      [
+        "IgG Antibody Levels",
+        "Thirteen Months After Treatment"
+      ],
+      [
+        "87.60 Dollars Per Barrel",
+        "Crude Oil"
+      ],
+      [
+        "3.4% Decline",
+        "Global Tech Index"
+      ],
+      [
+        "Analysts",
+        "Market Selloff"
+      ],
+      [
+        "Crude Oil",
+        "Supply Constraints"
+      ],
+      [
+        "Clonorchiasis",
+        "Serological Diagnosis"
+      ],
+      [
+        "Global Tech Index",
+        "Nexon Technologies"
+      ],
+      [
+        "Oil Prices",
+        "Omega Energy"
+      ],
+      [
+        "Investors",
+        "Safe-Haven Assets"
+      ],
+      [
+        "Lightly Infected Cases",
+        "Specific IgG Antibody"
+      ]
+    ],
+    "count": 34,
+    "create_time": 1768543597,
+    "update_time": 1768543597,
+    "_id": "doc-27cb4a5bb97ef3dfcbc5e83b0f45a8c4"
+  },
+  "doc-04ce53de96c9ce916467a7ca9f36d228": {
+    "relation_pairs": [
+      [
+        "100m Sprint Record",
+        "Noah Carter"
+      ],
+      [
+        "Carbon-Fiber Spikes",
+        "Noah Carter"
+      ],
+      [
+        "Day-To-Day Variation In Individual Egg Counts",
+        "Individual Egg Counts"
+      ],
+      [
+        "Day-To-Day Variation In Individual Egg Counts",
+        "Variance"
+      ],
+      [
+        "Mean",
+        "Variance"
+      ],
+      [
+        "Day-To-Day Variation In Individual Egg Counts",
+        "Negative Binomial Distribution"
+      ],
+      [
+        "Clustering Of Eggs",
+        "Stool"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1768543629,
+    "update_time": 1768543629,
+    "_id": "doc-04ce53de96c9ce916467a7ca9f36d228"
+  },
+  "doc-fd6f47c15d875994d5ea11165b04ac73": {
+    "relation_pairs": [
+      [
+        "Diagnostic Test",
+        "Field Situations"
+      ],
+      [
+        "High Priority",
+        "Search"
+      ],
+      [
+        "China",
+        "Field Situations"
+      ],
+      [
+        "Diagnostic Test",
+        "Search"
+      ]
+    ],
+    "count": 4,
+    "create_time": 1768543660,
+    "update_time": 1768543660,
+    "_id": "doc-fd6f47c15d875994d5ea11165b04ac73"
+  },
+  "doc-0024b8ddacb751e7c5dc5f8d0ea108eb": {
+    "relation_pairs": [
+      [
+        "Circumoval Precipitin Test",
+        "Control Individuals"
+      ],
+      [
+        "Disease Control Programmes",
+        "Enzyme-Linked Immunosorbent Assay"
+      ],
+      [
+        "Active Infection",
+        "Stool Examination"
+      ],
+      [
+        "Control Individuals",
+        "Serum Samples"
+      ],
+      [
+        "Active Infection",
+        "Anti-Worm Antibodies"
+      ],
+      [
+        "Patients Treated with Praziquantel",
+        "Praziquantel"
+      ],
+      [
+        "Control Individuals",
+        "Stool Examination"
+      ],
+      [
+        "Control Individuals",
+        "Enzyme-Linked Immunosorbent Assay"
+      ],
+      [
+        "Egg-Negative Individuals",
+        "Enzyme-Linked Immunosorbent Assay"
+      ],
+      [
+        "Enzyme-Linked Immunosorbent Assay",
+        "Individual Diagnosis"
+      ],
+      [
+        "Carbon-Fiber Spikes",
+        "Noah Carter"
+      ],
+      [
+        "Antigen Level",
+        "Praziquantel"
+      ],
+      [
+        "Antigen Level",
+        "Parasite Burden"
+      ],
+      [
+        "Enzyme-Linked Immunosorbent Assay",
+        "Schistosome Circulating Anodic Antigen"
+      ],
+      [
+        "100m Sprint Record",
+        "Noah Carter"
+      ],
+      [
+        "Patients with Schistosoma Japonicum Infection",
+        "The Philippines"
+      ],
+      [
+        "Egg-Excreting Patients",
+        "Schistosome Circulating Anodic Antigen"
+      ],
+      [
+        "Enzyme-Linked Immunosorbent Assay",
+        "Therapeutic Drug Monitoring"
+      ],
+      [
+        "Egg-Excreting Patients",
+        "Serum Samples"
+      ],
+      [
+        "Noah Carter",
+        "World Athletics Championship"
+      ],
+      [
+        "Egg-Excreting Patients",
+        "Schistosoma Japonicum"
+      ],
+      [
+        "Patients with Schistosoma Japonicum Infection",
+        "Schistosoma Japonicum"
+      ],
+      [
+        "Enzyme-Linked Immunosorbent Assay",
+        "Epidemiological Studies"
+      ],
+      [
+        "Tokyo",
+        "World Athletics Championship"
+      ],
+      [
+        "Individuals with Negative Stool Examination",
+        "Serum Samples"
+      ],
+      [
+        "Anti-Worm Antibodies",
+        "Egg-Negative Individuals"
+      ],
+      [
+        "Schistosome Circulating Anodic Antigen",
+        "Serum"
+      ]
+    ],
+    "count": 27,
+    "create_time": 1768543739,
+    "update_time": 1768543739,
+    "_id": "doc-0024b8ddacb751e7c5dc5f8d0ea108eb"
+  },
+  "doc-bf15a731bb0c2f9e6459d16f803c76e1": {
+    "relation_pairs": [
+      [
+        "Drug Development",
+        "PGK"
+      ],
+      [
+        "Clonorchis Sinensis",
+        "Energy Metabolism"
+      ],
+      [
+        "Clonorchis Sinensis",
+        "External Glucose"
+      ],
+      [
+        "PGK",
+        "Vaccine Development"
+      ],
+      [
+        "Glycolytic Enzyme",
+        "Parasites"
+      ],
+      [
+        "Glycolytic Enzyme",
+        "PGK"
+      ],
+      [
+        "Human Counterparts",
+        "PGK"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1768543784,
+    "update_time": 1768543784,
+    "_id": "doc-bf15a731bb0c2f9e6459d16f803c76e1"
+  },
+  "doc-266a1bec2edd1b8ae9f19cb689b9eeae": {
+    "relation_pairs": [
+      [
+        "Recombinant Cs26GST",
+        "Serodiagnostic Antigen"
+      ],
+      [
+        "Antigenic Cocktail",
+        "Recombinant Cs26GST"
+      ],
+      [
+        "Antigenic Cocktail",
+        "Other Antigens"
+      ],
+      [
+        "IgE Antibodies",
+        "Serodiagnostic Antigen"
+      ],
+      [
+        "IgG Antibodies",
+        "Serodiagnostic Antigen"
+      ],
+      [
+        "C. sinensis",
+        "IgG Antibodies"
+      ],
+      [
+        "C. sinensis",
+        "IgE Antibodies"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1768543815,
+    "update_time": 1768543815,
+    "_id": "doc-266a1bec2edd1b8ae9f19cb689b9eeae"
+  },
+  "doc-0fb7b6058a75fb52450283f2bfbbb406": {
+    "relation_pairs": [
+      [
+        "Human Clonorchiasis",
+        "Serodiagnosis"
+      ],
+      [
+        "Crude Worm Antigen",
+        "Recombinant CsLPAP"
+      ],
+      [
+        "ELISA",
+        "Recombinant CsLPAP"
+      ],
+      [
+        "Crude Worm Antigen",
+        "ELISA"
+      ],
+      [
+        "Recombinant CsLPAP",
+        "Serodiagnosis"
+      ]
+    ],
+    "count": 5,
+    "create_time": 1768543840,
+    "update_time": 1768543840,
+    "_id": "doc-0fb7b6058a75fb52450283f2bfbbb406"
+  },
+  "doc-28cc119818cb1eb25c7d4da79213927c": {
+    "relation_pairs": [
+      [
+        "Human Clonorchiasis",
+        "Serodiagnosis"
+      ],
+      [
+        "Rapid Serodiagnostic Test Kits",
+        "Serodiagnosis"
+      ],
+      [
+        "Multiple Antigen Mixes",
+        "Rapid Serodiagnostic Test Kits"
+      ]
+    ],
+    "count": 3,
+    "create_time": 1768543870,
+    "update_time": 1768543870,
+    "_id": "doc-28cc119818cb1eb25c7d4da79213927c"
+  },
+  "doc-f216879d0e44c8d03b9d04323edd5fbe": {
+    "relation_pairs": [
+      [
+        "O. Viverrini Ova",
+        "Stool Samples"
+      ],
+      [
+        "Conventional Parasitological Survey",
+        "O. Viverrini Ova"
+      ],
+      [
+        "Community Compliance",
+        "Serum Specimens"
+      ],
+      [
+        "Conventional Parasitological Survey",
+        "Sample Donors"
+      ],
+      [
+        "Conventional Parasitological Survey",
+        "Laboratory Technicians"
+      ],
+      [
+        "Conventional Parasitological Survey",
+        "Salt Purgation"
+      ],
+      [
+        "Conventional Parasitological Survey",
+        "Stool Samples"
+      ],
+      [
+        "Conventional Parasitological Survey",
+        "Treatment"
+      ],
+      [
+        "Conventional Parasitological Survey",
+        "Low Sensitivity"
+      ],
+      [
+        "Patient Compliance",
+        "Serum Specimens"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1768543921,
+    "update_time": 1768543921,
+    "_id": "doc-f216879d0e44c8d03b9d04323edd5fbe"
+  },
+  "doc-c1aaa2470e7464a09774dbb42c1287e6": {
+    "relation_pairs": [
+      [
+        "Nexon Technologies",
+        "Quarterly Earnings"
+      ],
+      [
+        "Federal Reserve",
+        "Rate Hikes"
+      ],
+      [
+        "Market Selloff",
+        "Regulatory Uncertainty"
+      ],
+      [
+        "Stone Pathogenesis",
+        "TaqMan-Based Real-Time PCR Assay"
+      ],
+      [
+        "Crude Oil",
+        "Strong Demand"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Financial Experts"
+      ],
+      [
+        "Gold Futures",
+        "Market Selloff"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Market Selloff"
+      ],
+      [
+        "Global Tech Index",
+        "Market Selloff"
+      ],
+      [
+        "TaqMan-Based Real-Time PCR Assay",
+        "Treatment"
+      ],
+      [
+        "Cholecystolithiasis",
+        "Stone Pathogenesis"
+      ],
+      [
+        "Market Selloff",
+        "Stock Markets"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Investor Confidence"
+      ],
+      [
+        "Clonorchis Sinensis DNA",
+        "Stone Samples"
+      ],
+      [
+        "Clonorchis Sinensis DNA",
+        "TaqMan-Based Real-Time PCR Assay"
+      ],
+      [
+        "Patients With Cholecystolithiasis",
+        "Stone Samples"
+      ],
+      [
+        "Patients With Cholecystolithiasis",
+        "TaqMan-Based Real-Time PCR Assay"
+      ],
+      [
+        "Clonorchis Sinensis DNA",
+        "Gallbladder Bile"
+      ],
+      [
+        "Interest Rates",
+        "Market Selloff"
+      ],
+      [
+        "Effective Diagnosis",
+        "TaqMan-Based Real-Time PCR Assay"
+      ],
+      [
+        "Gallbladder Bile",
+        "Patients With Cholecystolithiasis"
+      ],
+      [
+        "Market Selloff",
+        "Tech Giants"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Market Stability"
+      ],
+      [
+        "Clonorchis Sinensis",
+        "Clonorchis Sinensis DNA"
+      ],
+      [
+        "Crude Oil",
+        "Supply Constraints"
+      ],
+      [
+        "Relapse Prevention",
+        "TaqMan-Based Real-Time PCR Assay"
+      ],
+      [
+        "Financial Experts",
+        "Market Selloff"
+      ],
+      [
+        "Investors",
+        "Safe-Haven Assets"
+      ],
+      [
+        "Global Tech Index",
+        "Nexon Technologies"
+      ],
+      [
+        "Oil Prices",
+        "Omega Energy"
+      ],
+      [
+        "Cholecystolithiasis",
+        "Patients With Cholecystolithiasis"
+      ]
+    ],
+    "count": 31,
+    "create_time": 1768544015,
+    "update_time": 1768544015,
+    "_id": "doc-c1aaa2470e7464a09774dbb42c1287e6"
+  },
+  "doc-d6ae8a72ad367bbc353ce113b7956148": {
+    "relation_pairs": [
+      [
+        "Rapid Screening",
+        "Schistosomiasis"
+      ],
+      [
+        "CDIFA",
+        "Field Settings"
+      ],
+      [
+        "CDIFA",
+        "Health Workers"
+      ],
+      [
+        "CDIFA",
+        "Laboratory"
+      ],
+      [
+        "CDIFA",
+        "Rapid Screening"
+      ]
+    ],
+    "count": 5,
+    "create_time": 1768544056,
+    "update_time": 1768544056,
+    "_id": "doc-d6ae8a72ad367bbc353ce113b7956148"
+  },
+  "doc-e469ec2af24bbc690574902269eceff1": {
+    "relation_pairs": [
+      [
+        "Animals",
+        "Infection"
+      ],
+      [
+        "Danish Bilharziasis Laboratory Technique",
+        "Infection"
+      ],
+      [
+        "Infection",
+        "S. Japonicum"
+      ],
+      [
+        "Faecal Samples",
+        "Infection"
+      ],
+      [
+        "Danish Bilharziasis Laboratory Technique",
+        "Sensitivity Estimates"
+      ],
+      [
+        "Faecal Samples",
+        "Sensitivity Estimates"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1768544119,
+    "update_time": 1768544119,
+    "_id": "doc-e469ec2af24bbc690574902269eceff1"
+  },
+  "doc-28ab4980ebe707c8dec2df7bbc3b467d": {
+    "relation_pairs": [
+      [
+        "Successful Control",
+        "Transmission Index Determinations"
+      ],
+      [
+        "100m Sprint Record",
+        "Noah Carter"
+      ],
+      [
+        "Carbon-Fiber Spikes",
+        "Noah Carter"
+      ],
+      [
+        "Major Potential Contributors",
+        "Transmission Index Determinations"
+      ],
+      [
+        "Intensity of Infection",
+        "Successful Control"
+      ],
+      [
+        "Chinese Farm Districts",
+        "Schistosomiasis"
+      ],
+      [
+        "Present Study",
+        "Schistosomiasis"
+      ],
+      [
+        "Prevalence of Infection",
+        "Successful Control"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1768544191,
+    "update_time": 1768544191,
+    "_id": "doc-28ab4980ebe707c8dec2df7bbc3b467d"
+  },
+  "doc-b5b7e73380988eeb174ca3b789fd0d66": {
+    "relation_pairs": [
+      [
+        "H. taichui",
+        "Microscopy"
+      ],
+      [
+        "Microscopy",
+        "O. viverrini"
+      ],
+      [
+        "Copro-DNA Diagnosis",
+        "H. taichui"
+      ],
+      [
+        "Copro-DNA Diagnosis",
+        "O. viverrini"
+      ]
+    ],
+    "count": 4,
+    "create_time": 1768544216,
+    "update_time": 1768544216,
+    "_id": "doc-b5b7e73380988eeb174ca3b789fd0d66"
+  },
+  "doc-5176eb820492c017bae55bd3d9afdaaf": {
+    "relation_pairs": [
+      [
+        "Detection Method",
+        "Egg Shedding Variability"
+      ],
+      [
+        "Detection Method",
+        "Stool Sample Size"
+      ],
+      [
+        "Detection Method",
+        "Low-Transmission Areas"
+      ],
+      [
+        "PCR",
+        "Screening"
+      ],
+      [
+        "Diagnostics",
+        "PCR"
+      ],
+      [
+        "PCR",
+        "Schistosomiasis"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1768544243,
+    "update_time": 1768544243,
+    "_id": "doc-5176eb820492c017bae55bd3d9afdaaf"
+  },
+  "doc-80b97f9e924421f7263d201cc76d061b": {
+    "relation_pairs": [
+      [
+        "Nexon Technologies",
+        "Quarterly Earnings"
+      ],
+      [
+        "Federal Reserve",
+        "Rate Hikes"
+      ],
+      [
+        "Crude Oil",
+        "Strong Demand"
+      ],
+      [
+        "Federal Reserve",
+        "Financial Experts"
+      ],
+      [
+        "Investor Concerns",
+        "Rising Interest Rates"
+      ],
+      [
+        "Early Diagnosis",
+        "LAMP"
+      ],
+      [
+        "Investor Concerns",
+        "Regulatory Uncertainty"
+      ],
+      [
+        "Market Selloff",
+        "Stock Markets"
+      ],
+      [
+        "LAMP",
+        "S. Japonicum Infection"
+      ],
+      [
+        "Crude Oil",
+        "Oil Prices"
+      ],
+      [
+        "LAMP",
+        "Therapy Effectiveness Evaluation"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Investor Confidence"
+      ],
+      [
+        "Financial Experts",
+        "Rate Hikes"
+      ],
+      [
+        "Global Tech Index",
+        "Tech Giants"
+      ],
+      [
+        "Investor Concerns",
+        "Market Selloff"
+      ],
+      [
+        "Market Selloff",
+        "Tech Giants"
+      ],
+      [
+        "Analysts",
+        "Market Selloff"
+      ],
+      [
+        "Endemic Areas",
+        "Schistosomiasis Cases"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Market Stability"
+      ],
+      [
+        "Crude Oil",
+        "Supply Constraints"
+      ],
+      [
+        "Conventional PCR",
+        "LAMP"
+      ],
+      [
+        "Clinical Diagnosis",
+        "LAMP"
+      ],
+      [
+        "Oil Prices",
+        "Omega Energy"
+      ],
+      [
+        "Clinical Diagnosis",
+        "Schistosomiasis Cases"
+      ],
+      [
+        "Clinical Diagnosis",
+        "Conventional PCR"
+      ]
+    ],
+    "count": 25,
+    "create_time": 1768544342,
+    "update_time": 1768544342,
+    "_id": "doc-80b97f9e924421f7263d201cc76d061b"
+  },
+  "doc-a39b82deb8ec634e1ebee4a2a6faefeb": {
+    "relation_pairs": [
+      [
+        "100m Sprint Record",
+        "Noah Carter"
+      ],
+      [
+        "Infectious Disease Control",
+        "Multiparasitism"
+      ],
+      [
+        "Carbon-Fiber Spikes",
+        "Noah Carter"
+      ],
+      [
+        "Research Needs",
+        "The Review"
+      ],
+      [
+        "Multiparasitism",
+        "The Review"
+      ],
+      [
+        "Future Investigations",
+        "Research Needs"
+      ],
+      [
+        "Eastern Asia",
+        "Multiparasitism"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1768544391,
+    "update_time": 1768544391,
+    "_id": "doc-a39b82deb8ec634e1ebee4a2a6faefeb"
+  },
+  "doc-63a84e2aacf05868ad446ec5033e575c": {
+    "relation_pairs": [
+      [
+        "Hatching Test",
+        "Kato-Katz Technique"
+      ],
+      [
+        "Endemic Villages",
+        "Rural China"
+      ],
+      [
+        "Human Schistosoma Japonicum Infection",
+        "Indirect Hemagglutination Assay"
+      ],
+      [
+        "Hatching Test",
+        "Human Schistosoma Japonicum Infection"
+      ],
+      [
+        "Endemic Villages",
+        "Human Schistosoma Japonicum Infection"
+      ],
+      [
+        "Hatching Test",
+        "Indirect Hemagglutination Assay"
+      ],
+      [
+        "Indirect Hemagglutination Assay",
+        "Kato-Katz Technique"
+      ],
+      [
+        "Human Schistosoma Japonicum Infection",
+        "Kato-Katz Technique"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1768544430,
+    "update_time": 1768544430,
+    "_id": "doc-63a84e2aacf05868ad446ec5033e575c"
+  },
+  "doc-1c01c42b70e06dd04531af550345bc7d": {
+    "relation_pairs": [
+      [
+        "Epidemiological Studies",
+        "Techniques For Estimating Infection Intensity"
+      ],
+      [
+        "Northeast Thai Community",
+        "Opisthorchis Viverrini Infection"
+      ],
+      [
+        "Opisthorchis Viverrini Infection",
+        "Techniques For Estimating Infection Intensity"
+      ]
+    ],
+    "count": 3,
+    "create_time": 1768544452,
+    "update_time": 1768544452,
+    "_id": "doc-1c01c42b70e06dd04531af550345bc7d"
+  },
+  "doc-4e38bf3bf822086eb0e754ae3929ef24": {
+    "relation_pairs": [
+      [
+        "Nexon Technologies",
+        "Quarterly Earnings"
+      ],
+      [
+        "Federal Reserve",
+        "Rate Hikes"
+      ],
+      [
+        "Crude Oil",
+        "Strong Demand"
+      ],
+      [
+        "Commodity Markets",
+        "Crude Oil"
+      ],
+      [
+        "Gold Futures",
+        "Market Selloff"
+      ],
+      [
+        "Federal Reserve",
+        "Financial Experts"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Market Selloff"
+      ],
+      [
+        "Global Tech Index",
+        "Market Selloff"
+      ],
+      [
+        "Investor Concerns",
+        "Regulatory Uncertainty"
+      ],
+      [
+        "Market Selloff",
+        "Stock Markets"
+      ],
+      [
+        "Commodity Markets",
+        "Gold Futures"
+      ],
+      [
+        "Six Hundred And Eighty-One Residents",
+        "Sixteen Provinces"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Investor Confidence"
+      ],
+      [
+        "Parasitic Infection",
+        "Six Hundred And Eighty-One Residents"
+      ],
+      [
+        "Global Tech Index",
+        "Tech Giants"
+      ],
+      [
+        "Investor Concerns",
+        "Market Selloff"
+      ],
+      [
+        "Analysts",
+        "Market Selloff"
+      ],
+      [
+        "Interest Rates",
+        "Investor Concerns"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Market Stability"
+      ],
+      [
+        "Gold",
+        "Investors"
+      ],
+      [
+        "Crude Oil",
+        "Supply Constraints"
+      ],
+      [
+        "Northeast Thailand",
+        "Sixteen Provinces"
+      ],
+      [
+        "Opisthorchis Viverrini",
+        "Six Hundred And Eighty-One Residents"
+      ],
+      [
+        "Six Hundred And Eighty-One Residents",
+        "Taenia Spp."
+      ],
+      [
+        "Oil Prices",
+        "Omega Energy"
+      ],
+      [
+        "Global Tech Index",
+        "Nexon Technologies"
+      ],
+      [
+        "Northeast Thailand",
+        "Thailand"
+      ]
+    ],
+    "count": 27,
+    "create_time": 1768544522,
+    "update_time": 1768544522,
+    "_id": "doc-4e38bf3bf822086eb0e754ae3929ef24"
+  },
+  "doc-2eeaa3f96c5a6e0b0b9e3c585764f59a": {
+    "relation_pairs": [
+      [
+        "Douglas E. Moorhouse",
+        "Journal Article: Density-Dependent Fecundity Of Opisthorchis Viverrini In Humans, Based On Faecal Recovery Of Flukes"
+      ],
+      [
+        "01 March 1989",
+        "Journal Article: Density-Dependent Fecundity Of Opisthorchis Viverrini In Humans, Based On Faecal Recovery Of Flukes"
+      ],
+      [
+        "Department Of Parasitology, University Of Queensland",
+        "Roger J. Ramsay"
+      ],
+      [
+        "Journal Article: Density-Dependent Fecundity Of Opisthorchis Viverrini In Humans, Based On Faecal Recovery Of Flukes",
+        "Roger J. Ramsay"
+      ],
+      [
+        "Department Of Parasitology, University Of Queensland",
+        "Paul Prociv"
+      ],
+      [
+        "Journal Article: Density-Dependent Fecundity Of Opisthorchis Viverrini In Humans, Based On Faecal Recovery Of Flukes",
+        "Paiboon Sithithaworn"
+      ],
+      [
+        "Journal Article: Density-Dependent Fecundity Of Opisthorchis Viverrini In Humans, Based On Faecal Recovery Of Flukes",
+        "Paul Prociv"
+      ],
+      [
+        "Journal Article: Density-Dependent Fecundity Of Opisthorchis Viverrini In Humans, Based On Faecal Recovery Of Flukes",
+        "Transactions Of The Royal Society Of Tropical Medicine And Hygiene"
+      ],
+      [
+        "25 October 1988",
+        "Journal Article: Density-Dependent Fecundity Of Opisthorchis Viverrini In Humans, Based On Faecal Recovery Of Flukes"
+      ],
+      [
+        "14 October 1988",
+        "Journal Article: Density-Dependent Fecundity Of Opisthorchis Viverrini In Humans, Based On Faecal Recovery Of Flukes"
+      ],
+      [
+        "Chingchai Methaphat",
+        "Faculty Of Medicine, University Of Khan Kaen"
+      ],
+      [
+        "Journal Article: Density-Dependent Fecundity Of Opisthorchis Viverrini In Humans, Based On Faecal Recovery Of Flukes",
+        "Volume 83"
+      ],
+      [
+        "DOI: 10.1016/0035-9203(89)90662-7",
+        "Journal Article: Density-Dependent Fecundity Of Opisthorchis Viverrini In Humans, Based On Faecal Recovery Of Flukes"
+      ],
+      [
+        "24 May 1988",
+        "Journal Article: Density-Dependent Fecundity Of Opisthorchis Viverrini In Humans, Based On Faecal Recovery Of Flukes"
+      ],
+      [
+        "Chingchai Methaphat",
+        "Journal Article: Density-Dependent Fecundity Of Opisthorchis Viverrini In Humans, Based On Faecal Recovery Of Flukes"
+      ],
+      [
+        "Faecal Recovery",
+        "Journal Article: Density-Dependent Fecundity Of Opisthorchis Viverrini In Humans, Based On Faecal Recovery Of Flukes"
+      ],
+      [
+        "Faculty Of Medicine, University Of Khan Kaen",
+        "Paiboon Sithithaworn"
+      ],
+      [
+        "Faculty Of Medicine, University Of Khan Kaen",
+        "Thailand"
+      ],
+      [
+        "Issue 2",
+        "Journal Article: Density-Dependent Fecundity Of Opisthorchis Viverrini In Humans, Based On Faecal Recovery Of Flukes"
+      ],
+      [
+        "Department Of Parasitology, University Of Queensland",
+        "Douglas E. Moorhouse"
+      ],
+      [
+        "Density-Dependent Fecundity",
+        "Journal Article: Density-Dependent Fecundity Of Opisthorchis Viverrini In Humans, Based On Faecal Recovery Of Flukes"
+      ],
+      [
+        "Journal Article: Density-Dependent Fecundity Of Opisthorchis Viverrini In Humans, Based On Faecal Recovery Of Flukes",
+        "Opisthorchis Viverrini"
+      ],
+      [
+        "Brisbane, Australia",
+        "Department Of Parasitology, University Of Queensland"
+      ],
+      [
+        "Journal Article: Density-Dependent Fecundity Of Opisthorchis Viverrini In Humans, Based On Faecal Recovery Of Flukes",
+        "Pages 241–242"
+      ]
+    ],
+    "count": 24,
+    "create_time": 1768544577,
+    "update_time": 1768544577,
+    "_id": "doc-2eeaa3f96c5a6e0b0b9e3c585764f59a"
+  },
+  "doc-12418866e7efdfc1aa9ada51674dfa7e": {
+    "relation_pairs": [
+      [
+        "S. Japonicum Infection",
+        "Water Buffaloes"
+      ],
+      [
+        "Philippines",
+        "Role Of Bovines In Transmission"
+      ],
+      [
+        "Microscopic-Based Techniques",
+        "S. Japonicum Infection"
+      ],
+      [
+        "Humans",
+        "Transmission Of S. Japonicum"
+      ],
+      [
+        "Bovines",
+        "Transmission Of S. Japonicum"
+      ],
+      [
+        "Philippines",
+        "Water Buffaloes"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1768544643,
+    "update_time": 1768544643,
+    "_id": "doc-12418866e7efdfc1aa9ada51674dfa7e"
+  },
+  "doc-f2104b8e0d21de2e0132de3ac641c068": {
+    "relation_pairs": [
+      [
+        "Conserved Amino Acid Positions",
+        "Virulence Marker Amino Acids"
+      ],
+      [
+        "Genotypes",
+        "Tanzania"
+      ],
+      [
+        "Genotypes",
+        "Virulence Marker Amino Acids"
+      ]
+    ],
+    "count": 3,
+    "create_time": 1768545121,
+    "update_time": 1768545121,
+    "_id": "doc-f2104b8e0d21de2e0132de3ac641c068"
+  },
+  "doc-35ef2ee23e38be71b0f44770136eb019": {
+    "relation_pairs": [
+      [
+        "Inoculation",
+        "Point Mutations In BD-3tc"
+      ],
+      [
+        "Investigations",
+        "Point Mutations In BD-3tc"
+      ],
+      [
+        "Restriction Enzyme Analysis",
+        "Reverse Transcription-Polymerase Chain Reaction"
+      ],
+      [
+        "BD-3tc",
+        "Point Mutations In BD-3tc"
+      ],
+      [
+        "Codon For Amino Acid At Position 284",
+        "Wild-Type Phenotype (T284A)"
+      ],
+      [
+        "Codon For Amino Acid At Position 284",
+        "Investigations"
+      ],
+      [
+        "Codon For Amino Acid At Position 284",
+        "Inoculation"
+      ],
+      [
+        "100m Sprint Record",
+        "World Athletics Championship"
+      ],
+      [
+        "Carbon-Fiber Spikes",
+        "World Athletics Championship"
+      ],
+      [
+        "Point Mutations In BD-3tc",
+        "Reverse Transcription-Polymerase Chain Reaction"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1768545176,
+    "update_time": 1768545176,
+    "_id": "doc-35ef2ee23e38be71b0f44770136eb019"
+  },
+  "doc-551c0afcc16ec507cfd622e3dd25b94d": {
+    "relation_pairs": [
+      [
+        "Carbon-Fiber Spikes",
+        "Noah Carter"
+      ],
+      [
+        "VvIBDV",
+        "West Africa"
+      ],
+      [
+        "Sequence Diversity",
+        "West Africa"
+      ],
+      [
+        "Other Continents",
+        "VvIBDV"
+      ],
+      [
+        "Tokyo",
+        "World Athletics Championship"
+      ],
+      [
+        "Sequence Diversity",
+        "VvIBDV"
+      ],
+      [
+        "100m Sprint Record",
+        "World Athletics Championship"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1768545218,
+    "update_time": 1768545218,
+    "_id": "doc-551c0afcc16ec507cfd622e3dd25b94d"
+  },
+  "doc-06715645156ee2e6385d32dab857c8aa": {
+    "relation_pairs": [
+      [
+        "Severe IBD Outbreaks",
+        "Strain Cu-1wt"
+      ],
+      [
+        "Strain Cu-1wt",
+        "vv IBDV Strains"
+      ],
+      [
+        "Germany",
+        "Severe IBD Outbreaks"
+      ]
+    ],
+    "count": 3,
+    "create_time": 1768545249,
+    "update_time": 1768545249,
+    "_id": "doc-06715645156ee2e6385d32dab857c8aa"
+  },
+  "doc-1eb6c5b8d57b5442b02f683448b87f8b": {
+    "relation_pairs": [
+      [
+        "Morphogenesis Of The Virus",
+        "Recent Advances"
+      ],
+      [
+        "Recent Advances",
+        "Structure Of The Virus"
+      ],
+      [
+        "Molecular Biology Of The Virus",
+        "Recent Advances"
+      ],
+      [
+        "Recent Advances",
+        "Review"
+      ],
+      [
+        "Recent Advances",
+        "Virus"
+      ],
+      [
+        "IBD",
+        "Strategies For Vaccination"
+      ],
+      [
+        "Diagnostic Approaches",
+        "Recent Advances"
+      ],
+      [
+        "Recent Advances",
+        "Strategies For Vaccination"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1768545279,
+    "update_time": 1768545279,
+    "_id": "doc-1eb6c5b8d57b5442b02f683448b87f8b"
+  },
+  "doc-f2be54d0de85f52c65a2ac2f0b33cdf7": {
+    "relation_pairs": [
+      [
+        "Market Selloff",
+        "Nexon Technologies"
+      ],
+      [
+        "Federal Reserve",
+        "Rate Hikes"
+      ],
+      [
+        "Crude Oil",
+        "Strong Demand"
+      ],
+      [
+        "7.8% Decline",
+        "Nexon Technologies"
+      ],
+      [
+        "2.1% Gain",
+        "Rising Oil Prices"
+      ],
+      [
+        "Federal Reserve",
+        "Financial Experts"
+      ],
+      [
+        "2.1% Gain",
+        "Omega Energy"
+      ],
+      [
+        "1.5% Rise",
+        "Gold Futures"
+      ],
+      [
+        "Investor Concerns",
+        "Rising Interest Rates"
+      ],
+      [
+        "IBDV Situation in Australia",
+        "Variant IBDV Strains in Australia"
+      ],
+      [
+        "IBDV Situation in Australia",
+        "IBDV Situation in USA"
+      ],
+      [
+        "Investor Concerns",
+        "Regulatory Uncertainty"
+      ],
+      [
+        "Commodity Markets",
+        "Mixed Sentiment"
+      ],
+      [
+        "Market Selloff",
+        "Stock Markets"
+      ],
+      [
+        "7.8% Decline",
+        "Quarterly Earnings"
+      ],
+      [
+        "Classical IBDV Strains in Australia",
+        "IBDV Situation in Australia"
+      ],
+      [
+        "Prevalent IBDV Strains in USA",
+        "Variant IBDV Strains in Australia"
+      ],
+      [
+        "Classical IBDV Strains in Australia",
+        "Prevalent IBDV Strains in USA"
+      ],
+      [
+        "$2,080 Per Ounce",
+        "Gold Futures"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Investor Confidence"
+      ],
+      [
+        "Investor Concerns",
+        "Market Selloff"
+      ],
+      [
+        "3.4% Decline",
+        "Global Tech Index"
+      ],
+      [
+        "Market Selloff",
+        "Tech Giants"
+      ],
+      [
+        "Analysts",
+        "Market Selloff"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Market Stability"
+      ],
+      [
+        "Crude Oil",
+        "Supply Constraints"
+      ],
+      [
+        "Investors",
+        "Safe-Haven Assets"
+      ],
+      [
+        "$87.60 Per Barrel",
+        "Crude Oil"
+      ]
+    ],
+    "count": 28,
+    "create_time": 1768545370,
+    "update_time": 1768545370,
+    "_id": "doc-f2be54d0de85f52c65a2ac2f0b33cdf7"
+  },
+  "doc-3bd2462ffd61bc9c835e45ba219e87ca": {
+    "relation_pairs": [
+      [
+        "IBDV",
+        "Virulence"
+      ],
+      [
+        "Pathogenic-Phenotype Markers",
+        "VP2"
+      ],
+      [
+        "VP2",
+        "Virulent Strain"
+      ],
+      [
+        "IBDV",
+        "Pathogenic-Phenotype Markers"
+      ],
+      [
+        "Cell Tropism",
+        "VP2"
+      ],
+      [
+        "Chimeric Viruses",
+        "VP2"
+      ],
+      [
+        "VP2",
+        "Virulence"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1768545407,
+    "update_time": 1768545407,
+    "_id": "doc-3bd2462ffd61bc9c835e45ba219e87ca"
+  },
+  "doc-aa7404c5d6fd55b502ef5a756385cb02": {
+    "relation_pairs": [
+      [
+        "Viruses",
+        "VvIBDV Strains"
+      ],
+      [
+        "11 Strains",
+        "VvIBDV Strains"
+      ],
+      [
+        "11 Strains",
+        "Area"
+      ],
+      [
+        "100m Sprint Record",
+        "World Athletics Championship"
+      ],
+      [
+        "Area",
+        "Viruses"
+      ]
+    ],
+    "count": 5,
+    "create_time": 1768545443,
+    "update_time": 1768545443,
+    "_id": "doc-aa7404c5d6fd55b502ef5a756385cb02"
+  },
+  "doc-8e6a0c54d176872c8e2cb5eb5bad7b83": {
+    "relation_pairs": [
+      [
+        "Immunogenicity",
+        "Infectious Bursal Disease Vaccine"
+      ],
+      [
+        "Infectious Bursal Disease Vaccine",
+        "Safety"
+      ],
+      [
+        "Immunogenicity",
+        "Study"
+      ],
+      [
+        "100m Sprint Record",
+        "World Athletics Championship"
+      ],
+      [
+        "Infectious Bursal Disease",
+        "Infectious Bursal Disease Vaccine"
+      ],
+      [
+        "Safety",
+        "Study"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1768545477,
+    "update_time": 1768545477,
+    "_id": "doc-8e6a0c54d176872c8e2cb5eb5bad7b83"
+  },
+  "doc-c6e53de7a54e4357e1d8e18f10e13a45": {
+    "relation_pairs": [
+      [
+        "Noah Carter",
+        "World Athletics Championship"
+      ],
+      [
+        "Ethiopia",
+        "Infectious Bursal Disease"
+      ],
+      [
+        "100m Sprint Record",
+        "World Athletics Championship"
+      ],
+      [
+        "Infectious Bursal Disease",
+        "The Paper"
+      ]
+    ],
+    "count": 4,
+    "create_time": 1768545522,
+    "update_time": 1768545522,
+    "_id": "doc-c6e53de7a54e4357e1d8e18f10e13a45"
+  },
+  "doc-a8186003e4a2f1c5c45a7ce78924b931": {
+    "relation_pairs": [
+      [
+        "100m Sprint Record",
+        "Carbon-Fiber Spikes"
+      ],
+      [
+        "IBDV Strains",
+        "NMabs 6 And 8"
+      ],
+      [
+        "NMab3",
+        "Proline-Glycine Pair"
+      ],
+      [
+        "IBDV Strains",
+        "NMab3"
+      ],
+      [
+        "Amino-Acid Positions 318 To 324",
+        "Hydrophic Peak B"
+      ],
+      [
+        "100m Sprint Record",
+        "World Athletics Championship"
+      ],
+      [
+        "Amino-Acid Positions 318 To 324",
+        "NMabs 6 And 8"
+      ],
+      [
+        "Amino-Acid Positions 222–223",
+        "Hydrophilic Peak A"
+      ],
+      [
+        "Amino-Acid Positions 222–223",
+        "Proline-Glycine Pair"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1768545561,
+    "update_time": 1768545561,
+    "_id": "doc-a8186003e4a2f1c5c45a7ce78924b931"
+  },
+  "doc-e320eb60ba2a394cbd6f20782fd720f2": {
+    "relation_pairs": [
+      [
+        "VP5",
+        "Viral Proteins"
+      ],
+      [
+        "Mutation",
+        "Viral Proteins"
+      ],
+      [
+        "VP1",
+        "Viral Proteins"
+      ],
+      [
+        "CEF Adaptation",
+        "Mutation"
+      ],
+      [
+        "VP3",
+        "Viral Proteins"
+      ],
+      [
+        "CEF Adaptation",
+        "The Virus"
+      ],
+      [
+        "VP4",
+        "Viral Proteins"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1768545605,
+    "update_time": 1768545605,
+    "_id": "doc-e320eb60ba2a394cbd6f20782fd720f2"
+  },
+  "doc-4599272ede6e40aa9f9d1a217de66bd9": {
+    "relation_pairs": [
+      [
+        "B Lymphocytes",
+        "Bursa Of Fabricius"
+      ],
+      [
+        "B Lymphocytes",
+        "Strains Of Serotype I"
+      ],
+      [
+        "Bursa Of Fabricius",
+        "Young Chickens"
+      ],
+      [
+        "Chicken Embryonic Cells",
+        "Strains Of Serotype I"
+      ],
+      [
+        "Serotype I",
+        "Strains Of Serotype I"
+      ],
+      [
+        "Infectious Bursal Disease Virus",
+        "Serotype I"
+      ],
+      [
+        "Cell Culture",
+        "Chicken Embryonic Cells"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1768545641,
+    "update_time": 1768545641,
+    "_id": "doc-4599272ede6e40aa9f9d1a217de66bd9"
+  },
+  "doc-06cfb4b99aa7cb6702274020018749bc": {
+    "relation_pairs": [
+      [
+        "Attenuated Virulence Strains",
+        "Cro-Ig/02"
+      ],
+      [
+        "Classical Virulence Strains",
+        "Cro-Po/00"
+      ],
+      [
+        "Classical Virulence Strains",
+        "Cro-Ig/02"
+      ],
+      [
+        "Attenuated Virulence Strains",
+        "Cro-Po/00"
+      ],
+      [
+        "Attenuated Virulence Strains",
+        "Cro-Pa/98"
+      ],
+      [
+        "Cro-Po/00",
+        "Infectious Bursal Disease Virus"
+      ],
+      [
+        "100m Sprint Record",
+        "World Athletics Championship"
+      ],
+      [
+        "Cro-Pa/98",
+        "Infectious Bursal Disease Virus"
+      ],
+      [
+        "Cro-Ig/02",
+        "Infectious Bursal Disease Virus"
+      ],
+      [
+        "Classical Virulence Strains",
+        "Cro-Pa/98"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1768545713,
+    "update_time": 1768545713,
+    "_id": "doc-06cfb4b99aa7cb6702274020018749bc"
+  },
+  "doc-4e4c2f487ef3e789b171a61ce4d40045": {
+    "relation_pairs": [
+      [
+        "Del A",
+        "United States"
+      ],
+      [
+        "Samples",
+        "Vaccine-Related Viruses"
+      ],
+      [
+        "Del A",
+        "Field Strains"
+      ],
+      [
+        "100m Sprint Record",
+        "World Athletics Championship"
+      ],
+      [
+        "IBDV Strains SP_04_02",
+        "Spain"
+      ],
+      [
+        "Field Strains",
+        "IBDV Strains SP_04_02"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1768545745,
+    "update_time": 1768545745,
+    "_id": "doc-4e4c2f487ef3e789b171a61ce4d40045"
+  },
+  "doc-9f18b93b402af8ecc9cef1daa680ca6b": {
+    "relation_pairs": [
+      [
+        "Antigenic Differences",
+        "Virus-Neutralization Test"
+      ],
+      [
+        "Hyperimmune Guinea Pig Antisera",
+        "Virus-Neutralization Test"
+      ],
+      [
+        "Guinea Pig",
+        "Hyperimmune Guinea Pig Antisera"
+      ],
+      [
+        "Antigenic Differences",
+        "Serotype I Infectious Bursal Disease Viruses (IBDV)"
+      ],
+      [
+        "Homologous IBDV Strains",
+        "Hyperimmune Guinea Pig Antisera"
+      ],
+      [
+        "Heterologous IBDV Strains",
+        "Hyperimmune Guinea Pig Antisera"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1768545813,
+    "update_time": 1768545813,
+    "_id": "doc-9f18b93b402af8ecc9cef1daa680ca6b"
+  },
+  "doc-ea2da04d00d4221324c4629f8e1a325e": {
+    "relation_pairs": [
+      [
+        "Report",
+        "VvIBDV"
+      ],
+      [
+        "100m Sprint Record",
+        "Carbon-Fiber Spikes"
+      ],
+      [
+        "VP2 Protein",
+        "VwIBDVs"
+      ],
+      [
+        "Mortality",
+        "Mosaic Virus"
+      ],
+      [
+        "Very Virulent Phenotype",
+        "VvIBDV"
+      ],
+      [
+        "VP2 Protein",
+        "Very Virulent Phenotype"
+      ],
+      [
+        "Mosaic Virus",
+        "Young Chickens"
+      ],
+      [
+        "100m Sprint Record",
+        "World Athletics Championship"
+      ],
+      [
+        "Morbidity",
+        "Mosaic Virus"
+      ],
+      [
+        "Mosaic Virus",
+        "VP2 Protein"
+      ],
+      [
+        "Cloned cDNA",
+        "VvIBDV"
+      ]
+    ],
+    "count": 11,
+    "create_time": 1768545859,
+    "update_time": 1768545859,
+    "_id": "doc-ea2da04d00d4221324c4629f8e1a325e"
+  },
+  "doc-69cd5b1f9531427bf1a18d450a0d777d": {
+    "relation_pairs": [
+      [
+        "VP2 Mutations Q253H And A284T",
+        "Virulence Of IBDV"
+      ],
+      [
+        "Cell Tropism Of VvIBDV To CEF Cells",
+        "VP2 Mutations Q253H And A284T"
+      ],
+      [
+        "Dual Evidence",
+        "Rescued Strains"
+      ],
+      [
+        "CEF Cells",
+        "VvIBDV"
+      ],
+      [
+        "Cell Tropism Of VvIBDV To CEF Cells",
+        "Dual Evidence"
+      ],
+      [
+        "Dual Evidence",
+        "Natural Strains"
+      ],
+      [
+        "Cell Tropism Of VvIBDV To CEF Cells",
+        "Single Mutation"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1768545911,
+    "update_time": 1768545911,
+    "_id": "doc-69cd5b1f9531427bf1a18d450a0d777d"
+  },
+  "doc-c8e2acc4aa0c45fe99be141430849f21": {
+    "relation_pairs": [
+      [
+        "Challenge Infection",
+        "UK661-Q253H-A284T"
+      ],
+      [
+        "Morbidity",
+        "UK661-Q253H-A284T"
+      ],
+      [
+        "Infectious Bursal Disease Virus (IBDV)",
+        "Reverse Genetics Technology"
+      ],
+      [
+        "UK661",
+        "UK661rev"
+      ],
+      [
+        "Mortality",
+        "UK661rev"
+      ],
+      [
+        "Genomic Segment A",
+        "UK661"
+      ],
+      [
+        "Pathogenicity",
+        "UK661-Q253H-A284T"
+      ],
+      [
+        "A284T",
+        "UK661"
+      ],
+      [
+        "Genomic Segment B",
+        "UK661"
+      ],
+      [
+        "Amino Acids",
+        "Infectious Bursal Disease Virus (IBDV)"
+      ],
+      [
+        "Morbidity",
+        "UK661rev"
+      ],
+      [
+        "Q253H",
+        "Tissue Culture"
+      ],
+      [
+        "Site-Directed Mutagenesis",
+        "VP2"
+      ],
+      [
+        "Mortality",
+        "UK661"
+      ],
+      [
+        "Mortality",
+        "UK661-Q253H-A284T"
+      ],
+      [
+        "Pathogenicity",
+        "VP2"
+      ],
+      [
+        "Genomic Segment A",
+        "VP2"
+      ],
+      [
+        "A284T",
+        "VP2"
+      ],
+      [
+        "Infectious Bursal Disease Virus (IBDV)",
+        "Tissue Culture"
+      ],
+      [
+        "Tissue Culture",
+        "UK661-Q253H-A284T"
+      ],
+      [
+        "Chickens",
+        "UK661-Q253H-A284T"
+      ],
+      [
+        "Q253H",
+        "VP2"
+      ],
+      [
+        "Morbidity",
+        "UK661"
+      ]
+    ],
+    "count": 23,
+    "create_time": 1768545981,
+    "update_time": 1768545981,
+    "_id": "doc-c8e2acc4aa0c45fe99be141430849f21"
+  },
+  "doc-404043f51a6576291e3e3c075f163003": {
+    "relation_pairs": [
+      [
+        "IBDV Genome",
+        "Real-Time RT-PCR"
+      ],
+      [
+        "IBDV Infection",
+        "Molecular Diagnosis"
+      ],
+      [
+        "IBDV Genome",
+        "VP1 Gene"
+      ],
+      [
+        "IBDV Genome",
+        "VP2 Gene"
+      ],
+      [
+        "Melting-Curve Analysis",
+        "Molecular Diagnosis"
+      ],
+      [
+        "100m Sprint Record",
+        "World Athletics Championship"
+      ],
+      [
+        "Molecular Diagnosis",
+        "Real-Time RT-PCR"
+      ],
+      [
+        "IBDV Genome",
+        "VP4 Gene"
+      ],
+      [
+        "Melting-Curve Analysis",
+        "Real-Time RT-PCR"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1768546035,
+    "update_time": 1768546035,
+    "_id": "doc-404043f51a6576291e3e3c075f163003"
+  },
+  "doc-34781ce6d4dc2de83a1b66929df0a299": {
+    "relation_pairs": [
+      [
+        "Conventional RT-PCR",
+        "Two-Probe Assay"
+      ],
+      [
+        "Single-Nucleotide Mutations",
+        "Two-Probe Assay"
+      ],
+      [
+        "IBDV Strains",
+        "RFLP"
+      ],
+      [
+        "IBDV Strains",
+        "Single-Nucleotide Mutations"
+      ],
+      [
+        "This Laboratory",
+        "Two-Probe Assay"
+      ],
+      [
+        "Conventional RT-PCR",
+        "RFLP"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1768546078,
+    "update_time": 1768546078,
+    "_id": "doc-34781ce6d4dc2de83a1b66929df0a299"
+  },
+  "doc-6cd1108f1e79a8b6b9042081360f8b73": {
+    "relation_pairs": [
+      [
+        "Stock Markets",
+        "Tech Giants"
+      ],
+      [
+        "Crude Oil",
+        "Strong Demand"
+      ],
+      [
+        "Gold Futures",
+        "Market Selloff"
+      ],
+      [
+        "IBDV Vaccine Strains",
+        "Infectious Bursal Disease Virus (IBDV)"
+      ],
+      [
+        "Federal Reserve",
+        "Financial Experts"
+      ],
+      [
+        "2.1% Gain",
+        "Rising Oil Prices"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Market Selloff"
+      ],
+      [
+        "Antigenic Diversity",
+        "Quasispecies Cloud"
+      ],
+      [
+        "2.1% Gain",
+        "Omega Energy"
+      ],
+      [
+        "1.5% Rise",
+        "Gold Futures"
+      ],
+      [
+        "Investor Concerns",
+        "Rising Interest Rates"
+      ],
+      [
+        "Antigenic Changes",
+        "Genetic Differences"
+      ],
+      [
+        "Sequence Variability",
+        "Viral Genome Region"
+      ],
+      [
+        "Global Tech Index",
+        "Market Selloff"
+      ],
+      [
+        "Federal Reserve",
+        "Potential Rate Hikes"
+      ],
+      [
+        "Investor Concerns",
+        "Regulatory Uncertainty"
+      ],
+      [
+        "Market Selloff",
+        "Stock Markets"
+      ],
+      [
+        "Commodity Markets",
+        "Mixed Sentiment"
+      ],
+      [
+        "Antigenic Changes",
+        "VP2 Epitope"
+      ],
+      [
+        "Quasispecies",
+        "Wild-Type IBDV Strains"
+      ],
+      [
+        "Quasispecies",
+        "Real-Time RT-PCR"
+      ],
+      [
+        "7.8% Plummet",
+        "Nexon Technologies"
+      ],
+      [
+        "7.8% Plummet",
+        "Lower-than-expected Quarterly Earnings"
+      ],
+      [
+        "$2,080 Per Ounce",
+        "Gold Futures"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Investor Confidence"
+      ],
+      [
+        "Infectious Bursal Disease Virus (IBDV)",
+        "Wild-Type IBDV Strains"
+      ],
+      [
+        "Antigenic Changes",
+        "Antigenic Diversity"
+      ],
+      [
+        "Lower-than-expected Quarterly Earnings",
+        "Nexon Technologies"
+      ],
+      [
+        "Global Tech Index",
+        "Midday Trading"
+      ],
+      [
+        "Investor Concerns",
+        "Market Selloff"
+      ],
+      [
+        "3.4% Decline",
+        "Global Tech Index"
+      ],
+      [
+        "Analysts",
+        "Market Selloff"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Market Stability"
+      ],
+      [
+        "Crude Oil",
+        "Supply Constraints"
+      ],
+      [
+        "Quasispecies",
+        "Viral Genome Region"
+      ],
+      [
+        "Investors",
+        "Safe-Haven Assets"
+      ],
+      [
+        "IBDV Vaccine Strains",
+        "Quasispecies"
+      ],
+      [
+        "Global Tech Index",
+        "Nexon Technologies"
+      ],
+      [
+        "$87.60 Per Barrel",
+        "Crude Oil"
+      ],
+      [
+        "Gold Futures",
+        "Safe-Haven Assets"
+      ]
+    ],
+    "count": 40,
+    "create_time": 1768546169,
+    "update_time": 1768546169,
+    "_id": "doc-6cd1108f1e79a8b6b9042081360f8b73"
+  },
+  "doc-9089d650ae8e2a5eeaa48428ac790da9": {
+    "relation_pairs": [
+      [
+        "Fortaleza, Brazil",
+        "Wells"
+      ],
+      [
+        "Absolute Abundance",
+        "Variability"
+      ],
+      [
+        "Aquatic Fauna",
+        "Funnel Trap"
+      ],
+      [
+        "Funnel Trap",
+        "Variability"
+      ],
+      [
+        "Funnel Trap",
+        "Wells"
+      ]
+    ],
+    "count": 5,
+    "create_time": 1768546562,
+    "update_time": 1768546562,
+    "_id": "doc-9089d650ae8e2a5eeaa48428ac790da9"
+  },
+  "doc-c84b46b3aab74e9ac67c29d261c5a8f0": {
+    "relation_pairs": [
+      [
+        "Estimates Of Container Populations",
+        "Pupae"
+      ],
+      [
+        "Emergent Adult Populations",
+        "Immature Abundance"
+      ],
+      [
+        "Conversion Factors",
+        "Field Net Sampling Data"
+      ],
+      [
+        "Estimates Of Container Populations",
+        "III/IV Instars"
+      ]
+    ],
+    "count": 4,
+    "create_time": 1768546597,
+    "update_time": 1768546597,
+    "_id": "doc-c84b46b3aab74e9ac67c29d261c5a8f0"
+  },
+  "doc-3fc823099d0a6aa43191157d05a6250a": {
+    "relation_pairs": [
+      [
+        "Noah Carter",
+        "World Athletics Championship"
+      ],
+      [
+        "Challenges",
+        "Sampling"
+      ],
+      [
+        "Carbon-Fiber Spikes",
+        "Noah Carter"
+      ],
+      [
+        "100m Sprint Record",
+        "Noah Carter"
+      ],
+      [
+        "Challenges",
+        "Guidelines"
+      ],
+      [
+        "Challenges",
+        "Paper"
+      ],
+      [
+        "Challenges",
+        "Data Collection And Management"
+      ],
+      [
+        "Tokyo",
+        "World Athletics Championship"
+      ],
+      [
+        "Qualitative Research Design Process",
+        "Sampling"
+      ],
+      [
+        "Guidelines",
+        "Paper"
+      ],
+      [
+        "Paper",
+        "Qualitative Research Design Process"
+      ],
+      [
+        "Data Collection And Management",
+        "Qualitative Research Design Process"
+      ]
+    ],
+    "count": 12,
+    "create_time": 1768546632,
+    "update_time": 1768546632,
+    "_id": "doc-3fc823099d0a6aa43191157d05a6250a"
+  },
+  "doc-91d90edfe796b3337e22aba76624bfd4": {
+    "relation_pairs": [
+      [
+        "100m Sprint",
+        "Noah Carter"
+      ],
+      [
+        "Methods For Quantifying Dengue Endemicity",
+        "Resources"
+      ],
+      [
+        "100m Sprint",
+        "100m Sprint Record"
+      ],
+      [
+        "Endemicity Mapping",
+        "Methods For Quantifying Dengue Endemicity"
+      ],
+      [
+        "Dengue Endemicity",
+        "Methods For Quantifying Dengue Endemicity"
+      ],
+      [
+        "Dengue Prevention",
+        "Investment In Dengue Prevention"
+      ],
+      [
+        "100m Sprint",
+        "World Athletics Championship"
+      ],
+      [
+        "Investment In Dengue Prevention",
+        "Methods For Quantifying Dengue Endemicity"
+      ],
+      [
+        "Endemicity Mapping",
+        "Malaria"
+      ],
+      [
+        "Methods For Quantifying Dengue Endemicity",
+        "Progress"
+      ],
+      [
+        "Malaria",
+        "Parasite Prevalence Surveys"
+      ],
+      [
+        "Methods For Quantifying Dengue Endemicity",
+        "Parasite Prevalence Surveys"
+      ]
+    ],
+    "count": 12,
+    "create_time": 1768546670,
+    "update_time": 1768546670,
+    "_id": "doc-91d90edfe796b3337e22aba76624bfd4"
+  },
+  "doc-18dc28b186b69b4dc32fd45ae507f576": {
+    "relation_pairs": [
+      [
+        "Crude Oil",
+        "Strong Demand"
+      ],
+      [
+        "7.8% Decline",
+        "Nexon Technologies"
+      ],
+      [
+        "Children",
+        "Untreated Bed Nets"
+      ],
+      [
+        "Case-Control Study",
+        "Hypothesis"
+      ],
+      [
+        "Children",
+        "DHF"
+      ],
+      [
+        "Federal Reserve",
+        "Financial Experts"
+      ],
+      [
+        "2.1% Gain",
+        "Rising Oil Prices"
+      ],
+      [
+        "Bed Net Use",
+        "Vietnam"
+      ],
+      [
+        "2.1% Gain",
+        "Omega Energy"
+      ],
+      [
+        "1.5% Rise",
+        "Gold Futures"
+      ],
+      [
+        "Investor Concerns",
+        "Rising Interest Rates"
+      ],
+      [
+        "Federal Reserve",
+        "Potential Rate Hikes"
+      ],
+      [
+        "Investor Concerns",
+        "Regulatory Uncertainty"
+      ],
+      [
+        "Market Selloff",
+        "Stock Markets"
+      ],
+      [
+        "Commodity Markets",
+        "Mixed Sentiment"
+      ],
+      [
+        "7.8% Decline",
+        "Quarterly Earnings"
+      ],
+      [
+        "Bed Net Use",
+        "Children"
+      ],
+      [
+        "$2,080 Per Ounce",
+        "Gold Futures"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Investor Confidence"
+      ],
+      [
+        "Investor Concerns",
+        "Market Selloff"
+      ],
+      [
+        "3.4% Decline",
+        "Global Tech Index"
+      ],
+      [
+        "Market Selloff",
+        "Tech Giants"
+      ],
+      [
+        "Analysts",
+        "Market Selloff"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Market Stability"
+      ],
+      [
+        "Crude Oil",
+        "Supply Constraints"
+      ],
+      [
+        "Investors",
+        "Safe-Haven Assets"
+      ],
+      [
+        "Financial Experts",
+        "Potential Rate Hikes"
+      ],
+      [
+        "$87.60 Per Barrel",
+        "Crude Oil"
+      ],
+      [
+        "Gold Futures",
+        "Safe-Haven Assets"
+      ]
+    ],
+    "count": 29,
+    "create_time": 1768546743,
+    "update_time": 1768546743,
+    "_id": "doc-18dc28b186b69b4dc32fd45ae507f576"
+  },
+  "doc-f8f8704987d6b587388b0e5aace9ebef": {
+    "relation_pairs": [
+      [
+        "40 Communes",
+        "Elimination Of Aedes Aegypti"
+      ],
+      [
+        "Community-Based Mosquito Control",
+        "Program Maintenance Evaluation"
+      ],
+      [
+        "46 Communes",
+        "Northern Vietnam"
+      ],
+      [
+        "7 Years After Cessation",
+        "Program Maintenance Evaluation"
+      ],
+      [
+        "46 Communes",
+        "Central Vietnam"
+      ],
+      [
+        "4.5 Years After Cessation",
+        "Formal Project Activities"
+      ],
+      [
+        "Community-Based Mosquito Control",
+        "Elimination Of Aedes Aegypti"
+      ],
+      [
+        "4.5 Years After Cessation",
+        "Program Maintenance Evaluation"
+      ],
+      [
+        "40 Communes",
+        "46 Communes"
+      ],
+      [
+        "Community-Based Mosquito Control",
+        "Formal Project Activities"
+      ],
+      [
+        "7 Years After Cessation",
+        "Formal Project Activities"
+      ]
+    ],
+    "count": 11,
+    "create_time": 1768546786,
+    "update_time": 1768546786,
+    "_id": "doc-f8f8704987d6b587388b0e5aace9ebef"
+  },
+  "doc-8f00f059d4b0cec6970495ae9915f012": {
+    "relation_pairs": [
+      [
+        "Clinical Surveillance",
+        "These Data"
+      ],
+      [
+        "Clinical And Serological Comparison",
+        "Control Communes"
+      ],
+      [
+        "Clinical And Serological Comparison",
+        "Variable Dengue Attack Rates"
+      ],
+      [
+        "100m Sprint Record",
+        "World Athletics Championship"
+      ],
+      [
+        "Clinical Surveillance",
+        "Dengue Transmission"
+      ],
+      [
+        "Clinical And Serological Comparison",
+        "Untreated Communes"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1768546818,
+    "update_time": 1768546818,
+    "_id": "doc-8f00f059d4b0cec6970495ae9915f012"
+  },
+  "doc-4a14c114d2071ce1f1b2720e241751ff": {
+    "relation_pairs": [
+      [
+        "Carbon-Fiber Spikes",
+        "Noah Carter"
+      ],
+      [
+        "100m Sprint Record",
+        "Noah Carter"
+      ],
+      [
+        "Tokyo",
+        "World Athletics Championship"
+      ],
+      [
+        "100m Sprint Record",
+        "World Athletics Championship"
+      ],
+      [
+        "Mesocyclops Spp.",
+        "The Study"
+      ]
+    ],
+    "count": 5,
+    "create_time": 1768546849,
+    "update_time": 1768546849,
+    "_id": "doc-4a14c114d2071ce1f1b2720e241751ff"
+  },
+  "doc-ae4a9d25675889bda3f33444944f8774": {
+    "relation_pairs": [
+      [
+        "Disease",
+        "Vector Control"
+      ],
+      [
+        "Aedes Aegypti",
+        "Vector Control"
+      ],
+      [
+        "Authors",
+        "Vector Control"
+      ],
+      [
+        "Aedes Aegypti",
+        "Disease"
+      ]
+    ],
+    "count": 4,
+    "create_time": 1768546927,
+    "update_time": 1768546927,
+    "_id": "doc-ae4a9d25675889bda3f33444944f8774"
+  },
+  "doc-8f67b4135b81382ee1dfd5329983fe84": {
+    "relation_pairs": [
+      [
+        "Nexon Technologies",
+        "Quarterly Earnings"
+      ],
+      [
+        "Stock Markets",
+        "Tech Giants"
+      ],
+      [
+        "Federal Reserve",
+        "Rate Hikes"
+      ],
+      [
+        "Crude Oil",
+        "Strong Demand"
+      ],
+      [
+        "Commodity Markets",
+        "Crude Oil"
+      ],
+      [
+        "Gold Futures",
+        "Market Selloff"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Overall Market Stability"
+      ],
+      [
+        "Federal Reserve",
+        "Financial Experts"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Market Selloff"
+      ],
+      [
+        "Investor Concerns",
+        "Rising Interest Rates"
+      ],
+      [
+        "Global Tech Index",
+        "Market Selloff"
+      ],
+      [
+        "Aedes Aegypti",
+        "Dengue Viruses"
+      ],
+      [
+        "Investor Concerns",
+        "Regulatory Uncertainty"
+      ],
+      [
+        "Market Selloff",
+        "Stock Markets"
+      ],
+      [
+        "Aedes Aegypti",
+        "Large Cement Tanks"
+      ],
+      [
+        "Commodity Markets",
+        "Gold Futures"
+      ],
+      [
+        "Ceramic Jars",
+        "Mesocyclops Copepods"
+      ],
+      [
+        "Aedes Aegypti",
+        "Domestic Containers"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Investor Confidence"
+      ],
+      [
+        "Domestic Containers",
+        "Mesocyclops Copepods"
+      ],
+      [
+        "Aedes Aegypti",
+        "Wells"
+      ],
+      [
+        "Large Cement Tanks",
+        "Mesocyclops Copepods"
+      ],
+      [
+        "Global Tech Index",
+        "Tech Giants"
+      ],
+      [
+        "Aedes Aegypti",
+        "Biological Control"
+      ],
+      [
+        "Investor Concerns",
+        "Market Selloff"
+      ],
+      [
+        "Analysts",
+        "Market Selloff"
+      ],
+      [
+        "Crude Oil",
+        "Supply Constraints"
+      ],
+      [
+        "Biological Control",
+        "Northern Vietnam"
+      ],
+      [
+        "Aedes Aegypti",
+        "Ceramic Jars"
+      ],
+      [
+        "Omega Energy",
+        "Rising Oil Prices"
+      ],
+      [
+        "Global Tech Index",
+        "Nexon Technologies"
+      ],
+      [
+        "Biological Control",
+        "Mesocyclops Copepods"
+      ],
+      [
+        "Mesocyclops Copepods",
+        "Wells"
+      ],
+      [
+        "Gold Futures",
+        "Safe-Haven Assets"
+      ]
+    ],
+    "count": 34,
+    "create_time": 1768547026,
+    "update_time": 1768547026,
+    "_id": "doc-8f67b4135b81382ee1dfd5329983fe84"
+  },
+  "doc-2e8cd66fff17acf6faadb72107c15d0a": {
+    "relation_pairs": [
+      [
+        "Larval Collection",
+        "Used Tires"
+      ],
+      [
+        "Larval Collection",
+        "Vector Control Measures"
+      ],
+      [
+        "Current Distribution",
+        "Larval Collection"
+      ],
+      [
+        "Health Risks",
+        "Larval Collection"
+      ],
+      [
+        "Current Distribution",
+        "Dengue Mosquitoes"
+      ]
+    ],
+    "count": 5,
+    "create_time": 1768547060,
+    "update_time": 1768547060,
+    "_id": "doc-2e8cd66fff17acf6faadb72107c15d0a"
+  },
+  "doc-2060aef1d7efe9243e29ae313566ff31": {
+    "relation_pairs": [
+      [
+        "Peridomestic Space Spraying Of Insecticides",
+        "Wild Aedes Populations"
+      ],
+      [
+        "Evidence",
+        "Review"
+      ],
+      [
+        "Effectiveness",
+        "Evidence"
+      ],
+      [
+        "Dengue Transmission",
+        "Peridomestic Space Spraying Of Insecticides"
+      ],
+      [
+        "Insecticides",
+        "Peridomestic Space Spraying Of Insecticides"
+      ],
+      [
+        "Effectiveness",
+        "Peridomestic Space Spraying Of Insecticides"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1768547089,
+    "update_time": 1768547089,
+    "_id": "doc-2060aef1d7efe9243e29ae313566ff31"
+  },
+  "doc-14bf2b3ff318572b8bb68009996f252d": {
+    "relation_pairs": [
+      [
+        "Market Selloff",
+        "Regulatory Uncertainty"
+      ],
+      [
+        "Dengue",
+        "Fevers of Unknown Origin"
+      ],
+      [
+        "Federal Reserve",
+        "Rate Hikes"
+      ],
+      [
+        "Dengue",
+        "Infectious Diseases"
+      ],
+      [
+        "Immune Correlates of Protection",
+        "Vaccine Development"
+      ],
+      [
+        "Dengue Drugs",
+        "Industry"
+      ],
+      [
+        "DENFRAME",
+        "New Diagnostics Discovery"
+      ],
+      [
+        "Best Practices (Dengue Prevention and Control)",
+        "National Programmes for Dengue Prevention and Control"
+      ],
+      [
+        "Scientific Working Group",
+        "Wellcome Trust"
+      ],
+      [
+        "Pediatric Dengue Vaccine Initiative (PDVI)",
+        "Scientific Working Group"
+      ],
+      [
+        "Global Tech Index",
+        "Market Selloff"
+      ],
+      [
+        "Ecosystem-Based Interventions",
+        "Multicountry Studies"
+      ],
+      [
+        "Database (WHO/TDR)",
+        "Research Community"
+      ],
+      [
+        "Dengue Vaccine Discovery/Development",
+        "Initiative for Vaccine Research (IVR)"
+      ],
+      [
+        "Risk Indicators",
+        "Surveillance Systems"
+      ],
+      [
+        "Market Selloff",
+        "Stock Markets"
+      ],
+      [
+        "Dengue Vaccines",
+        "Industry"
+      ],
+      [
+        "Dengue Control",
+        "Surveillance Systems"
+      ],
+      [
+        "Multicountry Studies",
+        "Special Programme for Research and Training in Tropical Diseases (TDR/WHO)"
+      ],
+      [
+        "Drug Discovery",
+        "Drugable Targets"
+      ],
+      [
+        "Dengue Control",
+        "Dengue-Endemic Countries"
+      ],
+      [
+        "Initiative for Vaccine Research (IVR/WHO)",
+        "Scientific Working Group"
+      ],
+      [
+        "Case Management Training Programmes",
+        "Local Health Care System"
+      ],
+      [
+        "Case Fatality Reduction",
+        "Case Management Training Programmes"
+      ],
+      [
+        "Decision-Making (State of Emergency)",
+        "State of Emergency"
+      ],
+      [
+        "DENCO",
+        "New Diagnostics Discovery"
+      ],
+      [
+        "'Drugable' Targets in Dengue Virus",
+        "Anti-viral Drug Discovery for Dengue"
+      ],
+      [
+        "Dengue Control",
+        "Disease-Endemic Countries"
+      ],
+      [
+        "Dengue Research Programme",
+        "Donors"
+      ],
+      [
+        "Database (WHO/TDR)",
+        "TDR (Special Programme for Research and Training in Tropical Diseases)"
+      ],
+      [
+        "DENCO",
+        "Dengue Pathogenesis"
+      ],
+      [
+        "Dengue Morbidity and Mortality",
+        "Research Agenda (Dengue)"
+      ],
+      [
+        "Emerging Infectious Diseases",
+        "Global Travel"
+      ],
+      [
+        "Dengue Fever (DF)",
+        "International Health Regulations (WHA58.3)"
+      ],
+      [
+        "Dengue",
+        "Drug Discovery"
+      ],
+      [
+        "Dengue Scientific Working Group (SWG)",
+        "Geneva"
+      ],
+      [
+        "Special Programme for Research and Training in Tropical Diseases (TDR/WHO)",
+        "TDR-Supported Multicentre Studies"
+      ],
+      [
+        "Oil Prices",
+        "Omega Energy"
+      ],
+      [
+        "Global Tech Index",
+        "Nexon Technologies"
+      ],
+      [
+        "Clinical Development",
+        "Vaccine Candidates"
+      ],
+      [
+        "Dengue Net",
+        "WHO (World Health Organization)"
+      ],
+      [
+        "Nexon Technologies",
+        "Quarterly Earnings"
+      ],
+      [
+        "Information Technology (in Surveillance)",
+        "Surveillance Systems"
+      ],
+      [
+        "Crude Oil",
+        "Strong Demand"
+      ],
+      [
+        "Database (WHO/TDR)",
+        "Donors"
+      ],
+      [
+        "Dengue",
+        "Special Programme for Research and Training in Tropical Diseases (TDR/WHO)"
+      ],
+      [
+        "Drug Discovery",
+        "Viral Encoded Proteins"
+      ],
+      [
+        "Health Policy Research",
+        "Redress of Imbalance"
+      ],
+      [
+        "Burden of Disease (DALYs)",
+        "Dengue"
+      ],
+      [
+        "Member States",
+        "World Health Assembly Resolution (WHA55.17)"
+      ],
+      [
+        "Federal Reserve",
+        "Financial Experts"
+      ],
+      [
+        "Clinical Management",
+        "DENFRAME"
+      ],
+      [
+        "Dengue",
+        "Dengue Infections"
+      ],
+      [
+        "Africa",
+        "Dengue"
+      ],
+      [
+        "Costs of Illness",
+        "Dengue"
+      ],
+      [
+        "Dengue Control",
+        "Dengue Research Areas"
+      ],
+      [
+        "DENFRAME",
+        "Dengue Pathogenesis"
+      ],
+      [
+        "Clinical/Pathophysiological Studies",
+        "Philippines"
+      ],
+      [
+        "Global Public Health Community",
+        "Society"
+      ],
+      [
+        "Dengue Fever (DF)",
+        "International Public Health Emergency"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Investor Confidence"
+      ],
+      [
+        "Case Fatality",
+        "Existing Clinical Management Measures"
+      ],
+      [
+        "Dengue Diagnostics",
+        "Industry"
+      ],
+      [
+        "Demographic Changes",
+        "Emerging Infectious Diseases"
+      ],
+      [
+        "Bill and Melinda Gates Foundation",
+        "Innovative Vector Control Consortium (IVCC)"
+      ],
+      [
+        "Interest Rates",
+        "Market Selloff"
+      ],
+      [
+        "Mekong Delta Countries",
+        "WHO Regional Office for the Western Pacific"
+      ],
+      [
+        "Clinical/Pathophysiological Studies",
+        "Malaysia"
+      ],
+      [
+        "Global Public Health Community",
+        "Policy-Makers"
+      ],
+      [
+        "Efficacy Trials",
+        "Vaccine Development"
+      ],
+      [
+        "Efficacy Trials",
+        "Vaccine Candidates"
+      ],
+      [
+        "Dengue Diagnostics",
+        "TDR/PDVI International Laboratory Network"
+      ],
+      [
+        "Dengue Control",
+        "Funding Agencies"
+      ],
+      [
+        "Dengue Control",
+        "Society"
+      ],
+      [
+        "Meeting About Updating Global Dengue Guidelines",
+        "Scientific Working Group Meeting"
+      ],
+      [
+        "Clinical/Pathophysiological Studies",
+        "Wellcome Trust (UK)"
+      ],
+      [
+        "Gold Futures",
+        "Market Selloff"
+      ],
+      [
+        "Basic and Clinical Research",
+        "New Diagnostics Discovery"
+      ],
+      [
+        "Dengue Scientific Working Group (SWG)",
+        "Experts"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Market Selloff"
+      ],
+      [
+        "Dengue",
+        "Emerging Infectious Diseases"
+      ],
+      [
+        "Basic and Clinical Research",
+        "Clinical Management"
+      ],
+      [
+        "Dengue Control",
+        "Policy-Makers"
+      ],
+      [
+        "Clinical/Pathophysiological Studies",
+        "Vietnam"
+      ],
+      [
+        "Gold Futures",
+        "Investor"
+      ],
+      [
+        "Scientific Working Group",
+        "TDR (Special Programme for Research and Training in Tropical Diseases)"
+      ],
+      [
+        "IDRC (International Development Research Centre, Canada)",
+        "Multicountry Studies"
+      ],
+      [
+        "Emerging Infectious Diseases",
+        "Rapid Urbanization"
+      ],
+      [
+        "Initiative for Vaccine Research (IVR)",
+        "Pediatric Dengue Vaccine Initiative (PDVI)"
+      ],
+      [
+        "Biennial Course in Cuba",
+        "Cuba"
+      ],
+      [
+        "DENFRAME",
+        "Vector Control"
+      ],
+      [
+        "Genetically Transformed Vectors",
+        "Vector Control"
+      ],
+      [
+        "Data Triggers",
+        "Decision-Making (State of Emergency)"
+      ],
+      [
+        "WHO (World Health Organization)",
+        "World Health Assembly Resolution (WHA55.17)"
+      ],
+      [
+        "American Region",
+        "Strategy for Integrated Dengue Management in the American Region"
+      ],
+      [
+        "Anti-Dengue Drugs",
+        "Dengue"
+      ],
+      [
+        "Geneva",
+        "Scientific Working Group Meeting"
+      ],
+      [
+        "Dengue",
+        "Vector Control"
+      ],
+      [
+        "Clinical/Pathophysiological Studies",
+        "Thailand"
+      ],
+      [
+        "Dengue Pathogenesis Understanding",
+        "Dengue Research Areas"
+      ],
+      [
+        "Emerging Infectious Diseases",
+        "Environmental Change"
+      ],
+      [
+        "Crude Oil",
+        "Supply Constraints"
+      ],
+      [
+        "Asian Development Bank",
+        "Mekong Delta Countries"
+      ],
+      [
+        "Bangkok Children's Hospital",
+        "Clinical Management Course in Bangkok Children's Hospital"
+      ],
+      [
+        "Low Allocation of Resources",
+        "Political Priority for Dengue"
+      ],
+      [
+        "Negative Socio-economic Impact",
+        "Research Agenda (Dengue)"
+      ],
+      [
+        "DENCO",
+        "Vector Control"
+      ],
+      [
+        "Dengue Research Agenda",
+        "Dengue Scientific Working Group (SWG)"
+      ],
+      [
+        "DENFRAME",
+        "European Commission"
+      ],
+      [
+        "Dengue Control",
+        "Global Public Health Community"
+      ],
+      [
+        "TDR-Supported Multicentre Studies",
+        "Targeted Vector Interventions"
+      ],
+      [
+        "Aedes Genome",
+        "Data"
+      ],
+      [
+        "October 2 to 4, 2006",
+        "Scientific Working Group Meeting"
+      ],
+      [
+        "Basic and Clinical Research",
+        "Dengue Pathogenesis"
+      ],
+      [
+        "Dengue Vector (Aedes Mosquito)",
+        "Ecosystem-Based Interventions"
+      ],
+      [
+        "Funding Agencies",
+        "Global Public Health Community"
+      ],
+      [
+        "Dengue Research Areas",
+        "Policy-Makers"
+      ],
+      [
+        "Investor",
+        "Safe-Haven Assets"
+      ],
+      [
+        "Industry",
+        "Insecticide Formulations"
+      ],
+      [
+        "AFRIMS (Armed Forces Research Institute of Medical Science, Bangkok)",
+        "Clinical/Pathophysiological Studies"
+      ],
+      [
+        "Rational Drug, Diagnostics, and Vaccine Design",
+        "Viral Encoded Proteins"
+      ],
+      [
+        "Dengue",
+        "High Priority (Dengue)"
+      ],
+      [
+        "DENCO",
+        "European Commission"
+      ],
+      [
+        "Dengue Transmission",
+        "Existing Vector Control Measures"
+      ],
+      [
+        "Dengue",
+        "Low Allocation of Resources (Prevention and Control)"
+      ],
+      [
+        "Research Agenda (Dengue)",
+        "Scientific Working Group"
+      ],
+      [
+        "Commodity Markets",
+        "Market Sentiment"
+      ],
+      [
+        "Global Tech Index",
+        "Midday Trading"
+      ],
+      [
+        "Basic and Clinical Research",
+        "Drug Discovery"
+      ],
+      [
+        "Dengue Scientific Working Group (SWG)",
+        "October 2006 Meeting"
+      ],
+      [
+        "Dengue",
+        "Vector-Borne Disease"
+      ],
+      [
+        "Market Selloff",
+        "Tech Giants"
+      ],
+      [
+        "Dengue",
+        "Disease Incidence and Severity"
+      ],
+      [
+        "Dengue Hemorrhagic Fever (DHF)",
+        "WHO (World Health Organization)"
+      ],
+      [
+        "Emerging Infectious Diseases",
+        "Tropical World"
+      ],
+      [
+        "Federal Reserve Policy Announcement",
+        "Market Stability"
+      ],
+      [
+        "Bill and Melinda Gates Foundation",
+        "Pediatric Dengue Vaccine Initiative (PDVI)"
+      ],
+      [
+        "Clinical Management",
+        "DENCO"
+      ],
+      [
+        "Initiative for Vaccine Research (IVR)",
+        "WHO (World Health Organization)"
+      ],
+      [
+        "Dengue Fever (DF)",
+        "WHO (World Health Organization)"
+      ],
+      [
+        "Dengue",
+        "Vaccine Development"
+      ],
+      [
+        "Dengue",
+        "Vaccine Candidates"
+      ],
+      [
+        "Dengue Research Programme",
+        "Research Community"
+      ],
+      [
+        "Department of Neglected Tropical Diseases (NTD/WHO)",
+        "Meeting About Updating Global Dengue Guidelines"
+      ]
+    ],
+    "count": 144,
+    "create_time": 1768547225,
+    "update_time": 1768547225,
+    "_id": "doc-14bf2b3ff318572b8bb68009996f252d"
+  },
+  "doc-d10ecedf5a47ee11598a143f76b0f400": {
+    "relation_pairs": [
+      [
+        "Control Method",
+        "Field Trials"
+      ],
+      [
+        "Control Method",
+        "M. Longisetus"
+      ],
+      [
+        "Field Trials",
+        "Rural Villages"
+      ],
+      [
+        "Field Trials",
+        "M. Longisetus"
+      ],
+      [
+        "Ceará",
+        "Rural Villages"
+      ],
+      [
+        "Ae.",
+        "Control Method"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1768547261,
+    "update_time": 1768547261,
+    "_id": "doc-d10ecedf5a47ee11598a143f76b0f400"
+  },
+  "doc-defa4dbd529a4663ae47a157c6019fd5": {
+    "relation_pairs": [
+      [
+        "Breteau Index",
+        "Infestation Indices"
+      ],
+      [
+        "New Orleans, LA",
+        "Substandard Residential Area"
+      ],
+      [
+        "100m Sprint Record",
+        "Noah Carter"
+      ],
+      [
+        "Block Index",
+        "Infestation Indices"
+      ],
+      [
+        "Carbon-Fiber Spikes",
+        "Noah Carter"
+      ],
+      [
+        "Aedes Aegypti (L.)",
+        "Containers"
+      ],
+      [
+        "House Index",
+        "Infestation Indices"
+      ],
+      [
+        "Infestation Indices",
+        "Receptacle Index"
+      ],
+      [
+        "Containers",
+        "Survey"
+      ],
+      [
+        "September And October 1979",
+        "Survey"
+      ],
+      [
+        "Aedes Aegypti (L.)",
+        "Survey"
+      ],
+      [
+        "100m Sprint Record",
+        "World Athletics Championship"
+      ],
+      [
+        "New Orleans, LA",
+        "Survey"
+      ],
+      [
+        "Substandard Residential Area",
+        "Survey"
+      ],
+      [
+        "Infestation Indices",
+        "Larval Density Index"
+      ],
+      [
+        "Infestation Indices",
+        "Survey"
+      ]
+    ],
+    "count": 16,
+    "create_time": 1768547320,
+    "update_time": 1768547320,
+    "_id": "doc-defa4dbd529a4663ae47a157c6019fd5"
+  },
+  "doc-034ac30d08da304503f5a8c31d4755fb": {
+    "relation_pairs": [
+      [
+        "Ae.",
+        "Infestation"
+      ],
+      [
+        "Infestation",
+        "Risk Factor"
+      ],
+      [
+        "Household Water Storage Container Availability",
+        "Risk Factor"
+      ]
+    ],
+    "count": 3,
+    "create_time": 1768547356,
+    "update_time": 1768547356,
+    "_id": "doc-034ac30d08da304503f5a8c31d4755fb"
+  },
+  "doc-2d650633543735b086887c85b50b0bb0": {
+    "relation_pairs": [
+      [
+        "DF/DHF Prevention Practices",
+        "The Community"
+      ],
+      [
+        "Community Health Volunteers",
+        "DF/DHF Prevention Practices"
+      ],
+      [
+        "Ae.",
+        "Community Health Volunteers"
+      ]
+    ],
+    "count": 3,
+    "create_time": 1768547469,
+    "update_time": 1768547469,
+    "_id": "doc-2d650633543735b086887c85b50b0bb0"
+  },
+  "doc-155e703201f0d545bdedc2599eaf52a4": {
+    "relation_pairs": [
+      [
+        "Community-Based Program",
+        "This Study"
+      ],
+      [
+        "Carbon-Fiber Spikes",
+        "Noah Carter"
+      ],
+      [
+        "Community-Based Program",
+        "Local Predacious Copepods"
+      ],
+      [
+        "Community-Based Program",
+        "Dengue Control"
+      ],
+      [
+        "Local Predacious Copepods",
+        "Mesocyclops"
+      ],
+      [
+        "Community Level",
+        "Community-Based Program"
+      ],
+      [
+        "Post-Project Vigilance",
+        "Reinfestation"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1768547535,
+    "update_time": 1768547535,
+    "_id": "doc-155e703201f0d545bdedc2599eaf52a4"
+  }
+}
